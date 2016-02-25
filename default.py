@@ -1616,7 +1616,9 @@ def addCommunityCats():
 	if sourceFilter=="":
 		addDir('My Channels' ,'My Channels' ,15,addonArt+'/mychannels.png', False,isItFolder=True)		#name,url,mode,icon
 		addDir('By Sources' ,'By Sources' ,25,addonArt+'/bysource.png', False,isItFolder=True)		#name,url,mode,icon
-		
+	#	liz=xbmcgui.ListItem('M3u8/Lists',thumbnailImage= "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSK9dpssyX3V9k7BmCg6IrUswygdJ3Qdb4ZIUyQNs22gd9YGXNPQA",iconImage="DefaultFolder.png")
+	#	uurl="plugin://plugin.video.live.streamspro/?fanart=C%3a%5cUsers%5cshani%5cAppData%5cRoaming%5cXBMC%5caddons%5cplugin.video.live.streams%5cfanart.jpg&mode=1&name=dddddd&url=https%3a%2f%2fraw.githubusercontent.com%2fallouch89%2fShaniXBMCdatabase%2fmaster%2fxmllist.xml"
+	#	xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]), listitem=liz,url=uurl,isFolder=True)
 	else:
 		sources=getSourceList()
 		source = sources[sourceFilter]
