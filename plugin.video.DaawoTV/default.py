@@ -363,7 +363,7 @@ def RefreshResources(auto=False, fNameOnly=None):
 		ret = pDialog.create('XBMC', 'Daily Auto loading Fetching resources...')
 	else:
 		ret = pDialog.create('XBMC', 'Fetching resources...')
-	baseUrlForDownload='https://raw.githubusercontent.com/xamarcade/DaawoTV/master/plugin.video.DaawoTV/resources/community'
+	baseUrlForDownload='https://raw.githubusercontent.com/xamarcade/DaawoTV/master/plugin.video.DaawoTV/resources/community/'
 	Fromurl=baseUrlForDownload+'Resources.xml'
 	req = urllib2.Request(Fromurl)
 	req.add_header('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36')
