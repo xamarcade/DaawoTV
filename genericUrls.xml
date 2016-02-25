@@ -1,0 +1,4993 @@
+<streamingInfos>
+
+<!-- Somalian Channels Start -->
+
+<streaminginfo>
+	<cname>Africa TV4</cname>
+	<item>
+	<title>Low</title>		
+	<link>http://africatv.live.net.sa:1935/live/africatv4/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dalmar TV</cname>
+	<item><title>Youtube - High</title>
+	<link>plugin://plugin.video.youtube/play/?video_id=Yz5j2-z8hs8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Djibouti</cname>
+	<item>
+    <title>Low</title>
+    <link>http://www.axadledirect.com:1936/19/stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>HCTV</cname>
+	<item>
+	<title>Low</title>
+	<link>http://162.212.176.83:8080/hctvgermany.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>HCTV</cname>
+	<item>
+	<title>HLS_Stream</title>
+	<link>http://162.212.176.83:8080/hctvgermany.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>JLTV</cname>
+	<item>
+    <title>Low</title>
+	<link>http://cdn02.iqbroadcast.tv/iqb/smil:1cdd6bc995b2c46055a87cbca2ba306e.smil/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Kalsan Tv</cname>
+	<item>
+	<title>Low</title>
+	<link>http://www.axadledirect.com:1936/42/stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Kalsan Tv</cname>
+	<item>
+	<title>HLS_Stream</title>
+	<link>http://cdn01.iqbroadcast.tv:8081/g1/kalsan300/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>SBC</cname>
+	<item>
+	<title>SBC Livestream</title>
+	<link>http://cdn01.iqbroadcast.tv:8081/g1/sbscvt1206/playlist.m3u8</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>SBTV</cname>
+	<item>
+	<title>ustream</title>
+	<link>$doregex[get-link]</link>
+		<regex>
+		<name>get-link</name>
+		<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18624946/streams/live/playlist.m3u8')</expres>
+		<page></page>
+		</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>SLNTV</cname>
+	<item>
+	<title>Axadle: Low</title>
+	<link>http://www.axadledirect.com:1936/16/stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>SNTV</cname>
+	<item>
+	<title>Axadledirect - Low</title>
+	<link>http://www.axadledirect.com:1936/13/stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Somali Cable</cname>
+	<item>
+	<title>Med</title>
+	<link>http://cdn01.iqbroadcast.tv:8081/g1/somcblehb9/playlist.m3u8</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>Star TV</cname>
+	<item>
+	<title>Low</title>		
+	<link>http://cdn01.iqbroadcast.tv:8081/startv/hb9wp/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<!--
+<streaminginfo>
+     <cname>Royal TV</cname>
+	 <item>
+<title>Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.tvroyal.com/</page>
+</regex>
+</item>
+</streaminginfo>
+
+-->
+<!--
+<streaminginfo>
+	<cname>Royal TV</cname>
+	<item>
+	<title>Official</title>
+	<link>$doregex[get-url]</link>
+	<regex>
+	<name>get-url</name>
+	<expres>".nim.*"</expres>
+	<page>http://cdn01.iqbroadcast.tv:8081/g1/6ryltv/playlist.m3u8</page>
+	<agent>Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</agent>
+	</regex>
+	</item>
+</streaminginfo>
+-->
+<!--
+<streaminginfo>
+	<cname>Royal TV</cname>
+	<item>
+	<title>Low</title>		
+	<link>http://cdn01.iqbroadcast.tv:8081/g1/6ryltv/playlist.m3u8?nimblesessionid=12709229&amp;wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDE2IDM6MjI6MjYgUE0maGFzaF92YWx1ZT05REJOcHFSaDhnZDR0cGZYQTdEWEV3PT0mdmFsaWRtaW51dGVzPTIw</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Royal TV</cname>
+	<item>
+	<title>Official</title>
+	<link>$doregex[get-url]</link>
+	<regex>
+	<name>get-url</name>
+	<expres>"m3u8_url":"(.*?)"</expres>
+	<page>http://www.tvroyal.com/</page>
+	<agent>Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</agent>
+	</regex>
+	</item>
+</streaminginfo>
+-->
+<streaminginfo>
+	<cname>Universal Somali</cname>
+	<item>
+	<title>Low</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+		<regex>
+			<name>get-m3u8final</name>
+			<expres>.*\s?(http.*?)\s</expres>
+			<page>$doregex[get-m3u8]</page>
+			<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>get-m3u8</name>
+			<expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+			<page>$doregex[get-json]</page>
+		</regex>
+		<regex>
+			<name>get-json</name>
+			<expres>config = ({.*})</expres>
+			<page>https://new.livestream.com/accounts/2058831/events/2072662/player?width=960&amp;amp;height=540&amp;autoPlay=true&amp;mute=false</page>
+			<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+			<cookieJar></cookieJar>
+		</regex>
+	</item>
+</streaminginfo>
+
+<!-- Somalian Channels End -->
+
+<!-- Yemenian Channels -->
+
+<streaminginfo>
+	<cname>Yemen</cname>
+	<item>
+	<title>Youtube: Low</title>
+	<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=h_vkEX6H4KQ</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sanaa</cname>
+	<item>
+	<title>Elahmad</title>
+	<link>rtmp://82.212.95.122:1935/live?hghpl=1356439042 playpath=sanaa1 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=shar3yah pageUrl=http://www.elahmad.com/tv/yemen-tv.php</link>
+	</item>
+</streaminginfo>
+
+
+<!--
+<streaminginfo>
+	<cname>Shar3yah</cname>
+	<item>
+	<title>Elahmad</title>
+	<link>rtmp://94.127.209.148:1935/demo/ playpath=shar3yah11 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=shar3yah pageUrl=http://www.elahmad.com/tv/yemen-tv.php</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Saeedah</cname>
+	<item>
+	<title>Ustream</title>
+	<link>$doregex[get-link]</link>
+	<regex>
+	<name>get-link</name>
+	<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/10270300/streams/live/1/playlist.m3u8')</expres>
+	<page></page>
+	</regex>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+<cname>Alsaeedah</cname>
+<item>
+<title>Ustream2</title>
+<link>http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&amp;appVersion=3&amp;conn=wifi&amp;cid=10270300&amp;stream=viewer_240p&amp;connectionId=oldurl-6607e0512a4ea31c845a9f2da2f56c92f639ea32&amp;group=iphone
+</link>
+</item>
+</streaminginfo>
+-->
+<!-- Yemenian Channels -->
+
+
+<!-- Indian Channels Start -->
+
+<streaminginfo>
+        <cname>Zee TV (UK)</cname>
+		<item>
+		<title>High</title>
+		<link>http://zeeapp-lh.akamaihd.net/i/zeetvuk_1@140491/index_864_av-p.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee TV (UK)</cname>
+		<item>
+		<title>High2</title>
+		<link>http://80.243.189.26:9909/pakindaitv/zeetv/index.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Zee TV (Hindi)</cname>
+		<item>
+		<title>High2</title>
+		<link>http://50.7.124.2:8010/server22channel3_bitrate4.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee TV (Hindi)</cname>
+		<item>
+		<title>High</title>
+		<link>http://ipsatpro.com:8000/live/hisa/hisa/443.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Zee Cinema (Hindi)</cname>
+		<item>
+		<title>High</title>
+		<link>http://89.35.158.12:8010/server21channel2_bitrate4.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Zee Cinema (UK)</cname>
+		<item>
+		<title>High</title>
+		<link>http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_864_av-p.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee Cinema (US)</cname>
+		<item>
+		<title>High</title>
+		<link>http://ipsatpro.com:8000/live/hisa/hisa/409.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+        <cname>Zee Telugu</cname>
+		<item>
+		<title>High</title>
+		<link>http://89.35.158.12:8010/server25channel2_bitrate4.m3u8</link>
+		</item>
+</streaminginfo>
+
+
+<streaminginfo>
+        <cname>B4U Movies</cname>
+		<item>
+		<title>High</title>
+		<link>http://ipsatpro.com:8000/live/hisa/hisa/445.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>B4U Aflam</cname>
+		<item>
+		<title>High</title>
+		<link>http://ipsatpro.com:8000/live/hisa/hisa/438.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>B4U Masti</cname>
+		<item>
+		<title>High</title>
+		<link>http://wpc.fc2a.edgecastcdn.net/80FC2A/la2/ECpull/b4umasti.stream/playlist.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>&amp;TV</cname>
+		<item>
+		<title>High</title>
+		<link>http://50.7.177.154:8010/server2channel2_bitrate4.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>&amp;TVHD</cname>
+		<item>
+		<title>High</title>
+		<link>http://89.35.158.12:8010/server24channel2_bitrate4.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>&amp;PicturesTV</cname>
+		<item>
+		<title>High</title>
+		<link>http://89.35.158.12:8010/server24channel1_bitrate4.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>&amp;PicturesHD</cname>
+		<item>
+		<title>High1</title>
+		<link>http://50.7.177.154:8010/server22channel2_bitrate4.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>9 XM</cname>
+		<item>
+		<title>High</title>
+		<link>http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>9 XM Tamash</cname>
+		<item>
+		<title>High</title>
+		<link>http://46.249.213.93/iPhone/HLS_TS/broadcast/9xmtashan-tablet.3gp/9xmtashan-tablet.3gp-mr402k.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Bollywood masala</cname>
+		<item>
+		<title>High</title>
+		<link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD191_W_350.sdp/chunklist.m3u8?time%3D1451081767404</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>colors india</cname>
+		<item>
+		<title>High</title>
+		<link>http://zeeapp-lh.akamaihd.net/i/colorsuk_1@140317/index_864_av-p.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Bollywood Hungama</cname>
+		<item>
+		<title>High</title>
+		<link>http://46.249.213.87/iPhone/HLS_TS/broadcast/bollywood_hungama-tablet.3gp/bollywood_hungama-tablet.3gp-mr497k.m3u8?trackingid=3441890000&amp;os=mobi1&amp;os=mobi1&amp;time=1453749850850</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Pogo TV</cname>
+		<item>
+		<title>High</title>
+		<link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD29_W_350.sdp/chunklist.m3u8?time=1451081559535</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Rishtey India</cname>
+		<item>
+		<title>High</title>
+		<link>http://109.236.92.207/mylive/test7/index.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Sony Sab</cname>
+		<item>
+		<title>High</title>
+        <link>http://ipsatpro.com:8000/live/hisa/hisa/422.ts</link>
+		</item>
+</streaminginfo>
+
+
+<streaminginfo>
+        <cname>Sony TV</cname>
+		<item>
+		<title>High</title>
+		<link>http://ipsatpro.com:8000/live/hisa/hisa/425.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Star Plus (Hindi)</cname>
+		<item>
+		<title>High</title>
+		<link>http://ipsatpro.com:8000/live/hisa/hisa/412.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee Anmol</cname>
+		<item>
+		<title>High</title>
+		<link>http://130.185.144.63:8081/ind/UTVBindass/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDE2IDc6MDU6MzkgUE0maGFzaF92YWx1ZT1pSVFZdnJLcmhnMFZSdEx0K3VheEpnPT0mdmFsaWRtaW51dGVzPTI=</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee Classic</cname>
+		<item>
+		<title>High</title>
+		<link>http://50.7.124.2:8010/server2channel1_bitrate4.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee Talkies</cname>
+		<item>
+		<title>High</title>
+		<link>http://50.7.124.2:8010/server6channel1_bitrate4.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Care World</cname>
+		<item>
+		<title>High</title>
+		<link>http://173.199.120.59:1935/CAREWORLDTVL/CAREWORLDTVL.stream-roku/playlist.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>GEM BOLLYWOOD (Irani)</cname>
+		<item>
+		<title>High</title>
+		<link>http://63.237.48.23/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>10X Jalwa</cname>
+		<item>
+		<title>High</title>
+		<link>http://wpc.fc2a.edgecastcdn.net/80FC2A/la2/ECpull/10xjalwa.stream/playlist.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Manoranjan Tv</cname>
+		<item>
+		<title>High</title>
+		<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/jdManoranjanTV5028au.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Enjoy Now</cname>
+		<item>
+		<title>High</title>
+		<link>http://wpc.FC2A.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/996632au.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>RT Movies</cname>
+		<item>
+		<title>High</title>
+		<link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD258_W_350.sdp/chunklist.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Filmy</cname>
+		<item>
+		<title>High</title>
+		<link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD66_W_150.sdp/chunklist.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Sepl Movies Hindi Channel</cname>
+		<item>
+		<title>High</title>
+		<link>http://46.249.213.87/iPhone/HLS_TS/broadcast/bollywood_movies-tablet.3gp.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Mastiii Tv</cname>
+		<item>
+		<title>High</title>
+		<link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD254_W_250.sdp/chunklist.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee Magic (French)</cname>
+		<item>
+		<title>High</title>
+		<link>rtmp://46.28.53.22/live playpath=yallas47w?id=24691&amp;pk=f52d4c585752893eecfc44726a9256030777241a783c63e9895e3ed17fc84815 swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/yallas47w/1/600/350</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee Bangla</cname>
+		<item>
+		<title>High</title>
+		<link>http://portal.rapidiptv.com:8080/live/channel/update/8885.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Zee Tamil</cname>
+		<item>
+		<title>High</title>
+		<link>http://185.59.222.89:1935/cdn/zeetamilhd/playlist.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee World</cname>
+		<item>
+		<title>High</title>
+		<link>http://50.7.124.2:8010/server8channel1_bitrate4.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Oscar Movie</cname>
+		<item>
+		<title>High</title>
+		<link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD197_W_250.sdp/chunklist.m3u8?time=1455565265284</link>
+		</item>
+</streaminginfo>
+
+
+<streaminginfo>
+        <cname>Zee Smile</cname>
+		<item>
+		<title>High</title>
+		<link>http://103.240.232.91/hls/starplusabr/index.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee Action</cname>
+		<item>
+		<title>High</title>
+		<link>http://ipsatpro.com:8000/live/hisa/hisa/427.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Star Plus (UK)</cname>
+		<item>
+		<title>High</title>
+		<link>http://136.243.12.170/star_plus_in.m3u8?token=b484670d13ab8217e7a2315dbbd514df&amp;user=41166&amp;bands=956</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Star Gold</cname>
+		<item>
+		<title>High</title>
+		<link>http://80.243.189.26:9909/pakindiatv/stargold/index.m3u8</link>
+		</item>
+</streaminginfo>
+
+
+<streaminginfo>
+        <cname>Enter 10</cname>
+		<item>
+		<title>High</title>
+		<link>http://195.154.156.234/tcode1/smil:enter10_29776.smil/playlist.m3u8?ctendtime=1455582689&amp;ctstarttime=1455568289&amp;cthash=rerHVnf35OEq0yhBG6UruJPPEa1qQE_HSO-QctHhfuRMRIdead5T3Sjz3N75WgA3</link>
+		</item>
+</streaminginfo>
+
+
+<!-- Indian Channels End -->
+
+<streaminginfo>
+	<cname>Bein 1 FR</cname>
+	<item>
+	<title>High</title>
+	<link>http://167.114.41.215:8080/bein1fr_j/bein1fr_j/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein 1 FR</cname>
+	<item>
+	<title>High2</title>
+	<link>http://80.243.189.26:9909/pakindiatv/beinmas1/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein 1 FR</cname>
+	<item>
+	<title>High3</title>
+	<link>http://80.243.189.26:9909/bein/sports1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein 2 FR</cname>
+	<item>
+	<title>High</title>
+	<link>http://80.243.189.26:9999/bein/sports2/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein 2 FR</cname>
+	<item>
+	<title>High2</title>
+	<link>http://167.114.41.215:8080/bein2_raf/bein2_raf/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 1</cname>
+	<item>
+	<title>High2</title>
+	<link>http://80.243.189.26:9909/bein/sports1/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 1</cname>
+	<item>
+	<title>High</title>
+	<link>http://80.243.189.26:9909/pakindiatv/beinmas1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 2</cname>
+	<item>
+	<title>High</title>
+	<link>http://167.114.41.215:8080/bein12_j/bein12_j/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 3</cname>
+	<item>
+	<title>High</title>
+	<link>http://80.243.189.26:9909/bein/sports3/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 4</cname>
+	<item>
+	<title>High</title>
+	<link>http://167.114.41.215:8080/bein4_raf/bein4_raf/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 4</cname>
+	<item>
+	<title>High2</title>
+	<link>http://80.243.189.26:9909/bein/sports4/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 6</cname>
+	<item>
+	<title>High</title>
+	<link>http://167.114.41.215:8080/bein6_raf/bein6_raf/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 6</cname>
+	<item>
+	<title>High2</title>
+	<link>http://80.243.189.26:9909/bein/sports6/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 7</cname>
+	<item>
+	<title>High</title>
+	<link>http://80.243.189.26:9909/bein/sports7/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 7</cname>
+	<item>
+	<title>High2</title>
+	<link>http://167.114.41.215:8080/bein7_raf/bein7_raf/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 8</cname>
+	<item>
+	<title>High</title>
+	<link>http://167.114.41.215:8080/bein8_raf/bein8_raf/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 8</cname>
+	<item>
+	<title>High2</title>
+	<link>http://80.243.189.26:9909/bein/sports8/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 10</cname>
+	<item>
+	<title>High</title>
+	<link>http://80.243.189.26:9909/bein/sports10/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 10</cname>
+	<item>
+	<title>High2</title>
+	<link>http://167.114.41.215:8080/bein10_raf/bein10_raf/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 11</cname>
+	<item>
+	<title>High (English)</title>
+	<link>http://167.114.41.215:8080/bein11_raf/bein11_raf/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 11</cname>
+	<item>
+	<title>High2 (English)</title>
+	<link>http://80.243.189.26:9909/pakindiatv/beinmas11/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 12</cname>
+	<item>
+	<title>High (English)</title>
+	<link>http://167.114.41.215:8080/bein12_raf/bein12_raf/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+
+
+
+
+
+
+
+
+
+
+<streaminginfo><cname>Almajlis</cname><item><title>Med</title><link>http://stream03.fasttelco.net/4/pub/asset/12/streams.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>almouridiyyah</cname><item><title>Med</title><link>http://208.93.116.239:1935/liveroku/roku-live1/gmswf.m3u8</link></item></streaminginfo>
+
+<streaminginfo>
+	<cname>D8</cname>
+	<item>
+	<title>Geoblocked</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://hds_live_d8_aka-lh.akamaihd.net/z/d8_hds@182613/manifest.f4m</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo> 
+<cname>Bein Sport News</cname>
+<item>
+<title>Official</title>
+<link>http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8</link>
+</item>
+</streaminginfo>
+
+	<streaminginfo>
+		<cname>LPC</cname>
+		<item>
+			<title>ustream</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20753403/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Grand Lille TV</cname>
+	<item>
+	<title>360px SD</title>
+	<link>rtmp://str81.creacast.com/grandlilletv/high</link>
+	</item>	
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Tom and Jerry</cname>
+	<item>
+	<title>Source SD</title>
+	<link>rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>Cherie 25</cname>
+	<item>
+	<title>720px HD</title>
+	<link>http://pebbles110-lh.akamaihd.net/i/cheriehd_1@97438/index_4000_av-b.m3u8?sd=10&amp;rebase=on|X-Forwarded-For=195.186.136.21</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>Equipe 21</cname>
+	<item>
+	<title>720px HD</title>
+	<link>http://pebbles110-lh.akamaihd.net/i/equipetvhd_1@97439/index_4000_av-b.m3u8?sd=10&amp;rebase=on|X-Forwarded-For=195.186.136.21</link>
+	</item>	
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Disney</cname>
+	<item>
+	<title>404px SD</title>
+	<link>http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/5643785098.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>RMC Decouverte</cname>
+	<item>
+	<title>1080px HD</title>
+	<link>http://pebbles112-lh.akamaihd.net/i/rmchd_1@97445/index_4000_av-b.m3u8?sd=10&amp;rebase=on|X-Forwarded-For=195.186.136.21</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Animaux</cname>
+	<item>
+	<title>720px HD</title>
+	<link>http://87.248.160.8/edge/smil:animaux/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Ten</cname>
+	<item>
+	<title>You need to install vaughnlive addon</title>
+	<link>plugin://plugin.stream.vaughnlive.tv/?sourcetype=auto&amp;img=http%3A%2F%2Fcdn.vaughnsoft.com%2Fvaughnsoft%2Fvaughn%2Fimg_profiles%2F20satcom_320.jpg&amp;title=20satcom&amp;url=http%3A%2F%2Fvaughnlive.tv%2F20satcom&amp;section=&amp;site=&amp;mode=PlayLiveStream&amp;fimg=http%3A%2F%2Fcdn.vaughnsoft.com%2Fvaughnsoft%2Fvaughnlive%2Fimg_backgrounds%2F20satcom.jpg&amp;channel=20satcom</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ten</cname>
+	<item>
+	<title>You need to install Sportsdevil</title>
+	<sportsdevil>https://vaughnlive.tv/embed/video/20satcom</sportsdevil>
+	<referer>https://vaughnlive.tv</referer>
+	</item> 
+</streaminginfo>
+	
+<streaminginfo>
+	<cname>NTV 2</cname>
+	<item>
+	<title>Med</title>
+ 	<link>rtmpt://lc2.streamakaci.com/lc2new/lc2 live=1 timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Islam Channel UK</cname>
+	<item>
+	<title>HLS_stream</title>
+	<link>http://wowza05.sharp-stream.com:1935/islamtv/mp4:islamtv.stream/chunklist_w110095687.m3u8</link>
+	</item>
+</streaminginfo>	
+
+<streaminginfo>
+	<cname>Peace TV Asia</cname>
+	<item>
+	<title>rtmp_Stream</title>
+	<link>rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4x3-sdh_1</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Peace TV UK</cname>
+	<item>
+	<title>rtmp_Stream</title>
+	<link>rtmp://peace.fms.visionip.tv/live/b2b-peace_sky-live-25f-4x3-sdh_1</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>GuideUS TV</cname>
+	<item>
+	<title>RTMP_Stream</title>
+	<link>rtmp://stream.streamislam.com:1935/streamer/live</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Al mayaden</cname>
+	<item>
+	<title>High</title>
+	<link>http://38.96.148.204:1935/liveedge/livestream_m256p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Al mayaden</cname>
+	<item>
+	<title>Low</title>
+	<link>http://38.96.148.204:1935/liveedge/livestream_m128p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Al mayaden</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.96.148.204:1935/liveedge/livestream_240p/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Al Sharqiya News</cname>
+	<item>
+	<title>Low</title>
+	<link>http://46.165.208.230:1935/alsharqiyalive/mystream/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Al Sharqiya</cname>
+	<item>
+	<title>Low</title>
+	<link>http://46.165.208.230:1935/home/mystream/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Palestine</cname>
+	<item>
+	<title>Low</title>
+	<link>http://217.21.0.14:1935/pbc/pbc_1/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Alquds Educ</cname>
+	<item>
+	<title>Low</title>
+	<link>http://178.214.64.157/aqtv/imm/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Aljazeera Children</cname>
+	<item>
+	<title>Low</title>
+	<link>http://78.100.40.195:1935/jsc/jsc/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Baraem</cname>
+	<item>
+	<title>Low</title>
+	<link>http://78.100.40.195:1935/brm/brm/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Libya 2</cname>
+	<item>
+	<title>Low</title>
+	<link>http://173.224.120.161:1935/live/myStream/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Qatar</cname>
+	<item>
+	<title>Low</title>
+	<link>http://78.100.40.195:1935/qtv/qtv/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>alrayan</cname>
+	<item>
+	<title>Low</title>
+	<link>http://78.100.40.195:1935/ryn/ryn/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>SkyNewsArabia</cname>
+	<item>
+	<title>Low</title>
+	<link>http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo><cname>MBC Drama</cname><item><title>Sami</title><link>http://streamup.global.ssl.fastly.net/app/sami2016s-channel/chunklist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Zaitouna</cname><item><title>wowzacontrol.com</title><link>http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8</link></item></streaminginfo>
+
+
+<streaminginfo>
+	<cname>Alfaraeena</cname>
+	<item>
+	<title>uvlog</title>
+	<link>rtmp://video.uvlog.com/uvlog_video/6568 app=uvlog_video/6568 conn=S:6568 conn=S:N/A conn=S:Anonymous_422 conn=S:viewer conn=S: conn=S:99999 conn=S:true conn=S:14236528633400554db37ffb5395699971859 playpath=stream flashver=WIN\2013,0,0,214 swfUrl=http://uvlog.com/broadView.swf?rand=1236 pageUrl=http://uvlog.com live=1 timeout=15</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>6Ter</cname>
+	<item>
+	<title>stream4free m3u8</title>
+	<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>W9</cname>
+	<item>
+	<title>stream4free m3u8</title>
+	<link>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>M6 Music</cname>
+	<item>
+	<title>stream4free m3u8</title>
+	<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>M6</cname>
+	<item>
+	<title>stream4free m3u8</title>
+	<link>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Persian Music</cname>
+	<item>
+	<title>Roku ios SVR1</title>
+	<link>http://63.237.48.3/ios/PERSIAN_MUSIC/PERSIAN_MUSIC.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Persian Music</cname>
+	<item>
+	<title>Roku ios SVR2</title>
+	<link>http://63.237.48.23/ios/PERSIAN_MUSIC/PERSIAN_MUSIC.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+<!--
+<streaminginfo>
+<cname>MBC Bollywood</cname>
+<item>
+<title>Gujal</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xmlurl</name>
+<expres>file="(http.*?)"</expres>
+<page>http://www.teles-live.com/iptv/?ch=mbc_bollywood</page>
+<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
+</regex>
+</item>
+</streaminginfo>
+-->
+
+<streaminginfo>
+<cname>MBC Bollywood</cname>
+<item>
+<title>High</title>
+<link>http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC Bollywood</cname>
+<item>
+<title>Roku ios SVR</title>
+<link>http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Kurdistan</cname>
+<item>
+<title>Roku ios SVR</title>
+<link>http://63.237.48.23/ios/KURDISTAN_TV/KURDISTAN_TV.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Almas</cname>
+<item>
+<title>Roku ios SVR</title>
+<link>http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>AAAMusic</cname>
+<item>
+<title>AAA FAMILY Roku ios SVR</title>
+<link>http://63.237.48.23/ios/AAA_FAMILY/AAA_FAMILY.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>AAAMusic</cname>
+<item>
+<title>Roku ios SVR</title>
+<link>http://63.237.48.23/ios/AAA_MUSIC/AAA_MUSIC.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC 2</cname>
+<item>
+<title>Roku ios SVR1</title>
+<link>http://63.237.48.3/ios/MBC2/MBC2.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC 2</cname>
+<item>
+<title>Roku ios SVR2</title>
+<link>http://63.237.48.3/ios/MBC2/MBC2.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC Action</cname>
+<item>
+<title>Roku ios SVR1</title>
+<link>http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC Action</cname>
+<item>
+<title>Roku ios SVR2</title>
+<link>http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC 4</cname>
+<item>
+<title>Roku ios SVR1</title>
+<link>http://63.237.48.3/ios/MBC_4/MBC_4.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC 4</cname>
+<item>
+<title>Roku ios SRV2</title>
+<link>http://63.237.48.23/ios/MBC_4/MBC_4.m3u8</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>MBC Max</cname>
+<item>
+<title>Roku ios SRV2</title>
+<link>http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC Max</cname>
+<item>
+<title>Roku ios SRV1</title>
+<link>http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>alkass</cname>
+	<item>
+	<title>Low</title>
+	<link>http://137.135.64.32:1935/kas/kas/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>TV5 MONDE</cname>
+		<item>
+		<title>web.tv</title>		
+		<link>http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>2M</cname>
+		<item>
+		<title>web.tv</title>		
+		<link>http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Aljazeera</cname>
+		<item>
+		<title>web.tv</title>		
+		<link>http://origin.live.web.tv.streamprovider.net/streams/0781744a5665d14230929df58f07b227_live_0_0/index.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Dubai Sport 3</cname>
+		<item>
+		<title>web.tv</title>		
+		<link>http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Abu Dhabi Sports 1</cname>
+		<item>
+		<title>web.tv</title>		
+		<link>http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Abu Dhabi Sports 3</cname>
+		<item>
+		<title>web.tv</title>		
+		<link>http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Aljazeera En</cname>
+		<item>
+		<title>web.tv</title>		
+		<link>http://origin.live.web.tv.streamprovider.net/streams/8cbc1bc6c935f62ac2e44c5b2854f3ca_live_0_0/index.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Abu Dhabi Sports 1</cname>
+	<item>
+	<title>Low</title>
+	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport1hd/chunklist_b440000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Abu Dhabi Sports 1</cname>
+	<item>
+	<title>Med</title>
+	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport1hd/chunklist_b528000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Abu Dhabi Sports 1</cname>
+	<item>
+	<title>High</title>
+	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Abu Dhabi Sports 2</cname>
+	<item>
+	<title>Low</title>
+	<link>http://5.79.76.1/proxytest/protocol3/Hejbyl_Sunerol.m3u8?cid=01596918</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Abu Dhabi Sports 2</cname>
+	<item>
+	<title>Med</title>
+	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport2hd/chunklist_b528000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Abu Dhabi Sports 2</cname>
+	<item>
+	<title>High</title>
+	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Abu Dhabi Extra HD</cname>
+	<item>
+	<title>Low</title>
+	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsportextrahd/chunklist_b440000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Abu Dhabi Extra HD</cname>
+	<item>
+	<title>Med</title>
+	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsportextrahd/chunklist_b528000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Abu Dhabi Extra HD</cname>
+	<item>
+	<title>High</title>
+	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsportextrahd/chunklist_b880000.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Mehwar</cname>
+	<item>
+	<title>onlinehorizons</title>
+ 	<link>rtmp://livestreaming4.onlinehorizons.net/MehwarTV playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/ live=1 timeout=20</link>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+	<cname>Mehwar Drama</cname>
+	<item>
+	<title>onlinehorizons</title>
+	<link>rtmp://livestreaming4.onlinehorizons.net/MehwarTVDrama playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTVDrama/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTVDrama/ live=1 timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Mehwar 2</cname>
+	<item>
+	<title>onlinehorizons</title>
+	<link>rtmp://livestreaming4.onlinehorizons.net/MehwarTV2 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV2/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV2/ live=1 timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Maghreb24</cname>
+	<item>
+	<title>Ustream</title>
+	<link>$doregex[get-link]</link>
+	<regex>
+	<name>get-link</name>
+	<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/17663346/streams/live/playlist.m3u8')</expres>
+	<page></page>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>Radio Kef</title>
+	<link>http://stream8.tanitweb.com/kef</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>RTCI</title>
+	<link>http://stream8.tanitweb.com/rtci</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>Oxygene FM Bizerte</title>
+	<link>http://radiooxygenefm.ice.infomaniak.ch/radiooxygenefm-64.mp3</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>Radio Monastir</title>
+	<link>http://stream8.tanitweb.com/monastir</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>Oasis FM Gabe</title>
+	<link>http://stream6.tanitweb.com/oasis</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>Mosaique FM Tarab</title>
+	<link>http://webradio.mosaiquefm.net:8000/mosatarab</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>Mosaique FM Tounsi</title>
+	<link>http://webradio.mosaiquefm.net:8000/mosatounsi</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>Radio Sfax</title>
+	<link>http://stream8.tanitweb.com/sfax</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>Cap FM</title>
+	<link>http://stream6.tanitweb.com/capfm</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>Zitouna FM</title>
+	<link> http://87.98.172.205:8000/;stream.mp3</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>Radio Jeunes Tunisie</title>
+	<link>http://stream8.tanitweb.com/jeunes</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>Shems FM</title>
+	<link>http://stream6.tanitweb.com/shems</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>Express FM</title>
+	<link>http://stream6.tanitweb.com/expressfm</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>Tunis Nationale</title>
+	<link>http://stream8.tanitweb.com/nationale</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>IFM</title>
+	<link>http://stream6.tanitweb.com/expressfm</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>Jawhara FM</title>
+	<link>http://streaming2.toutech.net:8000/jawharafm</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Tunisia</cname>
+	<item>
+	<title>Mosaique FM</title>
+	<link>http://radio.mosaiquefm.net:8000/mosalive</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>AL sahat</cname>
+	<item>
+	<title>Ustream</title>
+	<link>$doregex[get-link]</link>
+	<regex>
+	<name>get-link</name>
+	<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/17579613/streams/live/playlist.m3u8')</expres>
+	<page></page>
+	</regex>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo><cname>Assadissa</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamAssadissa/livestreamAssadissa.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Medi 1 Sat</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamMedi1TV/livestreamMedi1TV.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Al oula Maroc</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamAlAoulaInter/livestreamAlAoulaInter.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Alriadia Sport</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamArriadia/livestreamArriadia.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>AlGeria</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamCanalAlgerie/livestreamCanalAlgerie.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Tamazigh Maroc</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamTamazight/livestreamTamazight.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>Abu Dhabi Drama</cname><item><title>Elahmed Low</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:addramasd/chunklist_b440000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi Drama</cname><item><title>Elahmed Med</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:addramasd/chunklist_b528000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi Drama</cname><item><title>Elahmed High</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:addramasd/chunklist_b880000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi</cname><item><title>Elahmed Low</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adaloulahd/chunklist_b440000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi</cname><item><title>Elahmed Med</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adaloulahd/chunklist_b528000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi</cname><item><title>Elahmed High</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adaloulahd/chunklist_b880000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi Emirates</cname><item><title>Elahmed Low</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adalemarathd/chunklist_b440000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi Emirates</cname><item><title>Elahmed Med</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adalemarathd/chunklist_b528000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi Emirates</cname><item><title>Elahmed High</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adalemarathd/chunklist_b880000.m3u8</link></item></streaminginfo>
+
+
+<streaminginfo>
+	<cname>Rotana cinema</cname>
+	<item>
+	<title>Youtube Rotana Cinema</title>
+	<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cplhqpMGMXI</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Canal+ Sport</cname>
+	<item>
+		<title>Halima-Live</title>
+		<link>rtmp://halima-live.com:1936/scorpion playpath=canal+fr3 swfUrl=http://www.scorpion-server.com.tn/js/jwplayer.flash.swf live=true flashver=WIN\2015,0,0,152 swfVfy=true timeout=30 pageUrl=http://halima-live.com/chaine.php?cat=23&amp;id=33</link> 
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>RTL 9</cname>
+	<item>
+	<title>akamaihd</title>
+	<link>http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>RTL 9</cname>
+	<item>
+	<title>NTV</title>
+	<link>http://se-1.se.rtl9-hls.live.numericable.tv/live/hls/rtl9/ipadstream800rtl9.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Al Baghdadia</cname>
+		<item>
+		<title>Low</title>
+		<link>http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Quran TV ksa</cname>
+		<item>
+		<title>islambox</title>
+		<link>rtmp://ib12.islambox.tv/live/scqur?key=A684B24820F55A44990C5EABE95CF88F7C1EFAA45C6BBF54D19568A9C9A449F3 timeout=20</link>
+		</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+		<cname>Ajyal</cname>
+		<item>
+		<title>islambox</title>
+		<link>rtmp://ib12.islambox.tv/live/?v=hghpl]=a2V5bGl2ZTIxNy0yMzAtMjIzLTIwMjIwMTQtMDUtMjQtMTEtNTAtNDY=/vb008_ajial.stream? timeout=20</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Aljazeera En</cname>
+		<item>
+		<title>islambox</title>
+		<link>rtmp://ib12.islambox.tv/live/ajeqi500k?key=06C8A0C9B929025BCD7F2D2E6EFD9967C7AD97E42DAA4DB4C0FD0314A89BABEE timeout=20</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al-hurra Iraq</cname>
+	<item>
+	<title>mbnhls</title>
+	<link>http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Alrai</cname>
+	<item>
+	<title>mms</title>
+	<link> mms://62.215.216.130/wmtencoder/alrai350.wmv</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Al Nahar 2</cname>
+	<item>
+	<title>unknow</title>
+	<link>rtmp://188.247.93.26/live/alnhar2.stream_360p timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mecca</cname>
+	<item>
+	<title>unknow</title>
+	<link>http://94.127.209.149:8080/mecca/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>AlQahera W Elnas 2</cname>
+	<item>
+	<title>unknow</title>
+	<link>rtmp://188.247.93.26/live/alkahra.stream_360p timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Alarabiya</cname>
+		<item>
+		<title>unknow</title>
+		<link>http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Alarabiya Ahdas</cname>
+		<item>
+		<title>unknow</title>
+		<link>http://livestream7.alarabiya.tv/i/live_1@187753/index_1_av-p.m3u8?hd=10&amp;rebase=on</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alan</cname>
+	<item><title>Akamaid</title>
+	<link>http://alaan_hls-lh.akamaihd.net/i/alaan_ar@103399/master.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Zee Aflam</cname>
+	<item>
+	<title>unknow</title>
+	<link>rtmp://176.58.79.15:1936/live/ZEEAFLAM timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al-Resalah</cname>
+	<item>
+	<title>unknow</title>
+	<link>rtmp://176.58.79.15:1936/live/ALResala timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Toyor Al Janah</cname>
+	<item>
+	<title>unknow</title>
+	<link>rtmp://176.58.79.15:1936/live/Toyoraljanah timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Sharjah</cname>
+	<item>
+	<title>itworksch</title>
+	<link>rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Tunisia national 1</cname>
+	<item>
+	<title>streamago</title>
+	<link>http://ca-edge-5.cdn2.streamago.tv:1935/streamagoedge/1052/224/chunklist_w182068498.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Aghani</cname>
+	<item>
+	<title>unknow</title>
+	<link>http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+
+
+
+
+
+<streaminginfo>
+        <cname>Hawas</cname>
+	<item>
+	<title>You need to install f4m_tester addon from Shani Repo</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://flash-lh.akamaihd.net/z/hawas_1@192483/manifest.f4m?hdcore=2.11.3&amp;ag=CSNEUQOFUMPG</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Maannews</cname>
+		<item>
+		<title>Vstream</title>
+		<link>http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Cartoon Network</cname>
+		<item>
+		<title>176.58</title>
+		<link>rtmp://176.58.79.15:1936/live/CNARABIA timeout=20</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Syria</cname>
+	 <item>
+<title>Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=145</page>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Qatar</cname>
+	 <item>
+<title>Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=11</page>
+</regex>
+</item>
+</streaminginfo>
+
+
+<streaminginfo>
+     <cname>KSA 1</cname>
+	 <item>
+<title>Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=3</page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Sharjah</cname>
+	 <item>
+<title>Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=183</page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Nile Tv</cname>
+	 <item>
+<title>Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=201</page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Al Etejah</cname>
+	 <item>
+<title>Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=12</page>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+    <cname>Jordan</cname>
+	<item><title>Low</title>
+	<link>rtmp://64.251.14.168/jorlive/jrtv timeout=20</link>
+   </item>
+</streaminginfo>
+
+
+<streaminginfo>
+    <cname>Rouge</cname>
+	<item><title>Med</title>
+	<link>http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8</link>
+   </item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Al Majd</cname>
+	<item>
+	<title>Med</title>
+	<link>http://108.178.40.250/live/10208.stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Baghdad</cname>
+	<item>
+	<title>Med</title>
+	<link>http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+<cname>Syria Alghad</cname>
+<item>
+<title>Ustream</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18049068/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<streaminginfo><cname>Sudan OUS</cname><item><title>0:0:0</title><link>rtmp://41.67.3.244:1935/live/livestream swfUrl=http://ousmedia.net/img/player.swf pageUrl=http://ousmedia.net/tvlive.html timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Tanasuh</cname><item><title>official</title><link>http://de.live.net.sa:1935/live/tanasuhtv/playlist.m3u8</link></item></streaminginfo>
+
+
+<streaminginfo>
+		<cname>CBC Sofra</cname>
+		<item>
+		<title>youtube</title>
+		<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_C5Oij_AD3g</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Radio Maroc</cname>
+	<item>
+	<title>France Maghreb</title>
+	<link>http://46.105.45.216:8000</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     	<cname>Radio Maroc</cname>
+	<item>
+	<title>Marrakech</title>
+	<link>http://91.121.4.107:8000/radio_plus_marrakech.mp3</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     	<cname>Radio Maroc</cname>
+	<item>
+	<title>Rabat Tamazight</title>
+	<link>http://mp3lg4.tdf-cdn.com/9079/jet_143844.mp3</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     	<cname>Radio Maroc</cname>
+	<item>
+	<title>Atlantic</title>
+	<link>http://68.168.117.130:8000/</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Radio Algerie</cname>
+	<item>
+	<title>Dzair Orientale</title>
+	<link>http://radio-algeria.com:8006/stream/1</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Radio Algerie</cname>
+	<item>
+	<title>Dzair  Chaabia</title>
+	<link>http://radio-algeria.com:8012/stream/1</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Radio Algerie</cname>
+	<item>
+	<title>Radio Dzair</title>
+	<link>http://radio-dzair.net:8000</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     	<cname>Radio Maroc</cname>
+	<item>
+	<title>Medina FM</title>
+	<link>http://medinafm.ice.infomaniak.ch/medinafm-64.mp3</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     	<cname>Radio Maroc</cname>
+	<item>
+	<title>Casablanca</title>
+	<link>http://streaming.radionomy.com/RadioWebma-Casablanca</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     	<cname>Radio Maroc</cname>
+	<item>
+	<title>Rabat</title>
+	<link>http://mp3lg4.tdf-cdn.com/9080/jet_144136.mp3</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     	<cname>Radio Maroc</cname>
+	<item>
+	<title>Aswat</title>
+	<link>http://broadcaster.infomaniak.ch/aswat-high.mp3</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    	<cname>Radio Maroc</cname>
+	<item>
+	<title>Tamazight</title>
+	<link>http://37.58.75.162:8222/</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     	<cname>Radio Maroc</cname>
+	<item>
+	<title>Radio 2M</title>
+	<link>http://mp3lg4.tdf-cdn.com/9033/jet_121413.mp3</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     	<cname>Radio Maroc</cname>
+	<item>
+	<title>Yabiladi</title>
+	<link>http://media.yabiladi.com:8000</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     	<cname>Radio Maroc</cname>
+	<item>
+	<title>Yabiladi Chaabi</title>
+	<link>http://media.yabiladi.com:8100</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     	<cname>Radio Maroc</cname>
+	<item>
+	<title>Yabiladi Tamazight</title>
+	<link>http://media.yabiladi.com:9000</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     	<cname>Radio Maroc</cname>
+	<item>
+	<title>Yabiladi Urban</title>
+	<link>http://media.yabiladi.com:9100</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     	<cname>Radio Maroc</cname>
+	<item>
+	<title>Chada FM</title>
+	<link>http://broadcast.infomaniak.net/chadafm-high.mp3</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     	<cname>Radio Maroc</cname>
+	<item>
+	<title>Arabel</title>
+	<link>http://www.arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Maroc</cname>
+	<item>
+	<title>Only Raï</title>
+	<link>http://91.121.62.121:7100/;stream.mp3</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Radio Maroc</cname>
+	<item>
+	<title>Almanar Belgique </title>
+	<link>http://77.92.64.44:8043/;mp3</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Maroc</cname>
+	<item>
+	<title>Medi1</title>
+	<link>http://streaming07.mit.ovea.com/medi1</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Maroc</cname>
+	<item>
+	<title>Radio Orient</title>
+	<link>http://mp3lg.tdf-cdn.com/radioorient/all/radioorient.mp3</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Maroc</cname>
+	<item>
+	<title>France Maghreb2</title>
+	<link>http://francemaghreb2.ice.infomaniak.ch:80/francemaghreb2-high.mp3</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Maroc</cname>
+	<item>
+	<title>Radio Soleil</title>
+	<link>http://mp3.live.tv-radio.com/radiosoleilparis/all/radiosoleilparis.mp3</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Maroc</cname>
+	<item>
+	<title>Beu FM</title>
+	<link>http://broadcast.infomaniak.net:80/beurfm-high.mp3</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Maroc</cname>
+	<item>
+	<title>Hit Radio</title>
+	<link>http://208.92.53.111/HITRADIO_MAROC.mp3</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Radio Maroc</cname>
+	<item>
+	<title>Radio Plus Agadir</title>
+	<link>http://91.121.4.107:8000/radio_plus_agadir.mp3</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Maroc</cname>
+	<item>
+	<title>MFM</title>
+	<link>http://mfm.ice.infomaniak.ch/mfm-128.mp3</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Maroc</cname>
+	<item>
+	<title>Radio Mars</title>
+	<link>http://broadcast.infomaniak.net/radiomars-128.mp3</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Maroc</cname>
+	<item>
+	<title>M24</title>
+	<link>http://2073.live.streamtheworld.com/SAM08AAC171.aac</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Radio Maroc</cname>
+	<item>
+	<title>Nass Radio</title>
+	<link>http://radio.nessradio.net:8000/nessradio-64kbs.mp3</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Radio Maroc</cname>
+	<item>
+	<title>Medi1</title>
+	<link>http://streaming07.mit.ovea.com/medi1</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Safa</cname>
+	<item>
+	<title>Low</title>
+	<link>http://50.7.131.42:1935/safa/smil:safa-smil.smil/chunklist_w1889871104_b632768.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Safa</cname>
+	<item>
+	<title>Med</title>
+	<link>http://50.7.131.42:1935/safa/smil:safa-smil.smil/chunklist_w1889871104_b632768.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Safa</cname>
+	<item>
+	<title>High</title>
+	<link>http://50.7.131.42:1935/safa/smil:safa-smil.smil/chunklist_w1889871104_b1875968.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Ali Jaber Radio</title>
+	<link>mms://50.22.223.13/a_jbr</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Mohammad Jibreel Radio</title>
+	<link>mms://50.22.223.13/jbrl</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Mahmoud Khalil Al-Hussary Radio</title>
+	<link>mms://50.22.223.13/husr</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Mohammad Ayyub Radio</title>
+	<link>mms://50.22.223.13/ayyub</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Abdulbasit Abdulsamad Warsh A'n Nafi'</title>
+	<link>mms://50.22.223.13/basit_warsh</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Abdullah Basfer</title>
+	<link>mms://50.22.223.13/bsfr</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Saber Abdulhakm Radio</title>
+	<link>mms://50.22.223.13/hkm</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Jamaan Alosaimi Radio</title>
+	<link>mms://50.22.223.13/jaman</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Abduulah Kayyat</title>
+	<link>mms://50.22.223.13/kyat</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Ibrahim Al-Akder</title>
+	<link>mms://50.22.223.13/akdr</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Abdullah Aljohani</title>
+	<link>mms://50.22.223.13/jhn</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Saud Al-Shuraim Radio</title>
+	<link>mms://50.22.223.13/shur</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Yasser Al-Dosari Radio</title>
+	<link>mms://50.22.223.13/yasser</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Mishary Al Afasi Radio</title>
+	<link>mms://50.22.223.13/afs</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Abdulbasit Abdulsamad Radio</title>
+	<link>mms://50.22.223.13/basit</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Nasser Alqatami Radio</title>
+	<link>mms://50.22.223.13/qtm</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Mohammed Siddiq Al-Minshawi Radio</title>
+	<link>mms://50.22.223.13/minsh</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Saad Al-Ghamdi Radio</title>
+	<link>mms://50.22.223.13/s_gmd</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Abdulbasit Abdulsamad - MJAWOAD Radio</title>
+	<link>mms://50.22.223.13/basit_mjwd</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Khaled Al-Qahtani Radio</title>
+	<link>mms://50.22.223.13/qht</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Fares Abbad Radio</title>
+	<link>mms://50.22.223.13/frs_a</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Idrees Abkr Radio</title>
+	<link>mms://50.22.223.13/abkr</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Quran Radio</cname>
+	<item>
+		<title>Shaik Abu Bakr Al Shatri Radio</title>
+		<link>mms://50.22.223.13/shatri</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Quran Radio</cname>
+	<item>
+		<title>Beautiful recitations</title>
+		<link>mms://50.22.223.13/salma</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Quran Radio</cname>
+	<item>
+		<title>Maher Al Meaqli</title>
+		<link>Radiomms://50.22.223.13/maher</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Quran Radio</cname>
+	<item>
+		<title>Ahmad Al-Ajmy Radio</title>
+		<link>mms://50.22.223.13/ajm</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Quran Radio</cname>
+	<item>
+		<title>Abdulrahman Alsudaes Radio</title>
+		<link>mms://50.22.223.13/sds</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Quran Radio</cname>
+	<item>
+	<title>Main Radio</title>
+	<link>mms://50.22.223.13/radio</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+    <cname>Aljadeed</cname>
+	<item>
+	<title>itworkscdn low</title>
+	<link>http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_160p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Aljadeed</cname>
+	<item>
+		<title>itworkscdn Med</title>
+		<link>http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_240p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Aljadeed</cname>
+	<item>
+		<title>itworkscdn High</title>
+		<link>http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Fezzan</cname>
+<item>
+<title>Ustream</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/14305527/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+
+<streaminginfo>
+<cname>Dream 2</cname>
+<item>
+<title>Ustream</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18117128/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Misrata</cname>
+	<item>
+	<title>You need to inslall veetle addon</title>
+	<link>plugin://plugin.video.veetle/?channel=5330887b36239</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+<cname>Qatar Today</cname>
+<item>
+<title>Ustream</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/17132792/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+
+<streaminginfo>
+<cname>Al Resoul TV</cname>
+<item>
+<title>Ustream</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/12677236/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Alinsen</cname>
+<item>
+<title>Ustream</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/17183652/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Al Amaken Drama</cname>
+<item>
+<title>Ustream Bad Quality Link2</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/8089600/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Al Amaken Drama</cname>
+<item>
+<title>Ustream Bad Quality Link1</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/9996377/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Alqithara</cname>
+<item>
+<title>Ustream</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/4365778/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+
+<streaminginfo>
+<cname>Animal Planet</cname>
+<item>
+<title>Ustream</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Sheraa</cname>
+<item>
+<title>Ustream</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/12569585/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Alrabi3a Egypt</cname>
+<item>
+<title>Ustream</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/16697328/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Radio Mars</cname>
+	<item><title>Livecast</title>
+	<link>rtmp://rtmp.infomaniak.ch/livecast/videomars timeout=20</link>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+    <cname>DW Arabic</cname>
+<item>
+<title>Low</title>
+<link>$doregex[get-rtmp] playpath=$doregex[get-playpath] pageUrl=http://live-tv.im/dw-tv-arabia-live live=1 swfVfy=1 timeout=10</link>
+<regex>
+<name>get-rtmp</name>
+<expres>meta base="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
+<regex>
+<name>get-playpath</name>
+<expres>"low"\s*src="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>DW Arabic</cname>
+<item>
+<title>Medium</title>
+<link>$doregex[get-rtmp] playpath=$doregex[get-playpath] pageUrl=http://live-tv.im/dw-tv-arabia-live live=1 swfVfy=1 timeout=10</link>
+<regex>
+<name>get-rtmp</name>
+<expres>meta base="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
+
+<regex>
+<name>get-playpath</name>
+<expres>"medium"\s*src="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>DW Arabic</cname>
+<item>
+<title>High</title>
+<link>$doregex[get-rtmp] playpath=$doregex[get-playpath] pageUrl=http://live-tv.im/dw-tv-arabia-live live=1 swfVfy=1 timeout=10</link>
+<regex>
+<name>get-rtmp</name>
+<expres>meta base="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
+<regex>
+<name>get-playpath</name>
+<expres>"high"\s*src="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>DW Arabic</cname>
+<item>
+<title>Highest</title>
+<link>$doregex[get-rtmp] playpath=$doregex[get-playpath] pageUrl=http://live-tv.im/dw-tv-arabia-live live=1 swfVfy=1 timeout=10</link>
+<regex>
+<name>get-rtmp</name>
+<expres>meta base="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
+
+<regex>
+<name>get-playpath</name>
+<expres>"highest"\s*src="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>SkyNewsArabia</cname>
+	<item><title>Low</title><link>rtmp://hd7.lsops.net/live/ playpath=skynewsi_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375719128 pageUrl==http://www.livestation.com/en/sky-news-arabia swfVfy=true live=true timeout=20</link>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+<cname>Alhayat 1</cname>
+<item>
+<title>Mips Low</title>
+<link>rtmp://$doregex[rtmp]/live playpath=alhaya44?id=204227 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv conn=S:OK live=1 swfVfy=1 timeout=20</link>
+<regex>
+<name>rtmp</name>
+<expres>.*redirect=([\.\d]+)</expres>
+<page>http://mips.tv:1935/loadbalancer</page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Alriadia Sport</cname>
+	<item>
+	<title>Low JanJua</title>
+	<link>$doregex[url]|User-Agent=iPad</link>
+	<regex>
+	<name>url</name>
+	<expres>"(http.*?m3u8.*?)"</expres>
+	<page>http://www.elahmad.com/tv/mobiletv/janj.php?id=arryadia</page>
+	<referer>http://www.elahmad.com</referer>
+	<agent>iPad</agent>
+	</regex>
+	</item>
+</streaminginfo>
+
+
+
+
+
+
+<streaminginfo>
+	<cname>Aliraqiya</cname>
+	<item>
+	<title>GTV</title>
+	<link>http://162.212.176.83:8080/aliraqiya.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Quran TV ksa</cname>
+	<item>
+	<title>GTV</title>
+	<link>http://162.212.176.83:8080/map-alquraan.stream.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mauritanie</cname>
+	<item>
+	<title>GTV</title>
+	<link>http://162.212.176.83:8080/map-mauritania.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+<cname>AAAMusic</cname>
+<item>
+<title>Mega Music Turkey</title>
+<link>http://origin.live.web.tv.streamprovider.net/streams/6117b33033db35b961a2e2df74ec72f5_live_0_0/index.m3u8</link>
+</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+	<cname>For Music</cname>
+	<item>
+	<title>livetvchannelsfree</title>
+	<link>rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Azaal</cname>
+	<item>
+	<title>Livestream</title>
+	<link>http://xazaalx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>iFilm Arabic</cname>
+	<item>
+	<title>overon 720P</title>
+	<link>http://ptv-hls.streaming.overon.es/channel01/livehigh.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>BBC</cname>
+	<item>
+	<title>BBC One TVcatchup</title>
+	<link>http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:bbcone_desk_wifi.smil/chunklist_b600000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Panorama film</cname>
+	<item>
+	<title>free-eg</title>
+	<link>rtmpe://108.178.42.58/live/10176.stream timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Panorama Drama 2</cname>
+	<item>
+	<title>free-eg</title>
+	<link>rtmpe://108.178.40.250/live/10129.stream timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Tahrir</cname>
+	<item><title>free-eg</title><link>rtmp://vidstr1.clicksolutions.co/live/TAHRIR swfUrl=http://free-eg.ucoz.com/jw6full/jwplayer.flash.swf pageUrl=http://free-eg.com/ timeout=20</link></item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>MBC 2</cname>
+	<item><title>achams low</title><link>rtmp://212.179.77.42/live/livestream2?key=achams-com.flv pageUrl=http://achams.com/tv/mbc2.php timeout=20</link></item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>MBC 2</cname>
+	<item><title>achams Med</title><link>rtmp://212.179.77.42/live/livestream2?key=achams-com.flv_avc pageUrl=http://achams.com/tv/mbc2.php timeout=20</link></item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>MBC 2</cname>
+	<item><title>achams High</title><link>rtmp://212.179.77.42/live/livestream2?key=achams-com.flv_avc.mp4 pageUrl=http://achams.com/tv/mbc2.php timeout=20</link></item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Cairo Cinema</cname>
+	<item><title>achams</title><link>rtmp://108.178.40.250/live?~achams.com:1935@192.185.11.131/10126.stream pageUrl=http://achams.com/stream/cairocinema.php timeout=20</link></item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Algarbia</cname>
+	<item>
+		<title>46.165</title>
+		<link>http://46.165.208.230:1935/samarra/mystream/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Libya</cname>
+	<item>
+	<title>livestation_Low</title>
+	<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_264.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Libya</cname>
+	<item>
+	<title>livestation_Med</title>
+	<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_528.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Libya</cname>
+	<item>
+	<title>livestation_High</title>
+	<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_828.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo><cname>Aljazeera Children</cname><item><title>qna.org</title><link>rtmp://AgendaStreamer3.qna.org.qa/jsc/?hghpl]=a2V5bGl2ZTE5Ny0xNjItMTE1LTIyMzIwMTQtMDItMjUtMTUtMzktMjI=/jsc timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Aljazeera Children</cname><item><title>m3u8 137</title><link>http://137.135.68.232:1935/jsc/jsc/gmswf.m3u8?keylive217-230-225-22014-06-14-09-02-23&amp;v=hghpl] timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Aljazeera Children</cname><item><title>Bcoveliveios</title><link>http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Aljazeera Children</cname><item><title>brightcove03</title><link>http://brightcove03-f.akamaihd.net/jeem_mena_400@95898?gmswf</link></item></streaminginfo>
+<streaminginfo><cname>Aljazeera Children</cname><item><title>Low_78.JSC</title><link>rtmp://78.100.40.195:1935/jsc/?gmswf/jsc timeout=20</link></item></streaminginfo>
+
+
+
+
+
+<streaminginfo><cname>Nilat</cname><item><title>188</title><link>http://82.212.95.122:1935/live/nilat.stream_360p/hassuni.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>ANB</cname><item><title>188</title><link>http://82.212.95.122:1935/live/anb.stream_360p/hassuni.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Kaifa</cname><item><title>188</title><link>http://82.212.95.122:1935/live/kifa.stream_360p/hassuni.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Aghanina</cname><item><title>arabch.tv</title><link>http://82.212.95.122:1935/live/aghanina.stream_360p/playlist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Libya Toumast</cname><item><title>arabch.tv</title><link>http://82.212.95.122:1935/live/LibyaToumast.stream_360p/playlist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Libya Alrasmiya</cname><item><title>arabch.tv</title><link>http://82.212.95.122:1935/live/libyaalrasmya.stream_360p/playlist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Al Fursan</cname><item><title>arabch.tv</title><link>http://82.212.95.122:1935/live/fursan.stream_360p/playlist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Burhan</cname><item><title>arabch.tv</title><link>http://82.212.95.122:1935/live/burhan.stream_360p/playlist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Libya One</cname><item><title>arabch.tv</title><link>http://82.212.95.122:1935/live/Libya-One.stream_360p/playlist.m3u8</link></item></streaminginfo>
+
+
+
+
+<streaminginfo>
+	<cname>Coptic_Christian</cname>
+	<item><title>Official</title><link>http://sc-e1.streamcyclone.com:1935/ctvch_live/ctvch/playlist.m3u8</link></item> 
+</streaminginfo>
+
+
+
+
+<streaminginfo>
+     	<cname>Al Mutawasit</cname>
+	<item>
+	<title>zenex</title>
+	<link>rtmp://95.211.169.38/zenex playPath=mutawa004?id=5855 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/fplayer.swf pageUrl=http://zenex.tv/mutawa004 live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Al Hiwar Ettounsi</cname>
+	<item>
+	<title>zenex</title>
+	<link>rtmp://95.211.169.38/zenex playPath=ettounsiya11?id=9998 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/fplayer.swf pageUrl=http://zenex.tv/mutawa004 live=1 timeout=10</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Zaitouna</cname>
+<item>
+<title>Ustream</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18648453/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+
+<streaminginfo>
+     <cname>Qatar</cname>
+	 <item>
+<title>Qatar Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://giniko.com/watch.php?id=11</page>
+</regex>
+<thumbnail>http://giniko.com/logos/190x110/11.jpeg</thumbnail>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Oman</cname>
+	 <item>
+<title>Oman Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://giniko.com/watch.php?id=184</page>
+</regex>
+<thumbnail>http://giniko.com/logos/190x110/184.jpg</thumbnail>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Aliraqiya</cname>
+	 <item>
+<title>Aliraqiya Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://giniko.com/watch.php?id=182</page>
+</regex>
+<thumbnail>http://giniko.com/logos/190x110/182.jpg</thumbnail>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Jordan</cname>
+	 <item>
+<title>Jordan Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://giniko.com/watch.php?id=186</page>
+</regex>
+<thumbnail>http://giniko.com/logos/190x110/186.jpg</thumbnail>
+</item>
+</streaminginfo>
+
+
+
+
+
+
+
+
+
+
+
+<streaminginfo>
+     <cname>Remas</cname>
+	<item>
+	<title>itworkscdn</title>
+	<link>http://livestreaming.itworkscdn.net/alremaslive/remastv/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+     <cname>FM TV</cname>
+	<item>
+	<title>Low quality</title>
+	<link>rtmp://fml.4120.gravlab.net/204120/fmtv swfUrl=http://fmtv.gravlab.net/004120/jwplayer/player.swf live=1 pageUrl=http://www.fmtv.tv/fm/fmtv.html live=true swfVfy=true</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>Hawacom</cname>
+	<item>
+	<title>low quality</title>
+	<link>http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Aljazeera Doc</cname>
+	<item>
+	<title>Low Quality</title>
+	<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_doc_low swfUrl=http://www.watcharab.com/tv/swf/aljazeera_documentary.swf pageUrl=http://www.elahmad.com/tv/aljazeera_documentary.php swfVfy=true live=true timeout=60</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Doc</cname>
+	<item>
+	<title>Medium Quality</title>
+	<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/-live playpath=aljazeera_doc_med swfUrl=http://www.arabztv.net/player.swf live=1 pageUrl=http://www.arabztv.com/ live=true swfVfy=true</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Doc</cname>
+	<item>
+	<title>High Quality</title>
+	<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera_documentary.swf pageUrl=http://www.elahmad.com/tv/aljazeera_documentary.php swfVfy=true live=true timeout=60</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Mubasher</cname>
+		<item>
+		<title>Low Quality</title>
+		<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_mubasher2_low swfUrl=http://www.arabztv.net/player.swf live=1 pageUrl=http://www.arabztv.com/ live=true swfVfy=true</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Mubasher</cname>
+		<item>
+		<title>Med Quality</title>
+		<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_mubasher2_med swfUrl=http://www.arabztv.net/player.swf live=1 pageUrl=http://www.arabztv.com/ live=true swfVfy=true</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Mubasher</cname>
+		<item>
+		<title>High Quality</title>
+		<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_mubasher2_high swfUrl=http://www.arabztv.net/player.swf live=1 pageUrl=http://www.arabztv.com/ live=true swfVfy=true</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Aljazeera Mubasher</cname>
+	<item>
+	<title>High</title>
+	<link>http://hd1.lsops.net/live/smil:aljamuba_ar_hls.smil/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Ibnothaimeentv</cname>
+	<item><title>Youtube - low</title>
+	<link>plugin://plugin.video.youtube/play/?video_id=UFL-AXeAGC8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Khair</cname>
+	<item><title>low</title>
+	<link>http://de.live.net.sa:1935/live/khaer/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Aljazeera Mubasher Masr</cname>
+	<item>
+	<title>High</title>
+	<link>http://hd1.lsops.net/live/smil:aljamisr_ar_hls.smil/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Aljazeera Mubasher Masr</cname>
+	<item>
+	<title>Low Quality</title>
+	<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_misr_low swfUrl=http://www.arabztv.net/player.swf live=1 pageUrl=http://www.arabztv.com/ live=true swfVfy=true</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Mubasher Masr</cname>
+	<item>
+	<title>Med Quality</title>
+	<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_misr_med swfUrl=http://www.arabztv.net/player.swf live=1 pageUrl=http://www.arabztv.com/ live=true swfVfy=true</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Mubasher Masr</cname>
+	<item>
+	<title>High Quality</title>
+	<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_misr_high swfUrl=http://www.arabztv.net/player.swf live=1 pageUrl=http://www.arabztv.com/ live=true swfVfy=true</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>CCTV Arabic</cname>
+	<item>
+	<title>Low </title>
+	<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/cctv_264.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>CCTV Arabic</cname>
+	<item>
+	<title>Med livestation</title>
+	<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/cctv_528.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>CCTV Arabic</cname>
+	<item>
+	<title>High livestation</title>
+	<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/cctv_828.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+    <cname>Nabaa</cname>
+	<item>
+	<title>Low</title>
+	<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/nabaa_tv/ls_satlink/b_264.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Nabaa</cname>
+	<item>
+	<title>Med</title>
+	<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/nabaa_tv/ls_satlink/b_528.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Nabaa</cname>
+	<item>
+	<title>High</title>
+	<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/nabaa_tv/ls_satlink/b_828.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>alnabaa</cname>
+	<item>
+	<title>Low</title>
+	<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_264.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>alnabaa</cname>
+	<item>
+	<title>Med</title>
+	<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_528.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>alnabaa</cname>
+	<item>
+	<title>High</title>
+	<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_828.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Euro News Arabic</cname>
+	<item>
+	<title>High</title>
+	<link>rtmp://fr-par-3.stream-relay.hexaglobe.net:1935/rtpeuronewslive/ar_video750_rtp.sdp swfUrl=http://arabic.euronews.com/media/player_live_1_13.swf pageUrl=http://www.elahmad.com/tv/euronews.php swfVfy=true live=true timeout=60</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Euro News Arabic</cname>
+	<item>
+	<title>Source1</title>
+	<link>rtmp://fr-par-10-stream-relay.hexaglobe.net/rtpeuronewslive/ar_video750_rtp.sdp swfUrl=http://www.euronews.com/media/player_live_1_14.swf swfVfy=true live=true</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Aljazeera</cname>
+	<item>
+	<title>Mobile livestation</title>
+	<link>http://hd3.lsops.net/live/aljazeer_ar_hls.smil/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Aljazeera</cname>
+	<item>
+	<title>Low livestation</title>
+	<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Aljazeera</cname>
+	<item>
+	<title>Med livestation</title>
+	<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_528.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Aljazeera</cname>
+	<item>
+	<title>High livestation</title>
+	<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_828.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Aljazeera</cname>
+		<item>
+		<title>Low</title>
+		<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_low timeout=20</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera</cname>
+		<item>
+		<title>Med</title>
+		<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_med timeout=20</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera</cname>
+		<item>
+		<title>High</title>
+		<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high timeout=20</link>
+		</item>
+</streaminginfo>
+
+
+<streaminginfo>
+        <cname>Aljazeera En</cname>
+		<item>
+		<title>Low_livestation</title>
+		<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_264.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera En</cname>
+		<item>
+		<title>Med_livestation</title>
+		<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera En</cname>
+		<item>
+		<title>High_livestation</title>
+		<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_828.m3u8</link>
+		</item>
+</streaminginfo>
+
+
+ <streaminginfo>
+        <cname>Aljazeera US</cname>
+	<item>
+	<title>Low livestation</title>
+	<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/ajam_264.m3u8</link>
+	</item>
+</streaminginfo>
+
+ <streaminginfo>
+        <cname>Aljazeera US</cname>
+	<item>
+	<title>Med livestation</title>
+	<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/ajam_528.m3u8</link>
+	</item>
+</streaminginfo>
+
+ <streaminginfo>
+        <cname>Aljazeera US</cname>
+	<item>
+	<title>High livestation</title>
+	<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/ajam_828.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+    <cname>BBC Arabic</cname>
+	<item>
+	<title>You need to install f4m_tester addon from Shani Repo</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://bbcwshdlive01-lh.akamaihd.net/z/atv_1@61433/manifest.f4m?hdcore=2.11.3</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>BBC Arabic</cname>
+	<item>
+	<title>m3u8</title>
+	<link>http://hd7.lsops.net/live/bbcarab_ar_hls.smil/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    	<cname>France 24</cname>
+	<item>
+	<title>Arabic</title>
+	<link>http://vipwowza.yacast.net/f24_hlslive_ar/smil:iphone.fr24ar.smil/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+    	<cname>France 24 EN</cname>
+	<item>
+	<title>English</title>
+	<link>http://vipwowza.yacast.net/f24_hlslive_en/smil:iphone.fr24en.smil/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    	<cname>France 24</cname>
+	<item>
+	<title>France</title>
+	<link>http://vipwowza.yacast.net/f24_hlslive_fr/smil:iphone.fr24fr.smil/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    	<cname>France 24 FR</cname>
+	<item>
+	<title>France</title>
+	<link>http://vipwowza.yacast.net/f24_hlslive_fr/smil:iphone.fr24fr.smil/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Mekamleen</cname>
+	<item>
+	<title>85.111 Source</title>
+	<link>rtmp://85.111.14.52/r_mekameleen?a2V5bGl2ZTY5LTE4MC0yNDYtMTA0MjAxNC0wNS0xNC0yMC01OS0wMQ==/live1</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Dubai One</cname>
+	<item>
+	<title>You need to install f4m_tester addon from Shani Repo</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://cdnedvrdubaione.endavomedia.com/smil:dmilivedubaione.smil/manifest.f4m</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Alasr</cname>
+	<item>
+	<title>Mobi Source</title>
+	<link>http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Sudan TV</cname>
+	<item>
+	<title>Ukk Source</title>
+	<link>http://ukk.live.net.sa:1935/live/africatv3/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Sudan TV</cname>
+	<item>
+	<title>Ukk Source</title>
+	<link>http://ukk.live.net.sa:1935/live/africatv/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+        <cname>MBC 2</cname>
+	<item>
+	<title>Marocforum Source Low quality</title>
+	<link>http://www.vlc.eu.pn@live-f01.vustream.net/live/livestream2/marocforum.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Fatafeat</cname>
+	<item>
+	<title>Marocforum Source</title>
+	<link>http://www.vlc.eu.pn@live-f01.vustream.net/live/livestream3/marocforum.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Fatafeat</cname>
+	<item>
+	<title>212.179 Source</title>
+	<link>http://212.179.77.42/live/livestream3/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Bahrain</cname>
+	<item>
+	<title>netromedia</title>
+	<link>http://155.obj.netromedia.net/alayam/alayam/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Quran TV ksa</cname>
+	<item>
+	<title>m3u8 Source</title>
+	<link>http://46.245.160.224/mekke/mekke/chunklist_w581447799.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+   	<cname>Baraem</cname>
+	<item>
+	<title>m3u8 Source</title>
+	<link>http://78.100.40.198:1935/brm/brm/gmswf.m3u8?keylive87-163-224-792014-05-18-16-28-09&amp;v=hghpl]</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+   	<cname>Melody Drama</cname>
+	<item>
+	<title>206</title>
+	<link>rtmp://38.96.148.206/Melody/MDramaWeb</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+   	<cname>Melody Drama</cname>
+	<item>
+	<title>24</title>
+	<link>http://38.96.148.24//MelodyDrama/MDrama_576p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Melody Drama</cname>
+	<item>
+	<title>26</title>
+	<link>http://38.96.148.24//MelodyDrama/MDrama_576p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Melody Classic</cname>
+	<item>
+	<title>206</title>
+	<link>rtmp://38.96.148.206/Melody/MClassicWeb</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Melody Classic</cname>
+	<item>
+	<title>24</title>
+	<link>http://38.96.148.24//MelodyClassic/MClassic_576p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Melody Aflam</cname>
+	<item>
+	<title>206</title>
+	<link>rtmp://38.96.148.206/Melody/MAflamWeb</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Melody Classic</cname>
+	<item>
+	<title>26</title>
+	<link>http://38.96.148.26//MelodyClassic/MClassic_576p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Melody Aflam</cname>
+	<item>
+	<title>24</title>
+	<link>http://38.96.148.24//MelodyAflam/MAflam_576p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Melody Aflam</cname>
+	<item>
+	<title>26</title>
+	<link>http://38.96.148.26//MelodyAflam/MAflam_576p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+		<cname>Melody Hits</cname>	
+		<item>
+			<title>Melody Hits.206</title>
+			<thumbnail>https://lh3.ggpht.com/-DE3GqoUaC4g/UuNmaROcywI/AAAAAAAABDM/trn-g__hU7M/s1600/melody_hits.png</thumbnail>
+			<link>rtmp://38.96.148.206/Melody/ playpath=MHitsWeb swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://freetv247.com/content/melody-hits-channel live=1 timeout=15</link>
+		</item>
+</streaminginfo>
+
+	<streaminginfo>
+		<cname>Melody Hits</cname>
+		<item>
+			<title>Melody Hits .24</title>
+			<thumbnail>https://lh3.ggpht.com/-DE3GqoUaC4g/UuNmaROcywI/AAAAAAAABDM/trn-g__hU7M/s1600/melody_hits.png</thumbnail>
+			<link>http://38.96.148.24//MelodyHits/MHits_576p/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>        
+	<cname>Echorouk Tv</cname>
+        <item>
+    	<title>Low</title>
+	<link>http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>        
+	<cname>Echorouk Tv</cname>
+    <item>
+    <title>F4m</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://live.echoroukonline.com:1935/live/EchoroukTV/manifest.f4m</link>
+	</item>
+</streaminginfo>
+<streaminginfo>        
+	<cname>Echorouk Tv</cname>
+        <item>
+    	<title>SD</title>
+	<link>http://live.echoroukonline.com/live/EchoroukTV_SD/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>        
+		<cname>Al Baghdadia 2</cname>
+        <item>
+    <title>Al Baghdadia 2</title>
+<link>rtmp://cp88746.live.edgefcs.net:1935/live playpath=ALBAG_2_248@180445 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://freetv247.com/tags/al-baghdadia-2-live-tv</link>
+</item>
+</streaminginfo>
+
+	<streaminginfo>
+		<cname>Melody Arabia</cname>
+		<item>
+			<title>Melody arabia HD.24 sab9a</title>
+			<thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_arabia.png</thumbnail>
+			<link>http://38.96.148.24/MelodyArabia/MArabia_576p/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>Melody Arabia</cname>
+		<item>
+			<title>Melody arabia HD.206</title>
+			<thumbnail>http://www.lyngsat-logo.com/hires/mm/melody_arabia.png</thumbnail>
+			<link>rtmp://38.96.148.206/Melody/ playpath=MArabiaWeb swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://freetv247.com/content/melody-hits-channel live=1 swfVfy=1 timeout=15</link>
+		</item>
+	</streaminginfo>
+	
+
+	<streaminginfo>
+  		<cname>LCI</cname>
+		<item>
+			<title>edgefcs</title>
+			<link>rtmp://cp84002.live.edgefcs.net/live playpath=eTF1-LCI-Flash-Int@15274 swfUrl=http://www.wat.tv/images/v40/PlayerWat.swf?revision=4.0.46 swfVfy=true live=true timeout=15</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Alhorreya_Christian</cname>
+		<item>
+			<title>Working</title>
+			<link>rtmp://fms.pwmcdn.com:1935/alhorreya/alhorreya2 timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Logos_Christian</cname>
+		<item>
+			<title>Logos</title>
+			<link>http://68.235.37.110:1935/logoschannel.com/smil:logostv.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MESat_Christian</cname>
+		<item>
+			<title>ME Sat</title>
+			<link>rtmp://roku-stream.mine.nu:1935/koko/_definst_/MeSatChannel timeout=20</link>
+		</item>
+	</streaminginfo>
+	
+
+	
+<streaminginfo><cname>Dubai Sport 1</cname><item><title>you need to install F.T.V Addon Filmon_Source</title><link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fdubai-sports&amp;mode=125&amp;name=Dubai+Sports&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F79%2Fextra_big_logo.png&amp;start=dubai-sports&amp;ch_fanart=79</link>
+</item></streaminginfo>
+
+<streaminginfo><cname>Alarabiya</cname><item><title>you need to install F.T.V Addon Filmon_Source</title><link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fal-arabiya&amp;mode=125&amp;name=Al+Arabiya&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F366%2Fextra_big_logo.png&amp;start=al-arabiya&amp;ch_fanart=366</link>
+</item></streaminginfo>  
+<streaminginfo><cname>iFilm Arabic</cname><item><title>you need to install F.T.V Addon Filmon_Source</title><link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fifilm&amp;mode=125&amp;name=iFilm&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F908%2Fextra_big_logo.png&amp;start=ifilm&amp;ch_fanart=908</link>
+</item></streaminginfo>  
+<streaminginfo><cname>Infinity</cname><item><title>you need to install F.T.V Addon Filmon_Source</title><link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Finfinity-tv&amp;mode=125&amp;name=Infinity+TV&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1766%2Fextra_big_logo.png&amp;start=infinity-tv&amp;ch_fanart=1766</link>
+</item>
+</streaminginfo>  
+ 
+<streaminginfo>
+<cname>MBC 2</cname><item>
+<title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fmbc2&amp;mode=125&amp;name=MBC2&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F368%2Fextra_big_logo.png&amp;start=mbc2&amp;ch_fanart=368</link>
+</item></streaminginfo>
+
+<streaminginfo><cname>Rotana Music</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana&amp;mode=125&amp;name=Rotana&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2600%2Fextra_big_logo.png&amp;start=rotana&amp;ch_fanart=2600</link></item></streaminginfo>
+
+<streaminginfo><cname>Rotana Aflam</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-aflam&amp;mode=125&amp;name=Rotana+Aflam&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2618%2Fextra_big_logo.png&amp;start=rotana-aflam&amp;ch_fanart=2618</link></item></streaminginfo>
+
+<streaminginfo><cname>Rotana Cinema</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-cinema&amp;mode=125&amp;name=Rotana+Cinema&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2615%2Fextra_big_logo.png&amp;start=rotana-cinema&amp;ch_fanart=2615</link></item></streaminginfo>
+
+<streaminginfo><cname>Rotana Classic</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-classic&amp;mode=125&amp;name=Rotana+Classic&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2609%2Fextra_big_logo.png&amp;start=rotana-classic&amp;ch_fanart=2609</link></item></streaminginfo>
+
+<streaminginfo><cname>Rotana Clip</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-clip&amp;mode=125&amp;name=Rotana+Clip&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2603%2Fextra_big_logo.png&amp;start=rotana-clip&amp;ch_fanart=2603</link></item></streaminginfo>
+
+<streaminginfo><cname>Rotana Khaligi</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-khalijiah&amp;mode=125&amp;name=Rotana+Khalijiah&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2606%2Fextra_big_logo.png&amp;start=rotana-khalijiah&amp;ch_fanart=2606</link></item></streaminginfo>
+
+<streaminginfo><cname>Rotana Masriya</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-masriya&amp;mode=125&amp;name=Rotana+Masriya&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2612%2Fextra_big_logo.png&amp;start=rotana-masriya&amp;ch_fanart=2612</link></item></streaminginfo>
+
+<streaminginfo><cname>KSA 1</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-1&amp;mode=125&amp;name=Saudi+Arabian+TV+1&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1775%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-1&amp;ch_fanart=1775</link></item></streaminginfo>
+
+<streaminginfo><cname>KSA 2</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-2&amp;mode=125&amp;name=Saudi+Arabian+TV+2&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1778%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-2&amp;ch_fanart=1778</link></item></streaminginfo>
+
+<streaminginfo><cname>Saudia Sport</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-sports&amp;mode=125&amp;name=Saudi+Arabian+TV+Sports&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1781%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-sports&amp;ch_fanart=1781</link></item></streaminginfo>
+
+
+
+
+
+
+
+
+
+
+<streaminginfo>
+		<cname>TNN</cname>
+		<item>
+		<title>Elahmad</title>
+		<link>rtmp://41.231.53.11/thd/tnn timeout=20</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>KSA 1</cname>
+		<item>
+		<title>Elahmad</title>
+		<link>rtmp://74.50.103.199:1935/live/scsaud1?key=1DF7699BEF2100B54B5F770003AEF11E66B5DD32C3AB969A08536956804CF892.flv</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>KSA 2</cname>
+		<item>
+		<title>Elahmad</title>
+		<link>rtmp://74.50.103.199:1935/live/scsaud2?key=1DF7699BEF2100B54B5F770003AEF11E66B5DD32C3AB969A08536956804CF892.flv</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Aldanah</cname>
+		<item>
+		<title>Low</title>
+		<link>http://94.127.209.149:8080/aldanah/playlist.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>AlYawm</cname>
+	<item>
+	<title>Amradeeb.tv Low</title>
+	<link>rtmp://$doregex[rtmp]/live playpath=amradeebtv9?id=190386 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://mips.tv conn=S:OK live=1 swfVfy=1 timeout=20</link>
+	<regex>
+	<name>rtmp</name>
+	<expres>.*redirect=([\.\d]+)</expres>
+	<page>http://mips.tv:1935/loadbalancer</page>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Aghapy</cname>
+	<item>
+		<title>livestream</title>
+		<link>http://xaghapychannelx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>ONTV Live</cname>
+	<item>
+		<title>live</title>
+		<link>rtmp://50.7.180.18/elONTV/ontvlive_profile1.stream timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>MBC Masr</cname>
+	<item>
+		<title>live</title>
+		<link>http://mbc-live.hds.adaptive.level3.net//hls-live/mbc-channel01/_definst_/live/stream1.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Sada Al Balad</cname>
+	<item>
+		<title>youtubelive</title>
+		<link>plugin://plugin.video.youtube/play/?video_id=jI3sR82er8I</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Sada AlBalad Drama</cname>
+	<item>
+		<title>youtubelive</title>
+		<link>plugin://plugin.video.youtube/play/?video_id=SPHCd3iHqd0</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Sada Al Balad2</cname>
+	<item>
+		<title>+2youtubelive</title>
+		<link>plugin://plugin.video.youtube/play/?video_id=e8JjEZd7a90</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>AlQahera W Elnas</cname>
+	<item>
+		<title>youtubelive</title>
+		<link>plugin://plugin.video.youtube/play/?video_id=I3hPgpTdo8o</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>AlQahera W Elnas 2</cname>
+	<item>
+		<title>youtubelive</title>
+		<link>plugin://plugin.video.youtube/play/?video_id=Cf1tusy0yso</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>CBC</cname>
+	<item>
+		<title>live</title>
+		<link>rtmp://web.iptv-planet.com:1936/live2 playpath=cbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=cbc timeout=15</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Cima</cname>
+	<item>
+		<title>live</title>
+		<link>rtmp://web.iptv-planet.com:1936/live2 playpath=cima swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=cima timeout=15</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Comedy</cname>
+	<item>
+		<title>live</title>
+		<link>rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_nilecomedy swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=nilecomedy timeout=15</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Cinema</cname>
+	<item>
+		<title>live</title>
+		<link>rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_nilecinema swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=nilecinema timeout=15</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Rotana cinema</cname>
+	<item>
+		<title>live</title>
+		<link>rtmp://web.iptv-planet.com:1936/live2 playpath=rc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=rotanafilm timeout=15</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>CBC Drama</cname>
+	<item>
+		<title>live</title>
+		<link>rtmp://web.iptv-planet.com:1936/live2 playpath=cbcd swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=cbc_drama timeout=15</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Zee Aflam</cname>
+<item>
+<title>Ditto</title>
+<link>$doregex[url]|Referer=http://www.dittotv.com/assets/flash/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>"file":"(http.*?)"</expres>
+<page>http://www.dittotv.com/channels/zee-aflam</page>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo><cname>Zee Alwan</cname>
+<item>
+<title>Ditto</title>
+<link>$doregex[url]|Referer=http://www.dittotv.com/assets/flash/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>"file":"(http.*?)"</expres>
+<page>http://www.dittotv.com/channels/zee-alwan</page>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo><cname>Zee Living</cname>
+<item>
+<title>Ditto</title>
+<link>$doregex[url]|Referer=http://www.dittotv.com/assets/flash/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>"file":"(http.*?)"</expres>
+<page>http://www.dittotv.com/channels/z-living</page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>MBC 2</cname>
+	<item>
+	<title>212.179 Source</title>
+	<link>http://212.179.77.42/live/livestream/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Alfath</cname>
+	<item>
+	<title>official Low</title>
+	<link>http://41.128.181.130:1935/live/_definst_/fatehtv.stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Ajman</cname>
+		<item>
+	<title>Streamtheword</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://4623.live.streamtheworld.com/AJMAN_TV?streamtheworld_user=1&amp;simpledownloader=true</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Aljazeera</cname>
+		<item>
+		<title>800</title>
+		<link>http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8</link>  
+		</item> 
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Oman</cname>		
+	<item>		
+	<title>Oman 38</title>		
+	<link>http://38.96.148.30:1935/live/omantv1/chunklist.m3u8?wowzasessionid=1593393582</link>
+	</item>
+</streaminginfo>  
+
+<streaminginfo>
+	<cname>Al Sharqiya News</cname>
+	<item>
+	<title>indexforce</title>
+	<link>rtmp://ns8.indexforce.com/alsharqiyalive/mystream timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Alfajr Int</cname>
+		<item>
+		<title>original</title>
+		<link>rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv_1 timeout=20</link>
+		</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+		<cname>KSA 1</cname>
+		<item>
+	<title>islambox</title>
+	<link>rtmp://ib12.islambox.tv/live/scsaud1?key=DBA762984A1F7F4CBED796ED875019787375A76287A2A385A8763B16A2AEF9FA timeout=20</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Almajd</cname>
+		<item>
+	<title>islambox</title>
+	<link>rtmp://ib12.islambox.tv/live/almhoqur?key=E3C514495F7B7D6C04E64D615E9733F311B948F638FCCAE21768A21BADF49C4B timeout=20</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Somali Channel</cname>
+		<item>
+	<title>islambox</title>
+	<link>rtmp://ib12.islambox.tv/live/1slich?key=D115ADC99071453A005C6DB3172E86D38617013B50067526C5FE64697C5C10C3 timeout=20</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>KSA 2</cname>
+		<item>
+	<title>islambox</title>
+	<link>rtmp://ib12.islambox.tv/live/scsaud2?key=1D8FDF3E380AA8E679416A86A7FE1C5BAEBA5CE1081252A64AF23A5C05E45992 timeout=20</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Aljazeera US</cname>
+		<item>
+	<title>islambox</title>
+	<link>rtmp://ib12.islambox.tv/live/ajeqi500k?key=BA042FAB148DF41C37849F6317C2AA73856563F6D1D75AB2C79D56239F3B6FED timeout=20</link>
+		</item>
+</streaminginfo>
+
+
+
+
+<streaminginfo>
+     <cname>Baraem</cname>
+	<item>
+	<title>78.100</title>
+	<link>http://78.100.40.195:1935/brm/brm/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Aljazeera Children</cname>
+	<item>
+	<title>qna.org</title>
+	<link>rtmp://AgendaStreamerx1.qna.org.qa/jsc/jsc timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>BBC</cname>
+		<item>
+		<title>Livestation</title>
+		<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>CNN</cname>
+		<item>
+		<title>Livestation</title>
+		<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Animal Planet</cname>
+		<item>
+		<title>USTREAM</title>
+		<link>http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028</link>
+		</item>
+</streaminginfo>
+
+
+<streaminginfo>
+		<cname>National Geo Ad</cname>
+		<item>
+		<title>English</title>
+		<link>http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h&amp;hpgdisco_m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>National Geo Wild</cname>
+	<item>
+	<title>PROFILE</title>
+ 	<link>http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>AlYawm</cname>
+<item>
+<title>Ustream</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20179743/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+
+<streaminginfo>
+<cname>Abu Dhabi</cname>
+<item>
+<title>Gujal</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xmlurl</name>
+<expres>file="(http.*?)"</expres>
+<page>http://www.teles-live.com/iptv/?ch=abu_dhabi</page>
+<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Zee Alwan</cname>
+<item>
+<title>Gujal</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xmlurl</name>
+<expres>file="(http.*?)"</expres>
+<page>http://www.teles-live.com/iptv/?ch=zee_alwan</page>
+<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Samira Tv</cname>
+<item>
+<title>Gujal</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xmlurl</name>
+<expres>file="(http.*?)"</expres>
+<page>http://www.teles-live.com/iptv/?ch=samira_tv</page>
+<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Zee Aflam</cname>
+<item>
+<title>Gujal</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xmlurl</name>
+<expres>file="(http.*?)"</expres>
+<page>http://www.teles-live.com/iptv/?ch=ze_aflam</page>
+<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>MBC 3</cname>
+<item>
+<title>Gujal</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xmlurl</name>
+<expres>file="(http.*?)"</expres>
+<page>http://www.teles-live.com/iptv/?ch=mbc_3</page>
+<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>MBC 4</cname>
+<item>
+<title>Gujal</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xmlurl</name>
+<expres>file="(http.*?)"</expres>
+<page>http://www.teles-live.com/iptv/?ch=mbc_4</page>
+<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC Drama</cname>
+<item>
+<title>Gujal</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xmlurl</name>
+<expres>file="(http.*?)"</expres>
+<page>http://www.teles-live.com/iptv/?ch=mbc_drama</page>
+<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Alhayat 1</cname>
+<item>
+<title>Gujal</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xmlurl</name>
+<expres>file="(http.*?)"</expres>
+<page>http://www.teles-live.com/iptv/?ch=alhayat_1</page>
+<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Abu Dhabi Drama</cname>
+<item>
+<title>Gujal</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xmlurl</name>
+<expres>file="(http.*?)"</expres>
+<page>http://www.teles-live.com/iptv/?ch=abu_dhabi_drama</page>
+<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Fox Movies</cname>
+<item>
+<title>Gujal</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xmlurl</name>
+<expres>file="(http.*?)"</expres>
+<page>http://www.teles-live.com/iptv/?ch=fox_movies</page>
+<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Al Hiwar Ettounsi</cname>
+<item>
+<title>Gujal</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>xmlurl</name>
+<expres>file="(http.*?)"</expres>
+<page>http://www.teles-live.com/iptv/?ch=al_tunisia</page>
+<referer>http://www.teles-live.com/players/jwplayer6/jwplayer.flash.swf</referer>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+
+<streaminginfo>
+	<cname>Discovery World</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Discovery</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Discovery History</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Discovery+History</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Discovery Science</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Discovery+Science</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Disney</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Disney</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Disney Junior</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Disney+Junior</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>National Geo FR</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Nat+Geo</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>CNN</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=CNN</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>National Geo Wild</cname>
+	<item>
+	<title>720P freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Nat+Geo+HD</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>National Geo Wild</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Nat+Geo+Wild</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Animal Planet</cname>
+	<item>
+	<title>freestreams SVR2</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Animal+Planett</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Animal Planet</cname>
+	<item>
+	<title>freestreams SVR1</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=Animal+Planet</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>MTV Music</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=MTV</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>MTV Hits</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=MTV+Hits</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>MTV Classic</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=MTV+Classic</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>VH1</cname>
+	<item>
+	<title>freestreams</title>
+ 	<link>plugin://plugin.video.freestreams/?url=none&amp;mode=200&amp;name=VH1</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo><cname>CBC Sofra</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=K8XaIiikpAo</link></item></streaminginfo>
+<streaminginfo><cname>CBC</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=1yEMLzYzE1g</link></item></streaminginfo>
+<streaminginfo><cname>CBC Drama</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=uMvhnVugCjo</link></item></streaminginfo>
+<streaminginfo><cname>CBC Extra</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=r7ammFV2blg</link></item></streaminginfo>
+<streaminginfo><cname>sunnah TV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=VopbGPJVkzM</link></item></streaminginfo>
+<streaminginfo><cname>KSA 2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=auknwfAzgxU</link></item></streaminginfo>
+<streaminginfo><cname>KSA 1</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=lQq0d1LEL7M</link></item></streaminginfo>
+<streaminginfo><cname>Aljazeera</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=nP1S7mDiLI8</link></item></streaminginfo>
+<streaminginfo><cname>Russia Alyaum</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=TGGCy5aMqC0</link></item></streaminginfo>
+<streaminginfo><cname>BBC Arabic</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=m0RMXgxMhs8</link></item></streaminginfo>
+<streaminginfo><cname>France 24</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=BBC Arabic</link></item></streaminginfo>
+<streaminginfo><cname>Alarabiya</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=rlvfffhWo2A</link></item></streaminginfo>
+<streaminginfo><cname>Aljazeera En</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=VBEmqvVPOX4</link></item></streaminginfo>
+<streaminginfo><cname>Al Manar</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=fbe_4BJrkgE</link></item></streaminginfo>
+<streaminginfo><cname>Quran TV ksa</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ArVmnth5jB4</link></item></streaminginfo>
+<streaminginfo><cname>Al mayaden</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=04uzP251PoY</link></item></streaminginfo>
+<streaminginfo><cname>Syria</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=xEDa86_GbLc</link></item></streaminginfo>
+<streaminginfo><cname>Elsharq</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=8ITFSKZAXD4</link></item></streaminginfo>
+<streaminginfo><cname>ALNADATV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=0G6qeODyRbc</link></item></streaminginfo>
+<streaminginfo><cname>Sada Al Balad</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=2Iyj2w2MyWw</link></item></streaminginfo>
+<streaminginfo><cname>Sada Al Balad2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=vNMoT8fEn2I</link></item></streaminginfo>
+<streaminginfo><cname>Sada Al Balad Drama</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=7NgyiRV8Fas</link></item></streaminginfo>
+<streaminginfo><cname>Al Ikhbaria Syria</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=hRnzrZUA8HQ</link></item></streaminginfo>
+<streaminginfo><cname>Syria Drama</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=jQ3FLYOGdI4</link></item></streaminginfo>
+<streaminginfo><cname>Syria Sedu</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=YUjvvHH24C0</link></item></streaminginfo>
+<streaminginfo><cname>Syria Talaqie</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=l5hASDATpao</link></item></streaminginfo>
+<streaminginfo><cname>Syria Nour</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=KLwvAxk6NGI</link></item></streaminginfo>
+<streaminginfo><cname>Aljazeera Doc</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=UhZvyaH02FU</link></item></streaminginfo>
+<streaminginfo><cname>Al Eqtisadiyah</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=V7e4jhxLlEQ</link></item></streaminginfo>
+<streaminginfo><cname>Mecca</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ArVmnth5jB4</link></item></streaminginfo>
+<streaminginfo><cname>AlQahera W Elnas</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=FFmuojTII7I</link></item></streaminginfo>
+<streaminginfo><cname>AlQahera W Elnas 2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=N4Trs03VKT4</link></item></streaminginfo>
+<streaminginfo><cname>Euro News Arabic</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=vFgvp3GQgkU</link></item></streaminginfo>
+<streaminginfo><cname>TRT Arabic</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=6PXPxuR87F8</link></item></streaminginfo>
+<streaminginfo><cname>On TV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=y7B3BqUJbtk</link></item></streaminginfo>
+<streaminginfo><cname>Ajyal</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=9KeJCpmjjCE</link></item></streaminginfo>
+<streaminginfo><cname>KSA News</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=cCe0Hzqjhso</link></item></streaminginfo>
+<streaminginfo><cname>sunnah TV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=4OoKpZWJASY</link></item></streaminginfo>
+<streaminginfo><cname>Al sahraa</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=rjt-txSdnIM</link></item></streaminginfo>
+<streaminginfo><cname>Rotana Khaligi</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=d7PSti__6-E</link></item></streaminginfo>
+<streaminginfo><cname>Belqees</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=dfO8X01YCjY</link></item></streaminginfo>
+<streaminginfo><cname>Aljazeera Mubasher</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=QOq1R1kWmXM</link></item></streaminginfo>
+<streaminginfo><cname>Roya</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=9_EQ_4WVSvk</link></item></streaminginfo>
+<streaminginfo><cname>Almajlis</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=JXjXSl3HQBU</link></item></streaminginfo>
+<streaminginfo><cname>Saudia Sport</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=IQB3n_BEQeg</link></item></streaminginfo>
+<streaminginfo><cname>ONTV Live</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=lGPBmTSQHuY</link></item></streaminginfo>
+
+
+<streaminginfo>
+	<cname>Alfallujah</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/4671269/events/4213685/player?width=560&amp;height=315&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Elsharq</cname>
+	<item>
+	<title>Med</title>
+	<link>http://cdn.technohood.net:1935/elsharqtv/smil:elsharq_live.smil/chunklist_w944370531_b978000_sleng.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Elsharq</cname>
+	<item>
+	<title>Med1</title>
+	<link>http://cdn.technohood.net:1935/elsharqtv/smil:elsharq_live.smil/chunklist_w944370531_b3128000_sleng.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Elsharq</cname>
+	<item>
+	<title>1080</title>
+	<link>http://cdn.technohood.net:1935/elsharqtv/smil:elsharq_live.smil/chunklist_w944370531_b2128000_sleng.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+<cname>Tamazigh Algeria</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/tamazight-tv-4/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>AlGeria</cname>
+<item>
+<title>300</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/canal-algerie/?bitrate=300&amp;format=hls&amp;language=fr</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>AlGeria</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/canal-algerie/?bitrate=800&amp;format=hls&amp;language=fr</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Coran</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/coran-tv-5/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Russia Alyaum</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/russia-al-yaum/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>i24News</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/i24-news-arabic/?bitrate=800&amp;format=hls&amp;language=fr</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>France 24</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/france-24-arabe/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Euro News Arabic</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/euronews-ar/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Medi 1 Sat</cname>
+<item>
+<title>300</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/medi-1-tv/?bitrate=300&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Medi 1 Sat</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/medi-1-tv/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>2M</cname>
+<item>
+<title>300</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/2m-maroc/?bitrate=300&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>2M</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/2m-maroc/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Beur</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/beur-tv/?bitrate=800&amp;format=hls&amp;language=fr</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Heya</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/arab-woman-tv/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MFM</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/mfm-tv/?bitrate=800&amp;format=hls&amp;language=fr</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+
+<streaminginfo>
+<cname>Canal Atlas</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/canal-atlas/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>M Tunisia</cname>
+	<item>
+	<title>streaminghd Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/MTunisia-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>France 24</cname>
+	<item>
+	<title>streaminghd Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/France-24</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Alinsen</cname>
+	<item>
+	<title>streaminghd Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Insen-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mazzika Zoom</cname>
+	<item>
+	<title>livestream</title>
+	<link>plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=NogoumFM+-+NogoumFMTV+Live+Stream%21&amp;icon=http%3A%2F%2Fimg.new.livestream.com%2Fevents%2F0000000000276662%2Fb7c8c528-e94e-4354-97b5-f03f1ddc8b1f_387x581.png&amp;event_id=2582114&amp;owner_id=6297509</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Al Magharibia</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/9841337/events/3348791/player?width=560&amp;height=315&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Alasr</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/1314548/events/4393184/player?width=560&amp;height=315&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Al Magharibia 2</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/7861901/events/4426115/player?width=560&amp;height=315&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>CNBC Arabic</cname>
+	<item>
+	<title>Med2</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/3102016/events/1914609/player?width=560&amp;height=315&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>CNBC Arabic</cname>
+	<item>
+	<title>You need Livestream Addon</title>
+	<link>plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=CNBC+Arabia+-+CNBC+Arabia+Live&amp;icon=http%3A%2F%2Fimg.new.livestream.com%2Fevents%2F00000000001d36f1%2F6b3d2f7f-28ec-4abc-8dff-3f26724de0f5_31x47.png&amp;event_id=1914609&amp;owner_id=3102016</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Alghad Alarabi</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/2836938/events/2330953/player?width=560&amp;height=315&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Canary Kids</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/13608789/events/4113534/player?width=560&amp;height=315&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo><cname>Alarabiya</cname><item><title>Official</title><link>http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Alarabiya Ahdas</cname><item><title>offcial</title><link>http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8</link></item></streaminginfo>
+<streaminginfo>
+	<cname>Al mayaden</cname>
+	<item>
+	<title>iranproud.com</title>
+	<link>http://63.237.48.23/ios/ALMAYADEEN/ALMAYADEEN.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bzaf</cname>
+	<item>
+	<title>Med working</title>
+	<link>rtmp://ccfz.dyndns.org:4425/bzaf/livestream swfUrl=http://bzaf.tv/video-js/music/video-js/video-js.swf pageUrl=http://bzaf.tv/live_streaming.php timeout=15 live=1</link>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+        <cname>Dzair tv</cname>
+        <item>
+            <title>High iptv-planet</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <page>http://iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <page>http://iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+</streaminginfo>
+<streaminginfo>
+        <cname>KBC Algeria</cname>
+        <item>
+            <title>High iptv-planet</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=kbc_algeria&amp;width=600&amp;height=400 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <page>http://iptv-planet.com/embed.php?id=kbc_algeria&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <page>http://iptv-planet.com/embed.php?id=kbc_algeria&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Elheddaf</cname>
+        <item>
+            <title>Highiptv-planet</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=el_heddaf_tv&amp;width=600&amp;height=400 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <page>http://iptv-planet.com/embed.php?id=el_heddaf_tv&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <page>http://iptv-planet.com/embed.php?id=el_heddaf_tv&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee Alwan</cname>
+        <item>
+            <title>Highiptv-planet</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=zee_alwan&amp;width=600&amp;height=400 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <page>http://iptv-planet.com/embed.php?id=zee_alwan&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <page>http://iptv-planet.com/embed.php?id=zee_alwan&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+</streaminginfo>
+
+
+</streamingInfos>
