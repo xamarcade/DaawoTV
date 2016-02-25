@@ -1224,13 +1224,7 @@
 		<link>http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8</link>
 		</item>
 </streaminginfo>
-<streaminginfo>
-		<cname>Abu Dhabi Sports 1</cname>
-		<item>
-		<title>web.tv</title>		
-		<link>http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8</link>
-		</item>
-</streaminginfo>
+
 <streaminginfo>
 		<cname>Abu Dhabi Sports 3</cname>
 		<item>
@@ -1244,28 +1238,6 @@
 		<title>web.tv</title>		
 		<link>http://origin.live.web.tv.streamprovider.net/streams/8cbc1bc6c935f62ac2e44c5b2854f3ca_live_0_0/index.m3u8</link>
 		</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Abu Dhabi Sports 1</cname>
-	<item>
-	<title>Low</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport1hd/chunklist_b440000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Sports 1</cname>
-	<item>
-	<title>Med</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport1hd/chunklist_b528000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Sports 1</cname>
-	<item>
-	<title>High</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8</link>
-	</item>
 </streaminginfo>
 
 
