@@ -31,6 +31,6 @@
 	<file fname="../settings.xml" /> 
 	<file fname="../language/english/strings.xml"  />
 	<file fname="../language/french/strings.xml" url="https://raw.githubusercontent.com/allouch89/ShaniXBMCdatabase/master/french/strings.xml" />
-	<file fname="../../default.py" /> 
+		<file fname="../../default.py" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/plugin.video.DaawoTV/default.py" />  
 	<file fname="IPTVPlanetUrls.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/IPTVPlanetUrls.xml"/> 
 </resources>
