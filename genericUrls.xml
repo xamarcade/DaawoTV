@@ -2,13 +2,7 @@
 
 <!-- Somalian Channels Start -->
 
-<streaminginfo>
-	<cname>Africa TV4</cname>
-	<item>
-	<title>Low</title>		
-	<link>http://africatv.live.net.sa:1935/live/africatv4/playlist.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Dalmar TV</cname>
 	<item><title>Youtube - High</title>
