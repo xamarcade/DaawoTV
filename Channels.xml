@@ -1240,6 +1240,146 @@
 	</assignedcategory>
 </channel>
 
+<!-- Sweden Channels End -->
+
+<!-- OSN Channels Start -->
+
+
+<channel>
+	<cname>OSN Box Offiece 1</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/BO1.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>OSN Movies Drama</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/OCM.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>OSN Movies Festival</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/OMF.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>OSN ON Demand 2</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/VHD.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>OSN First Comedy</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/OCO.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>OSN Sport 2 HD</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/SP2.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>OSN Movies Premiere HD</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/OPR.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>OSN Star World</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/STW.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>OSN Cinema 1</cname>
+	<imageurl>http://www.shoofeetv.com/images/2013/09/20130910194611_channelsbig.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>OSN Cinema 2</cname>
+	<imageurl>https://static.elcinema.com/images/channels/160px/1151.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>OSN Movies HD</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/OM1.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>OSN Movies Action +2</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/OMA.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>OSN Movies Action HD</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/AHD.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Animal Planet HD</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/APL.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>doc</category>
+	</assignedcategory>
+</channel>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3119,16 +3259,16 @@
 </channel>	
 
 
-
+<!--
 <channel>
 	<cname>Bein Movies 2</cname>
 	<imageurl>http://store2.up-00.com/2016-02/145644345135511.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>drama</category>
+	<category>ent</category>
 	</assignedcategory>
 </channel>
-
+-->
 <channel>
 	<cname>Bein Sport News</cname>
 	<imageurl>http://store1.up-00.com/2016-02/1456442123811.png</imageurl>

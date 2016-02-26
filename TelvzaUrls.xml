@@ -9,20 +9,6 @@
 	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/217.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Rai 1</cname>
-	<item>
-	<title>Monte: High</title>
-	<link>http://tvservice.webhop.me:80/live/monte/monte/217.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Rai 1</cname>
-	<item>
-	<title>Hisa: High</title>
-	<link>http://ipsatpro.com:8000/live/hisa/hisa/693.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>Rai 2</cname>
@@ -73,13 +59,6 @@
 <streaminginfo>
 	<cname>Rai Sport 1</cname>
 	<item>
-	<title>Monte: High</title>
-	<link>http://tvservice.webhop.me:80/live/monte/monte/1551.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Rai Sport 1</cname>
-	<item>
 	<title>Hisa: High</title>
 	<link>http://ipsatpro.com:8000/live/hisa/hisa/639.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
@@ -90,13 +69,6 @@
 	<item>
 	<title>Fratelli: High</title>
 	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/2048.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Rai Sport 2</cname>
-	<item>
-	<title>Monte: High</title>
-	<link>http://tvservice.webhop.me:80/live/monte/monte/2048.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -114,13 +86,7 @@
 	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/221.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Canale 5</cname>
-	<item>
-	<title>Monte: High</title>
-	<link>http://tvservice.webhop.me:80/live/monte/monte/221.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Canale 5</cname>
 	<item>
@@ -136,13 +102,7 @@
 	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/222.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Italia 1</cname>
-	<item>
-	<title>Monte: High</title>
-	<link>http://tvservice.webhop.me:80/live/monte/monte/222.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Italia 1</cname>
 	<item>
@@ -158,13 +118,7 @@
 	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/220.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Rete 4</cname>
-	<item>
-	<title>Monte: High</title>
-	<link>http://tvservice.webhop.me:80/live/monte/monte/220.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
+
 <!-- Italy Channels End -->
 <!-- Sweden Channels Start -->
 

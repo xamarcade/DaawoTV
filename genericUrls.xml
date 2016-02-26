@@ -597,6 +597,8 @@
 
 
 <!-- Indian Channels End -->
+<!-- Bein Sport Channels Start -->
+
 
 <streaminginfo>
 	<cname>Bein 1 FR</cname>
@@ -655,6 +657,13 @@
 	<item>
 	<title>PTC: High</title>
 	<link>http://80.243.189.26:8889/bein/sports2/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 2</cname>
+	<item>
+	<title>Hisa: High2</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/1225.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -770,7 +779,6 @@
 	</item>
 </streaminginfo>
 
-
 <streaminginfo>
 	<cname>Bein Sport 10</cname>
 	<item>
@@ -785,7 +793,6 @@
 	<link>http://ipsatpro.com:8000/live/hisa/hisa/160.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
-
 
 <streaminginfo>
 	<cname>Bein Sport 11</cname>
@@ -818,9 +825,6 @@
 	</item>
 </streaminginfo>
 
-
-
-
 <streaminginfo>
 	<cname>Bein Movies 2</cname>
 	<item>
@@ -828,6 +832,162 @@
 	<link>http://ipsatpro.com:8000/live/hisa/hisa/1225.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
+
+
+<!-- Bein Sport Channels End -->
+
+<!-- Osn Channels Start -->
+
+
+<streaminginfo>
+	<cname>OSN Box Offiece 1</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/1196.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Drama</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/1198.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Festival</cname>
+	<item>
+	<title>Hisa: High2</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/182.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Festival</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/1197.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>OSN ON Demand 2</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/1191.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN First Comedy</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/1194.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Sport 2 HD</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/1186.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Premiere HD</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/1184.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Star World</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/1182.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Cinema 1</cname>
+	<item>
+	<title>Miralem1: High</title>
+	<link>http://ipsatpro.com:8000/live/miralem1/miralem1/177.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Cinema 1</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/177.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Cinema 2</cname>
+	<item>
+	<title>Miralem1: High</title>
+	<link>http://ipsatpro.com:8000/live/miralem1/miralem1/176.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Cinema 2</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/176.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>OSN Movies HD</cname>
+	<item>
+	<title>Miralem1: High</title>
+	<link>http://ipsatpro.com:8000/live/miralem1/miralem1/178.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies HD</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/171.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Action +2</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/174.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Action HD</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/173.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Animal Planet HD</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/181.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+
+
+
+
+
 
 
 
@@ -1068,7 +1228,8 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo><cname>MBC Drama</cname><item><title>Sami</title><link>http://streamup.global.ssl.fastly.net/app/sami2016s-channel/chunklist.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>MBC Drama</cname><item><title>Hisa: High</title><link>http://ipsatpro.com:8000/live/hisa/hisa/172.m3u8|X-Forwarded-For=83.249.111.198</link></item></streaminginfo>
 <streaminginfo><cname>Zaitouna</cname><item><title>wowzacontrol.com</title><link>http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8</link></item></streaminginfo>
 
 
@@ -4122,6 +4283,7 @@
 </regex>
 </item>
 </streaminginfo>
+<!--
 <streaminginfo>
 <cname>MBC Drama</cname>
 <item>
@@ -4140,7 +4302,7 @@
 </regex>
 </item>
 </streaminginfo>
-
+-->
 <streaminginfo>
 <cname>Alhayat 1</cname>
 <item>
