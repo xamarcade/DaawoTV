@@ -1009,14 +1009,6 @@
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>C more Extreme</cname>
-	<imageurl>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_extreme.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
-<channel>
 	<cname>C more Tennis</cname>
 	<imageurl>http://www.allatvkanaler.se/imagestv/cmore_tennis.png</imageurl>
 	<enabled>True</enabled>
@@ -2724,25 +2716,6 @@
  	<category>sports</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Abu Dhabi Sports 2</cname>
-	<imageurl>http://s4.postimg.org/lqap9r9zx/Abu_dhabi_sport2.jpg</imageurl>
-	<enabled>True</enabled>
-	<enabled>True</enabled>
-	<assignedcategory>
- 	<category>sports</category>
-	</assignedcategory>
-</channel>
-
-
-<channel>
-	<cname>BEIN US</cname>
-	<imageurl>http://www.beinsports.tv/i/beINSport/site/header/favicon/favicon-196x196.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
 	
 	
 <channel>
@@ -3145,9 +3118,20 @@
 	</assignedcategory>
 </channel>	
 
+
+
+<channel>
+	<cname>Bein Movies 2</cname>
+	<imageurl>http://store2.up-00.com/2016-02/145644345135511.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
+
 <channel>
 	<cname>Bein Sport News</cname>
-	<imageurl>https://lh6.googleusercontent.com/-56L601mTIFA/U6kr2iiiXmI/AAAAAAAAAHw/uF4dMVWgvLs/BS%252520News.jpg</imageurl>
+	<imageurl>http://store1.up-00.com/2016-02/1456442123811.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -3368,6 +3352,7 @@
 	<imageurl>http://s14.postimg.org/9entvw935/sofra.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
+	<category>cook</category>
 	<category>egypt</category>
 	</assignedcategory>
 </channel>	
@@ -3545,7 +3530,7 @@
 	<imageurl>http://s23.postimg.org/dm4ljjqzv/140614090935190.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>ent</category>
+	<category>cook</category>
 	</assignedcategory>
 </channel>	
 	
