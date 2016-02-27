@@ -22,7 +22,7 @@
     	<file fname="iptvosnUrls.xml"/>
 
 	<file fname="palestinecoolUrls.xml" url="http://goo.gl/yNlwCM"/>
-	<file fname="ZombiList.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/zombiList.xml"/>	
+	<file fname="ZombiList.xml" url="https://raw.githubusercontent.com/zombiB/Replay/master/zombiList.xml"/>	
     	<file fname="emadUrls.xml"  url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/emadUrls.xml"/>
 	<file fname="filmonUrls.xml"/> 
 	<file fname="filmonPlayer.py"/> 
