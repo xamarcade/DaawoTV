@@ -1611,17 +1611,6 @@
     </assignedcategory>
 </channel>
 
-
-
-<channel>
-      <cname>Elheddaf</cname>
-      <imageurl>http://www.elheddaf.com/themes/frontend/images/css-images/logo.png</imageurl>
-      <enabled>True</enabled>
-      <assignedcategory>
-      <category>dzair</category>
-      <category>sports</category>
-      </assignedcategory>
-</channel>
 <channel>
 	<cname>Houna Baghdad</cname>
 	<imageurl>http://honabaghdad.com/main/images/logo.png</imageurl>
@@ -1782,6 +1771,7 @@
 	<category>sports</category>
 	</assignedcategory>
 </channel>
+<!--
 <channel>
 	<cname>MBC PRO SP2</cname>
 	<imageurl>http://4.bp.blogspot.com/-_2AeR_zTeQQ/U-GBhLkIgOI/AAAAAAAAC4Y/s0t01dwIgmY/s70-p/MBC+Pro+SP2+EF.png</imageurl>
@@ -1790,6 +1780,7 @@
 	<category>sports</category>
 	</assignedcategory>
 </channel>
+-->
 <channel>
 	<cname>MBC PRO SP3</cname>
 	<imageurl>http://1.bp.blogspot.com/-q5DyrQNSHFE/U-GBDaRryGI/AAAAAAAAC4Q/WkS5OOyttWA/s70-p/MBC+Pro+SP3+EF.png</imageurl>
@@ -2049,16 +2040,8 @@
 
 
 <channel>
-	<cname>EuroSport German</cname>
+	<cname>Eurosport 1</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/ee/eurosport.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Eurosport France</cname>
-	<imageurl>http://logostv.netii.net/Eurosport.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -2066,7 +2049,7 @@
 </channel>
 	
 <channel>
-	<cname>Eurosport 2 France</cname>
+	<cname>Eurosport 2</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/ee/eurosport2.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -2708,17 +2691,7 @@
 	</assignedcategory>
 </channel>
 
-    
-
-	
-<channel>
-	<cname>Iraqiya Sport</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/ar/6/6b/64cd614655vg2.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
+    	
 	
 
 
@@ -3404,24 +3377,6 @@
 </channel>	
 
 <channel>
-	<cname>Bein Sport 14</cname>
-	<imageurl>https://lh4.googleusercontent.com/-05c1zSvWo20/U443r8E6AUI/AAAAAAAAAVU/i4sqePSUwBQ/w140-h140-p/bein%2Bsport%2B14HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 15</cname>
-	<imageurl>http://4.bp.blogspot.com/--mWDulrZbs0/U443sFSRmyI/AAAAAAAAAVQ/tU5Inh8YGdo/s200/bein+sport+15HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
 	<cname>BAHRAIN SPORTS</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/bhrinsport_zps0d9b45b2.png</imageurl>
 	<enabled>True</enabled>
@@ -3537,15 +3492,7 @@
 	</assignedcategory>
 </channel>	
 	
-    
-<channel>
-	<cname>Canal+ Sport</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_sport.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
+
 
 <channel>
 	<cname>Cartoon Network</cname>
@@ -3603,7 +3550,7 @@
 </channel>	
 <channel>
 	<cname>Dubai Racing</cname>
-	<imageurl>https://pbs.twimg.com/profile_images/420596012915236864/kTVVbQiz_400x400.jpeg</imageurl>
+	<imageurl>https://pbs.twimg.com/profile_images/646948899488272386/usaPbtAK.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -3618,15 +3565,7 @@
 	<category>sports</category>
 	</assignedcategory>
 </channel>	
-
-<channel>
-	<cname>Dubai Sport 2</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/dubibundes_zpsbdbd88cf.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
+	
   <channel>
 	<cname>Dubai Sport 3</cname>
 	<imageurl>http://s30.postimg.org/yi4m0r6a9/Dubai_sport_3.png</imageurl>
@@ -4217,15 +4156,6 @@
 	</assignedcategory>
 </channel>	
 
-<channel>
-	<cname>Tele Sports</cname>
-	<imageurl>http://www.teledunet.com/player/icones/tele_sports.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
 	
 <channel>
 	<cname>Time Drama</cname>
@@ -4512,23 +4442,7 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Bein 1 FR</cname>
-	<imageurl>http://www.futbolenlatv.com/fotos/20140113121534-bein-1-hd-fr.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-		<category>sports</category>
-	</assignedcategory>
-</channel>	
 
-<channel>
-	<cname>Bein 2 FR</cname>
-	<imageurl>http://www.futbolenlatv.com/fotos/20140113121607-bein-2-hd-fr.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-		<category>sports</category>
-	</assignedcategory>
-</channel>	
 
 
 		
@@ -4782,14 +4696,6 @@
      </assignedcategory>
 </channel>
 
-<channel>
-     <cname>Gladiator</cname>
-     <imageurl>http://www.lyngsat-logo.com/logo/tv/gg/gladiator_tv.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>sports</category>
-     </assignedcategory>
-</channel>
 
 <channel>
      <cname>RAK</cname>

@@ -599,51 +599,27 @@
 <!-- Indian Channels End -->
 <!-- Bein Sport Channels Start -->
 
-
-<streaminginfo>
-	<cname>Bein 1 FR</cname>
-	<item>
-	<title>High</title>
-	<link>http://167.114.41.215:8080/bein1fr_j/bein1fr_j/index.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein 1 FR</cname>
-	<item>
-	<title>High2</title>
-	<link>http://80.243.189.26:9909/pakindiatv/beinmas1/index.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein 1 FR</cname>
-	<item>
-	<title>High3</title>
-	<link>http://80.243.189.26:9909/bein/sports1/index.m3u8</link>
-	</item>
+<streaminginfo> 
+<cname>Bein Sport News</cname>
+<item>
+<title>Official</title>
+<link>http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8</link>
+</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Bein 2 FR</cname>
-	<item>
-	<title>High</title>
-	<link>http://80.243.189.26:9999/bein/sports2/index.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein 2 FR</cname>
-	<item>
-	<title>High2</title>
-	<link>http://167.114.41.215:8080/bein2_raf/bein2_raf/index.m3u8</link>
-	</item>
-</streaminginfo>
+	<streaminginfo>
+		<cname>LPC</cname>
+		<item>
+			<title>ustream</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20753403/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex>
+		</item>
+	</streaminginfo>
 
-<streaminginfo>
-	<cname>Bein Sport 1</cname>
-	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports1/index.m3u8</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 1</cname>
 	<item>
@@ -655,32 +631,11 @@
 <streaminginfo>
 	<cname>Bein Sport 2</cname>
 	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports2/index.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
-	<title>Hisa: High2</title>
-	<link>http://ipsatpro.com:8000/live/hisa/hisa/1225.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
 	<title>Hisa: High</title>
 	<link>http://ipsatpro.com:8000/live/hisa/hisa/168.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Bein Sport 3</cname>
-	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports3/index.m3u8</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 3</cname>
 	<item>
@@ -692,25 +647,11 @@
 <streaminginfo>
 	<cname>Bein Sport 4</cname>
 	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports4/index.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 4</cname>
-	<item>
 	<title>Hisa: High</title>
 	<link>http://ipsatpro.com:8000/live/hisa/hisa/166.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Bein Sport 5</cname>
-	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports5/index.m3u8</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 5</cname>
 	<item>
@@ -722,25 +663,11 @@
 <streaminginfo>
 	<cname>Bein Sport 6</cname>
 	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports6/index.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 6</cname>
-	<item>
 	<title>Hisa: High</title>
 	<link>http://ipsatpro.com:8000/live/hisa/hisa/164.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Bein Sport 7</cname>
-	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports7/index.m3u8</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 7</cname>
 	<item>
@@ -752,25 +679,11 @@
 <streaminginfo>
 	<cname>Bein Sport 8</cname>
 	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports8/index.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 8</cname>
-	<item>
 	<title>Hisa: High</title>
 	<link>http://ipsatpro.com:8000/live/hisa/hisa/162.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Bein Sport 9</cname>
-	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports9/index.m3u8</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 9</cname>
 	<item>
@@ -782,13 +695,6 @@
 <streaminginfo>
 	<cname>Bein Sport 10</cname>
 	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports10/index.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 10</cname>
-	<item>
 	<title>Hisa: High</title>
 	<link>http://ipsatpro.com:8000/live/hisa/hisa/160.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
@@ -797,23 +703,8 @@
 <streaminginfo>
 	<cname>Bein Sport 11</cname>
 	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/pakindiatv/beinmas11/index.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 11</cname>
-	<item>
 	<title>Hisa: High</title>
 	<link>http://ipsatpro.com:8000/live/hisa/hisa/159.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Bein Sport 12</cname>
-	<item>
-	<title>High (English)</title>
-	<link>http://167.114.41.215:8080/bein12_raf/bein12_raf/index.m3u8</link>
 	</item>
 </streaminginfo>
 
@@ -942,7 +833,6 @@
 	</item>
 </streaminginfo>
 
-
 <streaminginfo>
 	<cname>OSN Movies HD</cname>
 	<item>
@@ -974,7 +864,6 @@
 	</item>
 </streaminginfo>
 
-
 <streaminginfo>
 	<cname>Animal Planet HD</cname>
 	<item>
@@ -983,10 +872,115 @@
 	</item>
 </streaminginfo>
 
+<!-- Osn Channels END -->
+
+<!-- Sports Channels Start -->
+
+<streaminginfo>
+	<cname>MBC PRO SP1</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/1244.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>MBC PRO SP3</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/1246.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>MBC PRO SP4</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/1247.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+<streaminginfo>
+	<cname>Sky Sports F1</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/539.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 4</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/530.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 3</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/531.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 2</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/532.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 1</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/533.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Chelsea TV</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/537.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Eurosport 1</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/541.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Eurosport 2</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/540.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+
+
+
+
+
+
+<streaminginfo>
+	<cname>NBCSN</cname>
+	<item>
+	<title>Hisa: High</title>
+	<link>http://ipsatpro.com:8000/live/hisa/hisa/1170.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
 
 
 
@@ -1004,26 +998,7 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo> 
-<cname>Bein Sport News</cname>
-<item>
-<title>Official</title>
-<link>http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8</link>
-</item>
-</streaminginfo>
 
-	<streaminginfo>
-		<cname>LPC</cname>
-		<item>
-			<title>ustream</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20753403/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex>
-		</item>
-	</streaminginfo>
 
 
 <streaminginfo>
@@ -1440,9 +1415,11 @@
 		<cname>Dubai Sport 3</cname>
 		<item>
 		<title>web.tv</title>		
-		<link>http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8</link>
+		<link>http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8?stime=20160221005200&amp;etime=20160227205520&amp;token=09326df29f760b3832311
+</link>
 		</item>
 </streaminginfo>
+
 <streaminginfo>
 		<cname>Abu Dhabi Sports 1</cname>
 		<item>
@@ -2038,6 +2015,7 @@
 </regex>
 </item>
 </streaminginfo>
+
 
 
 

@@ -1754,25 +1754,12 @@
 	<link>http://xaladalatvx.api.channel.livestream.com/3.0/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-   	<cname>Sharjah Sport</cname>
-	<item>
-	<title>Low</title>
-	<link>http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_160p/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Sharjah Sport</cname>
-	<item>
-	<title>Med</title>
-	<link>http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_240p/playlist.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
    	<cname>Sharjah Sport</cname>
 	<item>
 	<title>High</title>
-	<link>http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p/playlist.m3u8</link>
+	<link>rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p</link>
 	</item>
 </streaminginfo>
 
@@ -2468,7 +2455,7 @@
 	<cname>KTV SPORT</cname>
 	<item>
 	<title>media.gov.kw</title>
-	<link>rtmp://91.140.238.7/rtmplive/rtpencoder/ch3.sdp timeout=20</link>
+	<link>rtmp://stream03.fasttelco.net:1935/live/_definst_ playpath=ktv3_480.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.media.gov.kw/tvradio/Portal/KTVSport_1.htm</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -2482,14 +2469,14 @@
 	<cname>KTV Sport Extra</cname>
 	<item>
 	<title>media.gov.kw</title>
-	<link>rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp timeout=20</link>
+	<link>rtmp://stream03.fasttelco.net:1935/live/_definst_ playpath=ktv7_480.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.media.gov.kw/tvradio/Portal/KTVSportExtra_1.htm</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>KTV Sport Plus</cname>
 	<item>
 	<title>media.gov.kw</title>
-	<link>rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp timeout=20</link>
+	<link>rtmp://stream03.fasttelco.net:1935/live/_definst_ playpath=ktv4_480.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.media.gov.kw/tvradio/Portal/KTVSportPlus_1.htm</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -3930,13 +3917,7 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Dubai Sport 3</cname>
-	<item>
-	<title>Low</title>
-	<link>http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_w1518227480_b750000.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Dubai Sport 3</cname>
 	<item>
