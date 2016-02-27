@@ -1,12 +1,5 @@
 <streamingInfos>
-	
-	<streaminginfo>
-		<cname>zee alwan</cname>
-		<item>
-			<title>link1</title>
-			<link>http://50.7.69.138:9080/hls/zee-alwan.m3u8|User-Agent=iPad</link>
-		</item>
-	</streaminginfo>
+
 	<streaminginfo>
 		<cname>zee aflam</cname>
 		<item>
