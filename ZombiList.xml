@@ -288,6 +288,7 @@
 			<link>http://wownet.ro/str/0207.m3u8|X-Forwarded-For=81.17.18.50</link> 
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Canal+</cname>
 		<item>
@@ -1124,6 +1125,7 @@
 				</regex> 
 		</item>
 	</streaminginfo>
+<!--
 	<streaminginfo>
 		<cname>MBC PRO SP1</cname>
 		<item>
@@ -1202,6 +1204,7 @@
 				</regex> 
 		</item>
 	</streaminginfo>
+-->
 	<streaminginfo>
 		<cname>NBCSN</cname>
 		<item>
@@ -2199,7 +2202,7 @@
 				</regex> 
 		</item>
 	</streaminginfo>
-	
+<!--
 	<streaminginfo>
 		<cname>Bein Sport 12</cname>
 		<item>
@@ -2899,6 +2902,8 @@
 				</regex> 
 		</item>
 	</streaminginfo>
+-->
+<!--
 <streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
@@ -3019,6 +3024,8 @@
 				</regex> 
 		</item>
 	</streaminginfo>
+-->
+<!--
 <streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
@@ -3139,6 +3146,8 @@
 				</regex> 
 		</item>
 	</streaminginfo>
+-->
+<!--
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
@@ -3259,6 +3268,7 @@
 				</regex> 
 		</item>
 	</streaminginfo>
+-->
 		<streaminginfo>
 		<cname>Canal+ sport</cname>
 		<item>
