@@ -52,7 +52,7 @@
 <colour>FF7FFFD4</colour>
 <sname>Zombi</sname>
 <baseurl>http://website.com</baseurl>
-<enabled>False</enabled>
+<enabled>True</enabled>
 <urlfile>ZombiList.xml</urlfile>
 <imageurl>http://1.bp.blogspot.com/-6DpNd2KSxN8/URHM-0xN3eI/AAAAAAAAHfk/G0TspoQxYzk/s1600/warm+bodies.jpg</imageurl>
 <processor>genericPlayer.py</processor>
