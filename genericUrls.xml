@@ -136,14 +136,6 @@
 <!-- Yemenian Channels -->
 
 <streaminginfo>
-	<cname>Belqees</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.youtube/play/?video_id=dfO8X01YCjY</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>Sanaa</cname>
 	<item>
 	<title>Elahmad</title>
