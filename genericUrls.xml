@@ -136,6 +136,14 @@
 <!-- Yemenian Channels -->
 
 <streaminginfo>
+	<cname>Belqees</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.youtube/play/?video_id=dfO8X01YCjY</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
 	<cname>Sanaa</cname>
 	<item>
 	<title>Elahmad</title>
@@ -4416,7 +4424,6 @@
 <streaminginfo><cname>sunnah TV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=4OoKpZWJASY</link></item></streaminginfo>
 <streaminginfo><cname>Al sahraa</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=rjt-txSdnIM</link></item></streaminginfo>
 <streaminginfo><cname>Rotana Khaligi</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=d7PSti__6-E</link></item></streaminginfo>
-<streaminginfo><cname>Belqees</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=dfO8X01YCjY</link></item></streaminginfo>
 <streaminginfo><cname>Aljazeera Mubasher</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=QOq1R1kWmXM</link></item></streaminginfo>
 <streaminginfo><cname>Roya</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=9_EQ_4WVSvk</link></item></streaminginfo>
 <streaminginfo><cname>Almajlis</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=JXjXSl3HQBU</link></item></streaminginfo>
