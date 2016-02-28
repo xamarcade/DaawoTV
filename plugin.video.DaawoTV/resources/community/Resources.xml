@@ -29,8 +29,8 @@
 	<file fname="OfficialUrls.xml"   url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/OfficialUrls.xml"/>
 	<file fname="TelvzaUrls.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/TelvzaUrls.xml"/> 
 	<file fname="../settings.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/settings.xml" /> 
-	<file fname="../language/english/strings.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/strings.xml" />
-	<file fname="../language/french/strings.xml" />
+	<file fname="../language/english/strings.xml"  />
+	<file fname="../language/french/strings.xml" url="https://raw.githubusercontent.com/allouch89/ShaniXBMCdatabase/master/french/strings.xml" />
 	<file fname="../../default.py" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/default.py" />  
 	<file fname="../../changelog.txt" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/changelog.txt" />  
 	<file fname="IPTVPlanetUrls.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/IPTVPlanetUrls.xml"/> 
