@@ -104,58 +104,6 @@
 	<link>http://cdn01.iqbroadcast.tv:8081/startv/hb9wp/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-<!--
-<streaminginfo>
-     <cname>Royal TV</cname>
-	 <item>
-<title>Gini</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.tvroyal.com/</page>
-</regex>
-</item>
-</streaminginfo>
-
--->
-<!--
-<streaminginfo>
-	<cname>Royal TV</cname>
-	<item>
-	<title>Official</title>
-	<link>$doregex[get-url]</link>
-	<regex>
-	<name>get-url</name>
-	<expres>".nim.*"</expres>
-	<page>http://cdn01.iqbroadcast.tv:8081/g1/6ryltv/playlist.m3u8</page>
-	<agent>Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</agent>
-	</regex>
-	</item>
-</streaminginfo>
--->
-<!--
-<streaminginfo>
-	<cname>Royal TV</cname>
-	<item>
-	<title>Low</title>		
-	<link>http://cdn01.iqbroadcast.tv:8081/g1/6ryltv/playlist.m3u8?nimblesessionid=12709229&amp;wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDE2IDM6MjI6MjYgUE0maGFzaF92YWx1ZT05REJOcHFSaDhnZDR0cGZYQTdEWEV3PT0mdmFsaWRtaW51dGVzPTIw</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Royal TV</cname>
-	<item>
-	<title>Official</title>
-	<link>$doregex[get-url]</link>
-	<regex>
-	<name>get-url</name>
-	<expres>"m3u8_url":"(.*?)"</expres>
-	<page>http://www.tvroyal.com/</page>
-	<agent>Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</agent>
-	</regex>
-	</item>
-</streaminginfo>
--->
 <streaminginfo>
 	<cname>Universal Somali</cname>
 	<item>
@@ -202,40 +150,6 @@
 	</item>
 </streaminginfo>
 
-
-<!--
-<streaminginfo>
-	<cname>Shar3yah</cname>
-	<item>
-	<title>Elahmad</title>
-	<link>rtmp://94.127.209.148:1935/demo/ playpath=shar3yah11 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=shar3yah pageUrl=http://www.elahmad.com/tv/yemen-tv.php</link>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>Al Saeedah</cname>
-	<item>
-	<title>Ustream</title>
-	<link>$doregex[get-link]</link>
-	<regex>
-	<name>get-link</name>
-	<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/10270300/streams/live/1/playlist.m3u8')</expres>
-	<page></page>
-	</regex>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-<cname>Alsaeedah</cname>
-<item>
-<title>Ustream2</title>
-<link>http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&amp;appVersion=3&amp;conn=wifi&amp;cid=10270300&amp;stream=viewer_240p&amp;connectionId=oldurl-6607e0512a4ea31c845a9f2da2f56c92f639ea32&amp;group=iphone
-</link>
-</item>
-</streaminginfo>
--->
 <!-- Yemenian Channels -->
 
 
