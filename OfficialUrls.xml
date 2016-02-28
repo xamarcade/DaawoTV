@@ -2,24 +2,15 @@
 
 <!-- Yemenian Channels -->
 
-<!--
+
 <streaminginfo>
-	<cname>Shar3yah</cname>
+<cname>Yemen</cname>
 	<item>
-	<title>Med</title>
-	<link>http://streamer12.elementssys.com:8080/demo/shar3yah11/index.m3u8</link>
+	<title>Low</title>
+	<link>http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8</link>
 	</item>
 </streaminginfo>
 
-
-<streaminginfo>
-	<cname>Aden</cname>
-	<item>
-	<title>Med</title>
-	<link>http://streamer12.elementssys.com:8080/NOORSAT/ADEN_TV/index.m3u8</link>
-	</item>
-</streaminginfo>
--->
 <streaminginfo>
 	<cname>Hadramouttv</cname>
 	<item>
@@ -1715,25 +1706,6 @@
 	<link>http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonhigh.m3u8</link>
 	</item>
 </streaminginfo>
-
-<streaminginfo>
-<cname>Yemen</cname>
-	<item>
-	<title> yementv</title>
-	<link>$doregex[url]$doregex[video] timeout=20</link>
-	<regex>
-	<name>url</name>
-	<expres>base="(.*?)"</expres>
-	<page>http://rrr.sz.xlcdn.com/?account=ygcrtv&amp;file=yementv&amp;ref=http://www.alemantv.net/LiveBrodcastPage.aspx&amp;type=live&amp;service=wowza&amp;protocol=rtmp&amp;port=80&amp;output=smil</page>
-	</regex>
-	<regex>
-	<name>video</name>
-	<expres>src="(.*)"</expres>
-	<page>http://rrr.sz.xlcdn.com/?account=ygcrtv&amp;file=yementv&amp;ref=http://www.alemantv.net/LiveBrodcastPage.aspx&amp;type=live&amp;service=wowza&amp;protocol=rtmp&amp;port=80&amp;output=smil</page>
-	</regex>
-	</item>
-</streaminginfo>
-
 
 <streaminginfo>
      <cname>Al Sumaria</cname>
