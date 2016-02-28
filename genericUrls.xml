@@ -136,13 +136,6 @@
 <!-- Yemenian Channels -->
 
 <streaminginfo>
-	<cname>Yemen</cname>
-	<item>
-	<title>Youtube: Low</title>
-	<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=h_vkEX6H4KQ</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Sanaa</cname>
 	<item>
 	<title>Elahmad</title>
