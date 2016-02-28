@@ -4,7 +4,7 @@
 
 
 <streaminginfo>
-<cname>Yemen</cname>
+	<cname>Yemen</cname>
 	<item>
 	<title>Low</title>
 	<link>http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8</link>
@@ -37,7 +37,8 @@
 	<cookieJar></cookieJar>
 	</regex>
 	</item>
-</streaminginfo>	
+</streaminginfo>
+
 <streaminginfo>
 	<cname>RushdTV</cname>
 	<item>
@@ -45,13 +46,23 @@
 	<link>http://streaming.i-sat.tv:1935/live/rushd/playlist.m3u8</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Sanaa</cname>
 	<item>
 	<title>Low</title>
 	<link>http://82.212.95.122:1935/live/sanaa1/gmswf.m3u8</link>
 	</item>
-</streaminginfo> 
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Belqees</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.youtube/play/?video_id=dfO8X01YCjY</link>
+	</item>
+</streaminginfo>
+
 <streaminginfo>
 	<cname>Belqees</cname>
 	<item>
@@ -79,6 +90,7 @@
 	</regex>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Suhail TV</cname>
 	<item>
@@ -91,6 +103,7 @@
 	</regex>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Sout Al-Jnoub</cname>
 	<item>
@@ -98,6 +111,7 @@
 	<link>rtmp://176.67.175.138:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.soutaljnoub.com/</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Al Masirah</cname>
 	<item>
@@ -105,6 +119,7 @@
 	<link>rtmp://livestreaming4.itworkscdn.com/masira playpath=livetv1 swfUrl=http://www.almaserahtv.com/player.swf pageUrl=http://www.almasirah.tv/ live=1 timeout=20</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Al Masirah</cname>
 	<item>
@@ -112,6 +127,7 @@
 	<link>http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Yemen Alyawm</cname>
 	<item>
