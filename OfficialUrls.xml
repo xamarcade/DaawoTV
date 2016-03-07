@@ -1,12 +1,5 @@
 <streamingInfos>
 
-<streaminginfo>
-	<cname>Royal TV</cname>
-	<item>
-	<title>Teledunet</title>
-	<link>http://teledunet.tv:8888/royal_tv.m3u8</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo><cname>Althawra</cname><item><title>Low</title><link>http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_240p/chunks.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Althawra</cname><item><title>Med</title><link>http://188.166.156.26:8081/althawratv_main/main/althawratv_main/live_360p/chunks.m3u8</link></item></streaminginfo>
