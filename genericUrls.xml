@@ -51,14 +51,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Royal TV</cname>
-	<item>
-	<title>Teledunet</title>
-	<link>http://teledunet.tv:8888/royal_tv.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>SBC</cname>
 	<item>
 	<title>SBC Livestream</title>
