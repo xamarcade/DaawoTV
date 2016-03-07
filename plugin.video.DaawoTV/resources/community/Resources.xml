@@ -27,7 +27,8 @@
 	<file fname="filmonUrls.xml"/> 
 	<file fname="filmonPlayer.py"/> 
 	<file fname="OfficialUrls.xml"   url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/OfficialUrls.xml"/>
-	<file fname="TelvzaUrls.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/TelvzaUrls.xml"/> 
+	<file fname="TelvzaUrls.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/TelvzaUrls.xml"/>
+	<file fname="magictvBoxUrls.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/magictvBoxUrls.xml"/> 
 	<file fname="../settings.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/settings.xml" /> 
 	<file fname="../language/english/strings.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/strings.xml" />
 	<file fname="../language/french/strings.xml" />
