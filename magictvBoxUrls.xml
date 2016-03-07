@@ -1,2 +1,988 @@
 <streamingInfos>
+
+<!-- OSN Channels Start -->
+
+<streaminginfo>
+	<cname>OSN Movies Drama</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1198.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Drama</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/1198.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Ya Hala Shabab HD</cname>
+	<item>
+	<title>Bursa: High2</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/182.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Ya Hala Shabab HD</cname>
+	<item>
+	<title>Argentina: High2</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/182.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Ya Hala Shabab HD</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1197.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Ya Hala Shabab HD</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/1197.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Festival</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1192.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Festival</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/1192.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN First Comedy</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1194.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN First Comedy</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/1194.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Box Offiece 2</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1188.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Box Offiece 2</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/1188.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN First HD</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1187.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN First HD</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/1187.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Sport 2 HD</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1186.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Sport 2 HD</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/1186.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Premiere +2</cname>
+	<item>
+	<title>Bursa: High2</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/183.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Premiere +2</cname>
+	<item>
+	<title>Argentina: High2</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/183.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Premiere +2</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1184.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Premiere +2</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/1184.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Drama HD</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/179.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Drama HD</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/179.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN AlYawm</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/178.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN AlYawm</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/178.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Cinema 1</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/177.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Cinema 1</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/177.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Cinema 2</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/176.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Cinema 2</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/176.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Box Offiece 3</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/174.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Box Offiece 3</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/174.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Yahala Cinema HD</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/172.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Yahala Cinema HD</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/172.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Action HD</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/173.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Action HD</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/173.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Yahala HD</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/184.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Yahala HD</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/184.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Kids</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/180.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Kids</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/180.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Animal Planet HD</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/181.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Animal Planet HD</cname>
+	<item>
+	<title>Argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/181.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>MBC Drama +</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/1798.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Drama HD</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/1877.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Festival</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2244.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Kids</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/1914.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Premiere +2</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2205.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN On Demand HD</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2182.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN First Comedy</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/1915.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Cinema 1</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/1910.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Cinema 2</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/1909.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN AlYawm</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2482.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<!-- osn Channels END -->
+
+<!-- Bein Channels Start -->
+
+
+<streaminginfo>
+	<cname>Bein Sport 1</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/169.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 1</cname>
+	<item>
+	<title>argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/169.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 2</cname>
+	<item>
+	<title>PTC: High</title>
+	<link>http://80.243.189.26:8889/bein/sports2/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 2</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/168.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 2</cname>
+	<item>
+	<title>argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/168.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 3</cname>
+	<item>
+	<title>PTC: High</title>
+	<link>http://80.243.189.26:8889/bein/sports3/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 3</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/166.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 3</cname>
+	<item>
+	<title>argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/167.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 4</cname>
+	<item>
+	<title>PTC: High</title>
+	<link>http://80.243.189.26:8889/bein/sports4/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 4</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/166.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 4</cname>
+	<item>
+	<title>argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/166.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 5</cname>
+	<item>
+	<title>PTC: High</title>
+	<link>http://80.243.189.26:8889/bein/sports5/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 5</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/165.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 5</cname>
+	<item>
+	<title>argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/165.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 6</cname>
+	<item>
+	<title>PTC: High</title>
+	<link>http://80.243.189.26:8889/bein/sports6/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 6</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/164.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 6</cname>
+	<item>
+	<title>argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/164.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 7</cname>
+	<item>
+	<title>PTC: High</title>
+	<link>http://80.243.189.26:8889/bein/sports7/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 7</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/163.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 7</cname>
+	<item>
+	<title>argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/163.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 8</cname>
+	<item>
+	<title>PTC: High</title>
+	<link>http://80.243.189.26:8889/bein/sports8/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 8</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/162.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 8</cname>
+	<item>
+	<title>argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/162.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 9</cname>
+	<item>
+	<title>PTC: High</title>
+	<link>http://80.243.189.26:8889/bein/sports9/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 9</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/161.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 9</cname>
+	<item>
+	<title>argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/161.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Bein Sport 10</cname>
+	<item>
+	<title>PTC: High</title>
+	<link>http://80.243.189.26:8889/bein/sports10/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 10</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/160.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 10</cname>
+	<item>
+	<title>argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/160.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Bein Sport 11</cname>
+	<item>
+	<title>Bursa: High</title>
+	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/159.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 11</cname>
+	<item>
+	<title>argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/159.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<!--
+<streaminginfo>
+	<cname>Bein Sport 12</cname>
+	<item>
+	<title>High (English)</title>
+	<link>http://167.114.41.215:8080/bein12_raf/bein12_raf/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 13</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/5.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+-->
+
+
+<streaminginfo>
+	<cname>Bein Movies 2</cname>
+	<item>
+	<title>argentina: High</title>
+	<link>http://ipsatpro.com:8000/live/argentina/argentina/1225.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<!-- Bein Channels End -->
+<!-- Indian Channels Start -->
+
+
+<streaminginfo>
+        <cname>&amp;PicturesHD</cname>
+		<item>
+		<title>High</title>
+		<link>http://50.7.177.154:8010/server22channel2_bitrate4.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>&amp;PicturesTV</cname>
+		<item>
+		<title>High</title>
+		<link>http://89.35.158.12:8010/server24channel1_bitrate4.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>&amp;TV</cname>
+		<item>
+		<title>Younis: High</title>
+		<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2490.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>9 XM</cname>
+		<item>
+		<title>High</title>
+		<link>http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>B4U Aflam</cname>
+		<item>
+		<title>High</title>
+		<link>http://xtream.iptv-streamer.com:8000/live/2222/2222/371.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>B4U Aflam</cname>
+		<item>
+		<title>Argentina: High</title>
+		<link>http://ipsatpro.com:8000/live/argentina/argentina/438.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>B4U Movies</cname>
+		<item>
+		<title>High</title>
+		<link>http://ipsatpro.com:8000/live/argentina/argentina/445.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>B4U Movies</cname>
+	<item>
+	<title>Zem.tv</title>
+	<link>plugin://plugin.video.ZemTV-shani/?url=aHR0cDovLzEzMC4xODUuMTQ0LjYzOjgwODEvaW5kL2I0dW1vdmllcy9wbGF5bGlzdC5tM3U4&amp;mode=37&amp;name=%5BCOLOR+green%5DB4u+movies+v3%5B%2FCOLOR%5D</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>B4U Movies Apac</cname>
+	<item>
+	<title>Zem.tv</title>
+	<link>plugin://plugin.video.ZemTV-shani/?url=WVA6aHR0cDovL3d3dy55dXBwdHYuY29tL2I0dV9tb3ZpZXNfbGl2ZS5odG1s&amp;mode=11&amp;name=%5BCOLOR+ffdc00cc%5DB4u+movies+live+yp%5B%2FCOLOR%5D</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>B4U Plus</cname>
+	<item>
+	<title>High</title>
+	<link>http://xtream.iptv-streamer.com:8000/live/2222/2222/372.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Care World</cname>
+		<item>
+		<title>High</title>
+		<link>http://173.199.120.59:1935/CAREWORLDTVL/CAREWORLDTVL.stream-roku/playlist.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>colors india</cname>
+		<item>
+		<title>High</title>
+		<link>http://zeeapp-lh.akamaihd.net/i/colorsuk_1@140317/index_864_av-p.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Filmy</cname>
+		<item>
+		<title>High</title>
+		<link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD66_W_150.sdp/chunklist.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>GEM BOLLYWOOD (Irani)</cname>
+		<item>
+		<title>High</title>
+		<link>http://63.237.48.23/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Manoranjan Tv</cname>
+		<item>
+		<title>High</title>
+		<link>http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/ecpl/pl/jdManoranjanTV5028au.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Oscar Movie</cname>
+		<item>
+		<title>High</title>
+		<link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD197_W_250.sdp/chunklist.m3u8?time=1455565265284</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Pogo TV</cname>
+		<item>
+		<title>High</title>
+		<link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD29_W_350.sdp/chunklist.m3u8?time=1451081559535</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Rishtey</cname>
+		<item>
+		<title>Younis: High</title>
+		<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2563.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>RT Movies</cname>
+		<item>
+		<title>High</title>
+		<link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD258_W_350.sdp/chunklist.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Sony Sab</cname>
+		<item>
+		<title>High</title>
+        <link>http://ipsatpro.com:8000/live/argentina/argentina/422.ts</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Sony TV</cname>
+		<item>
+		<title>High</title>
+		<link>http://ipsatpro.com:8000/live/argentina/argentina/425.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Sony TV (Hindi)</cname>
+		<item>
+		<title>High</title>
+		<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2476.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Star Plus (Hindi)</cname>
+		<item>
+		<title>High</title>
+		<link>http://ipsatpro.com:8000/live/argentina/argentina/412.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Star Plus (Hindi)</cname>
+		<item>
+		<title>Younis: High</title>
+		<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2470.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Star Plus (UK)</cname>
+		<item>
+		<title>High</title>
+		<link>http://136.243.12.170/star_plus_in.m3u8?token=b484670d13ab8217e7a2315dbbd514df&amp;user=41166&amp;bands=956</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Zee Action</cname>
+		<item>
+		<title>High</title>
+		<link>http://ipsatpro.com:8000/live/argentina/argentina/427.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee Action</cname>
+		<item>
+		<title>Younis: High</title>
+		<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2492.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Zee Aflam</cname>
+	<item>
+	<title>Zem.tv</title>
+	<link>plugin://plugin.video.ZemTV-shani/?url=ZGl0dG86aHR0cDovL3d3dy5kaXR0b3R2LmNvbS9pbmRleC5waHA%2Fcj1saXZlLXR2L2xpbmsmbmFtZT1aZWUrQWZsYW0%3D&amp;mode=11&amp;name=%5BCOLOR+green%5DZee+aflam+ditto%5B%2FCOLOR%5D</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Zee Alwan</cname>
+	<item>
+	<title>Zem.tv</title>
+	<link>plugin://plugin.video.ZemTV-shani/?url=ZGl0dG86aHR0cDovL3d3dy5kaXR0b3R2LmNvbS9pbmRleC5waHA%2Fcj1saXZlLXR2L2xpbmsmbmFtZT1aZWUrQWx3YW4%3D&amp;mode=11&amp;name=%5BCOLOR+green%5DZee+alwan+ditto%5B%2FCOLOR%5D</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Zee Cinema (Hindi)</cname>
+		<item>
+		<title>High</title>
+		<link>http://89.35.158.12:8010/server21channel2_bitrate4.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Zee Cinema (UK)</cname>
+		<item>
+		<title>Younis: High</title>
+		<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2489.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee Cinema (UK)</cname>
+		<item>
+		<title>High</title>
+		<link>http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_864_av-p.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee Cinema (US)</cname>
+		<item>
+		<title>High</title>
+		<link>http://ipsatpro.com:8000/live/argentina/argentina/409.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Zee Classic</cname>
+		<item>
+		<title>High</title>
+		<link>http://198.16.76.58:8010/server2channel1_bitrate2.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee Classic</cname>
+		<item>
+		<title>Younis: High</title>
+		<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2501.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Zee Living</cname>
+	<item>
+	<title>Zem.tv</title>
+	<link>plugin://plugin.video.ZemTV-shani/?url=ZGl0dG86aHR0cDovL3d3dy5kaXR0b3R2LmNvbS9pbmRleC5waHA%2Fcj1saXZlLXR2L2xpbmsmbmFtZT1abGl2aW5n&amp;mode=11&amp;name=%5BCOLOR+green%5DZliving+ditto%5B%2FCOLOR%5D</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Zee TV (Hindi)</cname>
+		<item>
+		<title>High2</title>
+		<link>http://50.7.124.2:8010/server22channel3_bitrate4.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee TV (Hindi)</cname>
+		<item>
+		<title>High</title>
+		<link>http://ipsatpro.com:8000/live/argentina/argentina/443.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Zee TV (UK)</cname>
+		<item>
+		<title>High</title>
+		<link>http://zeeapp-lh.akamaihd.net/i/zeetvuk_1@140491/index_864_av-p.m3u8</link>
+		</item>
+</streaminginfo>
+
+<!-- Indian Channels End -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </streamingInfos>
