@@ -301,7 +301,7 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>MBC Drama +</cname>
+	<cname>MBC Drama Plus</cname>
 	<item>
 	<title>Younis: High</title>
 	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/1798.m3u8|X-Forwarded-For=83.249.111.198</link>
@@ -663,10 +663,25 @@
 </streaminginfo>
 
 <streaminginfo>
+       <cname>&amp;TV HD</cname>
+		<item>
+		<title>zeefamily: High</title>
+		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/andtvhdts/chunklist.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
         <cname>&amp;TV</cname>
 		<item>
 		<title>Younis: High</title>
 		<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2490.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>&amp;TV</cname>
+		<item>
+		<title>zeefamily: High</title>
+		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeelamheuk/chunklist.m3u8</link>
 		</item>
 </streaminginfo>
 
@@ -755,15 +770,6 @@
 		<link>http://63.237.48.23/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8</link>
 		</item>
 </streaminginfo>
-
-<streaminginfo>
-        <cname>Imagines Movies</cname>
-		<item>
-		<title>High</title>
-		<link>http://tv2iptv.com:8000/live/MattBe/grfybyiuyo/288.m3u8|X-Forwarded-For=83.249.111.198</link>
-		</item>
-</streaminginfo>
-
 
 <streaminginfo>
         <cname>Manoranjan Tv</cname>
@@ -882,6 +888,21 @@
 	</item>
 </streaminginfo>
 
+
+
+<!-- Indian Channels End -->
+
+
+
+
+<streaminginfo>
+        <cname>Zee Anmol</cname>
+		<item>
+		<title>High</title>
+		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeanmol/chunklist.m3u8</link>
+		</item>
+</streaminginfo>
+
 <streaminginfo>
         <cname>Zee Cinema (Hindi)</cname>
 		<item>
@@ -916,37 +937,38 @@
         <cname>Zee Classic</cname>
 		<item>
 		<title>Ditto: High</title>
-		<link>http://50.7.114.82:8010/server2channel1_bitrate4.m3u8</link>
+		<link>http://50.7.124.2:8010/server2channel1_bitrate4.m3u8</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
         <cname>Zee Classic</cname>
 		<item>
-		<title>Younis: High</title>
-		<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2501.m3u8|X-Forwarded-For=83.249.111.198</link>
+		<title>Zeefamily: High</title>
+		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeclassic/chunklist.m3u8</link>
 		</item>
 </streaminginfo>
 
 <streaminginfo>
-    <cname>Zee Living</cname>
-	<item>
-	<title>Zem.tv</title>
-	<link>plugin://plugin.video.ZemTV-shani/?url=ZGl0dG86aHR0cDovL3d3dy5kaXR0b3R2LmNvbS9pbmRleC5waHA%2Fcj1saXZlLXR2L2xpbmsmbmFtZT1abGl2aW5n&amp;mode=11&amp;name=%5BCOLOR+green%5DZliving+ditto%5B%2FCOLOR%5D</link>
-	</item>
+        <cname>Zee Kannada</cname>
+		<item>
+		<title>Zeefamily: High</title>
+		<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeekannada/chunklist.m3u8</link>
+		</item>
 </streaminginfo>
 
 <streaminginfo>
-        <cname>Zee TV (Hindi)</cname>
+        <cname>Zee Lamhe</cname>
 		<item>
-		<title>High2</title>
-		<link>http://50.7.124.2:8010/server22channel3_bitrate4.m3u8</link>
+		<title>Zeefamily: High</title>
+		<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeelamhe/chunklist.m3u8</link>
 		</item>
 </streaminginfo>
+
 <streaminginfo>
-        <cname>Zee TV (Hindi)</cname>
+        <cname>Zee Smile</cname>
 		<item>
-		<title>High</title>
-		<link>http://ipsatpro.com:8000/live/argentina/argentina/443.m3u8|X-Forwarded-For=83.249.111.198</link>
+		<title>Zeefamily: High</title>
+		<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeesmile/chunklist.m3u8</link>
 		</item>
 </streaminginfo>
 
@@ -958,15 +980,29 @@
 		</item>
 </streaminginfo>
 
-<!-- Indian Channels End -->
+<streaminginfo>
+        <cname>Zee TV Canada</cname>
+		<item>
+		<title>High</title>
+		<link>http://ipsatpro.com:8000/live/argentina/argentina/443.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
 
+<streaminginfo>
+        <cname>Zee Variasi</cname>
+		<item>
+		<title>Zeefamily: High</title>
+		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeevariasi/chunklist.m3u8</link>
+		</item>
+</streaminginfo>
 
-
-
-
-
-
-
+<streaminginfo>
+        <cname>Zee World</cname>
+		<item>
+		<title>Zeefamily: High</title>
+		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeworld/chunklist.m3u8</link>
+		</item>
+</streaminginfo>
 
 
 

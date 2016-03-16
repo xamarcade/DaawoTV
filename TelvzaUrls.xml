@@ -2,13 +2,7 @@
 
 <!-- Italy Channels Start -->
 
-<streaminginfo>
-	<cname>Rai 1</cname>
-	<item>
-	<title>MattBe: High</title>
-	<link>http://tv2iptv.com:8000/live/MattBe/grfybyiuyo/850.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Rai 1</cname>
 	<item>
@@ -28,6 +22,13 @@
 	<item>
 	<title>argentina: High</title>
 	<link>http://ipsatpro.com:8000/live/argentina/argentina/693.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Rai 1</cname>
+	<item>
+	<title>akamaihd: High</title>
+	<link>http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/master.m3u8</link>
 	</item>
 </streaminginfo>
 
@@ -444,13 +445,7 @@
 	<link>http://ipsatpro.com:8000/live/argentina/argentina/1131.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Viasat Action</cname>
-	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1092.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Viasat Film Premiere</cname>
 	<item>
@@ -480,12 +475,7 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Viasat Comedy</cname>
-	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1122.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Viasat Sport</cname>
 	<item>
@@ -904,13 +894,7 @@
 	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1131.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Viasat Action</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1092.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Viasat Film Premiere</cname>
 	<item>
@@ -939,13 +923,7 @@
 	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1125.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Viasat Comedy</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1122.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Viasat Sport</cname>
 	<item>
