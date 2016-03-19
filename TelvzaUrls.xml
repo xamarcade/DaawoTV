@@ -2,28 +2,14 @@
 
 <!-- Italy Channels Start -->
 
-
 <streaminginfo>
 	<cname>Rai 1</cname>
 	<item>
 	<title>Fratelli: High</title>
-	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/217.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://178.33.231.219:88/live/2808/2808/233.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Rai 1</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/693.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Rai 1</cname>
-	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/693.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Rai 1</cname>
 	<item>
@@ -51,7 +37,7 @@
 <streaminginfo>
 	<cname>Rai 4</cname>
 	<item>
-	<title>High2</title>
+	<title>High</title>
 	<link>http://212.162.68.163:80/Rai4</link>
 	</item>
 </streaminginfo>
@@ -63,6 +49,7 @@
 	<link>http://b2.stream12.rai.it/live/rai5.smil/chunklist_b1200000.m3u8</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Rai Movie</cname>
 	<item>
@@ -80,25 +67,10 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Rai Sport 1</cname>
-	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/639.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>Rai Sport 2</cname>
 	<item>
 	<title>Fratelli: High</title>
 	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/2048.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Rai Sport 2</cname>
-	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/560.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
 
@@ -141,8 +113,8 @@
 </streaminginfo>
 
 <!-- Italy Channels End -->
-<!-- Sweden Channels Start -->
 
+<!-- Sweden Channels Start -->
 
 <streaminginfo>
 	<cname>SVT 1</cname>
@@ -351,7 +323,6 @@
 	</item>
 </streaminginfo>
 
-
 <streaminginfo>
 	<cname>C more First</cname>
 	<item>
@@ -424,6 +395,7 @@
 	</item>
 </streaminginfo>
 
+
 <streaminginfo>
 	<cname>Viasat Hits</cname>
 	<item>
@@ -438,6 +410,7 @@
 	<link>http://ipsatpro.com:8000/live/argentina/argentina/1102.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Viasat E!</cname>
 	<item>
@@ -460,6 +433,7 @@
 	<link>http://ipsatpro.com:8000/live/argentina/argentina/1123.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Viasat Nature</cname>
 	<item>
@@ -474,7 +448,6 @@
 	<link>http://ipsatpro.com:8000/live/argentina/argentina/1125.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
 
 <streaminginfo>
 	<cname>Viasat Sport</cname>
@@ -525,6 +498,8 @@
 	<link>http://ipsatpro.com:8000/live/argentina/argentina/1076.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
+
+
 
 <streaminginfo>
 	<cname>Cartoon  Network</cname>
@@ -1016,9 +991,6 @@
 	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1113.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
-
-
-
 
 
 
