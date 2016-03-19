@@ -132,7 +132,7 @@
 <sname>Telvza</sname>
 <colour>FF8B009B</colour>
 <baseurl>http://website.com</baseurl>
-<enabled>True</enabled>
+<enabled>False</enabled>
 <urlfile>TelvzaUrls.xml</urlfile>
 <imageurl>http://mylogo.com</imageurl>
 <processor>genericPlayer.py</processor>
