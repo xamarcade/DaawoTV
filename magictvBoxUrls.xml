@@ -734,6 +734,13 @@
 <streaminginfo>
     <cname>B4U Plus</cname>
 	<item>
+	<title>2222</title>
+	<link>http://xtream.iptv-streamer.com:8000/live/2222/2222/372.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>B4U Plus</cname>
+	<item>
 	<title>High</title>
 	<link>http://htq.ddns.me/iptv/ch763?code=39006645183604.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
