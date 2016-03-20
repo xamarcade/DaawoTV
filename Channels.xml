@@ -177,6 +177,15 @@
      <category>yemen</category>
      </assignedcategory>
 </channel>
+
+<channel>
+     <cname>AL shareyyah</cname>
+     <imageurl>http://4.bp.blogspot.com/-Sim-BkiDWzc/UiG1c8pLX1I/AAAAAAAADTU/UnMO-bjPAF0/s1600/sharaia.jpg</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>yemen</category>
+     </assignedcategory>
+</channel>
 <channel>
 	<cname>Sanaa</cname>
 	<imageurl>http://s30.postimg.org/905ghuuip/Sana_Sat_Channel_o.jpg</imageurl>
