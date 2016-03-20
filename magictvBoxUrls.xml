@@ -857,13 +857,7 @@
 		</item>
 </streaminginfo>
 
-<streaminginfo>
-        <cname>Zee Action</cname>
-		<item>
-		<title>High</title>
-		<link>http://ipsatpro.com:8000/live/argentina/argentina/427.m3u8|X-Forwarded-For=83.249.111.198</link>
-		</item>
-</streaminginfo>
+
 <streaminginfo>
         <cname>Zee Action</cname>
 		<item>
@@ -875,11 +869,10 @@
 <streaminginfo>
     <cname>Zee Aflam</cname>
 	<item>
-	<title>Zem.tv</title>
-	<link>plugin://plugin.video.ZemTV-shani/?url=ZGl0dG86aHR0cDovL3d3dy5kaXR0b3R2LmNvbS9pbmRleC5waHA%2Fcj1saXZlLXR2L2xpbmsmbmFtZT1aZWUrQWZsYW0%3D&amp;mode=11&amp;name=%5BCOLOR+green%5DZee+aflam+ditto%5B%2FCOLOR%5D</link>
+	<title>masa</title>
+	<link>http://2.109.65.142/masa/14210.m3u8?v=1279345274</link>
 	</item>
 </streaminginfo>
-
 <streaminginfo>
     <cname>Zee Alwan</cname>
 	<item>
