@@ -177,7 +177,8 @@
 	<assignedcategory>
 	<category>yemen</category>
 	</assignedcategory>
-</channel>	
+</channel>
+	
 <channel>
      <cname>alsaeedah</cname>
      <imageurl>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/t1.0-1/p160x160/1797437_712766195410909_1521238763_n.jpg</imageurl>
@@ -297,15 +298,6 @@
 </channel>
 
 <channel>
-	<cname>OSN Movies Kids</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_movies_kids.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>kids</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>OSN Box Offiece 2</cname>
 	<imageurl>http://www.cne-eg.com/UploadFolder/logos/246%5EBO2.jpg</imageurl>
 	<enabled>True</enabled>
@@ -313,22 +305,7 @@
 	<category>ent</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>OSN Box Offiece 3</cname>
-	<imageurl>http://content.osn.com/logo/channel/500x300/BO3.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>OSN Yahala Cinema HD</cname>
-	<imageurl>http://content.osn.com/logo/channel/500x300/OYC.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
+
 
 <channel>
 	<cname>OSN Sport 2 HD</cname>
@@ -358,6 +335,40 @@
 </channel>
 
 <channel>
+	<cname>OSN Movies Kids</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_movies_kids.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>kids</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>MBC Drama Plus</cname>
+	<imageurl>http://livetvscreen.com/wp-content/uploads/2012/06/Mbc-Drama-Plus.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<!--
+<channel>
+	<cname>OSN Box Offiece 3</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/BO3.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN Yahala Cinema HD</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/OYC.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>OSN Movies Action HD</cname>
 	<imageurl>http://content.osn.com/logo/channel/500x300/AHD.jpg</imageurl>
 	<enabled>True</enabled>
@@ -375,15 +386,6 @@
 </channel>
 
 <channel>
-	<cname>MBC Drama Plus</cname>
-	<imageurl>http://livetvscreen.com/wp-content/uploads/2012/06/Mbc-Drama-Plus.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Animal Planet HD</cname>
 	<imageurl>http://content.osn.com/logo/channel/500x300/APL.jpg</imageurl>
 	<enabled>True</enabled>
@@ -391,7 +393,7 @@
 	<category>doc</category>
 	</assignedcategory>
 </channel>
-
+-->
 <!-- OSN Channels End -->
 
 
@@ -1296,6 +1298,7 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
+<!--
 <channel>
 	<cname>Oscar Movie</cname>
 	<imageurl>http://timesofindia.indiatimes.com/thumb/msid-18442792,width-400,resizemode-4/18442792.jpg</imageurl>
@@ -1304,7 +1307,7 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-
+-->
 <channel>
 	<cname>Zee TV Canada</cname>
 	<imageurl>http://d3n8a8pro7vhmx.cloudfront.net/vibc/pages/257/meta_images/original/ZEETVHD_CANADA.jpg?1432567052</imageurl>
