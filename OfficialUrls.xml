@@ -93,6 +93,7 @@
 	</regex>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Al Janoubiya</cname>
 	<item>
@@ -188,6 +189,19 @@
 	<name>url</name>
 	<expres>file: "(http.*?)"</expres>
 	<page>http://www.lbcgroup.tv/live</page>
+	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>LBC EUROPE</cname>
+	<item>
+	<title>From website</title>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>file: "(http.*?)"</expres>
+	<page>http://freetv247.com/content/shareyyah-tv</page>
 	</regex>
 	</item>
 </streaminginfo>
@@ -396,7 +410,13 @@
 		</item>
 </streaminginfo>
 
-
+	<streaminginfo>
+		<cname>MTV</cname>
+		<item>
+			<title>livestreaming1</title>
+			<link>rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_160p</link>
+		</item>
+	</streaminginfo>
 <streaminginfo>
     <cname>Selah</cname>
 	<item>
@@ -782,86 +802,6 @@
 
 
 
-<streaminginfo>
-<cname>alkass</cname>
-<item>
-<title>Plus SD</title>
-<link>$doregex[get-rtmp] playpath=$doregex[get-playpath] flashver=WIN\2013,0,0,214 pageUrl=http://shoof.alkass.net/shoof/live/live_5.php swfUrl=http://shoof.alkass.net/shoof/jwplayer/player.swf live=1 swfVfy=1 timeout=10</link>
-<regex>
-<name>get-rtmp</name>
-<expres>streamer':'(.*?)'</expres>
-<page>$doregex[get-unpacked]</page>
-</regex>
-
-<regex>
-<name>get-playpath</name>
-<expres>file':'(.*?)'</expres>
-<page>$doregex[get-unpacked]</page>
-</regex>
-
-<regex>
-<name>get-unpacked</name>
-<expres>$pyFunction:get_unpacked('http://shoof.alkass.net/shoof/live/live_5.php','(eval.*)' )</expres>
-<page></page>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>alkass</cname>
-<item>
-<title>HD 720p</title>
-<link>$doregex[get-m3u8]</link>
-<regex>
-<name>get-m3u8</name>
-<expres>(http.*?.m3u8)"</expres>
-<page>$doregex[get-unpacked]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>get-unpacked</name>
-<expres>$pyFunction:get_unpacked('http://shoof.alkass.net/shoof/live/live_2.php','(eval.*)' )</expres>
-<page></page>
-</regex>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>alkass</cname>
-<item>
-<title>Plus HD 720p</title>
-<link>$doregex[get-m3u8]</link>
-<regex>
-<name>get-m3u8</name>
-<expres>(http.*?.m3u8)"</expres>
-<page>$doregex[get-unpacked]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>get-unpacked</name>
-<expres>$pyFunction:get_unpacked('http://shoof.alkass.net/shoof/live/live_3.php','(eval.*)' )</expres>
-<page></page>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>alkass</cname>
-<item>
-<title>Plus1 720p</title>
-<link>$doregex[get-m3u8]</link>
-<regex>
-<name>get-m3u8</name>
-<expres>(http.*?.m3u8)"</expres>
-<page>$doregex[get-unpacked]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>get-unpacked</name>
-<expres>$pyFunction:get_unpacked('http://shoof.alkass.net/shoof/live/live_4.php','(eval.*)' )</expres>
-<page></page>
-</regex>
-</item>
-</streaminginfo>
-
 
 <streaminginfo>
 	<cname>Halab Today</cname>
@@ -1196,7 +1136,13 @@
 		</item>
 	</streaminginfo>
 
-	
+		<streaminginfo>
+		<cname>ANN</cname>
+		<item>
+			<title>indexforce</title>
+			<link>rtmp://ns8.indexforce.com/ann/ann timeout=20</link>
+		</item>
+	</streaminginfo>
 
 	<streaminginfo>
 		<cname>DW Arabic</cname>
@@ -1205,8 +1151,6 @@
 			<link>http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8</link>
 		</item>
 	</streaminginfo>
-
-
 
 <streaminginfo>
 		<cname>Alaqsa</cname>
@@ -1433,7 +1377,7 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-        <cname>Al Nahar Sport</cname>
+        <cname>Al Nahar Cinema</cname>
 		<item>
 		<title>High</title>
 		<link>http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/gmswf.m3u8</link>

@@ -87,13 +87,6 @@
 	<link>http://www.axadledirect.com:1936/13/stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Royal TV Somalia</cname>
-	<item>
-	<title>Low</title>
-	<link>http://htq.ddns.me/iptv/ch1002?code=39006645183604</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>Somali Cable</cname>
@@ -102,7 +95,13 @@
 	<link>http://cdn01.iqbroadcast.tv:8081/g1/somcblehb9/chunks.m3u8</link>
 	</item>	
 </streaminginfo>
-
+<streaminginfo>
+	<cname>Royal TV Somalia</cname>
+	<item>
+	<title>Axadledirect - Low</title>
+	<link>http://htq.ddns.me/iptv/ch1002?code=39006645183604</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Somali  Channel</cname>
 	<item>
@@ -157,7 +156,6 @@
 	<link>http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8</link>
 	</item>
 </streaminginfo>
-
 <streaminginfo>
 	<cname>AL shareyyah</cname>
 	<item>
@@ -518,74 +516,23 @@
 
 
 
-
-
-<streaminginfo>
-	<cname>Abu Dhabi Sports 1</cname>
-	<item>
-	<title>Low</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport1hd/chunklist_b440000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Sports 1</cname>
-	<item>
-	<title>Med</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport1hd/chunklist_b528000.m3u8</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>Abu Dhabi Sports 1</cname>
 	<item>
 	<title>High</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8</link>
+	<link>http://htq.ddns.me/iptv/ch122?code=39006645183604</link>
 	</item>
 </streaminginfo>
 
-
-<streaminginfo>
-	<cname>Abu Dhabi Sports 2</cname>
-	<item>
-	<title>Low</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport2hd/chunklist_b440000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Sports 2</cname>
-	<item>
-	<title>Med</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport2hd/chunklist_b528000.m3u8</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>Abu Dhabi Sports 2</cname>
 	<item>
 	<title>High</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8</link>
+	<link>http://htq.ddns.me/iptv/ch603?code=39006645183604</link>
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Abu Dhabi Extra HD</cname>
-	<item>
-	<title>Low</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsportextrahd/chunklist_b440000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Extra HD</cname>
-	<item>
-	<title>Med</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsportextrahd/chunklist_b528000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Extra HD</cname>
-	<item>
-	<title>High</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsportextrahd/chunklist_b880000.m3u8</link>
-	</item>
-</streaminginfo>
+
 
 
 <streaminginfo>
@@ -595,6 +542,8 @@
 	<link>http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8</link>
 	</item>
 </streaminginfo>
+
+
 
 
 <streaminginfo>
@@ -1087,40 +1036,7 @@
 </streaminginfo>
 
 
-<streaminginfo>
-	<cname>Abu Dhabi Sports 1</cname>
-	<item>
-	<title>web.tv</title> 
-	<link>$doregex[clean-url]</link> 
-<regex>
-	<name>clean-url</name>
-	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>"mediaUrl":"(.*?)"</expres>
-	<page>http://abudhabisports1.web.tv//</page>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Extra HD</cname>
-	<item>
-	<title>web.tv</title> 
-	<link>$doregex[clean-url]</link> 
-<regex>
-	<name>clean-url</name>
-	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>"mediaUrl":"(.*?)"</expres>
-	<page>http://abudhabisports.web.tv/</page>
-</regex>
-</item>
-</streaminginfo>
+
 
 <streaminginfo>
 	<cname>Libya</cname>
@@ -1141,6 +1057,14 @@
 	<item>
 	<title>livestation_High</title>
 	<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_828.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>AL AHLY</cname>
+	<item>
+	<title>livestation_High</title>
+	<link>http://htq.ddns.me/iptv/ch783?code=39006645183604</link>
 	</item>
 </streaminginfo>
 
@@ -1582,7 +1506,18 @@
 <streaminginfo><cname>ONTV Live</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=lGPBmTSQHuY</link></item></streaminginfo>
 <streaminginfo><cname>Alahad</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=PcMS1FgQK90</link></item></streaminginfo>
 
-
+	<streaminginfo>
+		<cname>ALNADATV</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=$doregex[get-id]</link>
+			<regex>
+			<name>get-id</name>
+			<expres>src="//www.youtube.com/embed/(.*?)?rel=0&amp;autoplay=1</expres>
+			<page>http://www.alnada.tv/cms/live.php</page>
+			</regex>
+		</item>
+	</streaminginfo>
 
 <streaminginfo><cname>Ibnothaimeentv</cname><item><title>Alibel You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=EyszcUeiq6w</link></item></streaminginfo>
 

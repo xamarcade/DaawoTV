@@ -38,50 +38,6 @@
 		</item>
 	</streaminginfo>
 
--->
-	
-	<streaminginfo>
-		<cname>ALNADATV</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=$doregex[get-id]</link>
-			<regex>
-			<name>get-id</name>
-			<expres>src="//www.youtube.com/embed/(.*?)?rel=0&amp;autoplay=1</expres>
-			<page>http://www.alnada.tv/cms/live.php</page>
-			</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Alsaha2</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=$doregex[get-id]</link>
-			<regex>
-			<name>get-id</name>
-			<expres>width="650" height="360" src="https://www.youtube.com/embed/(.*?)"</expres>
-			<page>http://alsahaonline.tv/</page>
-			</regex>
-		</item>
-	</streaminginfo>
-
-
-	
-<streaminginfo>
-		<cname>Alaqsa</cname>
-		<item>
-			<title>official/ipad</title>
-			<link>$doregex[get-link]</link>
-			<regex>
-			<name>get-link</name>
-			<expres>ipadUrl: '(.*?)'</expres>
-				<page>http://aqsatv.ps/live/</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	
-
-	
 	<streaminginfo>
 		<cname>Sky Sports 5</cname>
 		<item>
@@ -179,34 +135,8 @@
 				</regex> 
 		</item>
 	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Al Sharqiya</cname>
-		<item>
-			<title>indexforce</title>
-			<link>rtmp://ns8.indexforce.com/home/mystream timeout=20</link>
-		</item>
-	</streaminginfo>
+-->
 	
-	<streaminginfo>
-		<cname>Al Sharqiya News</cname>
-		<item>
-			<title>indexforce</title>
-			<link>rtmp://ns8.indexforce.com/alsharqiyalive/mystream timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	
-	<streaminginfo>
-		<cname>ANN</cname>
-		<item>
-			<title>indexforce</title>
-			<link>rtmp://ns8.indexforce.com/ann/ann timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-
-
 	<streaminginfo>		
 		<cname>NBC Golf</cname>
 		<item>
@@ -228,119 +158,8 @@
 			<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
 		</item>
 	</streaminginfo>
-	
-	
-
-	<streaminginfo>
-		<cname>MTV</cname>
-		<item>
-			<title>livestreaming1</title>
-			<link>rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_160p</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Nile Cinema</cname>
-		<item>
-			<title>livestreaming</title>
-			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-
-	<streaminginfo>
-		<cname>Nile Comedy</cname>
-		<item>
-			<title>livestreaming</title>
-			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Nile Drama</cname>
-		<item>
-			<title>livestreaming</title>
-			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1 timeout=20</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Nile Family</cname>
-		<item>
-			<title>livestreaming</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-
-
-	
-	<streaminginfo>
-		<cname>Nile Life</cname>
-		<item>
-			<title>livestreaming</title>
-			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Nile Sport</cname>
-		<item>
-			<title>livestreaming</title>
-			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Wesal Tv</cname>
-		<item>
-			<title>elahmad</title>
-			<link>rtmp://109.123.123.82:1935/wesal playpath=wesal1 swfUrl=http://www.elahmad.com/tv/swf/wesaltv.swf?autostart=true pageUrl=http://www.elahmad.com/tv/wesaltv.htm timeout=20</link>
-		</item>
-	</streaminginfo>
- 
-	<streaminginfo>
-		<cname>M3Ali Tv</cname>
-		<item>
-			<title>elahmad</title>
-			<link>rtmp://free.flashwebtown.com:1935/bashaclick playpath=myStream.sdp swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=m3alitv&amp;autostart=true pageUrl=http://www.elahmad.com/tv/m3alitv.php timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>AL RASHEED</cname>
-		<item>
-			<title>mms</title>
-			<link>mmsh://77.67.107.89/alrasheedtv?MSWMExt=.asf</link>
-		</item>
-	</streaminginfo>
-
-		
-		
-	
-	<streaminginfo>
-		<cname>Haneen Channelvv</cname>
-		<item>
-			<title>watchislam</title>
-			<link>mmsh://stream.watchislam.com/ramadan</link>
-		</item>
-	</streaminginfo>	
-
-	
-
-	<streaminginfo>
-		<cname>Quran TV ksa</cname>
-		<item>
-			<title>ustream</title>
-			<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/17904315/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex>
-		</item>
-	</streaminginfo>	
-	
+			
+<!--	
 	<streaminginfo>
 		<cname>Sky Sports 1</cname>
 		<item>
@@ -535,6 +354,7 @@
 				</regex> 
 		</item>
 	</streaminginfo>
+-->
 	
 <!--
 	<streaminginfo>

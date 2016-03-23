@@ -87,245 +87,215 @@
 
 <!-- Bein Channels Start -->
 
-
 <streaminginfo>
 	<cname>Bein Sport 1</cname>
 	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/169.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>Dobras: High</title>
+	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10182.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 1</cname>
 	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/169.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>pascal2</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2337.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 1</cname>
+	<item>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/351.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 2</cname>
 	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports2/index.m3u8</link>
+	<title>pascal2</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2330.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 2</cname>
 	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/168.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/168.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/352.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 3</cname>
 	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports3/index.m3u8</link>
+	<title>High</title>
+	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10184.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 3</cname>
 	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/166.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>pascal2</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2329.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 3</cname>
 	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/167.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/353.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 4</cname>
 	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports4/index.m3u8</link>
+	<title>pascal2</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2328.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 4</cname>
 	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/166.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/354.ts|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 4</cname>
-	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/166.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
 	<cname>Bein Sport 5</cname>
 	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports5/index.m3u8</link>
+	<title>pascal2</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/355.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 5</cname>
 	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/165.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2327.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 5</cname>
 	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/165.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>Dobras</title>
+	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10183.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 6</cname>
 	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports6/index.m3u8</link>
+	<title>pascal2</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/356.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 6</cname>
 	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/164.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2326.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 6</cname>
 	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/164.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>High</title>
+	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10187.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 7</cname>
 	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports7/index.m3u8</link>
+	<title>pascal2</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/357.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 7</cname>
 	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/163.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2325.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 7</cname>
 	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/163.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>High</title>
+	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10188.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 8</cname>
 	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports8/index.m3u8</link>
+	<title>High</title>
+	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10189.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 8</cname>
 	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/162.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>pascal2</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/358.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 8</cname>
 	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/162.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2324.ts</link>
 	</item>
 </streaminginfo>
-
-<streaminginfo>
-	<cname>Bein Sport 9</cname>
-	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports9/index.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 9</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/161.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 9</cname>
-	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/161.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
 
 <streaminginfo>
 	<cname>Bein Sport 10</cname>
 	<item>
-	<title>PTC: High</title>
-	<link>http://80.243.189.26:8889/bein/sports10/index.m3u8</link>
+	<title>pascal2</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/360.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 10</cname>
 	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/160.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2322.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 10</cname>
-	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/160.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
 
 <streaminginfo>
 	<cname>Bein Sport 11</cname>
 	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/159.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>pascal2</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/361.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 11</cname>
 	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/159.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2321.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 12</cname>
+	<item>
+	<title>pascal2</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/362.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 12</cname>
+	<item>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2320.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
 
 <!--
-<streaminginfo>
-	<cname>Bein Sport 12</cname>
-	<item>
-	<title>High (English)</title>
-	<link>http://167.114.41.215:8080/bein12_raf/bein12_raf/index.m3u8</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 13</cname>
@@ -366,25 +336,10 @@
 </streaminginfo>
 
 <streaminginfo>
-       <cname>&amp;TV HD</cname>
-		<item>
-		<title>zeefamily: High</title>
-		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/andtvhdts/chunklist.m3u8</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
         <cname>&amp;TV</cname>
 		<item>
 		<title>Younis: High</title>
 		<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2490.m3u8|X-Forwarded-For=83.249.111.198</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>&amp;TV</cname>
-		<item>
-		<title>zeefamily: High</title>
-		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeelamheuk/chunklist.m3u8</link>
 		</item>
 </streaminginfo>
 
@@ -401,6 +356,13 @@
 		<item>
 		<title>High</title>
 		<link>http://htq.ddns.me/iptv/ch768?code=39006645183604.m3u8|X-Forwarded-For=83.249.111.198</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>B4U Aflam</cname>
+		<item>
+		<title>UDP</title>
+		<link>http://149.11.90.99:4022/udp/238.21.13.57:5004</link>
 		</item>
 </streaminginfo>
 
@@ -425,6 +387,13 @@
 	<item>
 	<title>High</title>
 	<link>http://htq.ddns.me/iptv/ch763?code=39006645183604.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>B4U Plus</cname>
+	<item>
+	<title>UDP</title>
+	<link>http://149.11.90.99:4022/udp/238.21.13.58:5004</link>
 	</item>
 </streaminginfo>
 
@@ -504,7 +473,7 @@
         <cname>Sony Sab</cname>
 		<item>
 		<title>High</title>
-        <link>http://ipsatpro.com:8000/live/argentina/argentina/422.ts</link>
+        <link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/810.m3u8|X-Forwarded-For=83.249.111.198</link>
 		</item>
 </streaminginfo>
 
@@ -526,13 +495,6 @@
 <streaminginfo>
         <cname>Star Plus (Hindi)</cname>
 		<item>
-		<title>High</title>
-		<link>http://ipsatpro.com:8000/live/argentina/argentina/412.m3u8|X-Forwarded-For=83.249.111.198</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Star Plus (Hindi)</cname>
-		<item>
 		<title>Younis: High</title>
 		<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2470.m3u8</link>
 		</item>
@@ -546,7 +508,6 @@
 		</item>
 </streaminginfo>
 
-
 <streaminginfo>
         <cname>Zee Action</cname>
 		<item>
@@ -558,31 +519,31 @@
 <streaminginfo>
     <cname>Zee Aflam</cname>
 	<item>
-	<title>masa</title>
+	<title>UDP</title>
+	<link>http://149.11.90.99:4022/udp/238.21.13.34:5004</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Zee Aflam</cname>
+	<item>
+	<title>Masa</title>
 	<link>http://2.109.65.142/masa/14210.m3u8?v=1279345274</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Zee Alwan</cname>
+	<item>
+	<title>UDP</title>
+	<link>http://149.11.90.99:4022/udp/238.21.13.56:5004</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
     <cname>Zee Alwan</cname>
 	<item>
-	<title>masa</title>
+	<title>Masa</title>
 	<link>http://2.109.65.142/masa/14209.m3u8?v=1279345274</link>
 	</item>
-</streaminginfo>
-
-
-
-<!-- Indian Channels End -->
-
-
-
-
-<streaminginfo>
-        <cname>Zee Anmol</cname>
-		<item>
-		<title>High</title>
-		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeanmol/chunklist.m3u8</link>
-		</item>
 </streaminginfo>
 
 <streaminginfo>
@@ -607,50 +568,36 @@
 		<link>http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_864_av-p.m3u8</link>
 		</item>
 </streaminginfo>
-<streaminginfo>
-        <cname>Zee Cinema (US)</cname>
-		<item>
-		<title>High</title>
-		<link>http://ipsatpro.com:8000/live/argentina/argentina/409.m3u8|X-Forwarded-For=83.249.111.198</link>
-		</item>
-</streaminginfo>
 
 <streaminginfo>
         <cname>Zee Classic</cname>
 		<item>
 		<title>Ditto: High</title>
-		<link>http://50.7.124.2:8010/server2channel1_bitrate4.m3u8</link>
+		<link>http://50.7.114.82:8010/server2channel1_bitrate4.m3u8</link>
 		</item>
 </streaminginfo>
+
 <streaminginfo>
         <cname>Zee Classic</cname>
 		<item>
-		<title>Zeefamily: High</title>
-		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeclassic/chunklist.m3u8</link>
+		<title>Younis: High</title>
+		<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2501.m3u8|X-Forwarded-For=83.249.111.198</link>
 		</item>
 </streaminginfo>
 
 <streaminginfo>
-        <cname>Zee Kannada</cname>
-		<item>
-		<title>Zeefamily: High</title>
-		<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeekannada/chunklist.m3u8</link>
-		</item>
+    <cname>Zee Living</cname>
+	<item>
+	<title>Zem.tv</title>
+	<link>plugin://plugin.video.ZemTV-shani/?url=ZGl0dG86aHR0cDovL3d3dy5kaXR0b3R2LmNvbS9pbmRleC5waHA%2Fcj1saXZlLXR2L2xpbmsmbmFtZT1abGl2aW5n&amp;mode=11&amp;name=%5BCOLOR+green%5DZliving+ditto%5B%2FCOLOR%5D</link>
+	</item>
 </streaminginfo>
 
 <streaminginfo>
-        <cname>Zee Lamhe</cname>
+        <cname>Zee TV (Hindi)</cname>
 		<item>
-		<title>Zeefamily: High</title>
-		<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeelamhe/chunklist.m3u8</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>Zee Smile</cname>
-		<item>
-		<title>Zeefamily: High</title>
-		<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeesmile/chunklist.m3u8</link>
+		<title>High</title>
+		<link>http://50.7.124.2:8010/server22channel3_bitrate4.m3u8</link>
 		</item>
 </streaminginfo>
 
@@ -662,32 +609,100 @@
 		</item>
 </streaminginfo>
 
+<!-- Indian Channels End -->
+
+<!-- Sport Channels Start -->
+
 <streaminginfo>
-        <cname>Zee TV Canada</cname>
+        <cname>Eurosport</cname>
 		<item>
 		<title>High</title>
-		<link>http://ipsatpro.com:8000/live/argentina/argentina/443.m3u8|X-Forwarded-For=83.249.111.198</link>
+		<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/681.ts</link>
 		</item>
 </streaminginfo>
 
 <streaminginfo>
-        <cname>Zee Variasi</cname>
+        <cname>Eurosport 2</cname>
 		<item>
-		<title>Zeefamily: High</title>
-		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeevariasi/chunklist.m3u8</link>
+		<title>High</title>
+		<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/680.ts</link>
 		</item>
 </streaminginfo>
 
 <streaminginfo>
-        <cname>Zee World</cname>
-		<item>
-		<title>Zeefamily: High</title>
-		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeworld/chunklist.m3u8</link>
-		</item>
+	<cname>Chelsea TV</cname>
+	<item>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/661.ts</link>
+	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>Sky Sports 1</cname>
+	<item>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/15.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 2</cname>
+	<item>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/16.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 3</cname>
+	<item>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/17.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 4</cname>
+	<item>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/18.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 5</cname>
+	<item>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/19.ts</link>
+	</item>
+</streaminginfo>
 
+<streaminginfo>
+	<cname>MBC PRO SP1</cname>
+	<item>
+	<title>Highl</title>
+	<link>http://htq.ddns.me/iptv/ch823?code=39006645183604</link>
+	</item>
+</streaminginfo>
 
+<streaminginfo>
+	<cname>MBC PRO SP2</cname>
+	<item>
+	<title>High</title>
+	<link>http://htq.ddns.me/iptv/ch824?code=39006645183604</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>MBC PRO SP3</cname>
+	<item>
+	<title>High</title>
+	<link>http://htq.ddns.me/iptv/ch825?code=39006645183604</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>MBC PRO SP4</cname>
+	<item>
+	<title>High</title>
+	<link>http://htq.ddns.me/iptv/ch826?code=39006645183604</link>
+	</item>
+</streaminginfo>
 
 
 

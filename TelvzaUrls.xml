@@ -5,11 +5,10 @@
 <streaminginfo>
 	<cname>Rai 1</cname>
 	<item>
-	<title>Fratelli: High</title>
-	<link>http://178.33.231.219:88/live/2808/2808/233.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>High</title>
+	<link>http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/index_1200_av-p.m3u8?sd=10&amp;rebase=on</link>
 	</item>
 </streaminginfo>
-
 <streaminginfo>
 	<cname>Rai 1</cname>
 	<item>
@@ -22,7 +21,7 @@
 	<cname>Rai 2</cname>
 	<item>
 	<title>High</title>
-	<link>http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/index_1800_av-p.m3u8?sd=10&amp;rebase=on</link>
+	<link>http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/master.m3u8?auth=daEclcObWb0dKaScQdQc9b2c9agaGbmbyar-bwKNl9-c0-BlrvzFp&amp;aifp=V001</link>
 	</item>
 </streaminginfo>
 
@@ -30,7 +29,7 @@
 	<cname>Rai 3</cname>
 	<item>
 	<title>High</title>
-	<link>http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/index_1800_av-p.m3u8?sd=10&amp;rebase=on</link>
+	<link>http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/master.m3u8?auth=daEdGacbXcRcsaWdKatc5cOclcOd_axcbac-bwKNmR-c0-CjtvAGq&amp;aifp=V001</link>
 	</item>
 </streaminginfo>
 
@@ -39,6 +38,13 @@
 	<item>
 	<title>High</title>
 	<link>http://212.162.68.163:80/Rai4</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Rai 4</cname>
+	<item>
+	<title>Akamaihd: High</title>
+	<link>http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8?sd=10&amp;rebase=on</link>
 	</item>
 </streaminginfo>
 
@@ -59,48 +65,41 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Rai Sport 1</cname>
-	<item>
-	<title>Fratelli: High</title>
-	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/1551.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>Rai Sport 2</cname>
 	<item>
 	<title>Fratelli: High</title>
 	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/2048.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Rai Sport 1</cname>
+	<item>
+	<title>Fratelli: High</title>
+	<link>http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8?auth=daEbQded2dtdnaactbSaUazc1bjdMdrb7d1-bwKNoI-c0-CmvxvHw&amp;aifp=V001</link>
+	</item>
+</streaminginfo>
+
 
 <streaminginfo>
 	<cname>Canale 5</cname>
 	<item>
-	<title>Fratelli: High</title>
-	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/221.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Canale 5</cname>
-	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/686.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>Brian1: High</title>
+	<link>http://tv.supertv4u.eu:8000/live/brian1-test/OYjFaSy4h2/810.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Italia 1</cname>
 	<item>
-	<title>Fratelli: High</title>
-	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/222.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>Brian1: High</title>
+	<link>http://tv.supertv4u.eu:8000/live/brian1-test/OYjFaSy4h2/523.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Italia 1</cname>
 	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/685.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>Brian1: High</title>
+	<link>http://tv.supertv4u.eu:8000/live/brian1-test/OYjFaSy4h2/752.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
 
@@ -119,23 +118,23 @@
 <streaminginfo>
 	<cname>SVT 1</cname>
 	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1118.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>High</title>
+	<link>http://ipsatpro.com:8000/live/1975/1975/1118.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>SVT 2</cname>
 	<item>
-	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1114.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<title>High</title>
+	<link>http://ipsatpro.com:8000/live/1975/1975/1118.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>TV 3</cname>
 	<item>
-	<title>argentina: High</title>
+	<title>High</title>
 	<link>http://ipsatpro.com:8000/live/argentina/argentina/1074.m3u8|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
@@ -546,452 +545,6 @@
 
 
 <!-- Sweden Channels END -->
-
-
-<streaminginfo>
-	<cname>Rai Sport 2</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/560.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Canale 5</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/686.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Italia 1</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/685.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<!-- Italy Channels End -->
-<!-- Sweden Channels Start -->
-
-<streaminginfo>
-	<cname>SVT 1</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1118.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>SVT 2</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1114.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>TV 3</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1074.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>TV 4</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1096.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>TV 4 Film</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1112.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TV 4 Komedi</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1089.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TV 4 Guld</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1097.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TV 4 Fakta</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1086.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TV 4 Sport</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1115.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>TV 5</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1100.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>TV 6</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1130.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>TV 7</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1103.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TV 8</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1098.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TV 9</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1119.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TV 10</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1087.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TV 11</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1099.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TV 12</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1095.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Kunskapskanalen</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1104.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Discovery Channel</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1083.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>National Geographic</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1079.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>SF-Kanalen</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1073.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TCM</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1080.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>FOX</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1078.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TNT</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1075.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Comedy Central</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1082.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TLC</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1084.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>C more Hits</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1107.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>C more First</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1108.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>C more Action</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1110.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>C more Series</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1111.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>C More Emotion</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1117.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>C more Tennis</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1116.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>C More Sport</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1093.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>C more Live</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1106.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>C more Live 2</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1105.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>C more Live 3</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1090.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>C more Live 4</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1091.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Viasat Hits</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1094.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Viasat History</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1102.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Viasat E!</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1131.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Viasat Film Premiere</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1121.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Viasat Series</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1123.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Viasat Nature</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1133.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Viasat Family</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1125.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Viasat Sport</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1126.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Viasat Fotboll</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1124.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Viasat Motor</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1129.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Viasat Hockey</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1128.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Viasat Golf</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1132.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TV3 Sport 1</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1077.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TV3 Sport 2</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1076.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Cartoon  Network</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1101.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Disney XD</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1109.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Disney</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1088.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Nickelodeon</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1127.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Boomerang</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1085.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Barn Kanalen</cname>
-	<item>
-	<title>Bursa: High</title>
-	<link>http://ipsatpro.com:8000/live/ShopVIP/bursa16/1113.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-
 
 
 </streamingInfos>

@@ -60,14 +60,6 @@
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>Kalsan Tv</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/klsn_zps62722125.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>	
-<channel>
 	<cname>Royal TV Somalia</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rylsml_zps4185b722.png</imageurl>
 	<enabled>True</enabled>
@@ -75,7 +67,14 @@
 	<category>somalia</category>
 	</assignedcategory>
 </channel>
-
+<channel>
+	<cname>Kalsan Tv</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/klsn_zps62722125.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>somalia</category>
+	</assignedcategory>
+</channel>	
 -<channel>
 	<cname>SLNTV</cname>
 	<imageurl>http://i.imgur.com/LPTRMeR.jpg</imageurl>
@@ -177,20 +176,10 @@
 	<assignedcategory>
 	<category>yemen</category>
 	</assignedcategory>
-</channel>
-	
+</channel>	
 <channel>
      <cname>alsaeedah</cname>
      <imageurl>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/t1.0-1/p160x160/1797437_712766195410909_1521238763_n.jpg</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>yemen</category>
-     </assignedcategory>
-</channel>
-
-<channel>
-     <cname>AL shareyyah</cname>
-     <imageurl>http://4.bp.blogspot.com/-Sim-BkiDWzc/UiG1c8pLX1I/AAAAAAAADTU/UnMO-bjPAF0/s1600/sharaia.jpg</imageurl>
      <enabled>True</enabled>
      <assignedcategory>
      <category>yemen</category>
@@ -213,7 +202,14 @@
 	<category>yemen</category>
 	</assignedcategory>
 </channel>
-
+<channel>
+     <cname>AL shareyyah</cname>
+     <imageurl>http://4.bp.blogspot.com/-Sim-BkiDWzc/UiG1c8pLX1I/AAAAAAAADTU/UnMO-bjPAF0/s1600/sharaia.jpg</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>yemen</category>
+     </assignedcategory>
+</channel>
 <channel>
 	<cname>Yemen Alyawm</cname>
 	<imageurl>http://www.yementodaytv.net/images/logo.png</imageurl>
@@ -298,43 +294,6 @@
 </channel>
 
 <channel>
-	<cname>OSN Box Offiece 2</cname>
-	<imageurl>http://www.cne-eg.com/UploadFolder/logos/246%5EBO2.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
-
-
-<channel>
-	<cname>OSN Sport 2 HD</cname>
-	<imageurl>http://content.osn.com/logo/channel/500x300/SP2.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>OSN Ya Hala Shabab HD</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_ya_hala_shabab_hd.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>OSN First HD</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_first_hd.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>OSN Movies Kids</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_movies_kids.png</imageurl>
 	<enabled>True</enabled>
@@ -353,6 +312,22 @@
 </channel>
 <!--
 <channel>
+	<cname>OSN Sport 2 HD</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/SP2.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN Box Offiece 2</cname>
+	<imageurl>http://www.cne-eg.com/UploadFolder/logos/246%5EBO2.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>OSN Box Offiece 3</cname>
 	<imageurl>http://content.osn.com/logo/channel/500x300/BO3.jpg</imageurl>
 	<enabled>True</enabled>
@@ -361,8 +336,8 @@
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>OSN Yahala Cinema HD</cname>
-	<imageurl>http://content.osn.com/logo/channel/500x300/OYC.jpg</imageurl>
+	<cname>OSN First HD</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_first_hd.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -377,6 +352,22 @@
 	</assignedcategory>
 </channel>
 <channel>
+	<cname>OSN Yahala Cinema HD</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/OYC.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN Ya Hala Shabab HD</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_ya_hala_shabab_hd.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>	
+<channel>
 	<cname>OSN Yahala HD</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_ya_hala_hd.png</imageurl>
 	<enabled>True</enabled>
@@ -384,7 +375,6 @@
 	<category>ent</category>
 	</assignedcategory>
 </channel>
-
 <channel>
 	<cname>Animal Planet HD</cname>
 	<imageurl>http://content.osn.com/logo/channel/500x300/APL.jpg</imageurl>
@@ -463,6 +453,7 @@
 	<category>Italy</category>
 	</assignedcategory>
 </channel>
+<!--
 <channel>
 	<cname>Rete 4</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Rete_4.svg/1024px-Rete_4.svg.png</imageurl>
@@ -487,10 +478,10 @@
 	<category>Italy</category>
 	</assignedcategory>
 </channel>
+-->
 <!-- Italy Channels End -->
 
 <!-- Sweden Channels Start -->
-
 <!--
 <channel>
 	<cname>SVT 1</cname>
@@ -962,6 +953,7 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
+
 -->
 
 <!-- Sweden Channels End -->
@@ -977,8 +969,6 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-
-
 <channel>
 	<cname>B4U Aflam</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/bb/b4u_aflam_ae.png</imageurl>
@@ -1179,14 +1169,6 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Zee Cinema (US)</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/8/81/Zee_Cinema_2011_logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
 
 <channel>
 	<cname>Filmy</cname>
@@ -1229,6 +1211,7 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
+<!--
 <channel>
 	<cname>Sony TV</cname>
 	<imageurl>http://1.bp.blogspot.com/-5jWtLOrE2t8/VUhmR2vYF2I/AAAAAAAACIA/315S-8RB-Xk/s1600/Zinda%2BSerial%2Bon%2BSony%2BTV%2B-%2BStory,%2BTimings%2B%26%2BFull%2BStar%2BCast,%2BPromos.png</imageurl>
@@ -1245,6 +1228,15 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
+<channel>
+	<cname>Zee Cinema (US)</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/en/8/81/Zee_Cinema_2011_logo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+-->
 <channel>
 	<cname>Star Plus (Hindi)</cname>
 	<imageurl>http://4.bp.blogspot.com/-EzFDqknayl8/Uuiq-sL6SkI/AAAAAAAAAXw/M5NtQeEXoZs/s1600/star_plus+new.jpg</imageurl>
@@ -1351,14 +1343,6 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Dubai Sport 4</cname>
-	<imageurl>http://s12.postimg.org/n1osjp4z1/image.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
 
 	
 <channel>
@@ -1644,15 +1628,6 @@
 </channel>
 
 <channel>
-      <cname>NBCSN</cname>
-      <imageurl>http://puckthemedia.files.wordpress.com/2011/08/nbcsn_a_reverse.jpg</imageurl>
-      <enabled>True</enabled>
-      <assignedcategory>
-      <category>sports</category>
-      </assignedcategory>
-</channel>
-
-<channel>
 	<cname>Selah</cname>
 	<imageurl>http://s16.postimg.org/u08vwfm7l/sela_logo1.png</imageurl>
 	<enabled>True</enabled>
@@ -1673,15 +1648,6 @@
 </channel>
 
 
-
-<channel>
-     <cname>Dubai Sport HD2</cname>
-     <imageurl>http://s27.postimg.org/fiz0nqm5v/Dubaisport_Hd2.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>sports</category>
-     </assignedcategory>
-</channel>
 
 
 <channel>
@@ -1968,15 +1934,7 @@
 
 
 <channel>
-	<cname>EuroSport German</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ee/eurosport.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Eurosport France</cname>
+	<cname>Eurosport</cname>
 	<imageurl>http://logostv.netii.net/Eurosport.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -1985,7 +1943,7 @@
 </channel>
 	
 <channel>
-	<cname>Eurosport 2 France</cname>
+	<cname>Eurosport 2</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/ee/eurosport2.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -2523,17 +2481,7 @@
 	<category>news</category>
 	</assignedcategory>
 </channel>
-    
 
-<channel>
-	<cname>Al Nahar Sport</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_nahar_sport.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-	
 <channel>
 	<cname>alkass</cname>
 	<imageurl>http://www.qatarbroadcast.qa/images/kas.png</imageurl>
@@ -2579,7 +2527,7 @@
 	</assignedcategory>
 </channel>	
 <channel>
-	<cname>Sky Sports F1</cname>
+	<cname>Sky Sports 5</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -2674,19 +2622,6 @@
 	</assignedcategory>
 </channel>
 
-    
-
-	
-<channel>
-	<cname>Iraqiya Sport</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/ar/6/6b/64cd614655vg2.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-
 <channel>
 	<cname>Palestine</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/plstin_zpsc73a2ef5.png</imageurl>
@@ -2695,20 +2630,6 @@
 	<category>sham</category>
 	</assignedcategory>
 </channel>	
-
-    
-<channel>
-	<cname>AlFajer Gaza</cname>
-	<imageurl>http://s22.postimg.org/8casnry5d/10391006_10152301096753801_1638869858217869121_n.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-
-
 
 <channel>
 	<cname>Alhayat2</cname>
@@ -2829,33 +2750,8 @@
  	<category>sports</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Abu Dhabi Extra HD</cname>
-	<imageurl>http://s22.postimg.org/pqerg9qbh/yes.png</imageurl>
-	<enabled>True</enabled>
-	<enabled>True</enabled>
-	<assignedcategory>
- 	<category>sports</category>
-	</assignedcategory>
-</channel>
 
-<channel>
-	<cname>BEIN US</cname>
-	<imageurl>http://www.beinsports.tv/i/beINSport/site/header/favicon/favicon-196x196.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
 
-<channel>
-	<cname>BEIN ESP</cname>
-	<imageurl>http://www.futbolenlatv.com/fotos/20140113121818-bein-enye-eeuu.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
 	
 <channel>
 	<cname>AL AHLY</cname>
@@ -3389,32 +3285,7 @@
 	</assignedcategory>
 </channel>	
 
-<channel>
-	<cname>Bein Sport 13</cname>
-	<imageurl>https://lh6.googleusercontent.com/-P6stOyqEDZ4/U443rYNa7iI/AAAAAAAAAVo/bWb1b5s1EkY/w140-h140-p/bein%2Bsport%2B13HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 14</cname>
-	<imageurl>https://lh4.googleusercontent.com/-05c1zSvWo20/U443r8E6AUI/AAAAAAAAAVU/i4sqePSUwBQ/w140-h140-p/bein%2Bsport%2B14HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 15</cname>
-	<imageurl>http://4.bp.blogspot.com/--mWDulrZbs0/U443sFSRmyI/AAAAAAAAAVQ/tU5Inh8YGdo/s200/bein+sport+15HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
+	
 
 <channel>
 	<cname>BAHRAIN SPORTS</cname>
@@ -3592,14 +3463,6 @@
 	</assignedcategory>
 </channel>	
 
-<channel>
-	<cname>Dubai Sport 2</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/dubibundes_zpsbdbd88cf.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
   <channel>
 	<cname>Dubai Sport 3</cname>
 	<imageurl>http://s30.postimg.org/yi4m0r6a9/Dubai_sport_3.png</imageurl>
@@ -4198,15 +4061,6 @@
 	<category>sham</category>
 	</assignedcategory>
 </channel>	
-
-<channel>
-	<cname>Tele Sports</cname>
-	<imageurl>http://www.teledunet.com/player/icones/tele_sports.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
 	
 <channel>
 	<cname>Time Drama</cname>
@@ -4473,6 +4327,15 @@
 </channel>	
 
 <channel>
+	<cname>Al Nahar Cinema</cname>
+	<imageurl>https://yt3.ggpht.com/-Xz6SsN9n-U0/AAAAAAAAAAI/AAAAAAAAAAA/ckoUyEZo3So/s900-c-k-no/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
 	<cname>Al Nahar 2</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nhr2222_zps577c346d.png</imageurl>
 	<enabled>True</enabled>
@@ -4489,7 +4352,7 @@
 	<category>egypt</category>
 	</assignedcategory>
 </channel>
-
+<!--
 <channel>
 	<cname>Bein 1 FR</cname>
 	<imageurl>http://www.futbolenlatv.com/fotos/20140113121534-bein-1-hd-fr.png</imageurl>
@@ -4516,7 +4379,7 @@
 		<category>sports</category>
 	</assignedcategory>
 </channel>
-
+-->
 <channel>
 	<cname>Melody Aflam</cname>
 	<imageurl>http://s19.postimg.org/lnd0bkn9b/melodyaflam.png</imageurl>
@@ -4776,14 +4639,7 @@
      <category>news</category>
      </assignedcategory>
 </channel>
-<channel>
-     <cname>AlHayat Sport</cname>
-     <imageurl>http://1.bp.blogspot.com/-lkxFcZgJOhQ/UDjlxdaG_4I/AAAAAAAAC3E/PPTehRWTUb4/s1600/hayat_sports.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>sports</category>
-     </assignedcategory>
-</channel>
+
 <channel>
      <cname>Atfal wa Mawaheb</cname>
      <imageurl>http://www.lyngsat-logo.com/logo/tv/aa/atfal_mawaheb.png</imageurl>
@@ -4895,15 +4751,6 @@
 	</assignedcategory>
 </channel>	
 
-
-<channel>
-	<cname>Sky Bundesliga</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ss/sky_de_bundesliga.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-  </channel>
 <channel>
 	<cname>Mehwar 2</cname>
 	<imageurl>http://s1.postimg.org/84b25ue0v/mehwar2.png</imageurl>
