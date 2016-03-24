@@ -507,25 +507,11 @@
 <streaminginfo>
     <cname>Zee Aflam</cname>
 	<item>
-	<title>UDP</title>
-	<link>http://149.11.90.99:4022/udp/238.21.13.34:5004</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Zee Aflam</cname>
-	<item>
 	<title>Masa</title>
 	<link>http://2.109.65.142/masa/14210.m3u8?v=1279345274</link>
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-    <cname>Zee Alwan</cname>
-	<item>
-	<title>UDP</title>
-	<link>http://149.11.90.99:4022/udp/238.21.13.56:5004</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
     <cname>Zee Alwan</cname>
 	<item>
@@ -535,6 +521,13 @@
 </streaminginfo>
 
 
+<streaminginfo>
+        <cname>Zee Lamhe</cname>
+		<item>
+		<title>Zeefamily: High</title>
+		<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeelamhe/chunklist.m3u8</link>
+		</item>
+</streaminginfo>
 <streaminginfo>
         <cname>Zee Kannada</cname>
 		<item>
