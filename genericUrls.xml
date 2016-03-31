@@ -22,7 +22,7 @@
 	<cname>ESTV</cname>
 	<item>
     <title>Low</title>
-    <link>http://108.170.35.130/vcdnedge1/_definst_/estv_3/chunklist_w2083002769_tkd3RDdXN0b21JcD04MDIxNzE1NTIxMSZ3dGVuZHRpbWU9MTQ1OTQ4MTg3MCZ3dGhhc2g9NEVLWnpUQnByWWxQQUJPMEE5SkNpWFlMX3ZvelA0R2NxSEplNWhyN2haND0=.m3u8</link>
+    <link>http://htq.ddns.me/iptv/ch1005?code=39006645183604</link>
 	</item>
 </streaminginfo>
 
@@ -75,8 +75,8 @@
 <streaminginfo>
 	<cname>SLNTV</cname>
 	<item>
-	<title>Axadle: Low</title>
-	<link>http://www.axadledirect.com:1936/16/stream/playlist.m3u8</link>
+	<title>Low</title>
+	<link>http://htq.ddns.me/iptv/ch1004?code=39006645183604</link>
 	</item>
 </streaminginfo>
 
@@ -98,7 +98,7 @@
 <streaminginfo>
 	<cname>Royal TV Somalia</cname>
 	<item>
-	<title>Axadledirect - Low</title>
+	<title>Low</title>
 	<link>http://htq.ddns.me/iptv/ch1002?code=39006645183604</link>
 	</item>
 </streaminginfo>
