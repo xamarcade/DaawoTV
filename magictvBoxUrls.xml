@@ -130,6 +130,13 @@
 	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/352.ts</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 2</cname>
+	<item>
+	<title>Teledunet</title>
+	<link>http://teledunet.tv:8888/bein_sport_2.m3u8?idu=hmemar_68112242640</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 3</cname>
@@ -152,6 +159,13 @@
 	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/353.ts</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 3</cname>
+	<item>
+	<title>Teledunet</title>
+	<link>http://teledunet.tv:8888/bein_sport_3.m3u8?idu=hmemar_68112242640</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 4</cname>
@@ -167,7 +181,13 @@
 	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/354.ts|X-Forwarded-For=83.249.111.198</link>
 	</item>
 </streaminginfo>
-
+<streaminginfo>
+	<cname>Bein Sport 4</cname>
+	<item>
+	<title>Teledunet</title>
+	<link>http://teledunet.tv:8888/bein_sport_4.m3u8?idu=hmemar_68112242640</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 5</cname>
@@ -188,6 +208,13 @@
 	<item>
 	<title>Dobras</title>
 	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10183.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 5</cname>
+	<item>
+	<title>Teledunet</title>
+	<link>http://teledunet.tv:8888/bein_sport_5.m3u8?idu=hmemar_68112242640</link>
 	</item>
 </streaminginfo>
 
@@ -212,6 +239,13 @@
 	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10187.m3u8</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 6</cname>
+	<item>
+	<title>Teledunet</title>
+	<link>http://teledunet.tv:8888/bein_sport_6.m3u8?idu=hmemar_68112242640</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 7</cname>
@@ -232,6 +266,13 @@
 	<item>
 	<title>High</title>
 	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10188.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 7</cname>
+	<item>
+	<title>Teledunet</title>
+	<link>http://teledunet.tv:8888/bein_sport_7.m3u8?idu=hmemar_68112242640</link>
 	</item>
 </streaminginfo>
 
@@ -256,6 +297,21 @@
 	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2324.ts</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 8</cname>
+	<item>
+	<title>Teledunet</title>
+	<link>http://teledunet.tv:8888/bein_sport_8.m3u8?idu=hmemar_68112242640</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 9</cname>
+	<item>
+	<title>Teledunet</title>
+	<link>http://teledunet.tv:8888/bein_sport_9.m3u8?idu=hmemar_68112242640</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 10</cname>
@@ -269,6 +325,13 @@
 	<item>
 	<title>pascal</title>
 	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2322.m3u8|X-Forwarded-For=83.249.111.198</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 10</cname>
+	<item>
+	<title>Teledunet</title>
+	<link>http://teledunet.tv:8888/bein_sport_10.m3u8?idu=hmemar_68112242640</link>
 	</item>
 </streaminginfo>
 
