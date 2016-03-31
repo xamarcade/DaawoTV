@@ -68,7 +68,7 @@
 	<cname>Rai Sport 2</cname>
 	<item>
 	<title>Fratelli: High</title>
-	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/2048.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/2048.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -84,7 +84,7 @@
 	<cname>Canale 5</cname>
 	<item>
 	<title>Brian1: High</title>
-	<link>http://tv.supertv4u.eu:8000/live/brian1-test/OYjFaSy4h2/810.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://tv.supertv4u.eu:8000/live/brian1-test/OYjFaSy4h2/810.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -92,14 +92,14 @@
 	<cname>Italia 1</cname>
 	<item>
 	<title>Brian1: High</title>
-	<link>http://tv.supertv4u.eu:8000/live/brian1-test/OYjFaSy4h2/523.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://tv.supertv4u.eu:8000/live/brian1-test/OYjFaSy4h2/523.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Italia 1</cname>
 	<item>
 	<title>Brian1: High</title>
-	<link>http://tv.supertv4u.eu:8000/live/brian1-test/OYjFaSy4h2/752.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://tv.supertv4u.eu:8000/live/brian1-test/OYjFaSy4h2/752.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -107,7 +107,7 @@
 	<cname>Rete 4</cname>
 	<item>
 	<title>Fratelli: High</title>
-	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/220.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/220.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -135,7 +135,7 @@
 	<cname>TV 3</cname>
 	<item>
 	<title>High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1074.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1074.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -143,7 +143,7 @@
 	<cname>TV 4</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1096.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1096.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -151,35 +151,35 @@
 	<cname>TV 4 Film</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1112.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1112.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 4 Komedi</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1089.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1089.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 4 Guld</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1097.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1097.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 4 Fakta</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1086.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1086.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 4 Sport</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1115.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1115.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -187,7 +187,7 @@
 	<cname>TV 5</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1100.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1100.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -195,7 +195,7 @@
 	<cname>TV 6</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1130.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1130.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -203,42 +203,42 @@
 	<cname>TV 7</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1103.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1103.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 8</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1098.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1098.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 9</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1119.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1119.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 10</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1087.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1087.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 11</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1099.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1099.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 12</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1095.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1095.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -246,7 +246,7 @@
 	<cname>Kunskapskanalen</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1104.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1104.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -260,14 +260,14 @@
 	<cname>Discovery Channel</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1083.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1083.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>National Geographic</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1079.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1079.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -275,42 +275,42 @@
 	<cname>SF-Kanalen</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1073.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1073.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TCM</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1080.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1080.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>FOX</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1078.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1078.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TNT</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1075.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1075.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Comedy Central</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1082.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1082.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TLC</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1084.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1084.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -318,7 +318,7 @@
 	<cname>C more Hits</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1107.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1107.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -326,28 +326,28 @@
 	<cname>C more First</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1108.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1108.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>C more Action</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1110.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1110.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>C more Series</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1111.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1111.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>C More Emotion</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1117.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1117.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -355,42 +355,42 @@
 	<cname>C more Tennis</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1116.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1116.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>C More Sport</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1093.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1093.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>C more Live</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1106.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1106.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>C more Live 2</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1105.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1105.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>C more Live 3</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1090.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1090.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>C more Live 4</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1091.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1091.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -399,14 +399,14 @@
 	<cname>Viasat Hits</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1094.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1094.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat History</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1102.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1102.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -414,7 +414,7 @@
 	<cname>Viasat E!</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1131.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1131.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -422,14 +422,14 @@
 	<cname>Viasat Film Premiere</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1121.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1121.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Series</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1123.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1123.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -437,14 +437,14 @@
 	<cname>Viasat Nature</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1133.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1133.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Family</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1125.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1125.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -452,49 +452,49 @@
 	<cname>Viasat Sport</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1126.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1126.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Fotboll</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1124.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1124.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Motor</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1129.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1129.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Hockey</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1128.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1128.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Golf</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1132.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1132.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV3 Sport 1</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1077.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1077.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV3 Sport 2</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1076.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1076.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
@@ -504,42 +504,42 @@
 	<cname>Cartoon  Network</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1101.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1101.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Disney XD</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1109.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1109.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Disney</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1088.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1088.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nickelodeon</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1127.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1127.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Boomerang</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1085.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1085.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Barn Kanalen</cname>
 	<item>
 	<title>argentina: High</title>
-	<link>http://ipsatpro.com:8000/live/argentina/argentina/1113.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://ipsatpro.com:8000/live/28071980/28071980//1113.m3u8|X-Forwarded-For=80.217.155.211</link>
 	</item>
 </streaminginfo>
 
