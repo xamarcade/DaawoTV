@@ -722,7 +722,27 @@
 	</item>
 </streaminginfo>
 
-
+	<streaminginfo>		
+		<cname>NBC Golf</cname>
+		<item>
+			<title>480p SD</title>
+			<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>NBC Golf</cname>
+		<item>
+			<title>720p HD</title>
+			<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>NBC Golf</cname>
+		<item>
+			<title>1080p HD</title>
+			<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+		</item>
+	</streaminginfo>
 
 
 
