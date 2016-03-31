@@ -309,6 +309,13 @@
 		<link>http://htq.ddns.me/iptv/ch768?code=39006645183604.m3u8|X-Forwarded-For=83.249.111.198</link>
 		</item>
 </streaminginfo>
+<streaminginfo>
+        <cname>B4U Aflam</cname>
+		<item>
+		<title>Teledunet</title>
+		<link>http://teledunet.tv:8888/b4u_aflam.m3u8?idu=hmemar_68112242640</link>
+		</item>
+</streaminginfo>
 
 
 <streaminginfo>
