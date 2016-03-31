@@ -306,7 +306,7 @@
         <cname>B4U Aflam</cname>
 		<item>
 		<title>High</title>
-		<link>http://htq.ddns.me/iptv/ch768?code=39006645183604.m3u8|X-Forwarded-For=83.249.111.198</link>
+		<link>http://149.11.90.99:4022/udp/238.21.13.57:5004</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
@@ -338,7 +338,7 @@
     <cname>B4U Plus</cname>
 	<item>
 	<title>High</title>
-	<link>http://htq.ddns.me/iptv/ch763?code=39006645183604.m3u8|X-Forwarded-For=83.249.111.198</link>
+	<link>http://149.11.90.99:4022/udp/238.21.13.58:5004</link>
 	</item>
 </streaminginfo>
 
