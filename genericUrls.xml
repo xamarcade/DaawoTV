@@ -46,7 +46,7 @@
 	<cname>Kalsan Tv</cname>
 	<item>
 	<title>HLS_Stream</title>
-	<link>http://cdn01.iqbroadcast.tv:8081/g1/kalsan300/playlist.m3u8</link>
+	<link>http://cdn01.iqbroadcast.tv:8081/g1/kalsan300/chunks.m3u8?nimblesessionid=14483573</link>
 	</item>
 </streaminginfo>
 
@@ -55,7 +55,7 @@
 	<cname>SBC</cname>
 	<item>
 	<title>SBC Livestream</title>
-	<link>http://cdn01.iqbroadcast.tv:8081/g1/sbscvt1206/playlist.m3u8</link>
+	<link>http://cdn01.iqbroadcast.tv:8081/g1/sbscvt1206/chunks.m3u8?nimblesessionid=14483592</link>
 	</item>	
 </streaminginfo>
 
