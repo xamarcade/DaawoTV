@@ -97,20 +97,6 @@
 <streaminginfo>
 	<cname>Bein Sport 1</cname>
 	<item>
-	<title>pascal2</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2337.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 1</cname>
-	<item>
-	<title>pascal</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/351.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 1</cname>
-	<item>
 	<title>Teledunet</title>
 	<link>http://teledunet.tv:8888/bein_sport_1.m3u8?idu=hmemar_68112242640</link>
 	</item>
@@ -119,15 +105,8 @@
 <streaminginfo>
 	<cname>Bein Sport 2</cname>
 	<item>
-	<title>pascal2</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2330.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
-	<title>pascal</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/352.ts</link>
+	<title>Dobras: High</title>
+	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10183.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -141,22 +120,8 @@
 <streaminginfo>
 	<cname>Bein Sport 3</cname>
 	<item>
-	<title>High</title>
+	<title>Dobras: High</title>
 	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10184.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 3</cname>
-	<item>
-	<title>pascal2</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2329.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 3</cname>
-	<item>
-	<title>pascal</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/353.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -170,20 +135,6 @@
 <streaminginfo>
 	<cname>Bein Sport 4</cname>
 	<item>
-	<title>pascal2</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2328.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 4</cname>
-	<item>
-	<title>pascal</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/354.ts|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 4</cname>
-	<item>
 	<title>Teledunet</title>
 	<link>http://teledunet.tv:8888/bein_sport_4.m3u8?idu=hmemar_68112242640</link>
 	</item>
@@ -192,22 +143,8 @@
 <streaminginfo>
 	<cname>Bein Sport 5</cname>
 	<item>
-	<title>pascal2</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/355.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 5</cname>
-	<item>
-	<title>pascal</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2327.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 5</cname>
-	<item>
-	<title>Dobras</title>
-	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10183.m3u8</link>
+	<title>Dobras:High</title>
+	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10186.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -221,21 +158,7 @@
 <streaminginfo>
 	<cname>Bein Sport 6</cname>
 	<item>
-	<title>pascal2</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/356.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 6</cname>
-	<item>
-	<title>pascal</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2326.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 6</cname>
-	<item>
-	<title>High</title>
+	<title>Dobras: High</title>
 	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10187.m3u8</link>
 	</item>
 </streaminginfo>
@@ -250,21 +173,7 @@
 <streaminginfo>
 	<cname>Bein Sport 7</cname>
 	<item>
-	<title>pascal2</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/357.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 7</cname>
-	<item>
-	<title>pascal</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2325.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 7</cname>
-	<item>
-	<title>High</title>
+	<title>Dobras: High</title>
 	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10188.m3u8</link>
 	</item>
 </streaminginfo>
@@ -279,22 +188,8 @@
 <streaminginfo>
 	<cname>Bein Sport 8</cname>
 	<item>
-	<title>High</title>
+	<title>Dobras: High</title>
 	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10189.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 8</cname>
-	<item>
-	<title>pascal2</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/358.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 8</cname>
-	<item>
-	<title>pascal</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2324.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -313,20 +208,6 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Bein Sport 10</cname>
-	<item>
-	<title>pascal2</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/360.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 10</cname>
-	<item>
-	<title>pascal</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/2322.m3u8|X-Forwarded-For=83.249.111.198</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 10</cname>
 	<item>
