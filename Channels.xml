@@ -1228,15 +1228,8 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-<!--
-<channel>
-	<cname>Sony TV</cname>
-	<imageurl>http://1.bp.blogspot.com/-5jWtLOrE2t8/VUhmR2vYF2I/AAAAAAAACIA/315S-8RB-Xk/s1600/Zinda%2BSerial%2Bon%2BSony%2BTV%2B-%2BStory,%2BTimings%2B%26%2BFull%2BStar%2BCast,%2BPromos.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
+
+
 <channel>
 	<cname>Sony Sab</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/SAB_TV.svg/871px-SAB_TV.svg.png</imageurl>
@@ -1245,6 +1238,16 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
+<channel>
+	<cname>Sony TV</cname>
+	<imageurl>http://1.bp.blogspot.com/-5jWtLOrE2t8/VUhmR2vYF2I/AAAAAAAACIA/315S-8RB-Xk/s1600/Zinda%2BSerial%2Bon%2BSony%2BTV%2B-%2BStory,%2BTimings%2B%26%2BFull%2BStar%2BCast,%2BPromos.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+<!--
+
 <channel>
 	<cname>Zee Cinema (US)</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/en/8/81/Zee_Cinema_2011_logo.png</imageurl>
