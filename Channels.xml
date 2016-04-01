@@ -59,14 +59,7 @@
 	<category>somalia</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Royal TV Somalia</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rylsml_zps4185b722.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Kalsan Tv</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/klsn_zps62722125.png</imageurl>
@@ -75,14 +68,7 @@
 	<category>somalia</category>
 	</assignedcategory>
 </channel>	
--<channel>
-	<cname>SLNTV</cname>
-	<imageurl>http://i.imgur.com/LPTRMeR.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
+
 -<channel>
 	<cname>Somali Cable</cname>
 	<imageurl>https://yt3.ggpht.com/-HxJ9JIhKtQg/AAAAAAAAAAI/AAAAAAAAAAA/cLwV6iXtY3w/s900-c-k-no/photo.jpg</imageurl>
@@ -99,23 +85,6 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
--<channel>
-	<cname>ESTV</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ee/ethiopia_somali_tv.png</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
-
--<channel>
-	<cname>SBTV</cname>
-	<imageurl>http://static-cdn1.ustream.tv/i/channel/picture/1/8/6/2/18624946/18624946,66x66,r:9.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
 
 -<channel>
 	<cname>JLTV</cname>
@@ -125,6 +94,41 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
+<!--
+-<channel>
+	<cname>ESTV</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/ee/ethiopia_somali_tv.png</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
+-<channel>
+	<cname>SBTV</cname>
+	<imageurl>http://static-cdn1.ustream.tv/i/channel/picture/1/8/6/2/18624946/18624946,66x66,r:9.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
+-<channel>
+	<cname>SLNTV</cname>
+	<imageurl>http://i.imgur.com/LPTRMeR.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Royal TV Somalia</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rylsml_zps4185b722.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>somalia</category>
+	</assignedcategory>
+</channel>
+-->
+
 
 
 <!-- Somalian Channels End -->
