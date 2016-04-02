@@ -1711,15 +1711,6 @@
 </channel>
 
 <channel>
-	<cname>Abu Dhabi Emirates</cname>
-	<imageurl>http://jazarah.net/wp-content/uploads/2015/03/Al-Emarat-Logo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-<channel>
     <cname>Albait Baitak Cinema</cname>
     <imageurl>http://s2.postimg.org/pfkzb7d2h/bitbitak.jpg</imageurl>
     <enabled>True</enabled>
@@ -2781,17 +2772,7 @@
 	<assignedcategory>
 	<category>sports</category>
 	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Abu Dhabi</cname>
-	<imageurl>http://s19.postimg.org/hb86nb6df/image.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
+</channel>		
 	
  <channel>
 	<cname>Alwatan Plus</cname>
@@ -4612,63 +4593,6 @@
 	<category>sham</category>
 	</assignedcategory>
 </channel>	
-	
-<channel>
-	<cname>Al Iraqiya Tarbawiyah</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_iraqya.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>	
-<channel>
-	<cname>Al Iraqiya Documentary</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_iraqya_documentary.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>	
-
-
-<channel>
-     <cname>Cairo Cinema 2</cname>
-     <imageurl>http://www.lyngsat-logo.com/logo/tv/cc/cairo_cinema_2_eg.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>drama</category>
-     <category>egypt</category>
-     </assignedcategory>
-</channel>
-
-
-<channel>
-     <cname>LDC</cname>
-     <imageurl>http://www.lyngsat-logo.com/hires/ll/ldc_lb.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>sham</category>
-     <category>ent</category>
-     </assignedcategory>
-</channel>
-
-<channel>
-     <cname>A1 Jordan</cname>
-     <imageurl>http://s29.postimg.org/nyvrapt6b/website_logo.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>news</category>
-     </assignedcategory>
-</channel>
-
-<channel>
-     <cname>Atfal wa Mawaheb</cname>
-     <imageurl>http://www.lyngsat-logo.com/logo/tv/aa/atfal_mawaheb.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>kids</category>
-     </assignedcategory>
-</channel>
 
 <channel>
      <cname>Dejlah</cname>
@@ -4678,29 +4602,6 @@
      <category>iraq</category>
      </assignedcategory>
 </channel>
-
-<channel>
-     <cname>Gladiator</cname>
-     <imageurl>http://www.lyngsat-logo.com/logo/tv/gg/gladiator_tv.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>sports</category>
-     </assignedcategory>
-</channel>
-
-
-<channel>
-     <cname>RAK</cname>
-     <imageurl>http://www.lyngsat-logo.com/logo/tv/rr/rak_tv_ae.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>gulf</category>
-     </assignedcategory>
-</channel>
-
-
-
-
 
 <channel>
 	<cname>Al oula Maroc</cname>
@@ -4772,6 +4673,111 @@
 	</assignedcategory>
 </channel>	
 
+<!--
+
+
+
+
+
+
+
+
+
+
+<channel>
+	<cname>Abu Dhabi Emirates</cname>
+	<imageurl>http://jazarah.net/wp-content/uploads/2015/03/Al-Emarat-Logo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Abu Dhabi</cname>
+	<imageurl>http://s19.postimg.org/hb86nb6df/image.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+     <cname>Cairo Cinema 2</cname>
+     <imageurl>http://www.lyngsat-logo.com/logo/tv/cc/cairo_cinema_2_eg.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>drama</category>
+     <category>egypt</category>
+     </assignedcategory>
+</channel>
+
+<channel>
+	<cname>Al Iraqiya Tarbawiyah</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_iraqya.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Al Iraqiya Documentary</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_iraqya_documentary.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+     <cname>LDC</cname>
+     <imageurl>http://www.lyngsat-logo.com/hires/ll/ldc_lb.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>sham</category>
+     <category>ent</category>
+     </assignedcategory>
+</channel>
+
+<channel>
+     <cname>A1 Jordan</cname>
+     <imageurl>http://s29.postimg.org/nyvrapt6b/website_logo.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>news</category>
+     </assignedcategory>
+</channel>
+
+<channel>
+     <cname>Atfal wa Mawaheb</cname>
+     <imageurl>http://www.lyngsat-logo.com/logo/tv/aa/atfal_mawaheb.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>kids</category>
+     </assignedcategory>
+</channel>
+
+<channel>
+     <cname>Gladiator</cname>
+     <imageurl>http://www.lyngsat-logo.com/logo/tv/gg/gladiator_tv.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>sports</category>
+     </assignedcategory>
+</channel>
+
+<channel>
+     <cname>RAK</cname>
+     <imageurl>http://www.lyngsat-logo.com/logo/tv/rr/rak_tv_ae.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>gulf</category>
+     </assignedcategory>
+</channel>
+
 <channel>
 	<cname>Mehwar 2</cname>
 	<imageurl>http://s1.postimg.org/84b25ue0v/mehwar2.png</imageurl>
@@ -4781,8 +4787,6 @@
 	<category>egypt</category>
     </assignedcategory>
 </channel>	
-
-	
     
     <channel>
 	<cname>Time Taxi</cname>
@@ -4794,9 +4798,7 @@
 	</assignedcategory>
 </channel>
 
-
-
-
+-->
 
 
 </channels>
