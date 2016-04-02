@@ -1525,14 +1525,6 @@
 </channel>
 
 <channel>
-	<cname>Sout El Shaab</cname>
-	<imageurl>http://s15.postimg.org/hngwpb85j/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-<channel>
 	<cname>Darbaka Aflam</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/dd/darbaka_tv.png</imageurl>
 	<enabled>True</enabled>
@@ -2015,17 +2007,6 @@
 	<category>gulf</category>
 	</assignedcategory>
 </channel>
-
-<channel>
-	<cname>Tahrir</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_tahrir_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-
-
 
 <channel>
 	<cname>AlBabeleyia</cname>
@@ -2624,15 +2605,7 @@
 	</assignedcategory>
 </channel>	
     
-<channel>
-	<cname>Sama Cinema</cname>
-	<imageurl>http://s18.postimg.org/cradfbeo9/samacinema.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	<category>drama</category>
-	</assignedcategory>
-</channel>
+
 
 <channel>
 	<cname>Palestine</cname>
@@ -3688,38 +3661,6 @@
 </channel>	
 
 <channel>
-	<cname>MBC Masr</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mbc-msr_zps87074427.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	<category>egypt</category>
-	<category>drama</category>
-	</assignedcategory>
-</channel>	
-<channel>
-	<cname>MBC Masr 2</cname>
-	<imageurl>http://s14.postimg.org/w7mn2vxup/MBC_Masr2.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	<category>egypt</category>
-	<category>drama</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>MBC Masr Drama</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_misr_drama.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	<category>egypt</category>
-	<category>drama</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
 	<cname>MBC Max</cname>
 	<imageurl>http://s19.postimg.org/o8hkepy4j/mbcmax.png</imageurl>
 	<enabled>True</enabled>
@@ -4064,15 +4005,7 @@
 	</assignedcategory>
 </channel>	
 	
-<channel>
-	<cname>Time Drama</cname>
-	<imageurl>http://s4.postimg.org/bs34k422h/Time.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	<category>drama</category>
-	</assignedcategory>
-</channel>	
+	
 
 <channel>
 	<cname>Top Movies</cname>
@@ -4473,15 +4406,6 @@
 	</assignedcategory>
 </channel>	
 
-<channel>
-	<cname>Time cinema</cname>
-	<imageurl>http://s4.postimg.org/bs34k422h/Time.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>drama</category>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
 
 <channel>
 	<cname>M3Ali Tv</cname>
@@ -4684,6 +4608,82 @@
 
 
 
+
+
+
+
+
+
+<channel>
+	<cname>Sama Cinema</cname>
+	<imageurl>http://s18.postimg.org/cradfbeo9/samacinema.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Sout El Shaab</cname>
+	<imageurl>http://s15.postimg.org/hngwpb85j/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Tahrir</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_tahrir_tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>MBC Masr Drama</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_misr_drama.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	<category>egypt</category>
+	<category>drama</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>MBC Masr</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mbc-msr_zps87074427.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	<category>egypt</category>
+	<category>drama</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>MBC Masr 2</cname>
+	<imageurl>http://s14.postimg.org/w7mn2vxup/MBC_Masr2.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	<category>egypt</category>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Dream 1</cname>
+	<imageurl>http://s19.postimg.org/79cshd7ur/dream1.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+
 <channel>
 	<cname>Abu Dhabi Emirates</cname>
 	<imageurl>http://jazarah.net/wp-content/uploads/2015/03/Al-Emarat-Logo.jpg</imageurl>
@@ -4788,6 +4788,26 @@
     </assignedcategory>
 </channel>	
     
+<channel>
+	<cname>Time Drama</cname>
+	<imageurl>http://s4.postimg.org/bs34k422h/Time.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	<category>drama</category>
+	</assignedcategory>
+</channel>	
+	
+<channel>
+	<cname>Time cinema</cname>
+	<imageurl>http://s4.postimg.org/bs34k422h/Time.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+	
     <channel>
 	<cname>Time Taxi</cname>
 	<imageurl>http://s4.postimg.org/bs34k422h/Time.png</imageurl>
