@@ -1492,18 +1492,6 @@
      </assignedcategory>
 </channel>
 
-
-<channel>
-	<cname>Mafia Cinema</cname>
-	<imageurl>http://s14.postimg.org/dytdmj63l/Cinema_Mafia.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>drama</category>
- 	<category>egypt</category>
-	</assignedcategory>
-</channel>	
-
-
 <channel>
 	<cname>Beur</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/bb/beur_tv_be.png</imageurl>
@@ -1513,8 +1501,6 @@
 	</assignedcategory>
 </channel>
 
-
-	
 <channel>
 	<cname>Attasi3a</cname>
 	<imageurl>http://satexpat.com/img/cha/tn/tv9-95x95.gif</imageurl>
@@ -3703,18 +3689,6 @@
 	</assignedcategory>
 </channel>	
 
-
-<channel>
-	<cname>Moga Comedy</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/moga_zps5604c250.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>drama</category>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
-
-
 <channel>
 	<cname>National Geo Ad</cname>
 	<imageurl>http://s19.postimg.org/5smhg6dxf/natgeoad.png</imageurl>
@@ -3723,9 +3697,7 @@
 	<category>doc</category>
 	</assignedcategory>
 </channel>	
-
-    
-    
+   
 <channel>
 	<cname>Nile Cinema</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nlcin_zpsd0c57a0e.png</imageurl>
@@ -3790,16 +3762,7 @@
 	<assignedcategory>
 	<category>sports</category>
 	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Nile Tv</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/NIL_zpsb82f209a.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
+</channel>		
 
 <channel>
 	<cname>Noor Dubai</cname>
@@ -3810,7 +3773,6 @@
 	<category>islam</category>
 	</assignedcategory>
 </channel>	
-
 
 <channel>
 	<cname>OTV Lebanon</cname>
@@ -4608,11 +4570,34 @@
 
 
 
+<channel>
+	<cname>Mafia Cinema</cname>
+	<imageurl>http://s14.postimg.org/dytdmj63l/Cinema_Mafia.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+ 	<category>egypt</category>
+	</assignedcategory>
+</channel>
 
+<channel>
+	<cname>Moga Comedy</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/moga_zps5604c250.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
 
-
-
-
+<channel>
+	<cname>Nile Tv</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/NIL_zpsb82f209a.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
 
 <channel>
 	<cname>Sama Cinema</cname>
