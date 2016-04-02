@@ -60,6 +60,8 @@ def PlayStream(sourceEtree, urlSoup, name, url):
 
         while totalTried<howMaytimes:
             totalTried+=1
+            vtype=1
+            vheaders=None
             if 1==1:
                 newURL='http://www.teledunet.com/mobile/'
                 print 'newURL',newURL
@@ -84,6 +86,7 @@ def PlayStream(sourceEtree, urlSoup, name, url):
                         rtmp='rtmp://127.0.0.1:1935/live/%s'%channelId
                     else:
                         rtmp=rtmp[0]               
+                    rtmp='rtmp://127.0.0.1:1935/live/%s'%channelId #ignore the available one
                     print 'rtmp1',rtmp
                     #rtmp='rtmp://%s/%s'%(rtmp,channelId)
                     rtmp='rtmp://%s'%(rtmp)
@@ -106,8 +109,10 @@ def PlayStream(sourceEtree, urlSoup, name, url):
                                 servers_array = [servers_array.pop(sidtemp)]+servers_array
                             print 'servers_array revised',servers_array
                         except: pass
-                        
-                        rtmp=servers_array[0]#totalTried-1] 
+                        s=1
+                        if totalTried in [2,3]:
+                           s=0 
+                        rtmp=servers_array[s] 
                 except:
                     clearFileCache()            
                     traceback.print_exc(file=sys.stdout)
@@ -123,23 +128,24 @@ def PlayStream(sourceEtree, urlSoup, name, url):
             pDialog.update(80, 'trying to play')
             liveLink= sourceEtree.findtext('rtmpstring');
             freeCH=channelId#'2m'
-            ip_patt="ip='(.*?)';"
-            dz_patt="dz='(.*?)';"
-            today = datetime.datetime.now()
+            #ip_patt="ip='(.*?)';"
+            #dz_patt="dz='(.*?)';"
+            #today = datetime.datetime.now()
             #v1 = 234*(366-(today - datetime.datetime(today.year, 1, 1)).days + 0);
             #v2 = 222; #something wrong in calc, may be timezone?
-            dz=re.findall(dz_patt, link)[0]        
-            ip=re.findall(ip_patt, link)[0]
-            ip2=ip.replace('.','')
+            #dz=re.findall(dz_patt, link)[0]        
+            #ip=re.findall(ip_patt, link)[0]
+            #ip2=ip.replace('.','')
                                              
 
 #            token=str(long(ip2)*len(channelId)*int(dz)+int(0 +random.random() *10))
             #token=(long(ip2)*stringToCode(channelId)*long(dz)*stringToCode(selfAddon.getSetting( "teledunetTvLogin" )))
             import time 
-            if totalTried<3:
+            if totalTried>1:
                 
-                token=str(long(ip2)*long(dz))+'_'+str(int(time.time())*1000)
-     
+                #token=str(long(ip2)*long(dz))+'_'+str(int(time.time())*1000)
+
+                token=re.findall("id_user_rtmp='(.*?)'", link)[0]  
                 #print 'dz',	dz        
                 #access_id=str(((365-int(dz))*long(ip2)*v1)+v2)
                 #access_id='?id1='+access_id
@@ -147,14 +153,26 @@ def PlayStream(sourceEtree, urlSoup, name, url):
 
                 #liveLinkdummy=liveLink%(rtmp,'',freeCH,selfAddon.getSetting( "teledunetTvLogin" ),'')
     #            liveLink=liveLink%(rtmp,channelId,access_id,freeCH,selfAddon.getSetting( "teledunetTvLogin" ),token)
-                if totalTried==1:
-                    rtmp=rtmp.replace("teledunet.com","teledunet.tv")
-                liveLink=liveLink%(rtmp,channelId,freeCH,selfAddon.getSetting( "teledunetTvLogin" ).replace(' ','%20'),token)
-                patt='swfUrl=(.*?) '
-                swf=re.findall(patt, liveLink)[0]
+                #if totalTried in (1,2):
+                #    rtmp=rtmp.replace("teledunet.com","teledunet.tv")
+                #liveLink=liveLink%(rtmp,channelId,freeCH,selfAddon.getSetting( "teledunetTvLogin" ).replace(' ','%20'),token)
+                #patt='swfUrl=(.*?) '
+
+                #swf=re.findall(patt, liveLink)[0]
+
+                    
+                liveLink="%s swfUrl=http://www.teledunet.com/mobile/http_player/GrindPlayer.swf pageUrl=http://www.teledunet.com/mobile/ flashVer=WIN20,0,0,306  live=true timeout=15"%("rtmp://www.teledunet.com:1935/live?idu=%s/%s"%(token, channelId))
+                vtype=2
                 #getUrl(swf)
             else:
-                liveLink='http://www.teledunet.com:8888/rtmp://www.teledunet.com:1935/live/%s|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36'%channelId
+                try:
+                    
+                    ur="http://www.teledunet.com/mobile/http_player/?channel=%s"%channelId
+                    urhtml=getUrl(ur,getCookieJar(),referer='http://www.teledunet.com/mobile/')
+                    liveLink=re.findall('src: "(.*?)"',urhtml)[0]+'|X-Requested-With: ShockwaveFlash/21.0.0.182&Referer=http://www.teledunet.com/mobile/http_player/?channel=teledunet_tv&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'
+                    vheaders=[('X-Requested-With','ShockwaveFlash/21.0.0.182'),('Referer','http://www.teledunet.com/mobile/http_player/?channel=teledunet_tv'),('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36')]
+                    getUrl('http://teledunet.tv:8888/crossdomain.xml',getCookieJar(),referer='http://www.teledunet.com/mobile/http_player/?channel=attassia_tv')
+                except: traceback.print_exc(file=sys.stdout)
             name+='-Teledunet'
             print 'liveLink',liveLink
             pDialog.close()
@@ -191,18 +209,36 @@ def PlayStream(sourceEtree, urlSoup, name, url):
                         break
                     else:
                         liveLinkPlay=re.sub('user=(.*?)&','user=%s&'%randomuser,liveLinkPlay)
-                player.play( liveLinkPlay,listitem)  
-                if pDialog.iscanceled():
-                    break
+                
+                if vtype==1:
+                    iss=0
+                    isshowmany=10
+                    while iss<isshowmany:
+                        iss+=1
+                        pDialog.update((iss*100)/isshowmany, 'Teledunet: Try #' + str(iss) +' of ' + str(isshowmany))
+                        if pDialog.iscanceled():
+                            break
+                        try:
+                            if 'EXTM3U' in getUrl(liveLinkPlay.split('|')[0], headers=vheaders): break
+                            
+                        except: pass
+                        xbmc.sleep(1000)
                 #pDialog.close()
+                player.play( liveLinkPlay,listitem)  
+                looptime = time.time()
                 while player.is_active:
-                    xbmc.sleep(200)
+                    if (time.time()-looptime)>40:
+                        looptime = time.time()
+                        updateconnect(getCookieJar())
+                    xbmc.sleep(1000)
                 #return player.urlplayed
                 done = time.time()
                 elapsed = done - start
                 #save file
+                
                 if player.urlplayed and elapsed>=3:
                     return True
+                
         pDialog.close()
         return False
     except:
@@ -341,20 +377,23 @@ def getCookieJar():
 
 	return cookieJar
 
-def getUrl(url, cookieJar=None,post=None,referer=None):
+def getUrl(url, cookieJar=None,post=None,referer=None,headers=None):
 
-	cookie_handler = urllib2.HTTPCookieProcessor(cookieJar)
-	opener = urllib2.build_opener(cookie_handler, urllib2.HTTPBasicAuthHandler(), urllib2.HTTPHandler())
-	#opener = urllib2.install_opener(opener)
-	req = urllib2.Request(url)
-	req.add_header('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36')
-	if referer:
-		req.add_header('Referer',referer)
-	response = opener.open(req,post,timeout=30)
-	link=response.read()
-	response.close()
-	return link;
-	
+    cookie_handler = urllib2.HTTPCookieProcessor(cookieJar)
+    opener = urllib2.build_opener(cookie_handler, urllib2.HTTPBasicAuthHandler(), urllib2.HTTPHandler())
+    #opener = urllib2.install_opener(opener)
+    req = urllib2.Request(url)
+    req.add_header('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36')
+    if referer:
+        req.add_header('Referer',referer)
+    if headers:
+        for h,hv in headers:
+            req.add_header(h,hv)
+    response = opener.open(req,post,timeout=30)
+    link=response.read()
+    response.close()
+    return link;
+
 def shouldforceLogin(cookieJar=None):
     try:
         url="http://www.teledunet.com/boutique/connexion.php"
@@ -370,7 +409,25 @@ def shouldforceLogin(cookieJar=None):
     except:
         traceback.print_exc(file=sys.stdout)
     return True
-
+def updateconnect(cookie_jar):
+    try:
+        import time
+        #currentTime=int(time.time()*1000)
+        rnd=str(int(time.time()*1000))
+        post={'rndval':rnd}
+        post = urllib.urlencode(post)
+        html=getUrl('http://www.teledunet.com/update_connect_date.php', cookie_jar,referer='http://www.teledunet.com/',post=post)
+        #rnd=str(int(time.time()*1000))
+        #post={'rndval':rnd}
+        #post = urllib.urlencode(post)
+        #html=getUrl('http://www.teledunet.com/update_connect_date.php', cookie_jar,referer='http://www.teledunet.com/',post=post)
+        ##html=getUrl('http://www.teledunet.com/top_watch.php', cookie_jar,referer='http://www.teledunet.com/social.php',post=post)
+        #html=getUrl('http://www.teledunet.com/social.php', cookie_jar,referer='http://www.teledunet.com/social.php')
+        #html=getUrl('http://www.teledunet.com/mobile/spacer.gif?id='+str(rnd), cookie_jar,referer='http://www.teledunet.com/social.php')
+        #html=getUrl('http://www.teledunet.com/total_connected.php', cookie_jar,referer='http://www.teledunet.com/social.php',post=post)
+        
+        return rnd
+    except: pass
 def getChannelHTML(cid):
     try:
         cookie_jar=None
@@ -389,14 +446,8 @@ def getChannelHTML(cid):
             cookie_jar=cookielib.LWPCookieJar()
         getUrl('http://www.teledunet.com/', cookie_jar,referer='https://www.google.fr/')
 #        mainpage=getUrl('http://www.teledunet.com/', cookie_jar,referer='http://www.teledunet.com/boutique/connexion.php')
- 
-        import time
-        #currentTime=int(time.time()*1000)
-        
-#        rnd=str(int(time.time()*1000))
-#        post={'rndval':rnd}
-#        post = urllib.urlencode(post)
-#        html=getUrl('http://www.teledunet.com/update_connect_date.php', cookie_jar,referer='http://www.teledunet.com/?channel='+cid,post=post)
+        rnd=updateconnect(cookie_jar)
+
 #        answer=None#re.findall('answer\',\'(.*?)\'', html)
 #        newod1=None
 #        if answer and len(answer)>0:
@@ -426,14 +477,14 @@ def getChannelHTML(cid):
 
         newURL='http://www.teledunet.com/mobile/'
 #        link=getUrl(newURL,cookie_jar ,None,'http://www.teledunet.com/')
-#        post={'rndval':str(rnd)}
+        post={'rndval':str(rnd)}
 
 #1434990709582
 #1434991032915
 
-#        link=getUrl('http://www.teledunet.com/pay/',cookie_jar ,None,'http://www.teledunet.com/')
-#        post = urllib.urlencode(post)
-#        link=getUrl(newURL,cookie_jar ,post,'http://www.teledunet.com/')
+        link=getUrl('http://www.teledunet.com/pay/',cookie_jar ,None,'http://www.teledunet.com/')
+        post = urllib.urlencode(post)
+        link=getUrl(newURL,cookie_jar ,post,'http://www.teledunet.com/')
         link=getUrl(newURL,cookie_jar ,None,'http://www.teledunet.com/')
 
  #       if newod1:
