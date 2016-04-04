@@ -3196,6 +3196,25 @@
 	</assignedcategory>
 </channel>	
 
+<channel>
+	<cname>Abu Dhabi Emirates</cname>
+	<imageurl>http://jazarah.net/wp-content/uploads/2015/03/Al-Emarat-Logo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Abu Dhabi</cname>
+	<imageurl>http://s19.postimg.org/hb86nb6df/image.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
    
 <channel>
 	<cname>CBC</cname>
@@ -3225,6 +3244,16 @@
 	<category>egypt</category>
 	</assignedcategory>
 </channel>	
+
+<channel>
+     <cname>Cairo Cinema 2</cname>
+     <imageurl>http://www.lyngsat-logo.com/logo/tv/cc/cairo_cinema_2_eg.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>drama</category>
+     <category>egypt</category>
+     </assignedcategory>
+</channel>
 
 <channel>
 	<cname>Cairo Drama</cname>
@@ -3261,6 +3290,16 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>islam</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Dream 1</cname>
+	<imageurl>http://s19.postimg.org/79cshd7ur/dream1.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	<category>egypt</category>
 	</assignedcategory>
 </channel>	
 	
@@ -3530,6 +3569,28 @@
 	<category>drama</category>
 	</assignedcategory>
 </channel>	
+
+<channel>
+	<cname>MBC Masr</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mbc-msr_zps87074427.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	<category>egypt</category>
+	<category>drama</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>MBC Masr 2</cname>
+	<imageurl>http://s14.postimg.org/w7mn2vxup/MBC_Masr2.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	<category>egypt</category>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
+
 <channel>
 	<cname>MTV</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mtv_zpsadd2693c.png</imageurl>
@@ -3943,6 +4004,15 @@
 	</assignedcategory>
 </channel>	
 
+<channel>
+	<cname>Moga Comedy</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/moga_zps5604c250.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
 	
 <channel>
 	<cname>AlGeria</cname>
@@ -4063,6 +4133,16 @@
 	<category>egypt</category>
 	</assignedcategory>
 </channel>	
+
+<channel>
+     <cname>LDC</cname>
+     <imageurl>http://www.lyngsat-logo.com/hires/ll/ldc_lb.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>sham</category>
+     <category>ent</category>
+     </assignedcategory>
+</channel>
 
 <channel>
 	<cname>Al Nahar 2</cname>
@@ -4230,7 +4310,25 @@
 	</assignedcategory>
 </channel>	
 	
-
+<channel>
+	<cname>Alhayat Series</cname>
+	<imageurl>http://s19.postimg.org/ukn5vbm4f/Alhayat_Mosalsalat.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+	
+<channel>
+	<cname>Mehwar 2</cname>
+	<imageurl>http://s1.postimg.org/84b25ue0v/mehwar2.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Drama</category>
+	<category>egypt</category>
+    </assignedcategory>
+</channel>	
 	
 
 <channel>
@@ -4250,6 +4348,14 @@
 	</assignedcategory>
 </channel>	
 
+<channel>
+	<cname>Toktok</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/tt/tok_tok_cinema.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
+</channel>	
 	
 <channel>
 	<cname>KTV PLUS</cname>
@@ -4304,6 +4410,25 @@
 	<category>sham</category>
 	</assignedcategory>
 </channel>	
+
+<channel>
+	<cname>Moga Comedy</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/moga_zps5604c250.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Nile Tv</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/NIL_zpsb82f209a.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
 
 <channel>
      <cname>Dejlah</cname>
@@ -4386,40 +4511,11 @@
 
 <!--
 
-<channel>
-	<cname>Star 1 Cinema</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/strmov_zps987ece1f.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>drama</category>
-	</assignedcategory>
-</channel>	
-<channel>
-	<cname>Star 2 Cinema</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/strmov_zps987ece1f.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>drama</category>
-	</assignedcategory>
-</channel>
 
-<channel>
-	<cname>Toktok</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/tt/tok_tok_cinema.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>drama</category>
-	</assignedcategory>
-</channel>
 
-<channel>
-	<cname>Top Movies</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/top_zps0107f759.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>drama</category>
-	</assignedcategory>
-</channel>
+
+
+
 
 <channel>
 	<cname>LCD AFLAM</cname>
@@ -4451,16 +4547,6 @@
 </channel>
 
 <channel>
-	<cname>Alhayat Series</cname>
-	<imageurl>http://s19.postimg.org/ukn5vbm4f/Alhayat_Mosalsalat.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>drama</category>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-
-<channel>
     <cname>AlKahera</cname>
     <imageurl>http://s11.postimg.org/myq7cjnwz/alkahera.png</imageurl>
     <enabled>True</enabled>
@@ -4489,15 +4575,7 @@
     </assignedcategory>
 </channel>
 
-<channel>
-    <cname>Cairo Comedy</cname>
-    <imageurl>http://www.lyngsat-logo.com/hires/cc/cairo_cinema_1_eg.png</imageurl>
-    <enabled>True</enabled>
-    <assignedcategory>
-    <category>drama</category>
-    <category>egypt</category>
-    </assignedcategory>
-</channel>
+
 
 <channel>
 	<cname>Chobra Cima</cname>
@@ -4539,30 +4617,20 @@
 </channel>
 
 <channel>
-	<cname>Moga Comedy</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/moga_zps5604c250.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>drama</category>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Nile Tv</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/NIL_zpsb82f209a.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Sama Cinema</cname>
 	<imageurl>http://s18.postimg.org/cradfbeo9/samacinema.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>egypt</category>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Top Movies</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/top_zps0107f759.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
 	<category>drama</category>
 	</assignedcategory>
 </channel>
@@ -4596,65 +4664,16 @@
 	</assignedcategory>
 </channel>	
 
-<channel>
-	<cname>MBC Masr</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mbc-msr_zps87074427.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	<category>egypt</category>
-	<category>drama</category>
-	</assignedcategory>
-</channel>	
-<channel>
-	<cname>MBC Masr 2</cname>
-	<imageurl>http://s14.postimg.org/w7mn2vxup/MBC_Masr2.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	<category>egypt</category>
-	<category>drama</category>
-	</assignedcategory>
-</channel>
+
 
 <channel>
-	<cname>Dream 1</cname>
-	<imageurl>http://s19.postimg.org/79cshd7ur/dream1.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Abu Dhabi Emirates</cname>
-	<imageurl>http://jazarah.net/wp-content/uploads/2015/03/Al-Emarat-Logo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Abu Dhabi</cname>
-	<imageurl>http://s19.postimg.org/hb86nb6df/image.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-     <cname>Cairo Cinema 2</cname>
-     <imageurl>http://www.lyngsat-logo.com/logo/tv/cc/cairo_cinema_2_eg.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>drama</category>
-     <category>egypt</category>
-     </assignedcategory>
+    <cname>Cairo Comedy</cname>
+    <imageurl>http://www.lyngsat-logo.com/hires/cc/cairo_cinema_1_eg.png</imageurl>
+    <enabled>True</enabled>
+    <assignedcategory>
+    <category>drama</category>
+    <category>egypt</category>
+    </assignedcategory>
 </channel>
 
 <channel>
@@ -4674,16 +4693,6 @@
 	<category>Iraq</category>
 	</assignedcategory>
 </channel>	
-
-<channel>
-     <cname>LDC</cname>
-     <imageurl>http://www.lyngsat-logo.com/hires/ll/ldc_lb.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>sham</category>
-     <category>ent</category>
-     </assignedcategory>
-</channel>
 
 <channel>
      <cname>A1 Jordan</cname>
@@ -4722,14 +4731,21 @@
 </channel>
 
 <channel>
-	<cname>Mehwar 2</cname>
-	<imageurl>http://s1.postimg.org/84b25ue0v/mehwar2.png</imageurl>
+	<cname>Star 1 Cinema</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/strmov_zps987ece1f.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>Drama</category>
-	<category>egypt</category>
-    </assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
 </channel>	
+<channel>
+	<cname>Star 2 Cinema</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/strmov_zps987ece1f.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
     
 <channel>
 	<cname>Time Drama</cname>
