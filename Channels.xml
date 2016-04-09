@@ -3157,15 +3157,7 @@
 	<category>gulf</category>
 	<category>drama</category>
 	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Fox Movies</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/fxmvi_zps2326552c.png</imageurl>
-	<assignedcategory>
-	<category>drama</category>
-	</assignedcategory>
-</channel>	
+</channel>		
 
 <channel>
 	<cname>France 24</cname>
@@ -3185,15 +3177,7 @@
 	</assignedcategory>
 </channel>	
 
-<channel>
-	<cname>Fx Arabia</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/fx_zpsa4e3fa74.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>drama</category>
-	</assignedcategory>
-</channel>	
-	
+
 <channel>
 	<cname>Iqra</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/iqr_zps13586871.png</imageurl>
@@ -3875,16 +3859,6 @@
 	<category>egypt</category>
 	</assignedcategory>
 </channel>	
-
-<channel>
-	<cname>Cine Majesti</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mjstc-cine_zps77ba40ca.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>drama</category>
-	</assignedcategory>
-</channel>	
-
 	
 <channel>
 	<cname>SM SM KIDS</cname>
@@ -4115,6 +4089,34 @@
 </channel>
 <!--
 
+
+
+
+<channel>
+	<cname>Cine Majesti</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mjstc-cine_zps77ba40ca.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Fx Arabia</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/fx_zpsa4e3fa74.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
+</channel>	
+	
+<channel>
+	<cname>Fox Movies</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/fxmvi_zps2326552c.png</imageurl>
+	<assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
+</channel>	
 
 <channel>
 	<cname>Toktok</cname>
