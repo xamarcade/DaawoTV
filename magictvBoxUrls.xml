@@ -273,7 +273,7 @@
 <streaminginfo>
         <cname>&amp;PicturesHD</cname>
 		<item>
-		<title>High</title>
+		<title>Ditto: High</title>
 		<link>http://192.240.109.130:8010/server22channel2_bitrate4.m3u8</link>
 		</item>
 </streaminginfo>
@@ -281,8 +281,8 @@
 <streaminginfo>
         <cname>&amp;PicturesTV</cname>
 		<item>
-		<title>High</title>
-		<link>http://89.35.158.12:8010/server24channel1_bitrate4.m3u8</link>
+		<title>Ditto: High</title>
+		<link>http://89.35.158.170:8010/channel1_bitrate4.m3u8</link>
 		</item>
 </streaminginfo>
 
