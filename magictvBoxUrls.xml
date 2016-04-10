@@ -289,15 +289,15 @@
 <streaminginfo>
         <cname>&amp;TV</cname>
 		<item>
-		<title>Younis: High</title>
-		<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2490.m3u8|X-Forwarded-For=80.217.155.211</link>
+		<title>Zeefamily: High</title>
+		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeelamheuk/chunklist.m3u8</link>
 		</item>
 </streaminginfo>
 
 <streaminginfo>
         <cname>&amp;TV HD</cname>
 		<item>
-		<title>Younis: High</title>
+		<title>Zeefamily: High</title>
 		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/andtvhdts/chunklist.m3u8</link>
 		</item>
 </streaminginfo>
