@@ -1103,15 +1103,6 @@
 </channel>
 
 <channel>
-	<cname>Life OK</cname>
-	<imageurl>http://www.singteltv.com.sg/_channels/pic_ch654.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Manoranjan Tv</cname>
 	<imageurl>http://freedish.mobie.in/images/Manoranjan-tv-logo-200.png</imageurl>
 	<enabled>True</enabled>
