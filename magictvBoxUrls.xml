@@ -343,10 +343,18 @@
 </streaminginfo>
 
 <streaminginfo>
+    <cname>B4U Movies</cname>
+	<item>
+	<title>UDP</title>
+	<link>http://5.255.95.156:8000/play/a00b</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
     <cname>B4U Plus</cname>
 	<item>
-	<title>DDNS</title>
-	<link>http://178.33.231.219:88/live/alimania/alimania/233.m3u8|X-Forwarded-For=80.217.155.211</link>
+	<title>UDP</title>
+	<link>http://ysfalemdar.iptv.re:4022/udp/238.21.13.58:5004</link>
 	</item>
 </streaminginfo>
 
