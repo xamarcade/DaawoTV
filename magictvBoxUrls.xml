@@ -325,12 +325,11 @@
 		</item>
 </streaminginfo>
 
-
 <streaminginfo>
     <cname>B4U Movies</cname>
 	<item>
-	<title>Zem.tv</title>
-	<link>plugin://plugin.video.ZemTV-shani/?url=aHR0cDovLzEzMC4xODUuMTQ0LjYzOjgwODEvaW5kL2I0dW1vdmllcy9wbGF5bGlzdC5tM3U4&amp;mode=37&amp;name=%5BCOLOR+green%5DB4u+movies+v3%5B%2FCOLOR%5D</link>
+	<title>UDP</title>
+	<link>http://5.255.95.156:8000/play/a00b</link>
 	</item>
 </streaminginfo>
 
@@ -339,14 +338,6 @@
 	<item>
 	<title>Zem.tv</title>
 	<link>plugin://plugin.video.ZemTV-shani/?url=WVA6aHR0cDovL3d3dy55dXBwdHYuY29tL2I0dV9tb3ZpZXNfbGl2ZS5odG1s&amp;mode=11&amp;name=%5BCOLOR+ffdc00cc%5DB4u+movies+live+yp%5B%2FCOLOR%5D</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-    <cname>B4U Movies</cname>
-	<item>
-	<title>UDP</title>
-	<link>http://5.255.95.156:8000/play/a00b</link>
 	</item>
 </streaminginfo>
 
