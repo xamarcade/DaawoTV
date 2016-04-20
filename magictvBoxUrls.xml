@@ -484,6 +484,21 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+    <cname>Zee Bollywood</cname>
+	<item>
+	<title>Zliving</title>
+	<link>http://stream.zliving.online/zeebollywood_domain_tracking/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Zee Canada</cname>
+	<item>
+	<title>Zliving</title>
+	<link>http://stream.zliving.online/zeetvcan/index.m3u8</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
         <cname>Zee Lamhe</cname>

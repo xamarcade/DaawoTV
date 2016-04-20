@@ -1218,6 +1218,24 @@
 </channel>
 
 <channel>
+	<cname>Zee Bollywood</cname>
+	<imageurl>http://res.cloudinary.com/idiso/image/upload/h_200/v1411274844/jtnweomk62fk66zo8pun.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Zee Canada</cname>
+	<imageurl>http://d3n8a8pro7vhmx.cloudfront.net/vibc/pages/257/meta_images/original/ZEETVHD_CANADA.jpg?1432567052</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+
+<channel>
 	<cname>Zee Cinema (Hindi)</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/en/8/81/Zee_Cinema_2011_logo.png</imageurl>
 	<enabled>True</enabled>
