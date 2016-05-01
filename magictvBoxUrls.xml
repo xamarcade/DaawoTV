@@ -87,48 +87,28 @@
 
 <!-- Bein Channels Start -->
 
-<streaminginfo>
-	<cname>Bein Sport 1</cname>
-	<item>
-	<title>Dobras: High</title>
-	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10182.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Bein Sport 1</cname>
 	<item>
 	<title>Teledunet</title>
-	<link>http://teledunet.tv:8888/bein_sport_1.m3u8?idu=ali96kashawi_65437810200</link>
+	<link>http://teledunet.tv:8888/bein_sport_1.m3u8?idu=roivampire_79042578300</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 2</cname>
 	<item>
-	<title>Dobras: High</title>
-	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10183.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
 	<title>Teledunet</title>
-	<link>http://teledunet.tv:8888/bein_sport_2.m3u8?idu=ali96kashawi_65437810200</link>
+	<link>http://teledunet.tv:8888/bein_sport_2.m3u8?idu=roivampire_79042578300</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 3</cname>
 	<item>
-	<title>Dobras: High</title>
-	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10184.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 3</cname>
-	<item>
 	<title>Teledunet</title>
-	<link>http://teledunet.tv:8888/bein_sport_3.m3u8?idu=ali96kashawi_65437810200</link>
+	<link>http://teledunet.tv:8888/bein_sport_3.m3u8?idu=roivampire_79042578300</link>
 	</item>
 </streaminginfo>
 
@@ -136,67 +116,39 @@
 	<cname>Bein Sport 4</cname>
 	<item>
 	<title>Teledunet</title>
-	<link>http://teledunet.tv:8888/bein_sport_4.m3u8?idu=ali96kashawi_65437810200</link>
+	<link>http://teledunet.tv:8888/bein_sport_4.m3u8?idu=roivampire_79042578300</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 5</cname>
 	<item>
-	<title>Dobras:High</title>
-	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10186.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 5</cname>
-	<item>
 	<title>Teledunet</title>
-	<link>http://teledunet.tv:8888/bein_sport_5.m3u8?idu=ali96kashawi_65437810200</link>
+	<link>http://teledunet.tv:8888/bein_sport_5.m3u8?idu=roivampire_79042578300</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 6</cname>
 	<item>
-	<title>Dobras: High</title>
-	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10187.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 6</cname>
-	<item>
 	<title>Teledunet</title>
-	<link>http://teledunet.tv:8888/bein_sport_6.m3u8?idu=ali96kashawi_65437810200</link>
+	<link>http://teledunet.tv:8888/bein_sport_6.m3u8?idu=roivampire_79042578300</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 7</cname>
 	<item>
-	<title>Dobras: High</title>
-	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10188.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 7</cname>
-	<item>
 	<title>Teledunet</title>
-	<link>http://teledunet.tv:8888/bein_sport_7.m3u8?idu=ali96kashawi_65437810200</link>
+	<link>http://teledunet.tv:8888/bein_sport_7.m3u8?idu=roivampire_79042578300</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 8</cname>
 	<item>
-	<title>Dobras: High</title>
-	<link>http://xtream-codes.no-ip.org:61250/live/dobras/dobras/10189.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 8</cname>
-	<item>
 	<title>Teledunet</title>
-	<link>http://teledunet.tv:8888/bein_sport_8.m3u8?idu=ali96kashawi_65437810200</link>
+	<link>http://teledunet.tv:8888/bein_sport_8.m3u8?idu=roivampire_79042578300</link>
 	</item>
 </streaminginfo>
 
@@ -204,7 +156,7 @@
 	<cname>Bein Sport 9</cname>
 	<item>
 	<title>Teledunet</title>
-	<link>http://teledunet.tv:8888/bein_sport_9.m3u8?idu=ali96kashawi_65437810200</link>
+	<link>http://teledunet.tv:8888/bein_sport_9.m3u8?idu=roivampire_79042578300</link>
 	</item>
 </streaminginfo>
 
@@ -212,7 +164,7 @@
 	<cname>Bein Sport 10</cname>
 	<item>
 	<title>Teledunet</title>
-	<link>http://teledunet.tv:8888/bein_sport_10.m3u8?idu=ali96kashawi_65437810200</link>
+	<link>http://teledunet.tv:8888/bein_sport_10.m3u8?idu=roivampire_79042578300</link>
 	</item>
 </streaminginfo>
 
@@ -313,15 +265,8 @@
 <streaminginfo>
         <cname>B4U Aflam</cname>
 		<item>
-		<title>DDNS</title>
-		<link>http://htq.ddns.me/iptv/ch768?code=39006645183604</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>B4U Aflam</cname>
-		<item>
 		<title>Teledunet</title>
-		<link>http://teledunet.tv:8888/b4u_aflam.m3u8?idu=ali96kashawi_65437810200</link>
+		<link>http://teledunet.tv:8888/b4u_aflam.m3u8?idu=roivampire_79042578300</link>
 		</item>
 </streaminginfo>
 
