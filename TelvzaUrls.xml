@@ -40,13 +40,7 @@
 	<link>http://212.162.68.163:80/Rai4</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Rai 4</cname>
-	<item>
-	<title>Akamaihd: High</title>
-	<link>http://ipsatpro.com:8000/live/190324120130/190324120130/1118.ts</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
 	<cname>Rai 5</cname>
