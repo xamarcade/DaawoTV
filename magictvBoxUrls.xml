@@ -265,8 +265,8 @@
 <streaminginfo>
         <cname>B4U Aflam</cname>
 		<item>
-		<title>Wssiptv</title>
-		<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/709.ts</link>
+		<title>Teledunet</title>
+		<link>http://teledunet.tv:8888/b4u_aflam.m3u8?idu=roivampire_79042578300</link>
 		</item>
 </streaminginfo>
 
@@ -289,8 +289,8 @@
 <streaminginfo>
     <cname>B4U Plus</cname>
 	<item>
-	<title>wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/708.ts</link>
+	<title>UDP</title>
+	<link>http://ysfalemdar.iptv.re:4022/udp/238.21.13.58:5004</link>
 	</item>
 </streaminginfo>
 
@@ -416,16 +416,16 @@
 <streaminginfo>
     <cname>Zee Aflam</cname>
 	<item>
-	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/705.ts</link>
+	<title>Masa</title>
+	<link>http://2.109.65.142/masa/14210.m3u8?v=1279345274</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
     <cname>Zee Alwan</cname>
 	<item>
-	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/706.ts</link>
+	<title>Masa</title>
+	<link>http://2.109.65.142/masa/14209.m3u8?v=1279345274</link>
 	</item>
 </streaminginfo>
 
