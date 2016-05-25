@@ -994,7 +994,7 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-
+-->
 <channel>
 	<cname>&amp;TV</cname>
 	<imageurl>http://3.bp.blogspot.com/-pMqF_NVXOfI/VTIyMa5Bq1I/AAAAAAAABqA/HSuCDWfc2k8/s1600/%26tv(Andtv)%2Btv%2Bchannel%2Blogo%2Bimages.jpg</imageurl>
@@ -1167,7 +1167,23 @@
 	</assignedcategory>
 </channel>
 
+<channel>
+	<cname>Zee Aflam</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/zeeflm_zps8b1bbbb9.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>	
 
+<channel>
+	<cname>Zee Alwan</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/zee_zpsfec7a540.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>	
 
 <channel>
 	<cname>Zee Anmol</cname>
@@ -1259,7 +1275,7 @@
 	</assignedcategory>
 </channel>
 
-
+<!--
 <channel>
 	<cname>Zee TV (Hindi)</cname>
 	<imageurl>http://www.tvguideindia.com/wp-content/uploads/2015/10/ZEE-TV.png</imageurl>
@@ -1268,7 +1284,7 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-
+-->
 
 <channel>
 	<cname>Zee TV (UK)</cname>
@@ -1299,7 +1315,7 @@
 </channel>
 
 
-
+<!--
 <channel>
 	<cname>Oscar Movie</cname>
 	<imageurl>http://timesofindia.indiatimes.com/thumb/msid-18442792,width-400,resizemode-4/18442792.jpg</imageurl>
@@ -1316,29 +1332,16 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
+-->
+
+
 
 
 
 <!-- Indian Channels End -->
 
 
-<channel>
-	<cname>Zee Aflam</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/zeeflm_zps8b1bbbb9.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>	
 
-<channel>
-	<cname>Zee Alwan</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/zee_zpsfec7a540.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>	
 
 
 <channel>
