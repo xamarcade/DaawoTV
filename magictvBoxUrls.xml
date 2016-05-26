@@ -92,7 +92,7 @@
 	<cname>Bein Sport 1</cname>
 	<item>
 	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/16.m3u8</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/16.ts</link>
 	</item>
 </streaminginfo>
 
@@ -100,7 +100,7 @@
 	<cname>Bein Sport 2</cname>
 	<item>
 	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/17.m3u8</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/17.ts</link>
 	</item>
 </streaminginfo>
 
@@ -108,7 +108,7 @@
 	<cname>Bein Sport 3</cname>
 	<item>
 	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/18.m3u8</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/18.ts</link>
 	</item>
 </streaminginfo>
 
@@ -116,7 +116,7 @@
 	<cname>Bein Sport 4</cname>
 	<item>
 	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/19.m3u8</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/19.ts</link>
 	</item>
 </streaminginfo>
 
@@ -124,7 +124,7 @@
 	<cname>Bein Sport 5</cname>
 	<item>
 	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/20.m3u8</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/20.ts</link>
 	</item>
 </streaminginfo>
 
@@ -132,7 +132,7 @@
 	<cname>Bein Sport 6</cname>
 	<item>
 	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/21.m3u8</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/21.ts</link>
 	</item>
 </streaminginfo>
 
@@ -140,7 +140,7 @@
 	<cname>Bein Sport 7</cname>
 	<item>
 	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/22.m3u8</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/22.ts</link>
 	</item>
 </streaminginfo>
 
@@ -148,7 +148,7 @@
 	<cname>Bein Sport 8</cname>
 	<item>
 	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/23.m3u8</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/23.ts</link>
 	</item>
 </streaminginfo>
 
@@ -156,7 +156,7 @@
 	<cname>Bein Sport 9</cname>
 	<item>
 	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/24.m3u8</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/24.ts</link>
 	</item>
 </streaminginfo>
 
@@ -164,7 +164,7 @@
 	<cname>Bein Sport 10</cname>
 	<item>
 	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/25.m3u8</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/25.ts</link>
 	</item>
 </streaminginfo>
 
@@ -172,7 +172,7 @@
 	<cname>Bein Sport 11</cname>
 	<item>
 	<title>wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/247.m3u8</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/247.ts</link>
 	</item>
 </streaminginfo>
 
@@ -180,7 +180,7 @@
 	<cname>Bein Sport 12</cname>
 	<item>
 	<title>wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/248.m3u8</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/248.ts</link>
 	</item>
 </streaminginfo>
 
@@ -252,7 +252,7 @@
         <cname>B4U Aflam</cname>
 		<item>
 		<title>wssiptv</title>
-		<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/709.m3u8</link>
+		<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/709.ts</link>
 		</item>
 </streaminginfo>
 
@@ -260,7 +260,7 @@
     <cname>B4U Movies</cname>
 	<item>
 	<title>wssiptv</title>
-	<link>http://iptv.wssiptv.com/live/premium/hellowkksl/444.m3u8</link>
+	<link>http://iptv.wssiptv.com/live/premium/hellowkksl/444.ts</link>
 	</item>
 </streaminginfo>
 
@@ -276,7 +276,7 @@
     <cname>B4U Plus</cname>
 	<item>
 	<title>UDP</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/708.m3u8</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/708.ts</link>
 	</item>
 </streaminginfo>
 
@@ -403,7 +403,7 @@
     <cname>Zee Aflam</cname>
 	<item>
 	<title>wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/705.m3u8</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/705.ts</link>
 	</item>
 </streaminginfo>
 
@@ -411,7 +411,7 @@
     <cname>Zee Alwan</cname>
 	<item>
 	<title>wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/706.m3u8</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/706.ts</link>
 	</item>
 </streaminginfo>
 
