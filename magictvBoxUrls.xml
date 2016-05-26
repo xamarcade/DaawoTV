@@ -265,8 +265,8 @@
 <streaminginfo>
         <cname>B4U Aflam</cname>
 		<item>
-		<title>Teledunet</title>
-		<link>http://teledunet.tv:8888/b4u_aflam.m3u8?idu=roivampire_79042578300</link>
+		<title>wssiptv</title>
+		<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/709.ts</link>
 		</item>
 </streaminginfo>
 
@@ -290,7 +290,7 @@
     <cname>B4U Plus</cname>
 	<item>
 	<title>UDP</title>
-	<link>http://ysfalemdar.iptv.re:4022/udp/238.21.13.58:5004</link>
+	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/708.ts</link>
 	</item>
 </streaminginfo>
 
