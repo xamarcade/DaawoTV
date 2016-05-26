@@ -1209,6 +1209,13 @@
 	</assignedcategory>
 </channel>	
 
+
+
+
+
+
+
+<!--
 <channel>
 	<cname>Zee Anmol</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/en/6/66/Zee_Anmol_logo.jpg</imageurl>
@@ -1280,7 +1287,6 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-
 <channel>
 	<cname>Zee Lamhe</cname>
 	<imageurl>http://s3.amazonaws.com/zeelwebsite/zeeinternational/images/content/hires-lamh-8be58f716f065a3.png</imageurl>
@@ -1289,7 +1295,6 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-
 <channel>
 	<cname>Zee Smile</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/en/9/9b/Zee_Smile_2011_logo.png</imageurl>
@@ -1298,8 +1303,6 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-
-<!--
 <channel>
 	<cname>Zee TV (Hindi)</cname>
 	<imageurl>http://www.tvguideindia.com/wp-content/uploads/2015/10/ZEE-TV.png</imageurl>
@@ -1308,8 +1311,6 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
--->
-
 <channel>
 	<cname>Zee TV (UK)</cname>
 	<imageurl>http://tvimages.burrp.com/images/channels2/entertainment/Zee-TV-HD.png</imageurl>
@@ -1337,6 +1338,9 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
+-->
+
+
 
 
 <!--
