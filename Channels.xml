@@ -1003,6 +1003,15 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
+
+<channel>
+	<cname>Imagines Movies</cname>
+	<imageurl>http://www.imaginemovies.ae/wp-content/themes/imagine/images/logo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
 -->
 <channel>
 	<cname>&amp;TV HD</cname>
@@ -1095,14 +1104,7 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Imagines Movies</cname>
-	<imageurl>http://www.imaginemovies.ae/wp-content/themes/imagine/images/logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
+
 
 <channel>
 	<cname>Manoranjan Tv</cname>
