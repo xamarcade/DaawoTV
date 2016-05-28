@@ -383,6 +383,9 @@
 		</item>
 </streaminginfo>
 
+http://130.185.144.63:8081/iptv/starplus/chunks.m3u8?nimblesessionid=29958064&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE2IDY6MDA6MjcgUE0maGFzaF92YWx1ZT1tTVlqY0RQM3J5b0lFTXhtYUlCaDNRPT0mdmFsaWRtaW51dGVzPTI=
+
+
 <streaminginfo>
         <cname>Star Plus (UK)</cname>
 		<item>
@@ -403,7 +406,7 @@
     <cname>Zee Aflam</cname>
 	<item>
 	<title>wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/705.ts</link>
+	<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=Hi_zeeaflem?hashedkey=083097116032077097121032050056032049048032048052 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_zeeaflem&width=594&height=404&key2=1111</link>
 	</item>
 </streaminginfo>
 
