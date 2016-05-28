@@ -91,109 +91,123 @@
 <streaminginfo>
 	<cname>Bein Sport 1</cname>
 	<item>
-	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/16.ts</link>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/bein-1-2050/local/index.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 2</cname>
 	<item>
-	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/17.ts</link>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/bein-2-2050/local/index.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 3</cname>
 	<item>
-	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/18.ts</link>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/bein-3-2050/local/index.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 4</cname>
 	<item>
-	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/19.ts</link>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/bein-4-2050/local/index.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 5</cname>
 	<item>
-	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/20.ts</link>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/bein-5-2050/local/index.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 6</cname>
 	<item>
-	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/21.ts</link>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/bein-6-2050/local/index.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 7</cname>
 	<item>
-	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/22.ts</link>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/bein-7-2050/local/index.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 8</cname>
 	<item>
-	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/23.ts</link>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/bein-8-2050/local/index.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 9</cname>
 	<item>
-	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/24.ts</link>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/bein-9-2050/local/index.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 10</cname>
 	<item>
-	<title>Wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/25.ts</link>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/bein-10-2050/local/index.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 11</cname>
 	<item>
-	<title>wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/247.ts</link>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/bein-11-2050/local/index.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 12</cname>
 	<item>
-	<title>wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/248.ts</link>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/bein-12-2050/local/index.m3u8</link>
 	</item>
 </streaminginfo>
-
-<!--
 
 <streaminginfo>
 	<cname>Bein Sport 13</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/5.m3u8|X-Forwarded-For=80.217.155.211</link>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/bein-13-2050/local/index.m3u8</link>
 	</item>
 </streaminginfo>
--->
+
+<streaminginfo>
+	<cname>Bein Sport 14</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/bein-14-2050/local/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 15</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/bein-15-2050/local/index.m3u8</link>
+	</item>
+</streaminginfo>
+
 
 
 <streaminginfo>
