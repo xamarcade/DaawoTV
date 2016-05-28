@@ -1013,14 +1013,6 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Rishtey</cname>
-	<imageurl>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFvcWSrCp4mOZEXHha3YRypb-CSQJP7EP0c_tNJKWAyAQvysJ-</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
 -->
 <channel>
 	<cname>&amp;TV HD</cname>
@@ -1114,7 +1106,6 @@
 </channel>
 
 
-
 <channel>
 	<cname>Manoranjan Tv</cname>
 	<imageurl>http://freedish.mobie.in/images/Manoranjan-tv-logo-200.png</imageurl>
@@ -1133,6 +1124,14 @@
 	</assignedcategory>
 </channel>
 
+<channel>
+	<cname>Rishtey</cname>
+	<imageurl>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFvcWSrCp4mOZEXHha3YRypb-CSQJP7EP0c_tNJKWAyAQvysJ-</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
 
 <channel>
 	<cname>RT Movies</cname>
