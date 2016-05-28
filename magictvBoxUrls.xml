@@ -383,7 +383,13 @@
 		</item>
 </streaminginfo>
 
-
+<streaminginfo>
+        <cname>Zee Action</cname>
+		<item>
+		<title>Supertv4u: High</title>
+		<link>http://tv.supertv4u.eu:8000/live/darwin-test/5siNpmv1OB/3009.m3u8|X-Forwarded-For=80.217.155.211</link>
+		</item>
+</streaminginfo>
 
 <streaminginfo>
         <cname>Star Plus (UK)</cname>
@@ -393,13 +399,7 @@
 		</item>
 </streaminginfo>
 
-<streaminginfo>
-        <cname>Zee Action</cname>
-		<item>
-		<title>Supertv4u: High</title>
-		<link>http://tv.supertv4u.eu:8000/live/darwin-test/5siNpmv1OB/3009.m3u8|X-Forwarded-For=80.217.155.211</link>
-		</item>
-</streaminginfo>
+
 
 <streaminginfo>
     <cname>Zee Aflam</cname>
