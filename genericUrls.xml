@@ -507,6 +507,14 @@
 </streaminginfo>
 
 <streaminginfo>
+<cname>MBC 1</cname>
+<item>
+<title>tvlive22</title>
+<link>http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/13.ts</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
 	<cname>alkass</cname>
 	<item>
 	<title>Low</title>
