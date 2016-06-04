@@ -86,6 +86,15 @@
 	</assignedcategory>
 </channel>
 
+<channel>
+	<cname>Royal TV Somalia</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rylsml_zps4185b722.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>somalia</category>
+	</assignedcategory>
+</channel>
+
 -<channel>
 	<cname>JLTV</cname>
 	<imageurl>http://somaliiptv.com/wp-content/uploads/2015/09/12122808_704636503003625_1132522096283039412_n-300x300.jpg</imageurl>
@@ -127,14 +136,7 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Royal TV Somalia</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rylsml_zps4185b722.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>
+
 -->
 
 
