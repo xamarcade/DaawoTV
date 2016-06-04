@@ -130,14 +130,6 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>JLTV</cname>
-	<item>
-	<title>med 2</title>
-	<link>rtmp://www.teledunet.org:1935/live?idu=emish_cptfgj1trd playpath=kalsan_tv swfUrl=http://www.teledunet.com/mobile/rtmp_player/player.swf pageUrl=http://www.teledunet.com/mobile/rtmp_player/?channel=kalsan_tv&amp;streamer=rtmp://www.teledunet.org:1935/live?idu=emish_cptfgj1trd
-</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>Universal Somali</cname>
