@@ -516,8 +516,15 @@
 <streaminginfo>
 <cname>MBC 1</cname>
 <item>
-<title>tvlive22</title>
+<title>tvlive13</title>
 <link>http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/13.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC 1</cname>
+<item>
+<title>tvlive</title>
+<link>http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/461.m3u8</link>
 </item>
 </streaminginfo>
 
