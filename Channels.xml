@@ -3354,6 +3354,23 @@
 </channel>	
 
 <channel>
+	<cname>MBC Masr</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mbc-msr_zps87074427.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>MBC Masr 2</cname>
+	<imageurl>http://s14.postimg.org/w7mn2vxup/MBC_Masr2.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
+
+<channel>
 	<cname>MBC Bollywood</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mbc-bl_zpsef3c9245.png</imageurl>
 	<enabled>True</enabled>
@@ -4219,26 +4236,7 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>MBC Masr</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mbc-msr_zps87074427.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	<category>egypt</category>
-	<category>drama</category>
-	</assignedcategory>
-</channel>	
-<channel>
-	<cname>MBC Masr 2</cname>
-	<imageurl>http://s14.postimg.org/w7mn2vxup/MBC_Masr2.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	<category>egypt</category>
-	<category>drama</category>
-	</assignedcategory>
-</channel>
+
 
 <channel>
 	<cname>Moga Comedy</cname>
