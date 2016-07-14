@@ -52,7 +52,7 @@
 <streaminginfo>
 	<cname>Rai Movie</cname>
 	<item>
-	<title>High</title>
+	<title>f4mTester High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/19618936575612/19618936575612/584.ts</link>
 	</item>
 </streaminginfo>
@@ -82,23 +82,16 @@
 <streaminginfo>
 	<cname>Canale 5</cname>
 	<item>
-	<title>Brian1: High</title>
-	<link>http://tv.supertv4u.eu:8000/live/brian1-test/OYjFaSy4h2/810.m3u8|X-Forwarded-For=80.217.155.211</link>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/19618936575612/19618936575612/686.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Italia 1</cname>
 	<item>
-	<title>Brian1: High</title>
-	<link>http://tv.supertv4u.eu:8000/live/brian1-test/OYjFaSy4h2/523.m3u8|X-Forwarded-For=80.217.155.211</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Italia 1</cname>
-	<item>
-	<title>Brian1: High</title>
-	<link>http://tv.supertv4u.eu:8000/live/brian1-test/OYjFaSy4h2/752.m3u8|X-Forwarded-For=80.217.155.211</link>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/19618936575612/19618936575612/685.ts</link>
 	</item>
 </streaminginfo>
 
