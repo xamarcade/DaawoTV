@@ -273,8 +273,8 @@
 <streaminginfo>
     <cname>B4U Movies</cname>
 	<item>
-	<title>wssiptv</title>
-	<link>http://iptv.wssiptv.com/live/premium/hellowkksl/444.ts</link>
+	<title>Box</title>
+	<link>http://130.185.144.63:8081/box/b4umovies/chunks.m3u8</link>
 	</item>
 </streaminginfo>
 
