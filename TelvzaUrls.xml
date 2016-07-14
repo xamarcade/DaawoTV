@@ -30,11 +30,17 @@
 	<cname>Rai 4</cname>
 	<item>
 	<title>High</title>
-	<link>http://212.162.68.163:80/Rai4</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/19618936575612/19618936575612/690.ts</link>
 	</item>
 </streaminginfo>
 
-
+<streaminginfo>
+	<cname>Rai 5</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/19618936575612/19618936575612/563.ts</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Rai 5</cname>
 	<item>
@@ -43,6 +49,13 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>Rai Movie</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/19618936575612/19618936575612/584.ts</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Rai Movie</cname>
 	<item>
@@ -65,7 +78,6 @@
 	<link>http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8?auth=daEbQded2dtdnaactbSaUazc1bjdMdrb7d1-bwKNoI-c0-CmvxvHw&amp;aifp=V001</link>
 	</item>
 </streaminginfo>
-
 
 <streaminginfo>
 	<cname>Canale 5</cname>
@@ -93,8 +105,8 @@
 <streaminginfo>
 	<cname>Rete 4</cname>
 	<item>
-	<title>Fratelli: High</title>
-	<link>http://tvservice.webhop.me:80/live/fratelli/fratelli/220.m3u8|X-Forwarded-For=80.217.155.211</link>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/19618936575612/19618936575612/1848.ts</link>
 	</item>
 </streaminginfo>
 
