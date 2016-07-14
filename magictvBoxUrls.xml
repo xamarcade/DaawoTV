@@ -330,7 +330,7 @@
         <cname>Imagines Movies</cname>
 		<item>
 		<title>High</title>
-		<link>http://149.11.90.99:4022/udp/238.21.11.43:5004</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/190324120130/190324120130/1111.ts</link>
 		</item>
 </streaminginfo>
 
