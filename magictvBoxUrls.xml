@@ -333,13 +333,7 @@
 		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/19618936575612/19618936575612/693.ts</link>
 		</item>
 </streaminginfo>
-<streaminginfo>
-        <cname>Imagines Movies</cname>
-		<item>
-		<title>High 1</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/190324120130/190324120130/693.ts</link>
-		</item>
-</streaminginfo>
+
 
 <streaminginfo>
         <cname>Manoranjan Tv</cname>
