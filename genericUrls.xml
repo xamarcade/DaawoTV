@@ -490,13 +490,6 @@
 <streaminginfo>
 <cname>MBC Bollywood</cname>
 <item>
-<title>Iptv planet</title>
-<link>http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/307.m3u8|X-Forwarded-For=80.217.155.211</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>MBC Bollywood</cname>
-<item>
 <title>Iptv planet 2</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/307.ts</link>
 </item>
