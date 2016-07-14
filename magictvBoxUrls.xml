@@ -419,7 +419,7 @@
     <cname>Zee Aflam</cname>
 	<item>
 	<title>wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/705.ts</link>
+	<link>rtmp://5.63.150.84/live playpath=rytyrtyrtur?id=57938&amp;pk=07140b7905d18beb0eb7c5712d8b4544a2cf9044ef114c613f80cdc17d69be0f swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.janjuaplayer.com/embedplayer/rytyrtyrtur/3/610/360</link>
 	</item>
 </streaminginfo>
 
