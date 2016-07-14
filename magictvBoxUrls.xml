@@ -427,7 +427,7 @@
     <cname>Zee Alwan</cname>
 	<item>
 	<title>wssiptv</title>
-	<link>http://iptv.wssiptv.com:80/live/premium/hellowkksl/706.ts</link>
+	<link>rtmp://cdn.arablive-tv.com/live playpath=zee_alwan?e=1468512443&amp;sig=bZzpzJJbtCjaQENYaygfWg swfUrl=https://www.arablive-tv.com/wp-content/plugins/contus-video-gallery/hdflvplayer/hdplayer.swf pageUrl=http://www.teles-live.com/zee-alwan-en-direct-live-%D9%82%D9%86%D8%A7%D8%A9-%D8%B2%D9%8A-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-video_7112d8c27.html</link>
 	</item>
 </streaminginfo>
 
