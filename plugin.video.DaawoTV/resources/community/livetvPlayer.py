@@ -23,7 +23,7 @@ except: pass
 __addon__       = xbmcaddon.Addon()
 __addonname__   = __addon__.getAddonInfo('name')
 __icon__        = __addon__.getAddonInfo('icon')
-addon_id = 'plugin.video.shahidmbcnet'
+addon_id = 'plugin.video.DaawoTV'
 selfAddon = xbmcaddon.Addon(id=addon_id)
 addonPath = xbmcaddon.Addon().getAddonInfo("path")
 addonArt = os.path.join(addonPath,'resources/images')
