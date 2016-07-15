@@ -2,7 +2,7 @@
 	<file fname="Categories.xml"   url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/Categories.xml"/>
 	<file fname="Channels.xml"  url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/Channels.xml"/>
 	<file fname="Sources.xml"/>
-	<file fname="teledunetPlayer.py" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/teledunetPlayer.py"/>
+	<file fname="teledunetPlayer.py" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/plugin.video.DaawoTV/resources/community/teledunetPlayer.py"/>
 	<file fname="teledunetUrls.xml"/>
     	<file fname="ssPlayer.py"/>
 	<file fname="ssUrls.xml"/>
@@ -33,7 +33,7 @@
 	<file fname="../language/english/strings.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/strings.xml" />
 	<file fname="../language/french/strings.xml" />
 	<file fname="../../default.py" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/default.py" />  
-	<file fname="../../changelog.txt" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/changelog.txt" />	
+	<file fname="../../changelog.txt" url="https://github.com/xamarcade/DaawoTV/blob/master/plugin.video.DaawoTV/changelog.txt" />	
 	<file fname="../../addon.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/plugin.video.DaawoTV/addon.xml"/>
 	<file fname="IPTVPlanetUrls.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/IPTVPlanetUrls.xml"/> 
 	
