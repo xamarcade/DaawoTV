@@ -33,7 +33,7 @@
 	<file fname="../language/english/strings.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/strings.xml" />
 	<file fname="../language/french/strings.xml" />
 	<file fname="../../default.py" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/default.py" />  
-	<file fname="../../changelog.txt" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/changelog.txt" /> 	
+	<file fname="../../changelog.txt" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/changelog.txt" />	
 	<file fname="../../addon.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/plugin.video.DaawoTV/addon.xml"/>
 	<file fname="IPTVPlanetUrls.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/IPTVPlanetUrls.xml"/> 
 	
