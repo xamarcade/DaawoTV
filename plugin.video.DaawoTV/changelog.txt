@@ -1,1 +1,5 @@
+Version 1.2.0
+Added new categories
+
 Version 1.0.0
+DaawoTV
