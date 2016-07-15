@@ -1,8 +1,9 @@
 <resources>
-	<file fname="Categories.xml"   url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/Categories.xml"/> />
-	<file fname="Channels.xml"  url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/Channels.xml"/> />
+	<file fname="Categories.xml"   url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/Categories.xml"/>
+	<file fname="Channels.xml"  url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/Channels.xml"/>
+	<file fname="Changelog.txt" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/plugin.video.DaawoTV/changelog.txt"/>
 	<file fname="Sources.xml"/>
-	<file fname="teledunetPlayer.py"/>
+	<file fname="teledunetPlayer.py" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/teledunetPlayer.py"/>
 	<file fname="teledunetUrls.xml"/>
     	<file fname="ssPlayer.py"/>
 	<file fname="ssUrls.xml"/>
@@ -14,7 +15,7 @@
     
 	<file fname="livetvPlayer.py"/>
 	<file fname="livetvUrls.xml"/>	
-	<file fname="genericPlayer.py" />	
+	<file fname="genericPlayer.py"  url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/genericPlayer.py"/>	
 	<file fname="genericUrls.xml"   url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/genericUrls.xml"/>	
 	<file fname="YoutubeSources.xml"/>
 	<file fname="CustomPlayer.py"/>
