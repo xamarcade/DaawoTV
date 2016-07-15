@@ -13,6 +13,7 @@ import time
 import sys
 import CustomPlayer
 import random
+logonpage=None
 try:    
 	import StorageServer
 except:
@@ -42,7 +43,22 @@ def stringToCode(str):
         r+=ord(str[i])
     return r
     
- 
+def tryplay(url,listitem):    
+    import  CustomPlayer,time
+
+    player = CustomPlayer.MyXBMCPlayer()
+    start = time.time() 
+    #xbmc.Player().play( liveLink,listitem)
+    player.play( url, listitem)
+    xbmc.sleep(1000)
+    while player.is_active:
+        xbmc.sleep(200)
+        if player.urlplayed:
+            print 'yes played'
+            return True
+        xbmc.sleep(1000)
+    print 'not played',url
+    return False
  
  
 def PlayStream(sourceEtree, urlSoup, name, url):
@@ -53,12 +69,17 @@ def PlayStream(sourceEtree, urlSoup, name, url):
         pDialog.update(10, 'fetching channel page')
         loginName=selfAddon.getSetting( "teledunetTvLogin" )
 
-        howMaytimes=3   
+        howMaytimes=2
         totalTried=0
         doDummy=False           
         
-
+        orderplay=['rtmp','m3u']
+        if selfAddon.getSetting( "teleorder" )=="m3u":
+            orderplay=['m3u','rtmp']
+        
+        playtype=''
         while totalTried<howMaytimes:
+            playtype=orderplay[totalTried]
             totalTried+=1
             vtype=1
             vheaders=None
@@ -141,7 +162,7 @@ def PlayStream(sourceEtree, urlSoup, name, url):
 #            token=str(long(ip2)*len(channelId)*int(dz)+int(0 +random.random() *10))
             #token=(long(ip2)*stringToCode(channelId)*long(dz)*stringToCode(selfAddon.getSetting( "teledunetTvLogin" )))
             import time 
-            if totalTried>1:
+            if playtype=='rtmp':#totalTried in [2]:
                 
                 #token=str(long(ip2)*long(dz))+'_'+str(int(time.time())*1000)
 
@@ -160,13 +181,15 @@ def PlayStream(sourceEtree, urlSoup, name, url):
 
                 #swf=re.findall(patt, liveLink)[0]
 
-                    
-                liveLink="%s swfUrl=http://www.teledunet.com/mobile/http_player/GrindPlayer.swf pageUrl=http://www.teledunet.com/mobile/ flashVer=WIN20,0,0,306  live=true timeout=15"%("rtmp://www.teledunet.com:1935/live?idu=%s/%s"%(token, channelId))
+                getUrl("http://www.teledunet.com/mobile/rtmp_player/?channel=%s&streamer=rtmp://www.teledunet.com:1935/live?idu=%s"%(channelId,token) ,getCookieJar())   
+                #liveLink="%s swfUrl=http://www.teledunet.com/mobile/rtmp_player/player.swf pageUrl=http://www.teledunet.com/mobile/rtmp_player/?channel=2m&streamer=rtmp://www.teledunet.com:1935/live2/ flashVer=WIN21,0,0,216 timeout=15 live=True"%("rtmp://www.teledunet.com:1935/live/?idu=%s/%s"%(token, channelId))
+
+                liveLink="rtmp://www.teledunet.org:1935/live?idu=%s/%s app=live?idu=%s swfUrl=http://www.teledunet.com/mobile/rtmp_player/player.swf live=1 pageUrl=http://www.teledunet.com/mobile/rtmp_player/?channel=%s&streamer=rtmp://www.teledunet.org:1935/live?idu=%s"%(token, channelId,token,channelId,token)
+                liveLink+=" flashVer=WIN/2022,0,0,192"#.encode("utf-8")
                 vtype=2
                 #getUrl(swf)
             else:
                 try:
-                    
                     ur="http://www.teledunet.com/mobile/http_player/?channel=%s"%channelId
                     urhtml=getUrl(ur,getCookieJar(),referer='http://www.teledunet.com/mobile/')
                     liveLink=re.findall('src: "(.*?)"',urhtml)[0]+'|X-Requested-With: ShockwaveFlash/21.0.0.182&Referer=http://www.teledunet.com/mobile/http_player/?channel=teledunet_tv&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'
@@ -212,7 +235,7 @@ def PlayStream(sourceEtree, urlSoup, name, url):
                 
                 if vtype==1:
                     iss=0
-                    isshowmany=10
+                    isshowmany=7
                     while iss<isshowmany:
                         iss+=1
                         pDialog.update((iss*100)/isshowmany, 'Teledunet: Try #' + str(iss) +' of ' + str(isshowmany))
@@ -224,7 +247,17 @@ def PlayStream(sourceEtree, urlSoup, name, url):
                         except: pass
                         xbmc.sleep(1000)
                 #pDialog.close()
-                player.play( liveLinkPlay,listitem)  
+                if not vtype==1:
+                    iss=0
+                    isshowmany=1
+                    while iss<isshowmany:
+                        iss+=1
+                        pDialog.update((iss*100)/isshowmany, 'Teledunet: RTMP Try #' + str(iss) +' of ' + str(isshowmany))
+                        if pDialog.iscanceled():
+                            break
+                        if tryplay( liveLinkPlay,listitem): break
+                else:                
+                    player.play( liveLinkPlay,listitem)  
                 looptime = time.time()
                 while player.is_active:
                     if (time.time()-looptime)>40:
@@ -237,9 +270,12 @@ def PlayStream(sourceEtree, urlSoup, name, url):
                 #save file
                 
                 if player.urlplayed and elapsed>=3:
+                    selfAddon.setSetting( "teleorder" ,playtype)
                     return True
+
                 
         pDialog.close()
+        #clearFileCache()
         return False
     except:
         traceback.print_exc(file=sys.stdout)    
@@ -269,48 +305,54 @@ def getCookieJarOld(login=False):
 		traceback.print_exc(file=sys.stdout)
 		return None, False
 	
-def performLoginOLD():
-	print 'performing login'
-	userName=selfAddon.getSetting( "teledunetTvLogin" )
-	password=selfAddon.getSetting( "teledunetTvPassword" )
-	cookieJar = cookielib.LWPCookieJar()
-	cookie_handler = urllib2.HTTPCookieProcessor(cookieJar)
-	opener = urllib2.build_opener(cookie_handler, urllib2.HTTPBasicAuthHandler(), urllib2.HTTPHandler())
-	opener = urllib2.install_opener(opener)
-	req = urllib2.Request('http://www.teledunet.com/boutique/connexion.php')
-	req.add_header('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36')
-	post={'login_user':userName,'pass_user':password}
-	post = urllib.urlencode(post)
-	response = urllib2.urlopen(req,post)
-	link=response.read()
-	response.close()
-	now_datetime=datetime.datetime.now()
-	req = urllib2.Request('http://www.teledunet.com/')#access main page too
-	req.add_header('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36')
-	response = urllib2.urlopen(req)
-	link=response.read()
-	response.close()
-	return cookieJar;
 
+	return cookieJar;
+def getconnectpage():
+    try:
+        ht=getUrl('http://www.teledunet.com/')
+        return 'http://www.teledunet.com/'+re.findall('<iframe.*?src="(.*?conn.*?)"',ht)[0]
+    except:
+        return ''
 def performLogin():
+	global logonpage
+	if not logonpage:
+		logonpage=getconnectpage()
 	try:
-		cookieJar=cookielib.LWPCookieJar()
+		cookieJar=cookielib.LWPCookieJar()    
+		sourcehtml=getUrl(logonpage,cookieJar,headers=[('Referer','http://www.teledunet.com/'),('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36')])
+
 		userName=selfAddon.getSetting( "teledunetTvLogin" )
 		password=selfAddon.getSetting( "teledunetTvPassword" )
 		print 'Values are ',userName,password
-		post={'login_user':userName,'pass_user':password}
+		captcha=getCaptcha(sourcehtml,cookieJar,logonpage)
+		post={'login_user':userName,'pass_user':password,'captcha':captcha}
 		post = urllib.urlencode(post)
-		html_text=getUrl("http://www.teledunet.com/boutique/connexion.php",cookieJar,post)
+		html_text=getUrl(logonpage,cookieJar,post,headers=[('Referer',logonpage),('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36')])
 		cookieJar.save (COOKIEFILE,ignore_discard=True)
 		#print 'cookie jar saved',cookieJar
-		#html_text=getUrl("http://www.teledunet.com/",cookieJar,referer='http://www.teledunet.com/boutique/connexion.php')
+
 		#cookieJar.save (COOKIEFILE,ignore_discard=True)
 		return shouldforceLogin(cookieJar)==False
 	except:
 		traceback.print_exc(file=sys.stdout)
 		return False
 
-
+def getCaptcha(sourcehtml,cookieJar, logonpaged):
+    retcaptcha=""
+    if 'name="captcha"' in sourcehtml:
+        local_captcha = os.path.join(profile_path, "captchaC.img" )
+        localFile = open(local_captcha, "wb")
+        localFile.write(getUrl('http://www.teledunet.com/captcha.php',cookieJar,headers=[('Referer',logonpaged),('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36')]))
+        localFile.close()
+        cap="";#cap=parseCaptcha(local_captcha)
+        #if originalcaptcha:
+        #    cap=parseCaptcha(local_captcha)
+        #print 'parsed cap',cap
+        if cap=="":
+            solver = InputWindow(captcha=local_captcha)
+            retcaptcha = solver.get()
+    return retcaptcha
+    
 def shoudforceLoginOLD():
     return True #disable login
     try:
@@ -340,8 +382,11 @@ def shoudforceLoginOLD():
     return True
 
 def clearFileCache():
-	cache2Hr.delete('%')
-	
+    try:
+        cache2Hr.delete('%')
+        COOKIEFILE = communityStreamPath+'/teletdunetPlayerLoginCookie.lwp'
+        os.remove(COOKIEFILE)
+    except: pass
 def storeInFile(text_to_store,FileName):
 	try:
 		File_name=os.path.join(profile_path,FileName )
@@ -395,14 +440,17 @@ def getUrl(url, cookieJar=None,post=None,referer=None,headers=None):
     return link;
 
 def shouldforceLogin(cookieJar=None):
+    global logonpage
+    if not logonpage:
+        logonpage=getconnectpage()
     try:
-        url="http://www.teledunet.com/boutique/connexion.php"
+        url=logonpage
         if not cookieJar:
             cookieJar=getCookieJar()
-        html_txt=getUrl(url,cookieJar)
+        html_txt=getUrl(url,cookieJar,headers=[('Referer','http://www.teledunet.com/'),('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36')])
         
             
-        if '<input name="login_user"' in html_txt:
+        if not 'Welcome <b>' in html_txt:
             return True
         else:
             return False
@@ -432,10 +480,12 @@ def getChannelHTML(cid):
     try:
         cookie_jar=None
         print 'Getting HTML from Teledunet'
+        logindone=False
         loginName=selfAddon.getSetting( "teledunetTvLogin" )
         if not loginName=="":
             if shouldforceLogin():
                 if performLogin():
+                    logindone=True
                     print 'done login'
                 else:
                     print 'login failed??'
@@ -444,53 +494,93 @@ def getChannelHTML(cid):
             cookie_jar=getCookieJar()
         else:
             cookie_jar=cookielib.LWPCookieJar()
-        getUrl('http://www.teledunet.com/', cookie_jar,referer='https://www.google.fr/')
-#        mainpage=getUrl('http://www.teledunet.com/', cookie_jar,referer='http://www.teledunet.com/boutique/connexion.php')
-        rnd=updateconnect(cookie_jar)
+            
+        if logindone or len(getCacheDHtmlFile("telecache.html" ))==0:
+            getUrl('http://www.teledunet.com/', cookie_jar,referer='https://www.google.fr/')
 
-#        answer=None#re.findall('answer\',\'(.*?)\'', html)
-#        newod1=None
-#        if answer and len(answer)>0:
-#            for ans in answer:
-#                if not newod1: 
-#                    rnd=time.time()*1000
-#                    post={'answer':ans,'rndval':rnd}
-#                    spacerUrl="http://www.teledunet.com/spacer.php"
-#                    post = urllib.urlencode(post)
-#                    html=getUrl(spacerUrl,cookie_jar ,post,'http://www.teledunet.com/')
-#                    if 'id1' in html:
-#                        newod1=re.findall('id1=(.*)', html)[0]
-#        if newod1==None:
-#            post={'onData':'[type Function]','secure':'1'}
-#            post = urllib.urlencode(post)#Referer: http://www.teledunet.com/player.swf?
-#            html=getUrl('http://www.teledunet.com/security.php',cookie_jar ,post,'http://www.teledunet.com/player.swf?')        
-#            if 'id1' in html:
-#                newod1=re.findall('id1=(.*)', html)[0]
-#        token=''
-#
-#        token=str(   int('11' +  str(int(999999 +random.random() * (99999999 - 999999)))) * 3353);
-##        token=str(   int('11' +  str(int(999999 +random.random() * (99999999 - 999999)))) * 3353);
-        
-#        post=None
-#        testUrl='http://www.teledunet.com/mobile//player.swf?id0=%s&channel=abu_dhabi_drama&user=&token=%s'%(newod1,token) 
-#        getUrl(testUrl,cookie_jar ,post,'http://www.teledunet.com/mobile/') 
+            rnd=updateconnect(cookie_jar)
 
-        newURL='http://www.teledunet.com/mobile/'
-#        link=getUrl(newURL,cookie_jar ,None,'http://www.teledunet.com/')
-        post={'rndval':str(rnd)}
+    #        answer=None#re.findall('answer\',\'(.*?)\'', html)
+    #        newod1=None
+    #        if answer and len(answer)>0:
+    #            for ans in answer:
+    #                if not newod1: 
+    #                    rnd=time.time()*1000
+    #                    post={'answer':ans,'rndval':rnd}
+    #                    spacerUrl="http://www.teledunet.com/spacer.php"
+    #                    post = urllib.urlencode(post)
+    #                    html=getUrl(spacerUrl,cookie_jar ,post,'http://www.teledunet.com/')
+    #                    if 'id1' in html:
+    #                        newod1=re.findall('id1=(.*)', html)[0]
+    #        if newod1==None:
+    #            post={'onData':'[type Function]','secure':'1'}
+    #            post = urllib.urlencode(post)#Referer: http://www.teledunet.com/player.swf?
+    #            html=getUrl('http://www.teledunet.com/security.php',cookie_jar ,post,'http://www.teledunet.com/player.swf?')        
+    #            if 'id1' in html:
+    #                newod1=re.findall('id1=(.*)', html)[0]
+    #        token=''
+    #
+    #        token=str(   int('11' +  str(int(999999 +random.random() * (99999999 - 999999)))) * 3353);
+    ##        token=str(   int('11' +  str(int(999999 +random.random() * (99999999 - 999999)))) * 3353);
+            
+    #        post=None
+    #        testUrl='http://www.teledunet.com/mobile//player.swf?id0=%s&channel=abu_dhabi_drama&user=&token=%s'%(newod1,token) 
+    #        getUrl(testUrl,cookie_jar ,post,'http://www.teledunet.com/mobile/') 
 
-#1434990709582
-#1434991032915
+            newURL='http://www.teledunet.com/mobile/'
+    #        link=getUrl(newURL,cookie_jar ,None,'http://www.teledunet.com/')
+            post={'rndval':str(rnd)}
 
-        link=getUrl('http://www.teledunet.com/pay/',cookie_jar ,None,'http://www.teledunet.com/')
-        post = urllib.urlencode(post)
-        link=getUrl(newURL,cookie_jar ,post,'http://www.teledunet.com/')
-        link=getUrl(newURL,cookie_jar ,None,'http://www.teledunet.com/')
+    #1434990709582
+    #1434991032915
 
- #       if newod1:
- #           link+='fromspacer('+newod1+")"
+            link=getUrl('http://www.teledunet.com/pay2/',cookie_jar ,None,'http://www.teledunet.com/')
+            post = urllib.urlencode(post)
+            link=getUrl(newURL,cookie_jar ,post,'http://www.teledunet.com/')
+            link=getUrl(newURL,cookie_jar ,None,'http://www.teledunet.com/')
+            
+     #       if newod1:
+     #           link+='fromspacer('+newod1+")"
+            cacheHtmlFile(link, "telecache.html" )
+        else:
+            rnd=updateconnect(cookie_jar)
+            link=getCacheDHtmlFile("telecache.html" )
         
         return {'link':link,'token':"",'mainpage':""}
     except:
         traceback.print_exc(file=sys.stdout)
         return ''
+
+def getCacheDHtmlFile(filename):
+    data=''
+    try:
+        local_cache = os.path.join(profile_path, filename)
+        local_cache = open(local_cache, "rb")
+        data=local_cache.read()
+        local_cache.close()
+    except: pass
+    return data
+    
+def cacheHtmlFile(data,filename):
+    local_cache = os.path.join(profile_path, filename)
+    local_cache = open(local_cache, "wb")
+    local_cache.write(data)
+    local_cache.close()
+        
+class InputWindow(xbmcgui.WindowDialog):
+    def __init__(self, *args, **kwargs):
+        self.cptloc = kwargs.get('captcha')
+        self.img = xbmcgui.ControlImage(335,30,424,50,self.cptloc)
+        self.addControl(self.img)
+        self.kbd = xbmc.Keyboard()
+
+    def get(self):
+        self.show()
+        time.sleep(3)        
+        self.kbd.doModal()
+        if (self.kbd.isConfirmed()):
+            text = self.kbd.getText()
+            self.close()
+            return text
+        self.close()
+        return False
