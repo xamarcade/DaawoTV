@@ -112,13 +112,6 @@
 <streaminginfo>
 	<cname>SVT 1</cname>
 	<item>
-	<title>Globiptv 2: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/TFzw4a0SQQ/8749D1307/2549.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>SVT 1</cname>
-	<item>
 	<title>Globiptv: High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2549.ts</link>
 	</item>
