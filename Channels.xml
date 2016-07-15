@@ -777,6 +777,23 @@
 	</assignedcategory>
 </channel>
 <channel>
+	<cname>C More Fotboll</cname>
+	<imageurl>http://www.allatvkanaler.se/imagestv/cmore_fotboll.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C More Golf</cname>
+	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_golf_hd.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+
+<channel>
 	<cname>C more Live</cname>
 	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_live_1.jpg</imageurl>
 	<enabled>True</enabled>
