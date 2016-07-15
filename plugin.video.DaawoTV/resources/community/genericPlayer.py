@@ -16,7 +16,7 @@ import cookielib
 __addon__       = xbmcaddon.Addon()
 __addonname__   = __addon__.getAddonInfo('name')
 __icon__        = __addon__.getAddonInfo('icon')
-addon_id = 'plugin.video.DaawoTV'
+addon_id = 'plugin.video.shahidmbcnet'
 selfAddon = xbmcaddon.Addon(id=addon_id)
 addonPath = xbmcaddon.Addon().getAddonInfo("path")
 addonArt = os.path.join(addonPath,'resources/images')
@@ -76,6 +76,7 @@ def PlayStream(sourceEtree, urlSoup, name, url):
             liveLink=""
             liveLink=replaceGLArabVariables(liveLinkOri,pDialog,gcid, title)
             if liveLink==None or liveLink=="":
+                xbmc.sleep(2000)
                 liveLink=replaceGLArabVariables(liveLinkOri,pDialog,gcid, title)
             print 'title',title,liveLink
             if 1==2 and  'proxy' not in title.lower() and 'hd' in title.lower() and ':7777/' in liveLink:
@@ -105,6 +106,10 @@ def PlayStream(sourceEtree, urlSoup, name, url):
             if liveLink=="": return False
         if (sc=='yo' or (sc=='Local'  and  ('yoolive.com' in liveLink or 'yooanime.com' in liveLink))) :
             liveLink=replaceYOVariablesNew(liveLink,pDialog,title)
+            if liveLink=="": return False
+            
+        if (sc=='IPTVPlanet') :
+            liveLink=getIPTVUrl(liveLink,pDialog,title)
             if liveLink=="": return False
             
         print 'liveLink',liveLink
@@ -872,27 +877,51 @@ def replaceGLArabVariables(link, d,gcid, title):
                 except:
                     print 'error fetching apikey using existing ones'
                     traceback.print_exc(file=sys.stdout)
-
-                if selfAddon.getSetting( "gldummydeviceid" )=="" or 1==1:
+                glserialno=""
+                glmacAddress=""
+                if selfAddon.getSetting( "gldummydeviceid" )=="":
                     #generateGLDevice()
-                    import random
-                    gldatafull=getUrl(base64.b64decode('aHR0cDovL3Bhc3RlYmluLmNvbS9yYXcvcHFUZTB1eFI='))                    
-                    gldatafull=gldatafull.splitlines()
-                    print gldatafull
-                    valdic=[]
-                    import time
-                    currenttime=int(time.time())
-                    for ln in gldatafull:
-                        if not ln.startswith("##") and len(ln)>0:
-                            ##serial:mac:time:text
-                            serial,mac,storetime=ln.split(':')
-                            storetime=int(storetime.split('#')[0])
-                            if storetime>currenttime:
-                                valdic+=[(serial,mac)]
-                    #print 'valdic final',valdic
-                    import random
-                    glserialno,glmacAddress=random.choice(valdic)
-                    
+                    try:
+                        import random
+                        gldatafull=getUrl(base64.b64decode('aHR0cDovL3Bhc3RlYmluLmNvbS9yYXcvcHFUZTB1eFI='))                    
+                        gldatafull=gldatafull.splitlines()
+                        print gldatafull
+                        valdic=[]
+                        import time
+                        currenttime=int(time.time())
+                        for ln in gldatafull:
+                            if not ln.startswith("##") and len(ln)>0:
+                                ##serial:mac:time:text
+                                serial,mac,storetime=ln.split(':')
+                                storetime=int(storetime.split('#')[0])
+                                if storetime>currenttime:
+                                    valdic+=[(serial,mac)]
+                        #print 'valdic final',valdic
+                        import random
+                        glserialno,glmacAddress=random.choice(valdic)
+                    except: pass
+                    print glserialno,glmacAddress
+                    if  not selfAddon.getSetting( "glauthcode" )=="" and not selfAddon.getSetting( "glauthcode" )==selfAddon.getSetting( "glauthcodeused" ) :
+                        try:
+                            d.update(50, 'Trying to registered the code  %s'%selfAddon.getSetting( "glauthcode" ))
+                            data={"gmt":"0","APIPassword":apipwd,"APIKey":apikey,"token":selfAddon.getSetting( "glauthcode" ),"appVersion":"4.5","deviceType":"7","deviceFirmware":"4.4.4","deviceModel":"GT-I9300","action":"useToken","deviceInfo":"samsung-m0-amlogic-19","applicationType":"5"}
+                            rethtml=getUrl('https://api.gliptv.com/auth.aspx',post=json.dumps(data), headers=header,jsonpost=True)
+                            link=json.loads(rethtml)["resp"]
+                            mc,sr=link["MacAddress"],link["Serial"]
+                            selfAddon.setSetting("glserialid",sr)
+                            selfAddon.setSetting("glmacid",mc)
+                            selfAddon.setSetting("glauthcodeused",selfAddon.getSetting( "glauthcode" ))
+                            d.update(80, 'SUCCESS to register the code  %s'%selfAddon.getSetting( "glauthcode" ))
+                        except:
+                            d.update(80, 'FAILED to register the code  %s'%selfAddon.getSetting( "glauthcode" ))
+                            pass
+                        xbmc.sleep(3000)
+                    if not selfAddon.getSetting( "glserialid" )=="":
+                        glserialno,glmacAddress=selfAddon.getSetting( "glserialid" ),selfAddon.getSetting( "glmacid" )
+                    if glserialno=="":
+                        d.update(80, "No Global or personal code available. For GL HD create GL code, follow the forum post.")
+                        xbmc.sleep(3000)
+                        return
                     #glserialno=glserial#gldata.split(':')[0]#''#''.join(random.choice('0123456789ABCDEF') for i in range(16))
                     #glmacAddress=glmac#gldata.split(':')[1]#''#''.join(random.choice('0123456789abcdef') for i in range(12))
                     data={"gmt":"0","APIPassword":apipwd,"APIKey":apikey,"appVersion":"4.5","deviceType":"7","deviceFirmware":"4.4.4","deviceModel":"GT-I9300","action":"checkNewDevice","serialNumber":glserialno ,"macAddress": glmacAddress,"deviceInfo":"samsung-m0-amlogic-19","applicationType":"5"}
@@ -1093,16 +1122,50 @@ def replaceKARVariables(liveLink,pDialog,title):
 def replaceYOVariablesNew(liveLink,pDialog,title):
     post = urllib.urlencode({'channel':liveLink,'W':400,'H':400,'skin':'','logo':'','submit':'Submit'})
     html=getUrl("http://yooanime.com/free/web.php",post=post,timeout=20)
-    var=re.findall('\:\[\{sources:\[\{file:(.*?),',html)[0]
+    var=re.findall('\:\[\{\n?sources:\[\{file:(.*?),',html)[0]
     url=getyouvarval(var,html)
+    
     if url.startswith('rtmp'):
+        url=url.replace("/free","/live")
         url+=' flashver=WIN\2020,0,0,286 swfUrl=http://yooanime.com/player/jwplayer.flash.swf pageUrl=http://yooanime.com/free timeout=20'
     return url
     
+    
+def getIPTVUrl(liveLink,pDialog,title):
+    width=600
+    height=400
+    header=[('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'),('Referer','http://iptv-planet.com/mbcmasr.html')]
+    mainjadata=getUrl("http://embed.iptv-pla.net/embedPlayer.js",timeout=20, headers=header)
+    wreg='width.*?= (.*?);'
+    hreg='height.*?= (.*?);'
+    kreg='(&key.*?)>'
+    weval=re.findall(wreg,mainjadata)[0];
+    heval=re.findall(hreg,mainjadata)[0];
+    kval=re.findall(kreg,mainjadata)[0];
+    
+    weval=weval.replace('parseInt','int')
+    heval=heval.replace('parseInt','int')
+    
+    fh=eval(heval)
+    fw=eval(weval)
+
+        
+    header=[('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'),('Referer','http://iptv-planet.com/')]
+    pageurl="http://embed.iptv-pla.net/embed.php?id=%s&width=%s&height=%s%s"%(liveLink,str(fw),str(fh),kval)
+    html=getUrl(pageurl,headers=header,timeout=20)
+    
+    streamer=re.findall('streamer="(.*?)"',html)[0]
+    playpath=re.findall('\'file\': \'(.*?)\'',html)[0]
+        
+    
+    url='%s playpath=%s swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=%s flashVer=WIN\\2021,0,0,216 timeout=20'%(streamer,playpath,pageurl)
+    return url
+
+    
 def getyouvarval(varname,html,depth=1):
     print varname
-    if depth>12: return ''
-    val=re.findall('var '+varname+'=(.*?);',html)[0]
+    if depth>15: return ''
+    val=re.findall('var '+varname+'.?=(.*?);',html)[0]
 
     if '+\'' in val:
         varnameinner=re.findall('(.*?)\+\'',val)[0]
@@ -1159,3 +1222,4 @@ def saveCookieJar(cookieJar,COOKIEFILE):
 	try:
 		cookieJar.save(COOKIEFILE,ignore_discard=True)
 	except: pass
+
