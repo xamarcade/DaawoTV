@@ -2,6 +2,7 @@
 	<file fname="Categories.xml"   url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/Categories.xml"/>
 	<file fname="Channels.xml"  url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/Channels.xml"/>
 	<file fname="Changelog.txt" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/plugin.video.DaawoTV/changelog.txt"/>
+	<file fname="addon.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/plugin.video.DaawoTV/addon.xml"/>
 	<file fname="Sources.xml"/>
 	<file fname="teledunetPlayer.py" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/teledunetPlayer.py"/>
 	<file fname="teledunetUrls.xml"/>
