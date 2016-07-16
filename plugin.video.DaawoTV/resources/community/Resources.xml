@@ -20,7 +20,7 @@
 	<file fname="CustomPlayer.py"/>
     	<file fname="glarabUrls.xml"/>
     	<file fname="iptvosnUrls.xml"/>
-
+<file fname="IPTVPlanetUrls.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/IPTVPlanetUrls.xml"/> 
 	<file fname="palestinecoolUrls.xml" url="http://goo.gl/yNlwCM"/>
 	<file fname="ZombiList.xml" url="https://raw.githubusercontent.com/zombiB/Replay/master/zombiList.xml"/>	
     	<file fname="emadUrls.xml"  url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/emadUrls.xml"/>
@@ -33,8 +33,8 @@
 	<file fname="../language/english/strings.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/strings.xml" />
 	<file fname="../language/french/strings.xml" />
 	<file fname="../../default.py" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/default.py" />  
-	<file fname="../../changelog.txt" url="https://github.com/xamarcade/DaawoTV/blob/master/plugin.video.DaawoTV/changelog.txt" />	
+	<file fname="../../changelog.txt" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/plugin.video.DaawoTV/changelog.txt" />	
 	<file fname="../../addon.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/plugin.video.DaawoTV/addon.xml"/>
-	<file fname="IPTVPlanetUrls.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/IPTVPlanetUrls.xml"/> 
+	
 	
 </resources>
