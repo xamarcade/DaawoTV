@@ -265,8 +265,8 @@
 <streaminginfo>
         <cname>B4U Aflam</cname>
 		<item>
-		<title>wssiptv</title>
-		<link>http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/625.m3u8|X-Forwarded-For=80.217.155.211</link>
+		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/1105.ts</link>
 		</item>
 </streaminginfo>
 
