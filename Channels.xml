@@ -120,6 +120,14 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
+<channel>
+	<cname>PLTV</cname>
+	<imageurl>http://www.balcad.com/wp-content/uploads/2016/06/NNNNNNNNNN.png</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
 <!--
 -<channel>
 	<cname>ESTV</cname>
