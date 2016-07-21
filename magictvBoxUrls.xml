@@ -269,13 +269,6 @@
 		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/hamada/hamada/581.ts</link>
 		</item>
 </streaminginfo>
-<streaminginfo>
-        <cname>B4U Aflam</cname>
-		<item>
-		<title>YioryosPlakas: High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/1105.ts</link>
-		</item>
-</streaminginfo>
 
 <streaminginfo>
     <cname>B4U Movies</cname>
