@@ -111,6 +111,15 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
+
+-<channel>
+	<cname>SLNTV</cname>
+	<imageurl>http://i.imgur.com/LPTRMeR.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
 <!--
 -<channel>
 	<cname>ESTV</cname>
@@ -123,14 +132,6 @@
 -<channel>
 	<cname>SBTV</cname>
 	<imageurl>http://static-cdn1.ustream.tv/i/channel/picture/1/8/6/2/18624946/18624946,66x66,r:9.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
--<channel>
-	<cname>SLNTV</cname>
-	<imageurl>http://i.imgur.com/LPTRMeR.jpg</imageurl>
 	<enabled>True</enabled>
 -	<assignedcategory>
 		<category>somalia</category>

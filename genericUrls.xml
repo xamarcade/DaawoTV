@@ -121,6 +121,13 @@
 	<link>http://cdn01.iqbroadcast.tv:8081/g1/schb9new/chunks.m3u8</link>
     </item>
 </streaminginfo>
+<streaminginfo>
+	<cname>SLNTV</cname>
+	<item>
+	<title>Med</title>
+	<link>http://www.axadledirect.com:1936/16/stream/playlist.m3u8</link>
+    </item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>Star TV</cname>
