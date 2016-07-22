@@ -170,14 +170,7 @@
 		<category>yemen</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Suhail TV</cname>
-	<imageurl>http://www.suhail.net/userimages/suhail_final_new_05.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-		<category>yemen</category>
-	</assignedcategory>
-</channel>
+
 <channel>
      <cname>Belqees</cname>
      <imageurl>http://s11.postimg.org/w8lnlxrtr/bel.jpg</imageurl>
@@ -185,6 +178,34 @@
      <assignedcategory>
 	 <category>yemen</category>
      </assignedcategory>
+</channel>
+
+<channel>
+	<cname>Yemen</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/YEMEN_zps15b6603b.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>yemen</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+     <cname>AL shareyyah</cname>
+     <imageurl>http://4.bp.blogspot.com/-Sim-BkiDWzc/UiG1c8pLX1I/AAAAAAAADTU/UnMO-bjPAF0/s1600/sharaia.jpg</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>yemen</category>
+     </assignedcategory>
+</channel>
+
+<!--
+<channel>
+	<cname>Suhail TV</cname>
+	<imageurl>http://www.suhail.net/userimages/suhail_final_new_05.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>yemen</category>
+	</assignedcategory>
 </channel>
 <channel>
 	<cname>Hadramout</cname>
@@ -195,30 +216,12 @@
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>Yemen</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/YEMEN_zps15b6603b.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>yemen</category>
-	</assignedcategory>
-</channel>	
-<!--
-<channel>
      <cname>alsaeedah</cname>
      <imageurl>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/t1.0-1/p160x160/1797437_712766195410909_1521238763_n.jpg</imageurl>
      <enabled>True</enabled>
      <assignedcategory>
      <category>yemen</category>
      </assignedcategory>
-</channel>
--->
-<channel>
-	<cname>Sanaa</cname>
-	<imageurl>http://s30.postimg.org/905ghuuip/Sana_Sat_Channel_o.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>yemen</category>
-	</assignedcategory>
 </channel>
 
 <channel>
@@ -229,13 +232,14 @@
 	<category>yemen</category>
 	</assignedcategory>
 </channel>
+
 <channel>
-     <cname>AL shareyyah</cname>
-     <imageurl>http://4.bp.blogspot.com/-Sim-BkiDWzc/UiG1c8pLX1I/AAAAAAAADTU/UnMO-bjPAF0/s1600/sharaia.jpg</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>yemen</category>
-     </assignedcategory>
+	<cname>Sanaa</cname>
+	<imageurl>http://s30.postimg.org/905ghuuip/Sana_Sat_Channel_o.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>yemen</category>
+	</assignedcategory>
 </channel>
 <channel>
 	<cname>Yemen Alyawm</cname>
@@ -245,6 +249,8 @@
 	<category>yemen</category>
 	</assignedcategory>
 </channel>
+-->
+
 
 <!-- Yemen Channels End -->
 
