@@ -515,11 +515,12 @@
 
 <streaminginfo><cname>Zaitouna</cname><item><title>wowzacontrol.com</title><link>http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8</link></item></streaminginfo>
 
+
 <streaminginfo>
 <cname>MBC Bollywood</cname>
 <item>
-<title>Iptv planet 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/307.ts</link>
+<title>Hamada</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/hamada/hamada/208.ts</link>
 </item>
 </streaminginfo>
 <streaminginfo>
