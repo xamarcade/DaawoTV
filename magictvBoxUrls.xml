@@ -289,8 +289,8 @@
 <streaminginfo>
     <cname>B4U Plus</cname>
 	<item>
-	<title>Test 2</title>
-	<link>http://arabic.dynns.com:8081/arabic/B4UPlus/chunks.m3u8?nimblesessionid=6337481&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE2IDc6MDg6NDcgUE0maGFzaF92YWx1ZT1hNVYzLzUzR0JaRGpUdFd2aG9Tcm1nPT0mdmFsaWRtaW51dGVzPTI=</link>
+	<title>dynns</title>
+	<link>http://arabic.dynns.com:8081/arabic/B4UPlus/chunks.m3u8?nimblesessionid=6337481&amp;wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE2IDc6MDg6NDcgUE0maGFzaF92YWx1ZT1hNVYzLzUzR0JaRGpUdFd2aG9Tcm1nPT0mdmFsaWRtaW51dGVzPTI=</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
