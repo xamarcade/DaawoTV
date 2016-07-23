@@ -1154,14 +1154,6 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Filmy</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sahara-filmi-tv-logo.svg/220px-Sahara-filmi-tv-logo.svg.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
 
 <channel>
 	<cname>GEM BOLLYWOOD (Irani)</cname>
@@ -1172,14 +1164,6 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Manoranjan Tv</cname>
-	<imageurl>http://freedish.mobie.in/images/Manoranjan-tv-logo-200.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
 
 <channel>
 	<cname>Rishtey</cname>
@@ -1189,16 +1173,6 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-
-<channel>
-	<cname>Pogo TV</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/4/49/POGO-logo.svg/200px-POGO-logo.svg.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
 
 
 <channel>
