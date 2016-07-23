@@ -294,20 +294,54 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>Care World</cname>
+	<item>
+	<title>Med</title>
+	<link>rtmp://server.maxwellstreaming.com/careworld playpath=myStream swfUrl= pageUrl=</link>
+	</item>
+</streaminginfo> 
 
 <streaminginfo>
-        <cname>Care World</cname>
-		<item>
-		<title>High</title>
-		<link>http://173.199.120.59:1935/CAREWORLDTVL/CAREWORLDTVL.stream-roku/playlist.m3u8</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>colors india</cname>
+        <cname>Colors India</cname>
 		<item>
 		<title>High</title>
 		<link>http://zeeapp-lh.akamaihd.net/i/colorsuk_1@140317/index_800.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Colors Apac</cname>
+		<item>
+		<title>High</title>
+		<link>http://130.185.144.63:8081/iptv/ColorsAPAC/playlist.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Colors AUD</cname>
+		<item>
+		<title>High</title>
+		<link>http://186.179.169.35/edge/smil:colors_iptv.smil/chunklist_w1295553661_b600000.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Colors UK</cname>
+		<item>
+		<title>High</title>
+		<link>http://130.185.144.63:8081/iptv/ColorsEurope/playlist.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Colors HD</cname>
+		<item>
+		<title>High</title>
+		<link>http://130.185.144.63:8081/iptv/ColorsHD/playlist.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Colors TV</cname>
+		<item>
+		<title>High</title>
+		<link>http://130.185.144.63:8081/iptv/colors/playlist.m3u8</link>
 		</item>
 </streaminginfo>
 
