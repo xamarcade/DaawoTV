@@ -309,13 +309,7 @@
 		<link>http://zeeapp-lh.akamaihd.net/i/colorsuk_1@140317/index_800.m3u8</link>
 		</item>
 </streaminginfo>
-<streaminginfo>
-        <cname>Colors Apac</cname>
-		<item>
-		<title>High</title>
-		<link>http://130.185.144.63:8081/iptv/ColorsAPAC/playlist.m3u8</link>
-		</item>
-</streaminginfo>
+
 <streaminginfo>
         <cname>Colors AUD</cname>
 		<item>
@@ -342,6 +336,13 @@
 		<item>
 		<title>High</title>
 		<link>http://130.185.144.63:8081/iptv/colors/playlist.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Colors TV</cname>
+		<item>
+		<title>APAC: High</title>
+		<link>http://130.185.144.63:8081/iptv/ColorsAPAC/playlist.m3u8</link>
 		</item>
 </streaminginfo>
 
