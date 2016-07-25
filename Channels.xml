@@ -1361,14 +1361,6 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Zee Smile</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/9/9b/Zee_Smile_2011_logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
 
 <!--
 <channel>
@@ -1390,24 +1382,8 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Zee Variasi</cname>
-	<imageurl>http://3.bp.blogspot.com/--wP2-jT4uds/UlPqTmBOpLI/AAAAAAAAJeI/yiaCPnewd80/s1600/ZEE+Varisy.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
 
 
-<channel>
-	<cname>Zee World</cname>
-	<imageurl>http://talkmediaafrica.com/wp-content/uploads/2015/01/Zee-World-channel-logo-e1421348775738.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
 
 
 <!--

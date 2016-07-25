@@ -478,7 +478,7 @@
     <cname>Zee Bollywood</cname>
 	<item>
 	<title>Zliving</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1212.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3897.ts</link>
 	</item>
 </streaminginfo>
 
@@ -496,27 +496,7 @@
 		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1207.ts</link>
 		</item>
 </streaminginfo>
-<streaminginfo>
-        <cname>Zee Variasi</cname>
-		<item>
-		<title>Zeefamily: High</title>
-		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeevariasi/chunklist.m3u8</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Zee Smile</cname>
-		<item>
-		<title>Zeefamily: High</title>
-		<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeesmile/chunklist.m3u8</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Zee World</cname>
-		<item>
-		<title>Zeefamily: High</title>
-		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeworld/chunklist.m3u8</link>
-		</item>
-</streaminginfo>
+
 
 <streaminginfo>
         <cname>Zee Cinema (Hindi)</cname>
@@ -537,7 +517,7 @@
         <cname>Zee Cinema (US)</cname>
 		<item>
 		<title>High</title>
-		<link>http://stream.zliving.online/zeecinema_domain_tracking/index.m3u8</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/945.ts</link>
 		</item>
 </streaminginfo>
 
