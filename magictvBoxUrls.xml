@@ -478,15 +478,7 @@
     <cname>Zee Bollywood</cname>
 	<item>
 	<title>Zliving</title>
-	<link>http://stream.zliving.online/zeebollywood_domain_tracking/index.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-    <cname>Zee Canada</cname>
-	<item>
-	<title>Zliving</title>
-	<link>http://stream.zliving.online/zeetvcan/index.m3u8</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1212.ts</link>
 	</item>
 </streaminginfo>
 
@@ -494,14 +486,14 @@
         <cname>Zee Lamhe</cname>
 		<item>
 		<title>Zeefamily: High</title>
-		<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeelamhe/chunklist.m3u8</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1206.ts</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
         <cname>Zee Kannada</cname>
 		<item>
-		<title>Zeefamily: High</title>
-		<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeekannada/chunklist.m3u8</link>
+		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1207.ts</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
@@ -552,16 +544,8 @@
 <streaminginfo>
         <cname>Zee Classic</cname>
 		<item>
-		<title>Ditto: High</title>
-		<link>http://50.7.114.82:8010/server2channel1_bitrate4.m3u8</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>Zee Classic</cname>
-		<item>
-		<title>zeefamily: High</title>
-		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeclassic/chunklist.m3u8</link>
+		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1209.ts</link>
 		</item>
 </streaminginfo>
 
@@ -569,9 +553,17 @@
         <cname>Zee Anmol</cname>
 		<item>
 		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1213.ts</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Zee Anmol</cname>
+		<item>
+		<title>Box: High</title>
 		<link>http://130.185.144.63:8081/box/zeeanmol/chunks.m3u8</link>
 		</item>
 </streaminginfo>
+
 <streaminginfo>
     <cname>Zee Living</cname>
 	<item>
