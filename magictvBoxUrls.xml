@@ -373,33 +373,48 @@
 </streaminginfo>
 
 <streaminginfo>
-        <cname>RT Movies</cname>
-		<item>
-		<title>High</title>
-		<link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD258_W_350.sdp/chunklist.m3u8</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
         <cname>Sony Sab</cname>
 		<item>
 		<title>High</title>
-        <link>http://43.252.111.46:8080/nnn/SabTV1/index.m3u8</link>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3905.ts</link>
 		</item>
 </streaminginfo>
+
 
 <streaminginfo>
         <cname>Sony TV</cname>
 		<item>
 		<title>High</title>
-		<link>http://ipsatpro.com:8000/live/28071980/28071980//425.m3u8|X-Forwarded-For=80.217.155.211</link>
+		<link>hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
         <cname>Sony TV (Hindi)</cname>
 		<item>
 		<title>High</title>
-		<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2476.m3u8</link>
+		<link>http://186.179.169.35/edge/smil:sonytv_iptv.smil/chunklist.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Sony Max India</cname>
+		<item>
+		<title>High</title>
+		<link>http://130.185.144.63:8081/iptv/setmaxHD/playlist.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Sony Max HD</cname>
+		<item>
+		<title>High</title>
+		<link>http://130.185.144.63:8081/box/HDSETMAX/playlist.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Sony Max UK</cname>
+		<item>
+		<title>High</title>
+		<link>http://130.185.144.63:8081/box/SATMAXX/playlist.m3u8</link>
 		</item>
 </streaminginfo>
 
@@ -407,15 +422,7 @@
         <cname>Star Plus (Hindi)</cname>
 		<item>
 		<title>Younis: High</title>
-		<link>http://cdn01.iqbroadcast.tv:8081/g1/6ryltv/chunks.m3u8?nimblesessionid=18406895&amp;wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE2IDU6MzA6MTcgUE0maGFzaF92YWx1ZT1tbWE4RWp6UlRlbDB4eFBqdmQ3RWN3PT0mdmFsaWRtaW51dGVzPTIw</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>Zee Action</cname>
-		<item>
-		<title>Supertv4u: High</title>
-		<link>http://tv.supertv4u.eu:8000/live/darwin-test/5siNpmv1OB/3009.m3u8|X-Forwarded-For=80.217.155.211</link>
+		<link>http://186.179.169.35/edge/smil:starplus_iptv.smil/chunklist.m3u8</link>
 		</item>
 </streaminginfo>
 
@@ -423,7 +430,30 @@
         <cname>Star Plus (UK)</cname>
 		<item>
 		<title>High</title>
-		<link>http://136.243.12.170/star_plus_in.m3u8?token=b484670d13ab8217e7a2315dbbd514df&amp;user=41166&amp;bands=956</link>
+		<link>http://130.185.144.63:8081/iptv/StarPlusHD/playlist.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Star Gold HD</cname>
+		<item>
+		<title>High</title>
+		<link>http://130.185.144.63:8081/box/stargoldHD/chunks.m3u8?nimblesessionid=52849213</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Star Gold</cname>
+		<item>
+		<title>High</title>
+		<link>http://130.185.144.63:8081/iptv/stargoldind/playlist.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Zee Action</cname>
+		<item>
+		<title>Supertv4u: High</title>
+		<link>http://130.185.144.63:8081/iptv/ZEETVACTION/playlist.m3u8</link>
 		</item>
 </streaminginfo>
 
@@ -500,22 +530,15 @@
         <cname>Zee Cinema (Hindi)</cname>
 		<item>
 		<title>High</title>
-		<link>http://89.35.158.12:8010/server21channel2_bitrate4.m3u8</link>
+		<link>http://130.185.144.63:8081/iptv/ZeeCinema/playlist.m3u8</link>
 		</item>
 </streaminginfo>
 
 <streaminginfo>
         <cname>Zee Cinema (UK)</cname>
 		<item>
-		<title>Younis: High</title>
-		<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2489.m3u8|X-Forwarded-For=80.217.155.211</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Zee Cinema (UK)</cname>
-		<item>
 		<title>High</title>
-		<link>http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_864_av-p.m3u8</link>
+		<link>http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_800.m3u8</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
@@ -546,7 +569,7 @@
         <cname>Zee Anmol</cname>
 		<item>
 		<title>High</title>
-		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeanmol/chunklist.m3u8</link>
+		<link>http://130.185.144.63:8081/box/zeeanmol/chunks.m3u8</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
@@ -569,7 +592,7 @@
         <cname>Zee TV (UK)</cname>
 		<item>
 		<title>High</title>
-		<link>http://zeeapp-lh.akamaihd.net/i/zeetvuk_1@140491/index_864_av-p.m3u8</link>
+		<link>http://zeeapp-lh.akamaihd.net/i/zeetvuk_1@140491/index_800.m3u8</link>
 		</item>
 </streaminginfo>
 

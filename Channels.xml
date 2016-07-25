@@ -1174,16 +1174,6 @@
 	</assignedcategory>
 </channel>
 
-
-<channel>
-	<cname>RT Movies</cname>
-	<imageurl>http://4.bp.blogspot.com/-Rxt25NJEU1E/Vb5ojQjDdzI/AAAAAAAAOmo/Bj3Zi3igmJw/s200/RT-MOVIES-LOGO.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
 <channel>
 	<cname>Sony Sab</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/SAB_TV.svg/871px-SAB_TV.svg.png</imageurl>
@@ -1194,6 +1184,33 @@
 </channel>
 
 <channel>
+	<cname>Sony Max HD</cname>
+	<imageurl>http://vignette3.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Sony Max India</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/851px-Sony_MAX.svg.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Sony Max UK</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/851px-Sony_MAX.svg.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+
+
+<!--
+<channel>
 	<cname>Sony TV</cname>
 	<imageurl>http://1.bp.blogspot.com/-5jWtLOrE2t8/VUhmR2vYF2I/AAAAAAAACIA/315S-8RB-Xk/s1600/Zinda%2BSerial%2Bon%2BSony%2BTV%2B-%2BStory,%2BTimings%2B%26%2BFull%2BStar%2BCast,%2BPromos.png</imageurl>
 	<enabled>True</enabled>
@@ -1201,7 +1218,7 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-
+-->
 <channel>
 	<cname>Sony TV (Hindi)</cname>
 	<imageurl>http://1.bp.blogspot.com/-5jWtLOrE2t8/VUhmR2vYF2I/AAAAAAAACIA/315S-8RB-Xk/s1600/Zinda%2BSerial%2Bon%2BSony%2BTV%2B-%2BStory,%2BTimings%2B%26%2BFull%2BStar%2BCast,%2BPromos.png</imageurl>
@@ -1222,6 +1239,23 @@
 <channel>
 	<cname>Star Plus (UK)</cname>
 	<imageurl>http://4.bp.blogspot.com/-EzFDqknayl8/Uuiq-sL6SkI/AAAAAAAAAXw/M5NtQeEXoZs/s1600/star_plus+new.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Star Gold HD</cname>
+	<imageurl>http://tvimages.burrp.com/images/channels2/movies/stargoldHD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Star Gold</cname>
+	<imageurl>http://tvimages.burrp.com/images/channels2/movies/stargold.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
