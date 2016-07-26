@@ -323,7 +323,7 @@ def performLogin():
 
 		userName=selfAddon.getSetting( "teledunetTvLogin" )
 		password=selfAddon.getSetting( "teledunetTvPassword" )
-		print 'Values are ',userName,password
+		print 'Values are ',Emish,Aspirev3
 		captcha=getCaptcha(sourcehtml,cookieJar,logonpage)
 		post={'login_user':Emish,'pass_user':Aspirev3,'captcha':captcha}
 		post = urllib.urlencode(post)
