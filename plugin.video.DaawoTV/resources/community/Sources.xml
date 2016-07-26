@@ -16,12 +16,11 @@
 <shortname>LTV</shortname>
 <sname>livetv.tn</sname>
 <colour>yellow</colour>
-<baseurl>http://www.livetv.tn/</baseurl>
-<enabled>False</enabled>
+<baseurl>http://website.com</baseurl>
+<enabled>True</enabled>
 <urlfile>livetvUrls.xml</urlfile>
 <imageurl>http://www.livetv.tn/images/logoc.png</imageurl>
 <processor>livetvPlayer.py</processor>
-<rtmpstring>rtmp://iptv.livetv.tn/live app=live tcUrl=rtmp://iptv.livetv.tn/live  playpath=%s?code=%s swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=%s swfVfy=true  timeout=15 flashver=WIN\2013,0,0,214</rtmpstring>
 </source>
 
 <source>
@@ -52,7 +51,7 @@
 <colour>FF7FFFD4</colour>
 <sname>Zombi</sname>
 <baseurl>http://website.com</baseurl>
-<enabled>False</enabled>
+<enabled>True</enabled>
 <urlfile>ZombiList.xml</urlfile>
 <imageurl>http://1.bp.blogspot.com/-6DpNd2KSxN8/URHM-0xN3eI/AAAAAAAAHfk/G0TspoQxYzk/s1600/warm+bodies.jpg</imageurl>
 <processor>genericPlayer.py</processor>

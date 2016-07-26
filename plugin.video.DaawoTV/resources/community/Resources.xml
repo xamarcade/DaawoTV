@@ -13,7 +13,7 @@
 	<file base64="true" fname="karUrls.xml"/>
     
 	<file fname="livetvPlayer.py"/>
-	<file fname="livetvUrls.xml"/>	
+	<file fname="livetvUrls.xml"url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/livetvUrls.xml"/>
 	<file fname="genericPlayer.py"  url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/plugin.video.DaawoTV/resources/community/genericPlayer.py"/>	
 	<file fname="genericUrls.xml"   url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/genericUrls.xml"/>	
 	<file fname="YoutubeSources.xml"/>
@@ -22,7 +22,7 @@
     	<file fname="iptvosnUrls.xml"/>
 <file fname="IPTVPlanetUrls.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/IPTVPlanetUrls.xml"/> 
 	<file fname="palestinecoolUrls.xml" url="http://goo.gl/yNlwCM"/>
-	<file fname="ZombiList.xml" url="https://raw.githubusercontent.com/zombiB/Replay/master/zombiList.xml"/>	
+	<file fname="ZombiList.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/ZombiList.xml"/>	
     	<file fname="emadUrls.xml"  url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/emadUrls.xml"/>
 	<file fname="filmonUrls.xml"/> 
 	<file fname="filmonPlayer.py"/> 
