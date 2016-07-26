@@ -197,7 +197,14 @@
      <category>yemen</category>
      </assignedcategory>
 </channel>
-
+<channel>
+	<cname>Hadramout</cname>
+	<imageurl>http://s27.postimg.org/l5t76ww2b/timthumb_php.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>yemen</category>
+	</assignedcategory>
+</channel>
 <!--
 <channel>
 	<cname>Suhail TV</cname>
@@ -207,14 +214,7 @@
 		<category>yemen</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Hadramout</cname>
-	<imageurl>http://s27.postimg.org/l5t76ww2b/timthumb_php.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>yemen</category>
-	</assignedcategory>
-</channel>
+
 <channel>
      <cname>alsaeedah</cname>
      <imageurl>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/t1.0-1/p160x160/1797437_712766195410909_1521238763_n.jpg</imageurl>
