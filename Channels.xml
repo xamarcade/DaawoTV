@@ -2122,7 +2122,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
-	<category>gulf</category>
 	</assignedcategory>
 </channel>
 
@@ -2186,7 +2185,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
-	<category>gulf</category>
 	</assignedcategory>
 </channel>
 <channel>
@@ -2305,7 +2303,6 @@
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/mm/mekameleen_tv_eg.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>egypt</category>
 	<category>news</category>
 	</assignedcategory>
 </channel>
@@ -2457,7 +2454,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
-	<category>egypt</category>
 	</assignedcategory>
 </channel>	
 
@@ -2466,7 +2462,6 @@
 	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_ikhbaria_sy.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>sham</category>
 	<category>news</category>
 	</assignedcategory>
 </channel>	
@@ -2496,7 +2491,6 @@
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/pnrma_zps801b06ca.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>egypt</category>
 	<category>drama</category>
 	</assignedcategory>
 </channel>	
@@ -2507,7 +2501,6 @@
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/pnrm2_zps1e309d08.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>egypt</category>
 	<category>drama</category>
 	</assignedcategory>
 </channel>	
@@ -2675,7 +2668,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
-	<category>egypt</category>
 	</assignedcategory>
 </channel>	
 
@@ -2882,7 +2874,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>news</category>
-	<category>Iraq</category>
 	</assignedcategory>
 </channel>	
 
@@ -2891,7 +2882,6 @@
 	<imageurl>http://s19.postimg.org/fbw69n1fn/samatv.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>drama</category>
 	<category>sham</category>
 	</assignedcategory>
 </channel>	
@@ -3108,7 +3098,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
-	<category>egypt</category>
 	</assignedcategory>
 </channel>	
 
@@ -3138,7 +3127,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
-	<category>egypt</category>
 	</assignedcategory>
 </channel>	
 
@@ -3157,7 +3145,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
-	<category>egypt</category>
 	</assignedcategory>
 </channel>	
 
@@ -3167,7 +3154,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
- 	<category>egypt</category>
 	</assignedcategory>
 </channel>	
 
@@ -3194,7 +3180,6 @@
 	<imageurl>http://s19.postimg.org/d02yv3fur/dream2.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>ent</category>
 	<category>egypt</category>
 	</assignedcategory>
 </channel>	
@@ -3240,7 +3225,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>gulf</category>
-	<category>ent</category>
 	</assignedcategory>
 </channel>	
 <channel>
@@ -3248,7 +3232,6 @@
 	<imageurl>http://s21.postimg.org/suwts3z3r/Drama.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>gulf</category>
 	<category>drama</category>
 	</assignedcategory>
 </channel>	
@@ -3257,7 +3240,6 @@
 	<imageurl>http://s12.postimg.org/sj6d4a38t/zaman2_n.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>gulf</category>
 	<category>drama</category>
 	</assignedcategory>
 </channel>		
@@ -3323,7 +3305,6 @@
 	<imageurl>http://s19.postimg.org/bmz6bpkw3/lbcsat.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>ent</category>
 	<category>sham</category>
 	</assignedcategory>
 </channel>	
@@ -3334,7 +3315,6 @@
 	<imageurl>http://s19.postimg.org/v29y4te6b/lbceurope.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>ent</category>
 	<category>sham</category>
 	</assignedcategory>
 </channel>	
@@ -3345,7 +3325,7 @@
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mbc_zps04e0a9dc.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>ent</category>
+	<category>drama</category>
 	</assignedcategory>
 </channel>	
 
@@ -3480,7 +3460,6 @@
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nlcin_zpsd0c57a0e.png</imageurl>
 	<assignedcategory>
 	<category>drama</category>
-	<category>egypt</category>
 	</assignedcategory>
 </channel>	
 
@@ -3490,7 +3469,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
-	<category>egypt</category>
 	</assignedcategory>
 </channel>	
 
@@ -3501,7 +3479,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
-	<category>egypt</category>
 	</assignedcategory>
 </channel>	
 
@@ -3546,7 +3523,6 @@
 	<imageurl>http://s22.postimg.org/rfvxqr169/Noor.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>gulf</category>
 	<category>islam</category>
 	</assignedcategory>
 </channel>	
@@ -3612,7 +3588,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
-	<category>gulf</category>
 	</assignedcategory>
 </channel>	
 
@@ -3967,7 +3942,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
-	<category>egypt</category>
 	</assignedcategory>
 </channel>	
 
@@ -4049,7 +4023,6 @@
 	<imageurl>http://s1.postimg.org/84b25ue0v/mehwar2.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>Drama</category>
 	<category>egypt</category>
     </assignedcategory>
 </channel>	
@@ -4262,7 +4235,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
-	<category>egypt</category>
 	</assignedcategory>
 </channel>	
 
@@ -4271,7 +4243,6 @@
 	<imageurl>http://s19.postimg.org/79cshd7ur/dream1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>ent</category>
 	<category>egypt</category>
 	</assignedcategory>
 </channel>
@@ -4284,7 +4255,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
-	<category>egypt</category>
 	</assignedcategory>
 </channel>
 
@@ -4303,7 +4273,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>drama</category>
-	<category>egypt</category>
 	</assignedcategory>
 </channel>
 
@@ -4375,7 +4344,6 @@
 	<imageurl>http://jazarah.net/wp-content/uploads/2015/03/Al-Emarat-Logo.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>ent</category>
 	<category>gulf</category>
 	</assignedcategory>
 </channel>
@@ -4385,7 +4353,6 @@
 	<imageurl>http://s19.postimg.org/hb86nb6df/image.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>ent</category>
 	<category>gulf</category>
 	</assignedcategory>
 </channel>
@@ -4395,7 +4362,6 @@
 	<imageurl>http://s19.postimg.org/i9ojpljpf/abdrama.png</imageurl>
 	<assignedcategory>
 	<category>drama</category>
-	<category>gulf</category>
 	</assignedcategory>
 </channel>
 
@@ -4431,7 +4397,6 @@
 	<imageurl>http://www.lyngsat-logo.com/hires/dd/decision_maker_tv.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>drama</category>
 	<category>gulf</category>
 	</assignedcategory>
 </channel>
@@ -4496,7 +4461,6 @@
      <enabled>True</enabled>
      <assignedcategory>
      <category>sham</category>
-     <category>ent</category>
      </assignedcategory>
 </channel>
 
@@ -4729,8 +4693,6 @@
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_misr_drama.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>ent</category>
-	<category>egypt</category>
 	<category>drama</category>
 	</assignedcategory>
 </channel>	
@@ -4741,7 +4703,6 @@
      <enabled>True</enabled>
      <assignedcategory>
      <category>drama</category>
-     <category>egypt</category>
      </assignedcategory>
 </channel>
 
@@ -4751,7 +4712,6 @@
     <enabled>True</enabled>
     <assignedcategory>
     <category>drama</category>
-    <category>egypt</category>
     </assignedcategory>
 </channel>
 
