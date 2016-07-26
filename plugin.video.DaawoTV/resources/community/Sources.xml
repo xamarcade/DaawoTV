@@ -14,7 +14,7 @@
 <source>
 <id>livetv</id>
 <shortname>LTV</shortname>
-<sname>livetv.tn</sname>
+<sname>livetv</sname>
 <colour>yellow</colour>
 <baseurl>http://website.com</baseurl>
 <enabled>True</enabled>
