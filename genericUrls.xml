@@ -394,13 +394,7 @@
 <streaminginfo><cname>Almajlis</cname><item><title>Med</title><link>http://stream03.fasttelco.net/4/pub/asset/12/streams.m3u8</link></item></streaminginfo>
 
 
-<streaminginfo> 
-<cname>Bein Sport News</cname>
-<item>
-<title>Official</title>
-<link>http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8</link>
-</item>
-</streaminginfo>
+
 
 
 
@@ -605,31 +599,7 @@
 </item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>alkass</cname>
-	<item>
-	<title>Low</title>
-	<link>http://137.135.64.32:1935/kas/kas/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 
-
-
-<streaminginfo>
-	<cname>Abu Dhabi Sports 1</cname>
-	<item>
-	<title>High</title>
-	<link>http://htq.ddns.me/iptv/ch122?code=39006645183604</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Abu Dhabi Sports 2</cname>
-	<item>
-	<title>High</title>
-	<link>http://htq.ddns.me/iptv/ch603?code=39006645183604</link>
-	</item>
-</streaminginfo>
 
 
 
@@ -1099,23 +1069,7 @@
 
 
 
-<streaminginfo>
-	<cname>Dubai Sport 3</cname>
-	<item>
-	<title>web.tv</title> 
-	<link>$doregex[clean-url]</link> 
-<regex>
-	<name>clean-url</name>
-	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>"mediaUrl":"(.*?)"</expres>
-	<page>http://dubaisports.web.tv/</page>
-</regex>
-</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>TV5 MONDE</cname>
 	<item>
@@ -1159,13 +1113,7 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>AL AHLY</cname>
-	<item>
-	<title>livestation_High</title>
-	<link>http://htq.ddns.me/iptv/ch783?code=39006645183604</link>
-	</item>
-</streaminginfo>
+
 
 
 <streaminginfo><cname>Aljazeera Children</cname><item><title>Bcoveliveios</title><link>http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8</link></item></streaminginfo>
@@ -1429,8 +1377,6 @@
 	
 
 	
-<streaminginfo><cname>Dubai Sport 1</cname><item><title>you need to install F.T.V Addon Filmon_Source</title><link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fdubai-sports&amp;mode=125&amp;name=Dubai+Sports&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F79%2Fextra_big_logo.png&amp;start=dubai-sports&amp;ch_fanart=79</link>
-</item></streaminginfo>
 
  
 
@@ -1458,8 +1404,6 @@
 <streaminginfo><cname>KSA 2</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
 <link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-2&amp;mode=125&amp;name=Saudi+Arabian+TV+2&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1778%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-2&amp;ch_fanart=1778</link></item></streaminginfo>
 
-<streaminginfo><cname>Saudia Sport</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-sports&amp;mode=125&amp;name=Saudi+Arabian+TV+Sports&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1781%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-sports&amp;ch_fanart=1781</link></item></streaminginfo>
 
 
 
@@ -1601,7 +1545,6 @@
 <streaminginfo><cname>KSA News</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=cCe0Hzqjhso</link></item></streaminginfo>
 <streaminginfo><cname>Aljazeera Mubasher</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=QOq1R1kWmXM</link></item></streaminginfo>
 <streaminginfo><cname>Roya</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=LOZ_qmJ8JHs</link></item></streaminginfo>
-<streaminginfo><cname>Saudia Sport</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=IQB3n_BEQeg</link></item></streaminginfo>
 <streaminginfo><cname>ONTV Live</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=lGPBmTSQHuY</link></item></streaminginfo>
 <streaminginfo><cname>Alahad</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=PcMS1FgQK90</link></item></streaminginfo>
 
