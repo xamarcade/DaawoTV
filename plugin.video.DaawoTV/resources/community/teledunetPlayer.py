@@ -321,11 +321,11 @@ def performLogin():
 		cookieJar=cookielib.LWPCookieJar()    
 		sourcehtml=getUrl(logonpage,cookieJar,headers=[('Referer','http://www.teledunet.com/'),('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36')])
 
-		userName=selfAddon.getSetting( "Emish" )
-		password=selfAddon.getSetting( "Aspirev3" )
-		print 'Values are ',Emish,Aspirev3
+		userName=selfAddon.getSetting( "teledunetTvLogin" )
+		password=selfAddon.getSetting( "teledunetTvPassword" )
+		print 'Values are ',userName,password
 		captcha=getCaptcha(sourcehtml,cookieJar,logonpage)
-		post={'login_user':Emish,'pass_user':Aspirev3,'captcha':captcha}
+		post={'login_user':userName,'pass_user':password,'captcha':captcha}
 		post = urllib.urlencode(post)
 		html_text=getUrl(logonpage,cookieJar,post,headers=[('Referer',logonpage),('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36')])
 		cookieJar.save (COOKIEFILE,ignore_discard=True)
