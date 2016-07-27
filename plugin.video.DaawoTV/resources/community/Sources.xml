@@ -19,7 +19,7 @@
 <baseurl>http://website.com</baseurl>
 <enabled>True</enabled>
 <urlfile>livetvUrls.xml</urlfile>
-<imageurl>http://www.livetv.tn/images/logoc.png</imageurl>
+<imageurl>http://mylogo.com</imageurl>
 <processor>livetvPlayer.py</processor>
 </source>
 
@@ -53,7 +53,7 @@
 <baseurl>http://website.com</baseurl>
 <enabled>True</enabled>
 <urlfile>ZombiList.xml</urlfile>
-<imageurl>http://1.bp.blogspot.com/-6DpNd2KSxN8/URHM-0xN3eI/AAAAAAAAHfk/G0TspoQxYzk/s1600/warm+bodies.jpg</imageurl>
+<imageurl>http://mylogo.com</imageurl>
 <processor>genericPlayer.py</processor>
 </source>
 <source>
