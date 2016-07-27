@@ -14,16 +14,16 @@
 <category label="32015">
  <setting label="32020" type="bool"   id="playFirstChannel" default="false"/>
    <setting label="32021" type="lsep"/>
-		<setting label="32022" type="labelenum" id="order1" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet" default="Teledunet.com"/>
-		<setting label="32023" type="labelenum" id="order2" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet" default="livetv.tn"/>
-		<setting label="32024" type="labelenum" id="order3" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet" default="Shani"/>
-		<setting label="32025" type="labelenum" id="order5" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet" default="Zombi"/>
-		<setting label="32026" type="labelenum" id="order6" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet" default="Local"/>
-        <setting label="32030" type="labelenum" id="order7" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet" default="GLArab"/>
-        <setting label="32054" type="labelenum" id="order10" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet" default="FilmOn"/>   
-       <setting label="32061" type="labelenum" id="order11" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet" default="Official"/>   
-       <setting label="32064" type="labelenum" id="order13" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet" default="IPTVPlanet"/>   
-        
+		<setting label="32022" type="labelenum" id="order1" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet|cdn" default="Teledunet.com"/>
+		<setting label="32023" type="labelenum" id="order2" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet|cdn" default="livetv.tn"/>
+		<setting label="32024" type="labelenum" id="order3" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet|cdn" default="Shani"/>
+		<setting label="32025" type="labelenum" id="order5" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet|cdn" default="Zombi"/>
+		<setting label="32026" type="labelenum" id="order6" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet|cdn" default="Local"/>
+        <setting label="32030" type="labelenum" id="order7" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet|cdn" default="GLArab"/>
+        <setting label="32054" type="labelenum" id="order10" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet|cdn" default="FilmOn"/>   
+       <setting label="32061" type="labelenum" id="order11" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet|Cdn" default="Official"/>   
+       <setting label="32064" type="labelenum" id="order13" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet|cdn" default="IPTVPlanet"/>   
+       <setting label="32095" type="labelenum" id="order15" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet|cdn" default="cdn"/> 
      
 	   </category>
 	 <category label="32017">
