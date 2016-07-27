@@ -21,7 +21,6 @@
 			<setting label="32054" type="labelenum" id="order7" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet" default="FilmOn"/>   
 			<setting label="32056" type="labelenum" id="order8" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet" default="Official"/>   
 			<setting label="32059" type="labelenum" id="order9" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet" default="IPTVPlanet"/>   
-	       <setting label="32095" type="labelenum" id="order15" values="Teledunet.com|livetv.tn|Shani|Zombi|Local|GLArab|FilmOn|Official|IPTVPlanet|cdn" default="cdn"/> 
 	</category>
 	
 	<category label="32017">
