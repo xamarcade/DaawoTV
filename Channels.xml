@@ -343,15 +343,8 @@
 	<category>ent</category>
 	</assignedcategory>
 </channel>
-<!--
-<channel>
-	<cname>OSN Sport 2 HD</cname>
-	<imageurl>http://content.osn.com/logo/channel/500x300/SP2.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
+
+
 <channel>
 	<cname>OSN Box Offiece 2</cname>
 	<imageurl>http://www.cne-eg.com/UploadFolder/logos/246%5EBO2.jpg</imageurl>
@@ -1405,29 +1398,634 @@
 </channel>
 -->
 
-
-
-
-
 <!-- Indian Channels End -->
 
-
-
-
-
-
-
-
-
-
-
+<!-- Sport Channels Start -->
 
 <channel>
-	<cname>Quran Hidayah</cname>
-	<imageurl>http://s12.postimg.org/mcy4nlwax/photo.jpg</imageurl>
+	<cname>Abu Dhabi Sports 1</cname>
+	<imageurl>http://s29.postimg.org/4mq9t51gn/abusport1l.png</imageurl>
+	<enabled>True</enabled>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>islam</category>
+ 	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Abu Dhabi Sports 2</cname>
+	<imageurl>http://s4.postimg.org/lqap9r9zx/Abu_dhabi_sport2.jpg</imageurl>
+	<enabled>True</enabled>
+	<enabled>True</enabled>
+	<assignedcategory>
+ 	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>AL AHLY</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_ahly_tv_cairo_eg.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>alkass</cname>
+	<imageurl>http://www.qatarbroadcast.qa/images/kas.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Alriadia Sport</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mrocsport_zps6a16f8ed.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+	
+<channel>
+	<cname>BAHRAIN SPORTS</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/bhrinsport_zps0d9b45b2.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Bein Sport</cname>
+	<imageurl>http://www.greatdreambox.com/wp-content/uploads/2014/08/Al_Jazeera_Sport_Logo6.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Sport 1</cname>
+	<imageurl>http://2.bp.blogspot.com/-_9n3VyRowoY/U443tJywR-I/AAAAAAAAAVY/WoX-vW1-bv8/s200/bein+sport+1HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Sport 2</cname>
+	<imageurl>https://lh4.googleusercontent.com/-jtYX3OGtxyw/U443uLe5BmI/AAAAAAAAAWg/RNmStGUxJw8/w140-h140-p/bein%2Bsport%2B2HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Sport 3</cname>
+	<imageurl>https://lh6.googleusercontent.com/-kQbayViTHE8/U443uEazkwI/AAAAAAAAAWk/jdUxGQbJa04/w140-h140-p/bein%2Bsport%2B3HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Sport 4</cname>
+	<imageurl>https://lh3.googleusercontent.com/-N5GAYxCjC6s/U443veXfsII/AAAAAAAAAWA/u6Hvrkq4sV8/w140-h140-p/bein%2Bsport%2B4HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Sport 5</cname>
+	<imageurl>https://lh6.googleusercontent.com/--uxGVVL4c94/U443vilBxSI/AAAAAAAAAWc/5ZxVlJKOcWQ/w140-h140-p/bein%2Bsport%2B5HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Sport 6</cname>
+	<imageurl>https://lh6.googleusercontent.com/-BNQqp39FVYI/U443v3OIVHI/AAAAAAAAAV0/WVWxvcWZfb0/w140-h140-p/bein%2Bsport%2B6HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Sport 7</cname>
+	<imageurl>https://lh5.googleusercontent.com/-a6YPqsfH0E8/U443w3J3aOI/AAAAAAAAAWU/P8bWbAnRErs/w140-h140-p/bein%2Bsport%2B7HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Sport 8</cname>
+	<imageurl>https://lh6.googleusercontent.com/-PSlCNcwzDAg/U443xGljAKI/AAAAAAAAAWQ/ciZLtdf2yWk/w140-h140-p/bein%2Bsport%2B8HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Sport 9</cname>
+	<imageurl>https://lh4.googleusercontent.com/-roWtWCvcMpo/U443xaCYB-I/AAAAAAAAAWY/DWb3jWktqF8/w140-h140-p/bein%2Bsport%2B9HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Sport 10</cname>
+	<imageurl>https://lh6.googleusercontent.com/-I4Hwllcg5zA/U443qjuJD0I/AAAAAAAAAU0/7sBq8QkAQfY/w140-h140-p/bein%2Bsport%2B10HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Sport 11</cname>
+	<imageurl>https://lh3.googleusercontent.com/-P1mMgsnWcFs/U443qvD2JQI/AAAAAAAAAVE/njBi_aSI4UM/w140-h140-p/bein%2Bsport%2B11HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Sport 12</cname>
+	<imageurl>https://lh6.googleusercontent.com/-QxtdjFylxYY/U443q1g4DzI/AAAAAAAAAVA/MeyD0Q0mhsc/w140-h140-p/bein%2Bsport%2B12HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Sport 13</cname>
+	<imageurl>https://lh6.googleusercontent.com/-P6stOyqEDZ4/U443rYNa7iI/AAAAAAAAAVo/bWb1b5s1EkY/w140-h140-p/bein%2Bsport%2B13HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Sport 14</cname>
+	<imageurl>https://lh4.googleusercontent.com/-05c1zSvWo20/U443r8E6AUI/AAAAAAAAAVU/i4sqePSUwBQ/w140-h140-p/bein%2Bsport%2B14HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein Sport 15</cname>
+	<imageurl>http://4.bp.blogspot.com/--mWDulrZbs0/U443sFSRmyI/AAAAAAAAAVQ/tU5Inh8YGdo/s200/bein+sport+15HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein 1 FR</cname>
+	<imageurl>http://www.futbolenlatv.com/fotos/20140113121534-bein-1-hd-fr.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein 2 FR</cname>
+	<imageurl>http://www.futbolenlatv.com/fotos/20140113121607-bein-2-hd-fr.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Bein 3 FR</cname>
+	<imageurl>http://www.futbolenlatv.com/fotos/20140807061853-bein-3-hd-fr.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein Sport News</cname>
+	<imageurl>https://lh6.googleusercontent.com/-56L601mTIFA/U6kr2iiiXmI/AAAAAAAAAHw/uF4dMVWgvLs/BS%252520News.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Chelsea TV</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/cc/chelsea_tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Dubai Racing</cname>
+	<imageurl>https://pbs.twimg.com/profile_images/420596012915236864/kTVVbQiz_400x400.jpeg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	 
+<channel>
+	<cname>Dubai Sport 1</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/dubai_zps8de42d6d.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+  <channel>
+	<cname>Dubai Sport 3</cname>
+	<imageurl>http://s30.postimg.org/yi4m0r6a9/Dubai_sport_3.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Eurosport</cname>
+	<imageurl>http://logostv.netii.net/Eurosport.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Eurosport 2</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/ee/eurosport2.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>GearOne</cname>
+	<imageurl>http://s25.postimg.org/8jo2syein/gearone.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+     <cname>Gladiator</cname>
+     <imageurl>http://www.lyngsat-logo.com/logo/tv/gg/gladiator_tv.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>sports</category>
+     </assignedcategory>
+</channel>
+
+<channel>
+	<cname>Goan</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/gg/goan_tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Jordan Sport</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/ss/sport_tv_jo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>KTV SPORT</cname>
+	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_sport_new.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>KTV Sport Extra</cname>
+	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_sportextra.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>KTV Sport Plus</cname>
+	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_sportplus.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Libya Sport 1</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/ll/lrt_ly_sport1.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>MBC PRO SP1</cname>
+	<imageurl>http://2.bp.blogspot.com/-xjL-llxwi2Y/U-GB2_5QqWI/AAAAAAAAC4g/iv1HWDBUOAE/s1600/MBC+Pro+SP1+EF.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>MBC PRO SP2</cname>
+	<imageurl>http://4.bp.blogspot.com/-_2AeR_zTeQQ/U-GBhLkIgOI/AAAAAAAAC4Y/s0t01dwIgmY/s70-p/MBC+Pro+SP2+EF.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>MBC PRO SP3</cname>
+	<imageurl>http://1.bp.blogspot.com/-q5DyrQNSHFE/U-GBDaRryGI/AAAAAAAAC4Q/WkS5OOyttWA/s70-p/MBC+Pro+SP3+EF.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>MBC PRO SP4</cname>
+	<imageurl>http://4.bp.blogspot.com/-nZ2uSwoatPs/U-F8gmGBFFI/AAAAAAAAC3I/iR7f7X5_KWo/s70-p/MBC+Pro+SP4+EF.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+      <cname>NBC Golf</cname>
+      <imageurl>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzjFf0-GG5z9V-K3U7mZipgZFHIy0kgZD-Ur9S9_eMYOl-QsD-Ew</imageurl>
+      <enabled>True</enabled>
+      <assignedcategory>
+      <category>sports</category>
+      </assignedcategory>
+</channel>
+
+<channel>
+	<cname>Neelain Sport</cname>
+	<imageurl>http://2.bp.blogspot.com/-DvLgpqHifSY/UST64DM0tJI/AAAAAAAAACs/2qMaJ1Z5QOw/s1600/10.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Nile Sport</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nilsport_zpsd74a553d.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Oman Sport</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/oo/oman_tv_sport.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>OSN Sport 2 HD</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/SP2.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Saudia Sport</cname>
+	<imageurl>http://4.bp.blogspot.com/-2-sHy7Fn6uw/UB1BdM_oz9I/AAAAAAAAAOU/y6K_ZZxjfsc/s1600/rsz_1983.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+	 </channel>
+
+<channel>
+	<cname>Sharjah Sport</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/ss/sharjah_sports_tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Sky Sports 1</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport_01_hd.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Sky Sports 2</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport_02_hd.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Sky Sports 3</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>		
+<channel>
+	<cname>Sky Sports 4</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Sky Sports 5</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+
+<!-- Sport Channels End -->
+
+<!-- Nes Channels Start -->
+
+<channel>
+     <cname>A1 Jordan</cname>
+     <imageurl>http://s29.postimg.org/nyvrapt6b/website_logo.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>news</category>
+     </assignedcategory>
+</channel>
+
+<channel>
+	<cname>Al Eqtisadiyah</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/eqtsa_zps121a0d27.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Al Hiwar</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/hwr_zpsf8afa4df.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Al Ikhbaria Syria</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_ikhbaria_sy.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Al mayaden</cname>
+	<imageurl>http://s19.postimg.org/5dgv8t8eb/almayadeentv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Al Moustakilla</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mstkl_zps28de00ad.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>News</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Al Sharqiya News</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/shrnews_zpsdf84de8f.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Alan</cname>
+	<imageurl>http://s19.postimg.org/rg44s67sz/alaantv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Alarabiya</cname>
+	<imageurl>http://s19.postimg.org/tlyfmob9f/alarabiya.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Alarabiya Ahdas</cname>
+	<imageurl>http://s19.postimg.org/4l18pihab/alarabiyahadath.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Alaraby</cname>
+	<imageurl>http://s19.postimg.org/unkvax6f3/alarabytv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Alghad Alarabi</cname>
+	<imageurl>https://img.new.livestream.com/accounts/00000000002b49ca/781d65f7-1e78-4876-ad74-ce2611ad35e5_170x170.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Aljazeera</cname>
+	<imageurl>http://s19.postimg.org/yit65g2rn/aljazeera.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Aljazeera En</cname>
+	<imageurl>http://s30.postimg.org/4z182xcq9/AJE_campaign_logo_239x300.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Aljazeera Mubasher</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/jm_zps4489bb3e.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Aljazeera Mubasher Masr</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/jmm_zps3ca98a44.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>alnabaa</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_nabaa_news_channel_ly.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
 	</assignedcategory>
 </channel>
 
@@ -1440,8 +2038,154 @@
 	</assignedcategory>
 </channel>
 
+<channel>
+	<cname>ANB</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/anb.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel> 
+ 
+<channel>
+	<cname>ANN</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/ann_zps2d7a11bc.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
 
-	
+<channel>
+	<cname>BBC Arabic</cname>
+	<imageurl>http://s19.postimg.org/w0etqr01v/bbcarabictv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>CCTV Arabic</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/cctv_zps49d80417.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>DW Arabic</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Euro News Arabic</cname>
+	<imageurl>http://channelsonline.howuselogiciel.com/channel/Euronews%20Arabic%20TV.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>France 24</cname>
+	<imageurl>http://s19.postimg.org/bgysugyyn/france24arabic.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>i24News</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/ii/i_24_news_il.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>KSA News</cname>
+	<imageurl>https://yt3.ggpht.com/-moHOGmr1Zjc/AAAAAAAAAAI/AAAAAAAAAAA/H6sBEq_vg-4/s100-c-k-no/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Mekamleen</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/mm/mekameleen_tv_eg.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Nile News</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nile_zps0958cae3.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Orient News</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/oo/orient_news.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Russia Alyaum</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rt_zpsb0ef0d97.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>	
+
+ <channel>
+	<cname>SkyNewsArabia</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_uk_news_arabia.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>TRT Arabic</cname>
+	<imageurl>http://www.trt.net.tr/img/logolar/2012/trtarapca_b.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>news</category>
+	</assignedcategory>
+</channel>
+
+<!-- News Channels End -->
+
+
+
+<channel>
+	<cname>Quran Hidayah</cname>
+	<imageurl>http://s12.postimg.org/mcy4nlwax/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+
 <channel>
 	<cname>Elmourabiton</cname>
 	<imageurl>http://s8.postimg.org/6dyyieco5/mor_n.png</imageurl>
@@ -1615,14 +2359,7 @@
 </channel>
 
 
-<channel>
-	<cname>Alaraby</cname>
-	<imageurl>http://s19.postimg.org/unkvax6f3/alarabytv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>
+
 
 <channel>
     <cname>AlJameela</cname>
@@ -1672,15 +2409,6 @@
 </channel>
 
 <channel>
-      <cname>NBC Golf</cname>
-      <imageurl>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzjFf0-GG5z9V-K3U7mZipgZFHIy0kgZD-Ur9S9_eMYOl-QsD-Ew</imageurl>
-      <enabled>True</enabled>
-      <assignedcategory>
-      <category>sports</category>
-      </assignedcategory>
-</channel>
-
-<channel>
      <cname>Mecca</cname>
      <imageurl>http://s28.postimg.org/4sitz3lod/Unbenannt.png</imageurl>
      <enabled>True</enabled>
@@ -1694,44 +2422,11 @@
      <enabled>True</enabled>
      <assignedcategory>
 	 <category>gulf</category>
-	 <category>sham</category>
      </assignedcategory>
 </channel>
 
 
 
-<channel>
-	<cname>MBC PRO SP1</cname>
-	<imageurl>http://2.bp.blogspot.com/-xjL-llxwi2Y/U-GB2_5QqWI/AAAAAAAAC4g/iv1HWDBUOAE/s1600/MBC+Pro+SP1+EF.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>MBC PRO SP2</cname>
-	<imageurl>http://4.bp.blogspot.com/-_2AeR_zTeQQ/U-GBhLkIgOI/AAAAAAAAC4Y/s0t01dwIgmY/s70-p/MBC+Pro+SP2+EF.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>MBC PRO SP3</cname>
-	<imageurl>http://1.bp.blogspot.com/-q5DyrQNSHFE/U-GBDaRryGI/AAAAAAAAC4Q/WkS5OOyttWA/s70-p/MBC+Pro+SP3+EF.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>MBC PRO SP4</cname>
-	<imageurl>http://4.bp.blogspot.com/-nZ2uSwoatPs/U-F8gmGBFFI/AAAAAAAAC3I/iR7f7X5_KWo/s70-p/MBC+Pro+SP4+EF.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
 
 
 <channel>
@@ -1758,14 +2453,7 @@
 	<category>gulf</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Sharjah Sport</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/sharjah_sports_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
+
 
 
 <channel>
@@ -1806,24 +2494,10 @@
 	<category>North Africa</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>i24News</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ii/i_24_news_il.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>
 
 
-<channel>
-	<cname>Oman Sport</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/oo/oman_tv_sport.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
+
+
 
 <channel>
 	<cname>Halab Today</cname>
@@ -1861,14 +2535,7 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>KSA News</cname>
-	<imageurl>https://yt3.ggpht.com/-moHOGmr1Zjc/AAAAAAAAAAI/AAAAAAAAAAA/H6sBEq_vg-4/s100-c-k-no/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>KSA Doc</cname>
 	<imageurl>https://yt3.ggpht.com/-xPEtUcsv4xE/AAAAAAAAAAI/AAAAAAAAAAA/35mKdpYK0Y4/s100-c-k-no/photo.jpg</imageurl>
@@ -1887,23 +2554,7 @@
 </channel>
 
 
-<channel>
-	<cname>Eurosport</cname>
-	<imageurl>http://logostv.netii.net/Eurosport.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-	
-<channel>
-	<cname>Eurosport 2</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ee/eurosport2.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
+
 
 
 <channel>
@@ -1988,32 +2639,6 @@
 	<category>Iraq</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Goan</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/gg/goan_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>ANB</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/anb.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Neelain Sport</cname>
-	<imageurl>http://2.bp.blogspot.com/-DvLgpqHifSY/UST64DM0tJI/AAAAAAAAACs/2qMaJ1Z5QOw/s1600/10.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-
 
 <channel>
 	<cname>Aldiyar</cname>
@@ -2093,14 +2718,6 @@
 </channel>
 
 <channel>
-	<cname>Al Eqtisadiyah</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/eqtsa_zps121a0d27.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>
-<channel>
 	<cname>Al Thakafiyah</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_thakafiyah_tv.png</imageurl>
 	<enabled>True</enabled>
@@ -2135,14 +2752,7 @@
 </channel>
 
 
-<channel>
-	<cname>Saudia Sport</cname>
-	<imageurl>http://4.bp.blogspot.com/-2-sHy7Fn6uw/UB1BdM_oz9I/AAAAAAAAAOU/y6K_ZZxjfsc/s1600/rsz_1983.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-	 </channel>
+
 
 <channel>
 	<cname>Blue Nile</cname>
@@ -2153,14 +2763,7 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Jordan Sport</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/sport_tv_jo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Al Nahar Alyoum</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_nahar_alyoum.png</imageurl>
@@ -2170,14 +2773,7 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>GearOne</cname>
-	<imageurl>http://s25.postimg.org/8jo2syein/gearone.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
+
 
 <channel>
 	<cname>Al Dafra</cname>
@@ -2235,23 +2831,6 @@
 </channel>
 
 <channel>
-	<cname>Alghad Alarabi</cname>
-	<imageurl>https://img.new.livestream.com/accounts/00000000002b49ca/781d65f7-1e78-4876-ad74-ce2611ad35e5_170x170.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Chelsea TV</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/cc/chelsea_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Tamazigh Algeria</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/ee/entv_4_tv_tamazight.png</imageurl>
 	<enabled>True</enabled>
@@ -2260,15 +2839,7 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Aljazeera En</cname>
-	<imageurl>http://s30.postimg.org/4z182xcq9/AJE_campaign_logo_239x300.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>
-		
+
 
 <channel>
 	<cname>Al sahraa</cname>
@@ -2279,88 +2850,6 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Euro News Arabic</cname>
-	<imageurl>http://channelsonline.howuselogiciel.com/channel/Euronews%20Arabic%20TV.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>
-		
-<channel>
-	<cname>Orient News</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/oo/orient_news.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>
-		
-		
-<channel>
-	<cname>Mekamleen</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/mm/mekameleen_tv_eg.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>alkass</cname>
-	<imageurl>http://www.qatarbroadcast.qa/images/kas.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-	
-<channel>
-	<cname>Sky Sports 1</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport_01_hd.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-		
-<channel>
-	<cname>Sky Sports 2</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport_02_hd.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-		
-<channel>
-	<cname>Sky Sports 3</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-	
-<channel>
-	<cname>Sky Sports 4</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-<channel>
-	<cname>Sky Sports 5</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-    
-    
 <channel>
 	<cname>Alasr</cname>
 	<imageurl>http://4.bp.blogspot.com/-o9kBpBMJ4eM/UuBd3NHJOOI/AAAAAAAAE1U/Et7FhFfYpkI/s1600/alasr_tv.png</imageurl>
@@ -2381,14 +2870,7 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>TRT Arabic</cname>
-	<imageurl>http://www.trt.net.tr/img/logolar/2012/trtarapca_b.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
+
 
 <channel>
 	<cname>Syria Nour</cname>
@@ -2456,16 +2938,6 @@
 	<category>drama</category>
 	</assignedcategory>
 </channel>	
-
-<channel>
-	<cname>Al Ikhbaria Syria</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_ikhbaria_sy.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
-
 
 <channel>
 	<cname>Sada Al Balad2</cname>
@@ -2536,35 +3008,7 @@
 </channel>	
 	
 
-<channel>
-	<cname>Abu Dhabi Sports 1</cname>
-	<imageurl>http://s29.postimg.org/4mq9t51gn/abusport1l.png</imageurl>
-	<enabled>True</enabled>
-	<enabled>True</enabled>
-	<assignedcategory>
- 	<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Abu Dhabi Sports 2</cname>
-	<imageurl>http://s4.postimg.org/lqap9r9zx/Abu_dhabi_sport2.jpg</imageurl>
-	<enabled>True</enabled>
-	<enabled>True</enabled>
-	<assignedcategory>
- 	<category>sports</category>
-	</assignedcategory>
-</channel>
-
-
 	
-<channel>
-	<cname>AL AHLY</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_ahly_tv_cairo_eg.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>		
 	
 <channel>
 	<cname>alrayan</cname>
@@ -2649,18 +3093,7 @@
 	<assignedcategory>
 	<category>egypt</category>
 	</assignedcategory>
-</channel>	
-
-	
-<channel>
-	<cname>Al mayaden</cname>
-	<imageurl>http://s19.postimg.org/5dgv8t8eb/almayadeentv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
-	
+</channel>		
 
 <channel>
 	<cname>Al Nahar Drama</cname>
@@ -2686,54 +3119,14 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Iraq</category>
-	<category>news</category>
 	</assignedcategory>
 </channel>	
-
-	
-<channel>
-	<cname>Alan</cname>
-	<imageurl>http://s19.postimg.org/rg44s67sz/alaantv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Alarabiya</cname>
-	<imageurl>http://s19.postimg.org/tlyfmob9f/alarabiya.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
-	
-<channel>
-	<cname>DW Arabic</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Alarabiya Ahdas</cname>
-	<imageurl>http://s19.postimg.org/4l18pihab/alarabiyahadath.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
-
 	
 <channel>
 	<cname>Alhayat 1</cname>
 	<imageurl>http://s19.postimg.org/3yap6chxb/Alhayat_1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>drama</category>
 	<category>egypt</category>
 	</assignedcategory>
 </channel>	
@@ -2775,33 +3168,6 @@
 </channel>	
 
 <channel>
-	<cname>Aljazeera Mubasher</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/jm_zps4489bb3e.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Aljazeera Mubasher Masr</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/jmm_zps3ca98a44.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Aljazeera</cname>
-	<imageurl>http://s19.postimg.org/yit65g2rn/aljazeera.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
 	<cname>Alqudis</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/quds_zps15fd3391.png</imageurl>
 	<enabled>True</enabled>
@@ -2819,14 +3185,7 @@
 	</assignedcategory>
 </channel>	
 
-<channel>
-	<cname>Alriadia Sport</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mrocsport_zps6a16f8ed.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
+	
 
 
 	
@@ -2847,35 +3206,8 @@
 	<category>drama</category>
 	</assignedcategory>
 </channel>	
-
 	
-<channel>
-	<cname>BBC Arabic</cname>
-	<imageurl>http://s19.postimg.org/w0etqr01v/bbcarabictv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
- 
 
-<channel>
-	<cname>ANN</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/ann_zps2d7a11bc.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Al Sharqiya News</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/shrnews_zpsdf84de8f.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
 
 <channel>
 	<cname>Sama Syria</cname>
@@ -2904,193 +3236,7 @@
 	</assignedcategory>
 </channel>	
 	
-<channel>
-	<cname>Bein Sport News</cname>
-	<imageurl>https://lh6.googleusercontent.com/-56L601mTIFA/U6kr2iiiXmI/AAAAAAAAAHw/uF4dMVWgvLs/BS%252520News.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-<channel>
-	<cname>Bein Sport</cname>
-	<imageurl>http://www.greatdreambox.com/wp-content/uploads/2014/08/Al_Jazeera_Sport_Logo6.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
 
-<channel>
-	<cname>Bein Sport 1</cname>
-	<imageurl>http://2.bp.blogspot.com/-_9n3VyRowoY/U443tJywR-I/AAAAAAAAAVY/WoX-vW1-bv8/s200/bein+sport+1HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 2</cname>
-	<imageurl>https://lh4.googleusercontent.com/-jtYX3OGtxyw/U443uLe5BmI/AAAAAAAAAWg/RNmStGUxJw8/w140-h140-p/bein%2Bsport%2B2HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 3</cname>
-	<imageurl>https://lh6.googleusercontent.com/-kQbayViTHE8/U443uEazkwI/AAAAAAAAAWk/jdUxGQbJa04/w140-h140-p/bein%2Bsport%2B3HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 4</cname>
-	<imageurl>https://lh3.googleusercontent.com/-N5GAYxCjC6s/U443veXfsII/AAAAAAAAAWA/u6Hvrkq4sV8/w140-h140-p/bein%2Bsport%2B4HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 5</cname>
-	<imageurl>https://lh6.googleusercontent.com/--uxGVVL4c94/U443vilBxSI/AAAAAAAAAWc/5ZxVlJKOcWQ/w140-h140-p/bein%2Bsport%2B5HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 6</cname>
-	<imageurl>https://lh6.googleusercontent.com/-BNQqp39FVYI/U443v3OIVHI/AAAAAAAAAV0/WVWxvcWZfb0/w140-h140-p/bein%2Bsport%2B6HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 7</cname>
-	<imageurl>https://lh5.googleusercontent.com/-a6YPqsfH0E8/U443w3J3aOI/AAAAAAAAAWU/P8bWbAnRErs/w140-h140-p/bein%2Bsport%2B7HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 8</cname>
-	<imageurl>https://lh6.googleusercontent.com/-PSlCNcwzDAg/U443xGljAKI/AAAAAAAAAWQ/ciZLtdf2yWk/w140-h140-p/bein%2Bsport%2B8HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 9</cname>
-	<imageurl>https://lh4.googleusercontent.com/-roWtWCvcMpo/U443xaCYB-I/AAAAAAAAAWY/DWb3jWktqF8/w140-h140-p/bein%2Bsport%2B9HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 10</cname>
-	<imageurl>https://lh6.googleusercontent.com/-I4Hwllcg5zA/U443qjuJD0I/AAAAAAAAAU0/7sBq8QkAQfY/w140-h140-p/bein%2Bsport%2B10HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 11</cname>
-	<imageurl>https://lh3.googleusercontent.com/-P1mMgsnWcFs/U443qvD2JQI/AAAAAAAAAVE/njBi_aSI4UM/w140-h140-p/bein%2Bsport%2B11HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 12</cname>
-	<imageurl>https://lh6.googleusercontent.com/-QxtdjFylxYY/U443q1g4DzI/AAAAAAAAAVA/MeyD0Q0mhsc/w140-h140-p/bein%2Bsport%2B12HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 13</cname>
-	<imageurl>https://lh6.googleusercontent.com/-P6stOyqEDZ4/U443rYNa7iI/AAAAAAAAAVo/bWb1b5s1EkY/w140-h140-p/bein%2Bsport%2B13HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 14</cname>
-	<imageurl>https://lh4.googleusercontent.com/-05c1zSvWo20/U443r8E6AUI/AAAAAAAAAVU/i4sqePSUwBQ/w140-h140-p/bein%2Bsport%2B14HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bein Sport 15</cname>
-	<imageurl>http://4.bp.blogspot.com/--mWDulrZbs0/U443sFSRmyI/AAAAAAAAAVQ/tU5Inh8YGdo/s200/bein+sport+15HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-	
-
-<channel>
-	<cname>BAHRAIN SPORTS</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/bhrinsport_zps0d9b45b2.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>KTV Sport Plus</cname>
-	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_sportplus.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>KTV Sport Extra</cname>
-	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_sportextra.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>KTV SPORT</cname>
-	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_sport_new.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
 
 <channel>
 	<cname>CBC Drama</cname>
@@ -3127,15 +3273,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>CCTV Arabic</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/cctv_zps49d80417.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
 	</assignedcategory>
 </channel>	
 
@@ -3192,32 +3329,7 @@
 	<category>drama</category>
 	</assignedcategory>
 </channel>	
-<channel>
-	<cname>Dubai Racing</cname>
-	<imageurl>https://pbs.twimg.com/profile_images/420596012915236864/kTVVbQiz_400x400.jpeg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-    
-<channel>
-	<cname>Dubai Sport 1</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/dubai_zps8de42d6d.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
 
-  <channel>
-	<cname>Dubai Sport 3</cname>
-	<imageurl>http://s30.postimg.org/yi4m0r6a9/Dubai_sport_3.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
 
 <channel>
 	<cname>Dubai</cname>
@@ -3242,16 +3354,7 @@
 	<assignedcategory>
 	<category>drama</category>
 	</assignedcategory>
-</channel>		
-
-<channel>
-	<cname>France 24</cname>
-	<imageurl>http://s19.postimg.org/bgysugyyn/france24arabic.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
+</channel>			
 
 <channel>
 	<cname>Funoon</cname>
@@ -3501,24 +3604,6 @@
 </channel>	
 
 <channel>
-	<cname>Nile News</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nile_zps0958cae3.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Nile Sport</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nilsport_zpsd74a553d.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>		
-
-<channel>
 	<cname>Noor Dubai</cname>
 	<imageurl>http://s22.postimg.org/rfvxqr169/Noor.jpg</imageurl>
 	<enabled>True</enabled>
@@ -3588,16 +3673,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
-	</assignedcategory>
-</channel>	
-
-
-<channel>
-	<cname>Russia Alyaum</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rt_zpsb0ef0d97.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
 	</assignedcategory>
 </channel>	
 
@@ -3682,7 +3757,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
-	<category>news</category>
 	</assignedcategory>
 </channel>	
 <channel>
@@ -3691,7 +3765,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
-	<category>news</category>
 	</assignedcategory>
 </channel>	
 	
@@ -3779,16 +3852,6 @@
 	<category>North Africa</category>
 	</assignedcategory>
 </channel>	
-	
-<channel>
-	<cname>Al Moustakilla</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mstkl_zps28de00ad.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>News</category>
-	</assignedcategory>
-</channel>	
-
 
 <channel>
 	<cname>AlGeria</cname>
@@ -3824,17 +3887,7 @@
 	<assignedcategory>
 	<category>North Africa</category>
 	</assignedcategory>
-</channel>	
-    
-<channel>
-	<cname>alnabaa</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_nabaa_news_channel_ly.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
+</channel>		
 	
 <channel>
 	<cname>Libya</cname>
@@ -3853,15 +3906,6 @@
 	<category>North Africa</category>
 	</assignedcategory>
 </channel>	
-
- <channel>
-	<cname>SkyNewsArabia</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_uk_news_arabia.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>
 
 <channel>
 	<cname>AlQahera W Elnas</cname>
@@ -3898,34 +3942,9 @@
 	<category>egypt</category>
 	</assignedcategory>
 </channel>
-<!--
-<channel>
-	<cname>Bein 1 FR</cname>
-	<imageurl>http://www.futbolenlatv.com/fotos/20140113121534-bein-1-hd-fr.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-		<category>sports</category>
-	</assignedcategory>
-</channel>	
 
-<channel>
-	<cname>Bein 2 FR</cname>
-	<imageurl>http://www.futbolenlatv.com/fotos/20140113121607-bein-2-hd-fr.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-		<category>sports</category>
-	</assignedcategory>
-</channel>	
 
-<channel>
-	<cname>Bein 3 FR</cname>
-	<imageurl>http://www.futbolenlatv.com/fotos/20140807061853-bein-3-hd-fr.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-		<category>sports</category>
-	</assignedcategory>
-</channel>
--->
+
 <channel>
 	<cname>Melody Aflam</cname>
 	<imageurl>http://s19.postimg.org/lnd0bkn9b/melodyaflam.png</imageurl>
@@ -4220,14 +4239,6 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Libya Sport 1</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ll/lrt_ly_sport1.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
 
 <channel>
 	<cname>Alhayat Series</cname>
@@ -4544,15 +4555,6 @@
 	<category>africa</category>
 	</assignedcategory>
 </channel>
-    
-<channel>
-	<cname>Al Hiwar</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/hwr_zpsf8afa4df.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
 
 <channel>
 	<cname>LCD AFLAM</cname>
@@ -4569,7 +4571,6 @@
     <enabled>True</enabled>
     <assignedcategory>
     <category>islam</category>
-    <category>egypt</category>
     </assignedcategory>
 </channel>
 
@@ -4579,7 +4580,6 @@
     <enabled>True</enabled>
     <assignedcategory>
     <category>drama</category>
-    <category>egypt</category>
     </assignedcategory>
 </channel>
 
@@ -4588,7 +4588,6 @@
     <imageurl>http://s11.postimg.org/myq7cjnwz/alkahera.png</imageurl>
     <enabled>True</enabled>
     <assignedcategory>
-    <category>drama</category>
     <category>egypt</category>
     </assignedcategory>
 </channel>
@@ -4734,29 +4733,11 @@
 </channel>	
 
 <channel>
-     <cname>A1 Jordan</cname>
-     <imageurl>http://s29.postimg.org/nyvrapt6b/website_logo.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>news</category>
-     </assignedcategory>
-</channel>
-
-<channel>
      <cname>Atfal wa Mawaheb</cname>
      <imageurl>http://www.lyngsat-logo.com/logo/tv/aa/atfal_mawaheb.png</imageurl>
      <enabled>True</enabled>
      <assignedcategory>
      <category>kids</category>
-     </assignedcategory>
-</channel>
-
-<channel>
-     <cname>Gladiator</cname>
-     <imageurl>http://www.lyngsat-logo.com/logo/tv/gg/gladiator_tv.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>sports</category>
      </assignedcategory>
 </channel>
 
@@ -4816,7 +4797,6 @@
 	</assignedcategory>
 </channel>
 
--->
 
 
 </channels>
