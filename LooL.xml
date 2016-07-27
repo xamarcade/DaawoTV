@@ -1,6 +1,27 @@
 <streaminginfos>
 
+<streaminginfo>
+<cname>MBC 1</cname>
+<item>
+<title>Amiin</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/14.ts</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC 2</cname>
+<item>
+<title>Amiin</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/13.ts</link>
+</item>
+</streaminginfo>
 
+<streaminginfo>
+<cname>MBC 4</cname>
+<item>
+<title>Amiin</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/11.ts</link>
+</item>
+</streaminginfo>
 
 
 </streaminginfos>
