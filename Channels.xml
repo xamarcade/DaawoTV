@@ -2066,14 +2066,6 @@
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>MBC Drama Plus</cname>
-	<imageurl>http://livetvscreen.com/wp-content/uploads/2012/06/Mbc-Drama-Plus.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
-<channel>
 	<cname>MBC Masr</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mbc-msr_zps87074427.png</imageurl>
 	<enabled>True</enabled>
@@ -2087,14 +2079,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>MBC Masr Drama</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_misr_drama.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Ent</category>
 	</assignedcategory>
 </channel>
 <channel>

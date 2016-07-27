@@ -61,7 +61,6 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/646.ts</link>
 </item>
 </streaminginfo>
-
 <streaminginfo>
 <cname>MBC Masr 2</cname>
 <item>
@@ -69,21 +68,12 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/647.ts</link>
 </item>
 </streaminginfo>
-    
 <streaminginfo>
 <cname>MBC Max</cname>
 <item>
 <title>Amiin</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/7.ts</link>
 </item>
-</streaminginfo>
-	
-<streaminginfo>
-	<cname>MBC Drama Plus</cname>
-	<item>
-	<title>Younis: High</title>
-	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/1798.m3u8|X-Forwarded-For=80.217.155.211</link>
-	</item>
 </streaminginfo>
 
 <streaminginfo>
