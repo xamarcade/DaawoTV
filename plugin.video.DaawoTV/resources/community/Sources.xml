@@ -136,6 +136,7 @@
 <imageurl>http://mylogo.com</imageurl>
 <processor>genericPlayer.py</processor>
 </source>
+
 <source>
 <id>generic</id>
 <shortname>cdn</shortname>
