@@ -140,7 +140,7 @@
 <id>generic</id>
 <shortname>cdn</shortname>
 <sname>cdn</sname>
-<colour>violet</colour>
+<colour>FF8B009B</colour>
 <baseurl>http://website.com</baseurl>
 <enabled>True</enabled>
 <urlfile>cdnUrls.xml</urlfile>
