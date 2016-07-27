@@ -8,7 +8,7 @@
 	<file fname="ssUrls.xml"/>
     	<file fname="ttvPlayer.py"/>
 	<file fname="ttvUrls.xml"/>
-	<file base64="true" fname="cdnUrls.xml"/>
+	<file base64="true" fname="cdnUrls.xml"url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/cdnUrls.xml/>
 	<file base64="true" fname="yoUrls.xml"/>
 	<file base64="true" fname="karUrls.xml"/>
     
