@@ -137,6 +137,17 @@
 <processor>genericPlayer.py</processor>
 </source>
 <source>
+<id>generic</id>
+<shortname>cdn</shortname>
+<sname>cdn</sname>
+<colour>FF8B009B</colour>
+<baseurl>http://website.com</baseurl>
+<enabled>True</enabled>
+<urlfile>cdnUrls.xml</urlfile>
+<imageurl>http://mylogo.com</imageurl>
+<processor>genericPlayer.py</processor>
+</source>
+<source>
 <id>iptvplanet</id>
 <shortname>planet</shortname>
 <sname>IPTVPlanet</sname>
@@ -186,17 +197,7 @@
 <processor>genericPlayer.py</processor>
 </source>
 
-<source>
-<id>generic</id>
-<shortname>cdn</shortname>
-<sname>cdn</sname>
-<colour>violet</colour>
-<baseurl>http://website.com</baseurl>
-<enabled>True</enabled>
-<urlfile>cdnUrls.xml</urlfile>
-<imageurl>http://mylogo.com</imageurl>
-<processor>genericPlayer.py</processor>
-</source>
+
 <source>
 <id>generic</id>
 <shortname>kar</shortname>
