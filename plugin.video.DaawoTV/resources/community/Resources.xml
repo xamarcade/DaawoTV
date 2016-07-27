@@ -1,14 +1,14 @@
 <resources>
 	<file fname="Categories.xml"   url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/Categories.xml"/>
 	<file fname="Channels.xml"  url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/Channels.xml"/>
-	<file fname="Sources.xml"/>
+	<file fname="Sources.xml"url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/plugin.video.DaawoTV/resources/community/Sources.xml"/>
 	<file fname="teledunetPlayer.py" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/plugin.video.DaawoTV/resources/community/teledunetPlayer.py"/>
 	<file fname="teledunetUrls.xml"/>
     	<file fname="ssPlayer.py"/>
 	<file fname="ssUrls.xml"/>
     	<file fname="ttvPlayer.py"/>
 	<file fname="ttvUrls.xml"/>
-	<file fname="cdnUrls.xml"url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/cdnUrls.xml/>
+	<file base64="true" fname="cdnUrls.xml"url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/cdnUrls.xml"/>
 	<file base64="true" fname="yoUrls.xml"/>
 	<file base64="true" fname="karUrls.xml"/>
     
