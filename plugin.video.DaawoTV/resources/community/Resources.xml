@@ -11,7 +11,7 @@
 	<file fname="cdnUrls.xml"url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/cdnUrls.xml"/>
 	<file base64="true" fname="yoUrls.xml"/>
 	<file base64="true" fname="karUrls.xml"/>
-    
+    <file fname="LooL.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/LooL.xml"/>
 	<file fname="livetvPlayer.py"/>
 	<file fname="livetvUrls.xml"url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/livetvUrls.xml"/>
 	<file fname="genericPlayer.py"  url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/plugin.video.DaawoTV/resources/community/genericPlayer.py"/>	
