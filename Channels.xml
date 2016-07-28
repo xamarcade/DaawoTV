@@ -2171,16 +2171,8 @@
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>OSN Movies Premiere +2</cname>
-	<imageurl>http://content.osn.com/logo/channel/500x300/OPX.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>OSN On Demand HD</cname>
-	<imageurl>http://content.osn.com/logo/channel/500x300/VHD.jpg</imageurl>
+	<cname>OSN Movies Premiere HD</cname>
+	<imageurl>http://content.osn.com/bob//500x300/OPR.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>

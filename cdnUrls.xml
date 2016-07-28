@@ -7,6 +7,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/14.ts</link>
 </item>
 </streaminginfo>
+
 <streaminginfo>
 <cname>MBC 2</cname>
 <item>
@@ -61,6 +62,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/646.ts</link>
 </item>
 </streaminginfo>
+
 <streaminginfo>
 <cname>MBC Masr 2</cname>
 <item>
@@ -68,6 +70,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/647.ts</link>
 </item>
 </streaminginfo>
+
 <streaminginfo>
 <cname>MBC Max</cname>
 <item>
@@ -80,7 +83,7 @@
 	<cname>OSN Movies Drama HD</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/1877.m3u8|X-Forwarded-For=80.217.155.211</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/511.ts</link>
 	</item>
 </streaminginfo>
 
@@ -88,39 +91,30 @@
 	<cname>OSN Movies Festival</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2244.m3u8|X-Forwarded-For=80.217.155.211</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/513.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>OSN Movies Kids</cname>
+	<cname>OSN Movies Premiere HD</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/1914.m3u8|X-Forwarded-For=80.217.155.211</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/509.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>OSN Movies Premiere +2</cname>
+	<cname>OSN First HD</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2205.m3u8|X-Forwarded-For=80.217.155.211</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/547.ts</link>
 	</item>
 </streaminginfo>
-
-<streaminginfo>
-	<cname>OSN On Demand HD</cname>
-	<item>
-	<title>Younis: High</title>
-	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2182.m3u8|X-Forwarded-For=80.217.155.211</link>
-	</item>
-</streaminginfo>
-
 <streaminginfo>
 	<cname>OSN First Comedy</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/1915.m3u8|X-Forwarded-For=80.217.155.211</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/548.ts</link>
 	</item>
 </streaminginfo>
 
@@ -128,7 +122,7 @@
 	<cname>OSN Cinema 1</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/1910.m3u8|X-Forwarded-For=80.217.155.211</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/516.ts</link>
 	</item>
 </streaminginfo>
 
@@ -136,7 +130,7 @@
 	<cname>OSN Cinema 2</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/1909.m3u8|X-Forwarded-For=80.217.155.211</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/517.ts</link>
 	</item>
 </streaminginfo>
 
@@ -144,7 +138,7 @@
 	<cname>OSN AlYawm</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>http://iptvdragon.dyndns.tv:8000/live/younis/younis/2482.m3u8|X-Forwarded-For=80.217.155.211</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/550.ts</link>
 	</item>
 </streaminginfo>
 
