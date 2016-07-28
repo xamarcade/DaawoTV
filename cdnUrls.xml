@@ -80,6 +80,74 @@
 </streaminginfo>
 
 <streaminginfo>
+	<cname>OSN AlYawm</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/550.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Box Offiece 1</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/3038.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Box Offiece 2</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/3039.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Box Offiece 3</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/3040.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Cinema 1</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/516.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Cinema 2</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/517.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN First HD</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/547.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN First Comedy</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/548.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Action HD</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/507.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>OSN Movies Drama HD</cname>
 	<item>
 	<title>Younis: High</title>
@@ -104,43 +172,31 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>OSN First HD</cname>
+	<cname>OSN Ya Hala Shabab HD</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/547.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN First Comedy</cname>
-	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/548.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/530.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>OSN Cinema 1</cname>
+	<cname>OSN Yahala Cinema HD</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/516.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/1823.ts</link>
 	</item>
-</streaminginfo>
-
+</streaminginfo> 
 <streaminginfo>
-	<cname>OSN Cinema 2</cname>
+	<cname>OSN Yahala HD</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/517.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/528.ts</link>
 	</item>
-</streaminginfo>
+</streaminginfo> 
 
-<streaminginfo>
-	<cname>OSN AlYawm</cname>
-	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/550.ts</link>
-	</item>
-</streaminginfo>
+
+
+
 
 <streaminginfo>
 	<cname>Bein Movies 2</cname>
