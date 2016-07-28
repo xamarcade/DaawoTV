@@ -2091,14 +2091,6 @@
 </channel>
 
 <channel>
-	<cname>OSN AlYawm</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_al_yawm.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
-<channel>
 	<cname>OSN Box Offiece 2</cname>
 	<imageurl>http://www.cne-eg.com/UploadFolder/logos/246%5EBO2.jpg</imageurl>
 	<enabled>True</enabled>

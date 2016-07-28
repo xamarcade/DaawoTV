@@ -135,14 +135,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>OSN AlYawm</cname>
-	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/550.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>Bein Movies 2</cname>
 	<item>
 	<title>High</title>
