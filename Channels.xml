@@ -2155,6 +2155,14 @@
 	</assignedcategory>
 </channel>
 <channel>
+	<cname>OSN Movies HD</cname>
+	<imageurl>http://content.osn.com/bob/500x300/OM1.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>OSN Movies Action HD</cname>
 	<imageurl>http://content.osn.com/logo/channel/500x300/AHD.jpg</imageurl>
 	<enabled>True</enabled>
@@ -2187,6 +2195,14 @@
 	</assignedcategory>
 </channel>
 <channel>
+	<cname>OSN Star Movies HD</cname>
+	<imageurl>http://store1.up-00.com/2016-07/1469743294891.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>OSN Ya Hala Shabab HD</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_ya_hala_shabab_hd.png</imageurl>
 	<enabled>True</enabled>
@@ -2197,6 +2213,14 @@
 <channel>
 	<cname>OSN Yahala Cinema HD</cname>
 	<imageurl>http://content.osn.com/logo/channel/500x300/OYC.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN Yahala Drama HD</cname>
+	<imageurl>http://store1.up-00.com/2016-07/1469741950171.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
