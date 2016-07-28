@@ -83,7 +83,7 @@
 	<cname>OSN Movies Drama HD</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/511.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/511.ts</link>
 	</item>
 </streaminginfo>
 
@@ -91,7 +91,7 @@
 	<cname>OSN Movies Festival</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/513.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/513.ts</link>
 	</item>
 </streaminginfo>
 
@@ -99,7 +99,7 @@
 	<cname>OSN Movies Premiere HD</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/509.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/509.ts</link>
 	</item>
 </streaminginfo>
 
@@ -107,14 +107,14 @@
 	<cname>OSN First HD</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/547.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/547.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN First Comedy</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/548.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/548.ts</link>
 	</item>
 </streaminginfo>
 
@@ -122,7 +122,7 @@
 	<cname>OSN Cinema 1</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/516.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/516.ts</link>
 	</item>
 </streaminginfo>
 
@@ -130,7 +130,15 @@
 	<cname>OSN Cinema 2</cname>
 	<item>
 	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/517.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/517.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN AlYawm</cname>
+	<item>
+	<title>Younis: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/550.ts</link>
 	</item>
 </streaminginfo>
 

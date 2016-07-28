@@ -493,7 +493,7 @@
 	<cname>OSN Movies Kids</cname>
 	<item>
 	<title>Amiin: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/517.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/514.ts</link>
 	</item>
 </streaminginfo>
 
