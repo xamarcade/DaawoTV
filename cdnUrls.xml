@@ -79,140 +79,141 @@
 </item>
 </streaminginfo>
 
+
 <streaminginfo>
 	<cname>OSN AlYawm</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/550.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/550.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>OSN Box Offiece 1</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/3038.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/3038.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Box Offiece 2</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/3039.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/3039.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Box Offiece 3</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/3040.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/3040.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>OSN Cinema 1</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/516.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/516.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>OSN Cinema 2</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/517.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/517.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>OSN First HD</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/547.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/547.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN First Comedy</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/548.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/548.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>OSN Movies HD</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/505.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/505.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Movies Action HD</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/507.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/507.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Movies Drama HD</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/511.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/511.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>OSN Movies Festival</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/513.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/513.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>OSN Movies Premiere HD</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/509.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/509.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>OSN Star Movies HD</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/518.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/518.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>OSN Ya Hala Shabab HD</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/530.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/530.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>OSN Yahala Cinema HD</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/1823.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/1823.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Yahala Drama HD</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/529.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/529.m3u8</link>
 	</item>
 </streaminginfo> 
 <streaminginfo>
 	<cname>OSN Yahala HD</cname>
 	<item>
-	<title>Younis: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/528.ts</link>
+	<title>High</title>
+	<link>http://iptv.re:80/live/lamine/lamine/528.m3u8</link>
 	</item>
 </streaminginfo> 
 
