@@ -595,6 +595,14 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>Top Movies</cname>
+	<item>
+	<title>Alwee: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/alwee/alwee/1548.ts</link>
+	</item>
+</streaminginfo>
+
 <!-- Drama Channels End -->
 
 
