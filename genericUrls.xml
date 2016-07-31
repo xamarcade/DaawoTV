@@ -1252,55 +1252,6 @@
 </streaminginfo>
 
 
-<streaminginfo><cname>Melody Drama</cname><item><title>Low SVR2</title><link>http://38.96.148.163//MelodyDrama/smil:drama.smil/chunklist_w659482942_b500000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Melody Drama</cname><item><title>Low SVR1</title><link>http://38.96.148.164//MelodyDrama/smil:drama.smil/chunklist_w659482942_b500000.m3u8</link></item></streaminginfo>
-
-<streaminginfo><cname>Melody Drama</cname><item><title>Med SVR2</title><link>http://38.96.148.163//MelodyDrama/smil:drama.smil/chunklist_w659482942_b1500000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Melody Drama</cname><item><title>Med SVR1</title><link>http://38.96.148.164//MelodyDrama/smil:drama.smil/chunklist_w659482942_b1500000.m3u8</link></item></streaminginfo>
-
-<streaminginfo><cname>Melody Drama</cname><item><title>High SVR2</title><link>http://38.96.148.163//MelodyDrama/smil:drama.smil/chunklist_w659482942_b2400000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Melody Drama</cname><item><title>High SVR1</title><link>http://38.96.148.164//MelodyDrama/smil:drama.smil/chunklist_w659482942_b2400000.m3u8</link></item></streaminginfo>
-
-<streaminginfo><cname>Melody Aflam</cname><item><title>Low SVR2</title><link>http://38.96.148.163/MelodyAflam/smil:aflam.smil/chunklist_w987824450_b500000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Melody Aflam</cname><item><title>Low SVR1</title><link>http://38.96.148.164/MelodyAflam/smil:aflam.smil/chunklist_w987824450_b500000.m3u8</link></item></streaminginfo>
-
-<streaminginfo><cname>Melody Aflam</cname><item><title>Med SVR2</title><link>http://38.96.148.163/MelodyAflam/smil:aflam.smil/chunklist_w987824450_b1500000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Melody Aflam</cname><item><title>Med SVR1</title><link>http://38.96.148.164/MelodyAflam/smil:aflam.smil/chunklist_w987824450_b1500000.m3u8</link></item></streaminginfo>
-
-<streaminginfo><cname>Melody Aflam</cname><item><title>High SVR2</title><link>http://38.96.148.163/MelodyAflam/smil:aflam.smil/chunklist_w987824450_b2400000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Melody Aflam</cname><item><title>High SVR1</title><link>http://38.96.148.164/MelodyAflam/smil:aflam.smil/chunklist_w987824450_b2400000.m3u8</link></item></streaminginfo>
-
-<streaminginfo><cname>Melody Classic</cname><item><title>Low SVR1</title><link>http://38.96.148.164/MelodyClassic/smil:classic.smil/chunklist_w63959344_b500000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Melody Classic</cname><item><title>Low SVR2</title><link>http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_w63959344_b500000.m3u8</link></item></streaminginfo>
-
-<streaminginfo><cname>Melody Classic</cname><item><title>Med SVR2</title><link>http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_w63959344_b1500000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Melody Classic</cname><item><title>Med SVR1</title><link>http://38.96.148.164/MelodyClassic/smil:classic.smil/chunklist_w63959344_b1500000.m3u8</link></item></streaminginfo>
-
-<streaminginfo><cname>Melody Classic</cname><item><title>High SVR2</title><link>http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_w63959344_b2400000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Melody Classic</cname><item><title>High SVR1</title><link>http://38.96.148.164/MelodyClassic/smil:classic.smil/chunklist_w63959344_b2400000.m3u8</link></item></streaminginfo>
-
-
-	
-
-
-	
-
-	
-
- 
-
-
-
-
-<streaminginfo><cname>Rotana Aflam</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-aflam&amp;mode=125&amp;name=Rotana+Aflam&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2618%2Fextra_big_logo.png&amp;start=rotana-aflam&amp;ch_fanart=2618</link></item></streaminginfo>
-
-<streaminginfo><cname>Rotana Cinema</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-cinema&amp;mode=125&amp;name=Rotana+Cinema&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2615%2Fextra_big_logo.png&amp;start=rotana-cinema&amp;ch_fanart=2615</link></item></streaminginfo>
-
-<streaminginfo><cname>Rotana Classic</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-classic&amp;mode=125&amp;name=Rotana+Classic&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2609%2Fextra_big_logo.png&amp;start=rotana-classic&amp;ch_fanart=2609</link></item></streaminginfo>
-
 <streaminginfo><cname>Rotana Khaligi</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
 <link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-khalijiah&amp;mode=125&amp;name=Rotana+Khalijiah&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2606%2Fextra_big_logo.png&amp;start=rotana-khalijiah&amp;ch_fanart=2606</link></item></streaminginfo>
 
@@ -1444,7 +1395,6 @@
 <streaminginfo><cname>ALNADATV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=0G6qeODyRbc</link></item></streaminginfo>
 <streaminginfo><cname>Sada Al Balad</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=2Iyj2w2MyWw</link></item></streaminginfo>
 <streaminginfo><cname>Sada Al Balad2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=vNMoT8fEn2I</link></item></streaminginfo>
-<streaminginfo><cname>Sada AlBalad Drama</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=7NgyiRV8Fas</link></item></streaminginfo>
 <streaminginfo><cname>Al Eqtisadiyah</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=V7e4jhxLlEQ</link></item></streaminginfo>
 <streaminginfo><cname>Mecca</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ArVmnth5jB4</link></item></streaminginfo>
 <streaminginfo><cname>AlQahera W Elnas</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=7vOKKinCqn0</link></item></streaminginfo>
@@ -1479,13 +1429,7 @@
 			<link>rtmp://free.flashwebtown.com:1935/bashaclick playpath=myStream.sdp swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=m3alitv&amp;autostart=true pageUrl=http://www.elahmad.com/tv/m3alitv.php timeout=20</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>Syria Drama</cname>
-		<item>
-			<title>elahmad</title>
-			<link>rtmp://82.137.248.21:1935/Drama/DramaLive1</link>
-		</item>
-	</streaminginfo>
+
 
 
 

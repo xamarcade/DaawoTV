@@ -1418,29 +1418,7 @@
 	<link>http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-   	<cname>Syria Drama</cname>
-	<item>
-	<title>Low</title>
-	<link>http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 
-<streaminginfo>
-   	<cname>Syria Drama</cname>
-	<item>
-	<title>Med</title>
-	<link>http://82.137.248.21:1935/Drama/DramaLive2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-   	<cname>Syria Drama</cname>
-	<item>
-	<title>High</title>
-	<link>http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
    	<cname>Syria</cname>
 	<item>
