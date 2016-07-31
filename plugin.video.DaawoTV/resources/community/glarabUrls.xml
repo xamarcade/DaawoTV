@@ -5649,13 +5649,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AAAMusic_High&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Drama</cname>
-	<item>
-	<title>Proxy High</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=ADDrama_High&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Abu Dhabi Emirates</cname>
 	<item>
