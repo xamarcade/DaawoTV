@@ -282,6 +282,49 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>Alhayat Series</cname>
+	<item>
+	<title>Alwee: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/alwee/alwee/106.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Art Aflam 1</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/58.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Art Aflam 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/59.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Art Cinema</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/57.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>ART Hekayat</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/61.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>ART Hekayat 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/60.ts</link>
+	</item>
+</streaminginfo>
 
 
 
