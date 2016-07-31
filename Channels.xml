@@ -2235,6 +2235,39 @@
 	</assignedcategory>
 </channel>
 
+<channel>
+	<cname>Bein Moveis 1 HD</cname>
+	<imageurl>http://store1.up-00.com/2016-07/1469979288562.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein Moveis 2 HD</cname>
+	<imageurl>http://store1.up-00.com/2016-07/1469979288683.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein Moveis 3 HD</cname>
+	<imageurl>http://store1.up-00.com/2016-07/1469979288814.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein Moveis 4 HD</cname>
+	<imageurl>http://store1.up-00.com/2016-07/1469979288481.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
 <!-- Ent Channels End -->
 <channel>
 	<cname>Quran Hidayah</cname>
