@@ -259,18 +259,17 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Al Amaken Drama</cname>
-	<item>
-	<title>High</title>
-	<link>http://38.99.146.42:7777/AlAmakenDrama.m3u8?session=9a9c0ecd0936c03d9cd88829e752f8fde343ac75e679e11daafbd709f839a82f6ae31fd28b2c1061&amp;user=8B8A1E5E-574A-11E6-A99D-DC0EA1A03989</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>Al Nahar Drama</cname>
 	<item>
 	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/501.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Nahar Drama</cname>
+	<item>
+	<title>Stream: High</title>
+	<link>http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/chunklist.m3u8</link>
 	</item>
 </streaminginfo>
 
@@ -285,8 +284,8 @@
 <streaminginfo>
 	<cname>Alhayat Series</cname>
 	<item>
-	<title>Alwee: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/alwee/alwee/106.ts</link>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/106.ts</link>
 	</item>
 </streaminginfo>
 
@@ -336,8 +335,8 @@
 <streaminginfo>
 	<cname>Cairo Comedy</cname>
 	<item>
-	<title>Alwee: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/alwee/alwee/1649.ts</link>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/1649.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -359,8 +358,8 @@
 <streaminginfo>
 	<cname>Cima</cname>
 	<item>
-	<title>Alwee: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/alwee/alwee/298.ts</link>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/298.ts</link>
 	</item>
 </streaminginfo>
 
@@ -375,8 +374,8 @@
 <streaminginfo>
 	<cname>Darbaka Aflam</cname>
 	<item>
-	<title>Alwee: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/alwee/alwee/323.ts</link>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/323.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -427,8 +426,8 @@
 <streaminginfo>
 	<cname>Moga Comedy</cname>
 	<item>
-	<title>Alwee: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/alwee/alwee/165.ts</link>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/165.ts</link>
 	</item>
 </streaminginfo>
 
@@ -480,8 +479,8 @@
 <streaminginfo>
 	<cname>Panorama Comedy</cname>
 	<item>
-	<title>Alwee: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/alwee/alwee/229.ts</link>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/229.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -501,8 +500,8 @@
 <streaminginfo>
 	<cname>Panorama film</cname>
 	<item>
-	<title>Alwee: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/alwee/alwee/161.ts</link>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/161.ts</link>
 	</item>
 </streaminginfo>
 
@@ -590,16 +589,16 @@
 <streaminginfo>
 	<cname>Toktok</cname>
 	<item>
-	<title>Alwee: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/alwee/alwee/1548.ts</link>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/604.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Top Movies</cname>
 	<item>
-	<title>Alwee: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/alwee/alwee/1548.ts</link>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/1548.ts</link>
 	</item>
 </streaminginfo>
 
