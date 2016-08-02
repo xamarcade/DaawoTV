@@ -79,19 +79,10 @@
 </channel>
 -<channel>
 	<cname>Star TV</cname>
-	<imageurl>http://somalilandlive.com/uploads/editor/Carab/somali-star-tv-300x225.jpg</imageurl>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2015/03/somali-star-tv-300x225.jpg</imageurl>
 	<enabled>True</enabled>
 -	<assignedcategory>
 		<category>somalia</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Royal TV Somalia</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rylsml_zps4185b722.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>somalia</category>
 	</assignedcategory>
 </channel>
 
@@ -129,6 +120,16 @@
 	</assignedcategory>
 </channel>
 <!--
+
+<channel>
+	<cname>Royal TV Somalia</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rylsml_zps4185b722.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>somalia</category>
+	</assignedcategory>
+</channel>
+
 -<channel>
 	<cname>ESTV</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/ee/ethiopia_somali_tv.png</imageurl>
