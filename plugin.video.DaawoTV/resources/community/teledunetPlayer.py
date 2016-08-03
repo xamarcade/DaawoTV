@@ -32,7 +32,7 @@ communityStreamPath = os.path.join(addonPath,'resources')
 communityStreamPath =os.path.join(communityStreamPath,'community')
 
 COOKIEFILE = communityStreamPath+'/teletdunetPlayerLoginCookie.lwp'
-cache_table         = 'ShahidArabic'
+cache_table         = 'DaawoTV'
 cache2Hr              = StorageServer.StorageServer(cache_table,1)
 
 teledunet_htmlfile='TeledunetchannelList.html'
