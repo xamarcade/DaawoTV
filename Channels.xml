@@ -1223,10 +1223,6 @@
 	</assignedcategory>
 </channel>
 
-
-
-
-
 <!--
 <channel>
 	<cname>Oscar Movie</cname>
@@ -2669,6 +2665,265 @@
 
 <!-- Drama Channels End -->
 
+<!-- EgyptChannels Start -->
+
+<channel>
+	<cname>Al Masriyah</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/egyp1_zpse325f185.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Al Nahar</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nhreg_zps67cbfc95.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Al Nahar 2</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nhr2222_zps577c346d.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Al Nahar Cinema</cname>
+	<imageurl>https://yt3.ggpht.com/-Xz6SsN9n-U0/AAAAAAAAAAI/AAAAAAAAAAA/ckoUyEZo3So/s900-c-k-no/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Al Nahar Alyoum</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_nahar_alyoum.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Alhayat 1</cname>
+	<imageurl>http://s19.postimg.org/3yap6chxb/Alhayat_1.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Alhayat2</cname>
+	<imageurl>http://s19.postimg.org/dmo59hcqn/Alhayat_2.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>AlMasrawia</cname>
+	<imageurl>http://s17.postimg.org/3n0r7apfz/masrapng.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>AlQahera W Elnas</cname>
+	<imageurl>http://s19.postimg.org/jl6jxgl33/alkaherawalnas.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>AlQahera W Elnas 2</cname>
+	<imageurl>http://s19.postimg.org/pi5u0jcu7/alkaherawalnas_2.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>CBC</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/cbc_zps770dbcaf.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>CBC Extra</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/cbcextr_zpsb9eae6dd.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>CBC Sofra</cname>
+	<imageurl>http://s19.postimg.org/582uzqvb7/cbcsofra.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Dream</cname>
+	<imageurl>http://store1.up-00.com/2016-08/1470340705221.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Egypt 1</cname>
+	<imageurl>http://dotnet.ertu.org/images/tv/HTML-slice-Tv_18.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Egypt 2</cname>
+	<imageurl>http://dotnet.ertu.org/images/tv/HTML-slice-Tv_16.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Massaya</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/mm/massaya_tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Mehwar</cname>
+	<imageurl>http://s24.postimg.org/crq500m1h/Mehwar.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Mehwar 2</cname>
+	<imageurl>http://s1.postimg.org/84b25ue0v/mehwar2.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+    </assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Nile Family</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nilefm_zps5c54acb8.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Nile Life</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/lifenil_zps61267867.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Nile Tv</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/NIL_zpsb82f209a.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>On TV</cname>
+	<imageurl>http://s19.postimg.org/gd70zwohv/ontv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>ONTV Live</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/ontv_zps1b881c86.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Rotana Masriya</cname>
+	<imageurl>http://s19.postimg.org/lxsp2124j/rotanamassria.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Sada Al Balad</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/sdblf_zps183e36ed.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Sada Al Balad2</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/sd2_zps2194a19d.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Sout El Shaab</cname>
+	<imageurl>http://s15.postimg.org/hngwpb85j/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Tahrir</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_tahrir_tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+
+<!-- Egypt Channels End -->
+
+
+
+
+
+
+
+
 
 <channel>
 	<cname>Quran Hidayah</cname>
@@ -3109,17 +3364,6 @@
 	</assignedcategory>
 </channel>
 
-
-<channel>
-	<cname>Massaya</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/mm/massaya_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-
-
 <channel>
 	<cname>Nilat</cname>
 	<imageurl>http://www.jascomediacity.net/images/New/partners/NaylatTV.jpg</imageurl>
@@ -3264,18 +3508,6 @@
 	</assignedcategory>
 </channel>
 
-
-<channel>
-	<cname>Al Nahar Alyoum</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_nahar_alyoum.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-
-
-
 <channel>
 	<cname>Al Dafra</cname>
 	<imageurl>http://s23.postimg.org/59iijkd5n/icon_340.png</imageurl>
@@ -3285,16 +3517,8 @@
 	</assignedcategory>
 </channel>
 
-
-
-<channel>
-	<cname>AlQahera W Elnas 2</cname>
-	<imageurl>http://s19.postimg.org/pi5u0jcu7/alkaherawalnas_2.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
+	
+	
 	
 <channel>
 	<cname>Alinsen</cname>
@@ -3302,25 +3526,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>islam</category>
-	</assignedcategory>
-</channel>
-
-
-<channel>
-	<cname>Egypt 1</cname>
-	<imageurl>http://dotnet.ertu.org/images/tv/HTML-slice-Tv_18.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-		
-<channel>
-	<cname>Egypt 2</cname>
-	<imageurl>http://dotnet.ertu.org/images/tv/HTML-slice-Tv_16.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
 	</assignedcategory>
 </channel>
 
@@ -3352,8 +3557,6 @@
 	<category>North Africa</category>
 	</assignedcategory>
 </channel>	
-    
-
 
 <channel>
 	<cname>Oman</cname>
@@ -3384,7 +3587,6 @@
 	</assignedcategory>
 </channel>
 
-
 <channel>
 	<cname>Syria Sedu</cname>
 	<imageurl>http://live.rtv.gov.sy/images/sedu.jpg</imageurl>
@@ -3393,12 +3595,6 @@
 	<category>sham</category>
 	</assignedcategory>
 </channel>
-
-
-
-
-    
-
 
 <channel>
 	<cname>Palestine</cname>
@@ -3410,38 +3606,6 @@
 </channel>	
 
 <channel>
-	<cname>Alhayat2</cname>
-	<imageurl>http://s19.postimg.org/dmo59hcqn/Alhayat_2.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Sada Al Balad2</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/sd2_zps2194a19d.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Sada Al Balad</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/sdblf_zps183e36ed.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
-
-
-
-
-
-
-<channel>
 	<cname>Al Baghdadia 2</cname>
 	<imageurl>http://s19.postimg.org/4789w9upv/b2tv.png</imageurl>
 	<enabled>True</enabled>
@@ -3449,11 +3613,6 @@
 	<category>Iraq</category>
 	</assignedcategory>
 </channel>	
-	
-
-	
-
-	
 	
 <channel>
 	<cname>alrayan</cname>
@@ -3529,17 +3688,6 @@
 	<category>Iraq</category>
 	</assignedcategory>
 </channel>	
-
-
-<channel>
-	<cname>Al Masriyah</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/egyp1_zpse325f185.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>		
-
 	
 
 <channel>
@@ -3560,15 +3708,6 @@
 	</assignedcategory>
 </channel>	
 	
-<channel>
-	<cname>Alhayat 1</cname>
-	<imageurl>http://s19.postimg.org/3yap6chxb/Alhayat_1.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
-
 <channel>
 	<cname>Aliraqiya</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/irq_zps5fe463d4.png</imageurl>
@@ -3649,35 +3788,6 @@
 	<category>gulf</category>
 	</assignedcategory>
 </channel>	
-	
-<channel>
-	<cname>CBC</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/cbc_zps770dbcaf.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-
-
-
-<channel>
-	<cname>CBC Extra</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/cbcextr_zpsb9eae6dd.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>CBC Sofra</cname>
-	<imageurl>http://s19.postimg.org/582uzqvb7/cbcsofra.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
 
 <channel>
 	<cname>Coran</cname>
@@ -3687,15 +3797,6 @@
 	<category>islam</category>
 	</assignedcategory>
 </channel>
-		
-<channel>
-	<cname>Dream 2</cname>
-	<imageurl>http://s19.postimg.org/d02yv3fur/dream2.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
 
 <channel>
 	<cname>Dubai</cname>
@@ -3806,40 +3907,12 @@
 	</assignedcategory>
 </channel>	
 
-
-<channel>
-	<cname>Mehwar</cname>
-	<imageurl>http://s24.postimg.org/crq500m1h/Mehwar.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
-
 <channel>
 	<cname>National Geo Ad</cname>
 	<imageurl>http://s19.postimg.org/5smhg6dxf/natgeoad.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>doc</category>
-	</assignedcategory>
-</channel>	
-  
-<channel>
-	<cname>Nile Family</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nilefm_zps5c54acb8.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Nile Life</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/lifenil_zps61267867.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
 	</assignedcategory>
 </channel>	
 
@@ -3850,16 +3923,7 @@
 	<assignedcategory>
 	<category>islam</category>
 	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>On TV</cname>
-	<imageurl>http://s19.postimg.org/gd70zwohv/ontv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
+</channel>		
 
 <channel>
 	<cname>Rotana Khaligi</cname>
@@ -3869,17 +3933,6 @@
 	<category>gulf</category>
 	</assignedcategory>
 </channel>	
-
-<channel>
-	<cname>Rotana Masriya</cname>
-	<imageurl>http://s19.postimg.org/lxsp2124j/rotanamassria.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
-
-
 
 <channel>
 	<cname>Roya</cname>
@@ -4113,54 +4166,6 @@
 	<category>North Africa</category>
 	</assignedcategory>
 </channel>	
-
-<channel>
-	<cname>AlQahera W Elnas</cname>
-	<imageurl>http://s19.postimg.org/jl6jxgl33/alkaherawalnas.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Al Nahar Cinema</cname>
-	<imageurl>https://yt3.ggpht.com/-Xz6SsN9n-U0/AAAAAAAAAAI/AAAAAAAAAAA/ckoUyEZo3So/s900-c-k-no/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Al Nahar 2</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nhr2222_zps577c346d.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Al Nahar</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nhreg_zps67cbfc95.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-
-
-
-
-<channel>
-	<cname>ONTV Live</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/ontv_zps1b881c86.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
 	
 <channel>
 	<cname>SM SM KIDS</cname>
@@ -4224,17 +4229,6 @@
 	<category>islam</category>
 	</assignedcategory>
 </channel>	
-	
-	
-<channel>
-	<cname>Mehwar 2</cname>
-	<imageurl>http://s1.postimg.org/84b25ue0v/mehwar2.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-    </assignedcategory>
-</channel>	
-	
 
 <channel>
 	<cname>Future TV</cname>
@@ -4386,23 +4380,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Dream 1</cname>
-	<imageurl>http://s19.postimg.org/79cshd7ur/dream1.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Nile Tv</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/NIL_zpsb82f209a.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
 	</assignedcategory>
 </channel>
 
@@ -4676,53 +4653,6 @@
     <assignedcategory>
     <category>islam</category>
     </assignedcategory>
-</channel>
-
-
-
-<channel>
-    <cname>AlKahera</cname>
-    <imageurl>http://s11.postimg.org/myq7cjnwz/alkahera.png</imageurl>
-    <enabled>True</enabled>
-    <assignedcategory>
-    <category>egypt</category>
-    </assignedcategory>
-</channel>
-
-<channel>
-	<cname>AlMasrawia</cname>
-	<imageurl>http://s17.postimg.org/3n0r7apfz/masrapng.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Chobra Cima</cname>
-	<imageurl>http://s25.postimg.org/stle83fnj/images_1m5v.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Sout El Shaab</cname>
-	<imageurl>http://s15.postimg.org/hngwpb85j/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Tahrir</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_tahrir_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
 </channel>
 
 <channel>

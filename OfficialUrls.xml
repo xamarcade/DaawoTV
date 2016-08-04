@@ -1186,13 +1186,7 @@
 	<link>rtmp://livestreaming4.onlinehorizons.net/ app=ERTUCH1 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch1.html live=true timeout=15</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-     <cname>Al Masriyah</cname>
-<item>
-<title>Low</title>
-<link>rtmp://livestreaming4.onlinehorizons.net/ app=ERTUEgy playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch1.html live=true timeout=15</link>
-</item>
-</streaminginfo>
+
 
 
 <streaminginfo>
@@ -1270,27 +1264,9 @@
 		</item>
 	</streaminginfo>
 
-<streaminginfo>
-        <cname>Al Nahar</cname>
-		<item>
-		<title>Med</title>
-		<link>http://stream138.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/gmswf.m3u8</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Nahar Alyoum</cname>
-	<item>
-	<title>Med</title>
-	<link>http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/gmswf.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Al Nahar Cinema</cname>
-		<item>
-		<title>High</title>
-		<link>http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/gmswf.m3u8</link>
-		</item>
-</streaminginfo>
+
+
+
 
 
 

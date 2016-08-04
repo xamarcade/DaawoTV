@@ -407,17 +407,6 @@
 </streaminginfo>
 
 
-
-
-
-<streaminginfo>
-	<cname>Alhayat2</cname>
-	<item>
-	<title>You need to install vaughnlive addon</title>
-	<link>plugin://plugin.stream.vaughnlive.tv/?sourcetype=auto&amp;img=http%3A%2F%2Fcdn.vaughnsoft.com%2Fvaughnsoft%2Fvaughn%2Fimg_profiles%2F20satcom_320.jpg&amp;title=20satcom&amp;url=http%3A%2F%2Fvaughnlive.tv%2F20satcom&amp;section=&amp;site=&amp;mode=PlayLiveStream&amp;fimg=http%3A%2F%2Fcdn.vaughnsoft.com%2Fvaughnsoft%2Fvaughnlive%2Fimg_backgrounds%2F20satcom.jpg&amp;channel=20satcom</link>
-	</item>
-</streaminginfo>
-
 	
 
 <streaminginfo>
@@ -521,16 +510,6 @@
 	</item>
 </streaminginfo>
 
-
-
-
-<streaminginfo>
-	<cname>Al Nahar 2</cname>
-	<item>
-	<title>unknow</title>
-	<link>rtmp://188.247.93.26/live/alnhar2.stream_360p timeout=20</link>
-	</item>
-</streaminginfo>
 
 
 <streaminginfo>
@@ -878,13 +857,7 @@
 </streaminginfo>
 
 
-	<streaminginfo>
-		<cname>Dream 2</cname>
-		<item>
-			<title>rtmp</title>
-			<link>rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH playpath=livestream swfUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/flowplayer-3.2.18.swf live=1 pageUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/Channels/index1.html</link>
-		</item>
-	</streaminginfo>
+
 
 
 
@@ -1371,14 +1344,9 @@
 
 
 
-<streaminginfo><cname>Alhayat2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=0lmM6zgL2AU</link></item></streaminginfo>
 
 <streaminginfo><cname>Bedaya</cname><item><title>Alibel You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=Ss8iwiON0rE</link></item></streaminginfo>
 <streaminginfo><cname>Quran Hidayah</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=20PObSQqncc</link></item></streaminginfo>
-<streaminginfo><cname>CBC Sofra</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=K8XaIiikpAo</link></item></streaminginfo>
-<streaminginfo><cname>CBC</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=1yEMLzYzE1g</link></item></streaminginfo>
-<streaminginfo><cname>CBC Drama</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=uMvhnVugCjo</link></item></streaminginfo>
-<streaminginfo><cname>CBC Extra</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=r7ammFV2blg</link></item></streaminginfo>
 <streaminginfo><cname>sunnah TV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=4OoKpZWJASY</link></item></streaminginfo>
 <streaminginfo><cname>KSA 2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=auknwfAzgxU</link></item></streaminginfo>
 <streaminginfo><cname>KSA 1</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=lQq0d1LEL7M</link></item></streaminginfo>
@@ -1393,12 +1361,8 @@
 
 <streaminginfo><cname>Al mayaden</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=04uzP251PoY</link></item></streaminginfo>
 <streaminginfo><cname>ALNADATV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=0G6qeODyRbc</link></item></streaminginfo>
-<streaminginfo><cname>Sada Al Balad</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=2Iyj2w2MyWw</link></item></streaminginfo>
-<streaminginfo><cname>Sada Al Balad2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=vNMoT8fEn2I</link></item></streaminginfo>
 <streaminginfo><cname>Al Eqtisadiyah</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=V7e4jhxLlEQ</link></item></streaminginfo>
 <streaminginfo><cname>Mecca</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ArVmnth5jB4</link></item></streaminginfo>
-<streaminginfo><cname>AlQahera W Elnas</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=7vOKKinCqn0</link></item></streaminginfo>
-<streaminginfo><cname>AlQahera W Elnas 2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=REyOZv_jM7g</link></item></streaminginfo>
 <streaminginfo><cname>Euro News Arabic</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=vFgvp3GQgkU</link></item></streaminginfo>
 <streaminginfo><cname>On TV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=y7B3BqUJbtk</link></item></streaminginfo>
 <streaminginfo><cname>KSA News</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=cCe0Hzqjhso</link></item></streaminginfo>

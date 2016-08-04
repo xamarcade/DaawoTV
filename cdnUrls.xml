@@ -405,6 +405,13 @@
 </streaminginfo>
 
 <streaminginfo>
+<cname>CBC Drama</cname>
+<item>
+<title>You need Youtube Addon</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uMvhnVugCjo</link>
+</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>CBC Drama</cname>
 	<item>
 	<title>High</title>
@@ -660,6 +667,184 @@
 </streaminginfo>
 
 <!-- Drama Channels End -->
+
+<!-- Egypt Channels Start -->
+
+<streaminginfo>
+    <cname>Al Masriyah</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.99.146.36:7777/AlMasriyah_HD.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Al Nahar</cname>
+		<item>
+		<title>Med</title>
+		<link>http://stream138.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/gmswf.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Al Nahar</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.99.146.36:7777/AlNahar_HD.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Al Nahar 2</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.99.146.36:7777/AlNaharMovies_HD.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Al Nahar Cinema</cname>
+		<item>
+		<title>High</title>
+		<link>http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/gmswf.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Al Nahar Cinema</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.99.146.36:7777/AlNaharMovies_HD.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Nahar Alyoum</cname>
+	<item>
+	<title>Med</title>
+	<link>http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Alhayat 1</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.99.146.36:7777/Hayat_HD.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo><cname>Alhayat2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=0lmM6zgL2AU</link></item></streaminginfo>
+<streaminginfo>
+	<cname>Alhayat2</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.99.146.36:7777/Alhayat2_HD.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>AlMasrawia</cname>
+	<item>
+	<title>Amiin: Med</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/50.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>AlQahera W Elnas</cname>
+<item>
+<title>You need Youtube Addon</title>
+<link>plugin://plugin.video.youtube/play/?video_id=G1BgKI2KBCo</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>AlQahera W Elnas</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.99.146.36:7777/AlKaheraWalNas_HD.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>AlQahera W Elnas 2</cname>
+<item>
+<title>You need Youtube Addon</title>
+<link>plugin://plugin.video.youtube/play/?video_id=REyOZv_jM7g</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>AlQahera W Elnas 2</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.99.146.36:7777/AlKaheraWalNas2_HD.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>CBC</cname>
+	<item>
+	<title>You need Youtube Addon</title>
+	<link>plugin://plugin.video.youtube/play/?video_id=1yEMLzYzE1g</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>CBC</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.99.146.36:7777/CBC_HD.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>CBC Extra</cname>
+	<item>
+	<title>You need Youtube Addon</title>
+	<link>plugin://plugin.video.youtube/play/?video_id=r7ammFV2blg</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>CBC Extra</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.99.146.36:7777/CBC2_HD.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>CBC Sofra</cname>
+	<item>
+	<title>You need Youtube Addon</title>
+	<link>plugin://plugin.video.youtube/play/?video_id=K8XaIiikpAo</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>CBC Sofra</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.99.146.36:7777/CBCSofra_HD.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+		<cname>Dream</cname>
+		<item>
+			<title>rtmp</title>
+			<link>rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH playpath=livestream swfUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/flowplayer-3.2.18.swf live=1 pageUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/Channels/index1.html</link>
+		</item>
+	</streaminginfo>
+
+
+
+
+
+
+
+
+
+
+
+<streaminginfo><cname>Sada Al Balad</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=2Iyj2w2MyWw</link></item></streaminginfo>
+<streaminginfo><cname>Sada Al Balad2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=vNMoT8fEn2I</link></item></streaminginfo>
+
 
 
 
