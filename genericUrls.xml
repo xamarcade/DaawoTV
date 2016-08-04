@@ -1228,9 +1228,6 @@
 <streaminginfo><cname>Rotana Khaligi</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
 <link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-khalijiah&amp;mode=125&amp;name=Rotana+Khalijiah&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2606%2Fextra_big_logo.png&amp;start=rotana-khalijiah&amp;ch_fanart=2606</link></item></streaminginfo>
 
-<streaminginfo><cname>Rotana Masriya</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-masriya&amp;mode=125&amp;name=Rotana+Masriya&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2612%2Fextra_big_logo.png&amp;start=rotana-masriya&amp;ch_fanart=2612</link></item></streaminginfo>
-
 <streaminginfo><cname>KSA 1</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
 <link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-1&amp;mode=125&amp;name=Saudi+Arabian+TV+1&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1775%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-1&amp;ch_fanart=1775</link></item></streaminginfo>
 
@@ -1364,11 +1361,9 @@
 <streaminginfo><cname>Al Eqtisadiyah</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=V7e4jhxLlEQ</link></item></streaminginfo>
 <streaminginfo><cname>Mecca</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ArVmnth5jB4</link></item></streaminginfo>
 <streaminginfo><cname>Euro News Arabic</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=vFgvp3GQgkU</link></item></streaminginfo>
-<streaminginfo><cname>On TV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=y7B3BqUJbtk</link></item></streaminginfo>
 <streaminginfo><cname>KSA News</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=cCe0Hzqjhso</link></item></streaminginfo>
 <streaminginfo><cname>Aljazeera Mubasher</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=QOq1R1kWmXM</link></item></streaminginfo>
 <streaminginfo><cname>Roya</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=LOZ_qmJ8JHs</link></item></streaminginfo>
-<streaminginfo><cname>ONTV Live</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=lGPBmTSQHuY</link></item></streaminginfo>
 <streaminginfo><cname>Alahad</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=PcMS1FgQK90</link></item></streaminginfo>
 
 	<streaminginfo>

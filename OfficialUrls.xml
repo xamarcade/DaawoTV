@@ -1179,13 +1179,7 @@
 
 
 
-<streaminginfo>
-     <cname>Egypt 1</cname>
-	<item>
-	<title>Low</title>
-	<link>rtmp://livestreaming4.onlinehorizons.net/ app=ERTUCH1 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch1.html live=true timeout=15</link>
-	</item>
-</streaminginfo>
+
 
 
 
@@ -1207,23 +1201,6 @@
 	</item>
 </streaminginfo>
 
-
-
-
-	<streaminginfo>
-		<cname>Nile Comedy</cname>
-		<item>
-			<title>livestreaming</title>
-			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Nile Cinema</cname>
-		<item>
-			<title>livestreaming</title>
-			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema timeout=20</link>
-		</item>
-	</streaminginfo>
 	<streaminginfo>
 		<cname>Nile Learning</cname>
 		<item>
@@ -1239,30 +1216,8 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-        <cname>Nile Family</cname>
-	<item>
-	<title>Low</title>
-	<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family</link>
-	</item>
-</streaminginfo>
 
 
-	<streaminginfo>
-		<cname>Nile Life</cname>
-		<item>
-			<title>livestreaming</title>
-			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life timeout=20</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Nile Drama</cname>
-		<item>
-			<title>livestreaming</title>
-			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1 timeout=20</link>
-		</item>
-	</streaminginfo>
 
 
 

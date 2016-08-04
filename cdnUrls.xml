@@ -708,13 +708,7 @@
 		<link>http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/gmswf.m3u8</link>
 		</item>
 </streaminginfo>
-<streaminginfo>
-    <cname>Al Nahar Cinema</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.99.146.36:7777/AlNaharMovies_HD.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Al Nahar Alyoum</cname>
 	<item>
@@ -832,18 +826,76 @@
 		</item>
 	</streaminginfo>
 
+<streaminginfo>
+     <cname>Egypt 1</cname>
+	<item>
+	<title>Low</title>
+	<link>rtmp://livestreaming4.onlinehorizons.net/ app=ERTUCH1 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch1.html live=true timeout=15</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Egypt 2</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.99.146.36:7777/AlThanya_HD.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Massaya</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.99.146.36:7777/Massaya_HD.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Mehwar</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1096642953</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Nile Family</cname>
+	<item>
+	<title>Low</title>
+	<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Family</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.99.146.36:7777/NileFamily_HD.m3u8</link>
+	</item>
+</streaminginfo>
+
+	<streaminginfo>
+		<cname>Nile Life</cname>
+		<item>
+			<title>livestreaming</title>
+			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life timeout=20</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+	<cname>Nile Life</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.99.146.36:7777/NileLife_HD.m3u8</link>
+	</item>
+</streaminginfo>
 
 
+<streaminginfo><cname>ONTV Live</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=lGPBmTSQHuY</link></item></streaminginfo>
 
-
-
-
-
-
+<streaminginfo><cname>Rotana Masriya</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-masriya&amp;mode=125&amp;name=Rotana+Masriya&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2612%2Fextra_big_logo.png&amp;start=rotana-masriya&amp;ch_fanart=2612</link></item></streaminginfo>
 
 
 <streaminginfo><cname>Sada Al Balad</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=2Iyj2w2MyWw</link></item></streaminginfo>
-<streaminginfo><cname>Sada Al Balad2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=vNMoT8fEn2I</link></item></streaminginfo>
+<streaminginfo><cname>Sada Al Balad2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=dyDq1yxKDS8</link></item></streaminginfo>
 
 
 
