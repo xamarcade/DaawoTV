@@ -2099,6 +2099,14 @@
 </channel>
 
 <channel>
+	<cname>OSN AMC</cname>
+	<imageurl>http://content.osn.com/bob/500x300/AMC.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>OSN AlYawm</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_al_yawm.png</imageurl>
 	<enabled>True</enabled>
@@ -2171,8 +2179,32 @@
 	</assignedcategory>
 </channel>
 <channel>
+	<cname>OSN Movies HD Plus 2</cname>
+	<imageurl>http://www.sat-address.com/f/pics/logotipi/OSN-Movies-HD-Plus2_o.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>OSN Movies Action HD</cname>
 	<imageurl>http://content.osn.com/logo/channel/500x300/AHD.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN Movies Action Plus 2</cname>
+	<imageurl>http://content.osn.com/bob//500x300/OMA.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN Movies Comedy HD</cname>
+	<imageurl>http://www.sat-address.com/f/pics/logotipi/OSN-Movies-Comedy-HD_o.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2203,8 +2235,32 @@
 	</assignedcategory>
 </channel>
 <channel>
+	<cname>OSN Movies Premiere HD Plus 2</cname>
+	<imageurl>http://content.osn.com/bob//500x300/OPX.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>OSN Star Movies HD</cname>
 	<imageurl>http://store1.up-00.com/2016-07/1469743294891.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN On Demand HD</cname>
+	<imageurl>http://www.sat-address.com/f/pics/logotipi/OSN-on-Demand-HD_o.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN On Demand HD Extra</cname>
+	<imageurl>http://www.sat-address.com/f/pics/logotipi/OSN-on-Demand-Extra-HD_o.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>

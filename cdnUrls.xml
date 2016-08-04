@@ -81,10 +81,25 @@
 
 
 <streaminginfo>
+	<cname>OSN AMC</cname>
+	<item>
+	<title>High 2</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/887.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
 	<cname>OSN AlYawm</cname>
 	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/550.ts</link>
+	<title>High 2</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/838.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN AlYawm</cname>
+	<item>
+	<title>High 1</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/12.ts</link>
 	</item>
 </streaminginfo>
 
@@ -92,21 +107,21 @@
 	<cname>OSN Box Offiece 1</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/3038.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/33.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Box Offiece 2</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/3039.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/34.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Box Offiece 3</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/3040.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/35.ts</link>
 	</item>
 </streaminginfo>
 
@@ -114,7 +129,7 @@
 	<cname>OSN Cinema 1</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/516.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/13.ts</link>
 	</item>
 </streaminginfo>
 
@@ -122,7 +137,7 @@
 	<cname>OSN Cinema 2</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/517.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/14.ts</link>
 	</item>
 </streaminginfo>
 
@@ -130,14 +145,14 @@
 	<cname>OSN First HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/547.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/29.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN First Comedy</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/548.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/26.ts</link>
 	</item>
 </streaminginfo>
 
@@ -145,21 +160,42 @@
 	<cname>OSN Movies HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/505.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/20.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies HD Plus 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/32.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Movies Action HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/507.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/21.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Action Plus 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/22.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Comedy HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/27.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Movies Drama HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/511.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/10.ts</link>
 	</item>
 </streaminginfo>
 
@@ -167,7 +203,7 @@
 	<cname>OSN Movies Festival</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/513.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/9.ts</link>
 	</item>
 </streaminginfo>
 
@@ -175,7 +211,14 @@
 	<cname>OSN Movies Premiere HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/509.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/23.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Premiere HD Plus 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/24.ts</link>
 	</item>
 </streaminginfo>
 
@@ -183,7 +226,21 @@
 	<cname>OSN Star Movies HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/518.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/19.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN On Demand HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/25.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN On Demand HD Extra</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/837.ts</link>
 	</item>
 </streaminginfo>
 
@@ -191,7 +248,7 @@
 	<cname>OSN Ya Hala Shabab HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/530.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/16.ts</link>
 	</item>
 </streaminginfo>
 
@@ -199,21 +256,21 @@
 	<cname>OSN Yahala Cinema HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/1823.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/886.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Yahala Drama HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/529.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/17.ts</link>
 	</item>
 </streaminginfo> 
 <streaminginfo>
 	<cname>OSN Yahala HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/528.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/15.ts</link>
 	</item>
 </streaminginfo> 
 
