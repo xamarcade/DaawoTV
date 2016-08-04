@@ -834,6 +834,14 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
+	<cname>Egypt 1</cname>
+	<item>
+	<title>Med</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/214.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
 	<cname>Egypt 2</cname>
 	<item>
 	<title>Med</title>
