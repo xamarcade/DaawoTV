@@ -1003,20 +1003,7 @@
 	<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w457705655_b1200000.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Dubai Zaman</cname>
-	<item>
-	<title>Low</title>
-	<link>http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_w2003666137_b750000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Dubai Zaman</cname>
-	<item>
-	<title>Med</title>
-	<link>http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_w2003666137_b1200000.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Dubai Drama</cname>
 	<item>
@@ -1266,20 +1253,6 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Dubai One</cname>
-	<item>
-	<title>Low</title>
-	<link>http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_w565927905_b750000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Dubai One</cname>
-	<item>
-	<title>Med</title>
-	<link>http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_w565927905_b1800000.m3u8</link>
-	</item>
-</streaminginfo>
 
 
 

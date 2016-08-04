@@ -858,6 +858,13 @@
 </streaminginfo>
 
 <streaminginfo>
+        <cname>Mehwar</cname>
+	<item>
+	<title>Low</title>
+	<link>http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>Mehwar</cname>
 	<item>
 	<title>Med</title>
