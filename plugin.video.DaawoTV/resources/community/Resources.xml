@@ -18,7 +18,7 @@
 	<file fname="genericUrls.xml"   url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/genericUrls.xml"/>	
 	<file fname="YoutubeSources.xml"/>
 	<file fname="CustomPlayer.py"/>
-    	<file fname="glarabUrls.xml"/>
+    	<file fname="glarabUrls.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/glarabUrls.xml"/>
     	<file fname="iptvosnUrls.xml"/>
 		<file fname="Local.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/Local.xml"/>
 <file fname="IPTVPlanetUrls.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/IPTVPlanetUrls.xml"/> 
