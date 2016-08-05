@@ -7825,13 +7825,7 @@
 <link>http://$GL-IPHD$:7777/AAAMusic_HD.m3u8?user=$GL-User$&amp;session=$GL-Sesession$</link>
 </item>
 </streaminginfo>
-<streaminginfo>
-<cname>Abu Dhabi Drama</cname>
-<item>
-<title>HD</title>
-<link>http://$GL-IPHD$:7777/ADDrama_HD.m3u8?user=$GL-User$&amp;session=$GL-Sesession$</link>
-</item>
-</streaminginfo>
+
 <streaminginfo>
 <cname>Abu Dhabi Emirates</cname>
 <item>
@@ -8836,6 +8830,13 @@
 
 <!--
 
+<streaminginfo>
+<cname>Abu Dhabi Drama</cname>
+<item>
+<title>HD</title>
+<link>http://$GL-IPHD$:7777/ADDrama_HD.m3u8?user=$GL-User$&amp;session=$GL-Sesession$</link>
+</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Abu Dhabi Drama</cname>
 	<item>
