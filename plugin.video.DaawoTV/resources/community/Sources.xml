@@ -69,17 +69,7 @@
 <imageurl>http://simpleicon.com/wp-content/uploads/local-SEO-2.png</imageurl>
 <processor>genericPlayer.py</processor>
 </source>
-<source>
-<id>generic</id>
-<shortname>GLA</shortname>
-<sname>GLArab</sname>
-<colour>FF7FFF00</colour>
-<baseurl>http://website.com</baseurl>
-<enabled>True</enabled>
-<urlfile>glarabUrls.xml</urlfile>
-<imageurl>http://www.glarab.com/skin/default/images/website_logo.png</imageurl>
-<processor>genericPlayer.py</processor>
-</source>
+
 
 <source>
 <id>generic</id>
@@ -104,17 +94,6 @@
 <processor>genericPlayer.py</processor>
 </source>
 
-<source>
-<id>generic</id>
-<shortname>EM</shortname>
-<sname>Emad</sname>
-<colour>FFD2691E</colour>
-<baseurl>http://website.com</baseurl>
-<enabled>False</enabled>
-<urlfile>emadUrls.xml</urlfile>
-<imageurl>http://mylogo.com</imageurl>
-<processor>genericPlayer.py</processor>
-</source>
 <source>
 <id>FilmOn</id>
 <shortname>FO</shortname>
@@ -162,6 +141,18 @@
 </source>
 
 <source>
+<id>generic</id>
+<shortname>GLA</shortname>
+<sname>GLArab</sname>
+<colour>FF7FFF00</colour>
+<baseurl>http://website.com</baseurl>
+<enabled>False</enabled>
+<urlfile>glarabUrls.xml</urlfile>
+<imageurl>http://www.glarab.com/skin/default/images/website_logo.png</imageurl>
+<processor>genericPlayer.py</processor>
+</source>
+
+<source>
 <id>ss</id>
 <shortname>ss</shortname>
 <sname>ss</sname>
@@ -174,6 +165,17 @@
 <processor>ssPlayer.py</processor>
 </source>
 
+<source>
+<id>generic</id>
+<shortname>EM</shortname>
+<sname>Emad</sname>
+<colour>FFD2691E</colour>
+<baseurl>http://website.com</baseurl>
+<enabled>False</enabled>
+<urlfile>emadUrls.xml</urlfile>
+<imageurl>http://mylogo.com</imageurl>
+<processor>genericPlayer.py</processor>
+</source>
 
 <source>
 <id>ttv</id>
