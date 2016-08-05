@@ -1204,13 +1204,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AlAhlyTV_HD&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Al Amaken Drama</cname>
-	<item>
-	<title>Proxy HD</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AlAmakenDrama_HD&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Al Anwar</cname>
 	<item>
@@ -1638,13 +1632,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=BlueNile_HD&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Cairo Cinema</cname>
-	<item>
-	<title>Proxy HD</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=CairoCinema_HD&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>CCTV Arabic</cname>
 	<item>
@@ -5649,13 +5637,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AAAMusic_High&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Drama</cname>
-	<item>
-	<title>Proxy High</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=ADDrama_High&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Abu Dhabi Emirates</cname>
 	<item>
@@ -5733,13 +5715,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AlNahar_High&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Al Nahar Drama</cname>
-	<item>
-	<title>Proxy High</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AlNaharDrama_High&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Alan</cname>
 	<item>
@@ -5754,13 +5730,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AlArabiyaHadath_High&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Albait Baitak Cinema</cname>
-	<item>
-	<title>Proxy High</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AlbaitBaitakCinema_High&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Beirut Cinema</cname>
 	<item>
@@ -5782,13 +5752,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=Hayat_High&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Alhayat Series</cname>
-	<item>
-	<title>Proxy High</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AlHayatMousalsalat_High&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Alhayat2</cname>
 	<item>
@@ -8869,5 +8833,65 @@
 <link>http://$GL-IPHD$:7777/ZeeAlwan_HD.m3u8?user=$GL-User$&amp;session=$GL-Sesession$</link>
 </item>
 </streaminginfo>
+
+<!--
+
+<streaminginfo>
+	<cname>Abu Dhabi Drama</cname>
+	<item>
+	<title>Proxy High</title>
+	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=ADDrama_High&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Al Nahar Drama</cname>
+	<item>
+	<title>Proxy High</title>
+	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AlNaharDrama_High&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Albait Baitak Cinema</cname>
+	<item>
+	<title>Proxy High</title>
+	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AlbaitBaitakCinema_High&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Amaken Drama</cname>
+	<item>
+	<title>Proxy HD</title>
+	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AlAmakenDrama_HD&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Alhayat Series</cname>
+	<item>
+	<title>Proxy High</title>
+	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AlHayatMousalsalat_High&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Cairo Cinema</cname>
+	<item>
+	<title>Proxy HD</title>
+	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=CairoCinema_HD&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+
+-->
+
+
+
+
+
+
+
+
+
 
 </streamingInfos>
