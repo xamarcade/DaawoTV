@@ -350,7 +350,6 @@
 
 <!-- Sweden Channels Start -->
 
-<!--
 <channel>
 	<cname>SVT 1</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/SVT1_logo_2012.svg/2000px-SVT1_logo_2012.svg.png</imageurl>
@@ -465,6 +464,14 @@
 </channel>
 <channel>
 	<cname>TV 10</cname>
+	<imageurl>http://new.static.tv.nu/105</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV 10 SV</cname>
 	<imageurl>https://aom99.files.wordpress.com/2011/03/bild71.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -487,7 +494,7 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
-
+<!--
 <channel>
 	<cname>Kunskapskanalen</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/en/c/c7/Kunskapskanalen.png</imageurl>
@@ -496,6 +503,111 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
+<channel>
+	<cname>SF-Kanalen</cname>
+	<imageurl>http://www.elektronikkbransjen.no/var/ezflow_site/storage/images/media/images/2009-7/ny-svensk-filmkanal/0/113816-1-nno-NO/image_huge_image.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat Nature</cname>
+	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/5/51/Viasat_Nature_2014.png/revision/latest?cb=20140512144610</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat E!</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Viasat_explore.png/100px-Viasat_explore.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat History</cname>
+	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/6/6f/Viasat_History.png/revision/latest?cb=20140512144319</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat Hits</cname>
+	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/a/a5/Viasat_Film_Hits.jpeg/revision/latest?cb=20151119203355</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat Hockey</cname>
+	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/d/de/Viasat_Hockey_logo.png/revision/latest?cb=20100318124513</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat Golf</cname>
+	<imageurl>http://www.soderhamnnara.se/images/18.45dad9ca13d891e21421cc1/1384397418916/ViasatGolf_web.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV3 Sport 1</cname>
+	<imageurl>http://tvarena.ru/images/info/tv31.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV3 Sport 2</cname>
+	<imageurl>http://www.inniagotu.org/wp-content/uploads/2015/07/tv3sport2.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TLC</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/200px-TLC_USA_logo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Disney XD</cname>
+	<imageurl>http://vignette3.wikia.nocookie.net/disney/images/7/7b/Logo_Disney_XD.svg.png/revision/latest?cb=20130730004116</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Disney</cname>
+	<imageurl>http://www.adweek.com/files/imagecache/node-detail/news_article/disney-hed-2014.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Boomerang</cname>
+	<imageurl>http://store2.up-00.com/2016-02/145617876092671.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+-->
 <channel>
 	<cname>Oppna Kanalen</cname>
 	<imageurl>http://live-sport.me/wp-content/uploads/2015/05/%C3%96ppna-Kanalen-Stockholm.gif</imageurl>
@@ -529,14 +641,7 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>SF-Kanalen</cname>
-	<imageurl>http://www.elektronikkbransjen.no/var/ezflow_site/storage/images/media/images/2009-7/ny-svensk-filmkanal/0/113816-1-nno-NO/image_huge_image.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>FOX</cname>
 	<imageurl>http://www.birtvizle.com/wp-content/uploads/2015/01/fox-tv-izle.jpg</imageurl>
@@ -561,14 +666,7 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>TLC</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/200px-TLC_USA_logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
+
 
 <channel>
 	<cname>C more First</cname>
@@ -675,38 +773,7 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Viasat Nature</cname>
-	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/5/51/Viasat_Nature_2014.png/revision/latest?cb=20140512144610</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Viasat E!</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Viasat_explore.png/100px-Viasat_explore.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Viasat History</cname>
-	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/6/6f/Viasat_History.png/revision/latest?cb=20140512144319</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Viasat Hits</cname>
-	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/a/a5/Viasat_Film_Hits.jpeg/revision/latest?cb=20151119203355</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Viasat Family</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/en/a/a4/Viasat_film_family.jpg</imageurl>
@@ -757,38 +824,7 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Viasat Hockey</cname>
-	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/d/de/Viasat_Hockey_logo.png/revision/latest?cb=20100318124513</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Viasat Golf</cname>
-	<imageurl>http://www.soderhamnnara.se/images/18.45dad9ca13d891e21421cc1/1384397418916/ViasatGolf_web.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>TV3 Sport 1</cname>
-	<imageurl>http://tvarena.ru/images/info/tv31.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>TV3 Sport 2</cname>
-	<imageurl>http://www.inniagotu.org/wp-content/uploads/2015/07/tv3sport2.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
+
 
 <channel>
 	<cname>Cartoon  Network</cname>
@@ -798,22 +834,7 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Disney XD</cname>
-	<imageurl>http://vignette3.wikia.nocookie.net/disney/images/7/7b/Logo_Disney_XD.svg.png/revision/latest?cb=20130730004116</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Disney</cname>
-	<imageurl>http://www.adweek.com/files/imagecache/node-detail/news_article/disney-hed-2014.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Nickelodeon</cname>
 	<imageurl>http://cdn.playbuzz.com/cdn/894dc8a1-1998-4d1b-9199-2dbad00a37b9/aa7be833-8f67-47ad-84cf-0dc7eb0a16f9.jpg</imageurl>
@@ -830,14 +851,7 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Boomerang</cname>
-	<imageurl>http://store2.up-00.com/2016-02/145617876092671.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
+
 
 -->
 
