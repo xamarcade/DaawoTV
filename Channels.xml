@@ -2350,6 +2350,15 @@
 </channel>
 
 <channel>
+	<cname>Al Amaken Drama</cname>
+	<imageurl>http://4.bp.blogspot.com/-MCkTRM3jUdQ/USz1ouHk9gI/AAAAAAAACss/SIj1OEMxWqs/s1600/%D8%AB.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>drama</category>
+	</assignedcategory>
+</channel>
+
+<channel>
     <cname>Albait Baitak Cinema</cname>
     <imageurl>http://s2.postimg.org/pfkzb7d2h/bitbitak.jpg</imageurl>
     <enabled>True</enabled>
