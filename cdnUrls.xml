@@ -310,8 +310,15 @@
 <streaminginfo>
 	<cname>Abu Dhabi Drama</cname>
 	<item>
-	<title>High</title>
+	<title>High 2</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/26.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Abu Dhabi Drama</cname>
+	<item>
+	<title>High </title>
+	<link>http://38.99.146.36:7777/ADDrama_HD.m3u8</link>
 	</item>
 </streaminginfo>
 
