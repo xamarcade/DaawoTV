@@ -57,9 +57,10 @@
             <setting label="32080" type="bool"   id="isGLProxyEnabled" default="false"/>
 			<setting label="32081" type="text"   id="GLproxyName" default="127.0.0.1"  enable="!eq(-1,false)"  />
 		<setting type="sep"/>
+		-->	
 			<setting type="bool" label="32047" id="clearLogonSettings"  default="false"/>
 	</category>
--->	
+
 	<!--
 	<category label="32027">
 		<setting label="32028" type="file" id="localyoutubexmlpath" source="files" values="" default=""/>
