@@ -179,7 +179,6 @@
 	<link>http://38.96.148.30:1935/live/omantv1/chunklist.m3u8?wowzasessionid=1593393582</link>
 	</item>
 </streaminginfo>  
-	<streaminginfo>
 <streaminginfo>
      <cname>Oman</cname>
 	 <item>
@@ -315,6 +314,11 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo><cname>KSA 1</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream2.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>KSA 1</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8</link></item></streaminginfo>
+
+<streaminginfo><cname>KSA 2</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel03/_definst_/live/stream2.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>KSA 2</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel03/_definst_/live/stream1.m3u8</link></item></streaminginfo>
 
 
 
