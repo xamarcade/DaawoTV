@@ -384,19 +384,6 @@
 	<link>http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8</link>
 	</item>
 </streaminginfo> 
-<streaminginfo>
-	<cname>DMM</cname>
-	<item>
-	<title>Med</title>
-	<link>http://streaming.i-sat.tv:1935/live/dmm/playlist.m3u8</link>
-	</item>
-</streaminginfo> 
-<streaminginfo><cname>Almajlis</cname><item><title>Med</title><link>http://stream03.fasttelco.net/4/pub/asset/12/streams.m3u8</link></item></streaminginfo>
-
-
-
-
-
 
 <streaminginfo>
 	<cname>Tom and Jerry</cname>
@@ -545,12 +532,6 @@
 </streaminginfo>
 
 
-
-
-
-
-
-
 <!--
 <streaminginfo>
         <cname>Hawas</cname>
@@ -560,42 +541,8 @@
 	</item>
 </streaminginfo>
 -->
-<streaminginfo>
-		<cname>Maannews</cname>
-		<item>
-		<title>Vstream</title>
-		<link>http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8</link>
-		</item>
-</streaminginfo>
 
 
-
-<streaminginfo>
-     <cname>Qatar</cname>
-	 <item>
-<title>Gini</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.giniko.com/watch.php?id=11</page>
-</regex>
-</item>
-</streaminginfo>
-
-
-<streaminginfo>
-     <cname>Sharjah</cname>
-	 <item>
-<title>Gini</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.giniko.com/watch.php?id=183</page>
-</regex>
-</item>
-</streaminginfo>
 
 
 
@@ -1016,33 +963,7 @@
 
 
 
-<streaminginfo>
-     <cname>Qatar</cname>
-	 <item>
-<title>Qatar Gini</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://giniko.com/watch.php?id=11</page>
-</regex>
-<thumbnail>http://giniko.com/logos/190x110/11.jpeg</thumbnail>
-</item>
-</streaminginfo>
 
-<streaminginfo>
-     <cname>Oman</cname>
-	 <item>
-<title>Oman Gini</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://giniko.com/watch.php?id=184</page>
-</regex>
-<thumbnail>http://giniko.com/logos/190x110/184.jpg</thumbnail>
-</item>
-</streaminginfo>
 
 
 
@@ -1225,18 +1146,6 @@
 </streaminginfo>
 
 
-<streaminginfo><cname>Rotana Khaligi</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-khalijiah&amp;mode=125&amp;name=Rotana+Khalijiah&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2606%2Fextra_big_logo.png&amp;start=rotana-khalijiah&amp;ch_fanart=2606</link></item></streaminginfo>
-
-<streaminginfo><cname>KSA 1</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-1&amp;mode=125&amp;name=Saudi+Arabian+TV+1&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1775%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-1&amp;ch_fanart=1775</link></item></streaminginfo>
-
-<streaminginfo><cname>KSA 2</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-2&amp;mode=125&amp;name=Saudi+Arabian+TV+2&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1778%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-2&amp;ch_fanart=1778</link></item></streaminginfo>
-
-
-
-
 <streaminginfo>
 	<cname>AlYawm</cname>
 	<item>
@@ -1251,15 +1160,6 @@
 </streaminginfo>
 
 
-<!--
-<streaminginfo>
-		<cname>Ajman</cname>
-		<item>
-	<title>Streamtheword</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://4623.live.streamtheworld.com/AJMAN_TV?streamtheworld_user=1&amp;simpledownloader=true</link>
-		</item>
-</streaminginfo>
--->
 <streaminginfo>
 		<cname>Aljazeera</cname>
 		<item>
@@ -1269,14 +1169,7 @@
 </streaminginfo>
 
 
-<streaminginfo>
-	<cname>Oman</cname>		
-	<item>		
-	<title>Oman 38</title>		
-	<link>http://38.96.148.30:1935/live/omantv1/chunklist.m3u8?wowzasessionid=1593393582</link>
-	</item>
-</streaminginfo>  
-	<streaminginfo>
+
 		<cname>AL RASHEED</cname>
 		<item>
 			<title>mms</title>
@@ -1333,11 +1226,8 @@
 
 
 
-<streaminginfo><cname>Bedaya</cname><item><title>Alibel You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=Ss8iwiON0rE</link></item></streaminginfo>
 <streaminginfo><cname>Quran Hidayah</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=20PObSQqncc</link></item></streaminginfo>
 <streaminginfo><cname>sunnah TV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=4OoKpZWJASY</link></item></streaminginfo>
-<streaminginfo><cname>KSA 2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=auknwfAzgxU</link></item></streaminginfo>
-<streaminginfo><cname>KSA 1</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=lQq0d1LEL7M</link></item></streaminginfo>
 <streaminginfo><cname>Aljazeera</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=nP1S7mDiLI8</link></item></streaminginfo>
 <streaminginfo><cname>Russia Alyaum</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=TGGCy5aMqC0</link></item></streaminginfo>
 <streaminginfo><cname>BBC Arabic</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=m0RMXgxMhs8</link></item></streaminginfo>
