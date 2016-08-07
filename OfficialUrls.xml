@@ -1173,7 +1173,13 @@
 
 
 
-
+<streaminginfo>
+    <cname>Shada</cname>
+	<item>
+	<title>Low</title>
+	<link>http://38.96.148.147:1935/live/livestream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
 
 
 

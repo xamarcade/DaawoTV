@@ -3307,15 +3307,6 @@
 </channel>	
 
 <channel>
-	<cname>Shada</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ss/shada_tv_jo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
 	<cname>Sharjah Kabla</cname>
 	<imageurl>http://s15.postimg.org/ebzyvp3g7/man_qalba_off.png</imageurl>
 	<enabled>True</enabled>
@@ -4165,7 +4156,14 @@
 	<category>islam</category>
 	</assignedcategory>
 </channel>		
-
+<channel>
+	<cname>Shada</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/ss/shada_tv_jo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
 <channel>
 	<cname>Karameesh</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/kk/karameesh.png</imageurl>

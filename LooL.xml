@@ -29,80 +29,38 @@
 	</item>
 </streaminginfo> 
 
+<streaminginfo>
+	<cname>alrayan</cname>
+	<item>
+	<title>Low</title>
+    <link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_264.m3u8</link>
+    </item>
+</streaminginfo>
+<streaminginfo>
+	<cname>alrayan</cname>
+	<item>
+	<title>Med</title>
+    <link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_528.m3u8</link>
+    </item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Alwaka</cname>
+	<item>
+	<title>Low</title>
+	<link>http://streaming.i-sat.tv:1935/live/alwaka.stream_360p/playlist.m3u8</link>
+	</item>
+</streaminginfo> 
+
 <streaminginfo><cname>Bedaya</cname><item><title>Alibel You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=YkY4zJUEXyE</link></item></streaminginfo>
 
-
 <streaminginfo>
-		<cname>Maannews</cname>
-		<item>
-		<title>Vstream</title>
-		<link>http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-		<cname>Maannews</cname>
-		<item>
-		<title>HD</title>
-		<link>http://217.21.0.14:1935/maan/maan_1/playlist.m3u8</link>
-		</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>Qatar</cname>
+    <cname>Citruss</cname>
 	<item>
-	<title>720P HD</title>
-	<link>$doregex[m3u8]</link>
-	<regex>
-	<name>m3u8</name>
-	<expres>src: escape\("([^"]*)</expres>
-	<page>http://www.qtv.qa/qtv/live.php</page>
-	<referer> </referer>
-	</regex>
+	<title>Low</title>
+	<link>http://live.citrusstv.com/live/watch/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-		<cname>Qatar</cname>
-		<item>
-		<title>Vstream</title>
-		<link>http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_231s.m3u8</link>
-		</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>Sharjah</cname>
-	<item>
-	<title>itworksch</title>
-	<link>rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Sharjah</cname>
-	 <item>
-<title>Gini</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.giniko.com/watch.php?id=183</page>
-</regex>
-</item>
-</streaminginfo>
-
-<streaminginfo><cname>Rotana Khaligi</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-khalijiah&amp;mode=125&amp;name=Rotana+Khalijiah&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2606%2Fextra_big_logo.png&amp;start=rotana-khalijiah&amp;ch_fanart=2606</link></item></streaminginfo>
-
-
-<streaminginfo>
-		<cname>Ajman</cname>
-		<item>
-	<title>Streamtheword</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://4623.live.streamtheworld.com/AJMAN_TV?streamtheworld_user=1&amp;simpledownloader=true</link>
-		</item>
-</streaminginfo>
-
-
 
 <streaminginfo>
 	<cname>DMM</cname>
@@ -113,33 +71,18 @@
 </streaminginfo> 
 
 <streaminginfo>
-	<cname>KTV 2</cname>
+	<cname>Dubai</cname>
 	<item>
-	<title>media.gov.kw2</title>
-	<link>rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp timeout=20</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>KTV 2</cname>
-	<item>
-	<title>media.gov.kw</title>
-	<link>rtmp://stream03.fasttelco.net:1935/live/_definst_ playpath=ktv2_480.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.media.gov.kw/tvradio/Portal/KTV2_1.htm</link>
+	<title>Med</title>
+	<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w457705655_b750000.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Kuwait</cname>
+	<cname>Fujairah</cname>
 	<item>
-	<title>media.gov.kw</title>
-	<link>rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp timeout=20</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>KTV PLUS</cname>
-	<item>
-	<title>media.gov.kw</title>
-	<link>rtmp://stream03.fasttelco.net:1935/live/_definst_ playpath=ktv8_480.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.media.gov.kw/tvradio/Portal/KTVPlus_1.htm</link>
+	<title>Low</title>
+    	<link>rtmp://ccfz.dyndns.org:4425/fujtv/ playpath=livestream swfUrl=http://www.fujtv.ae/video-js/video-js.swf pageUrl=http://www.fujtv.ae/live_streaming.php live=1 timeout=20</link>
 	</item>
 </streaminginfo>
 
@@ -157,13 +100,53 @@
 <link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-1&amp;mode=125&amp;name=Saudi+Arabian+TV+1&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1775%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-1&amp;ch_fanart=1775</link>
 </item>
 </streaminginfo>
-
-
 <streaminginfo><cname>KSA 2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=Tdd1EkznnHw</link></item></streaminginfo>
-
 <streaminginfo><cname>KSA 2</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
 <link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-2&amp;mode=125&amp;name=Saudi+Arabian+TV+2&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1778%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-2&amp;ch_fanart=1778</link></item></streaminginfo>
 
+<streaminginfo>
+	<cname>KTV 2</cname>
+	<item>
+	<title>media.gov.kw2</title>
+	<link>rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KTV 2</cname>
+	<item>
+	<title>media.gov.kw</title>
+	<link>rtmp://stream03.fasttelco.net:1935/live/_definst_ playpath=ktv2_480.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.media.gov.kw/tvradio/Portal/KTV2_1.htm</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KTV PLUS</cname>
+	<item>
+	<title>media.gov.kw</title>
+	<link>rtmp://stream03.fasttelco.net:1935/live/_definst_ playpath=ktv8_480.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.media.gov.kw/tvradio/Portal/KTVPlus_1.htm</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Kuwait</cname>
+	<item>
+	<title>media.gov.kw</title>
+	<link>rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Maannews</cname>
+		<item>
+		<title>Vstream</title>
+		<link>http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Maannews</cname>
+		<item>
+		<title>HD</title>
+		<link>http://217.21.0.14:1935/maan/maan_1/playlist.m3u8</link>
+		</item>
+</streaminginfo>
 
 <streaminginfo>
         <cname>Oman</cname>
@@ -194,65 +177,48 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Alwaka</cname>
+	<cname>Qatar</cname>
 	<item>
-	<title>Low</title>
-	<link>http://streaming.i-sat.tv:1935/live/alwaka.stream_360p/playlist.m3u8</link>
+	<title>720P HD</title>
+	<link>$doregex[m3u8]</link>
+	<regex>
+	<name>m3u8</name>
+	<expres>src: escape\("([^"]*)</expres>
+	<page>http://www.qtv.qa/qtv/live.php</page>
+	<referer> </referer>
+	</regex>
 	</item>
-</streaminginfo> 
-
-<streaminginfo>
-	<cname>alrayan</cname>
-	<item>
-	<title>Low</title>
-    <link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_264.m3u8</link>
-    </item>
 </streaminginfo>
 <streaminginfo>
-	<cname>alrayan</cname>
+		<cname>Qatar</cname>
+		<item>
+		<title>Vstream</title>
+		<link>http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_231s.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo><cname>Rotana Khaligi</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-khalijiah&amp;mode=125&amp;name=Rotana+Khalijiah&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2606%2Fextra_big_logo.png&amp;start=rotana-khalijiah&amp;ch_fanart=2606</link></item></streaminginfo>
+
+<streaminginfo>
+	<cname>Sama Dubai</cname>
 	<item>
 	<title>Med</title>
-    <link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_528.m3u8</link>
-    </item>
-</streaminginfo>
-
-<streaminginfo>
-    <cname>Citruss</cname>
-	<item>
-	<title>Low</title>
-	<link>http://live.citrusstv.com/live/watch/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-    <cname>Shada</cname>
-	<item>
-	<title>Low</title>
-	<link>http://38.96.148.147:1935/live/livestream/playlist.m3u8</link>
+	<link>http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w1226210005_b750000.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-   	<cname>Sharjah Kabla</cname>
-	<item>
-	<title>Low</title>
-	<link>http://livestreaming.itworkscdn.net/kablatvlive/kabtv_160p/chunklist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Sharjah Kabla</cname>
-	<item>
-	<title>Med</title>
-	<link>http://livestreaming.itworkscdn.net/kablatvlive/kabtv_240p/chunklist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Sharjah Kabla</cname>
-	<item>
-	<title>High</title>
-	<link>http://livestreaming.itworkscdn.net/kablatvlive/kabtv_360p/chunklist.m3u8</link>
-	</item>
+     <cname>Sharjah</cname>
+	 <item>
+<title>Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=183</page>
+</regex>
+</item>
 </streaminginfo>
 <streaminginfo>
      <cname>Sharjah</cname>
@@ -277,49 +243,26 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Sama Dubai</cname>
+   	<cname>Sharjah Kabla</cname>
 	<item>
 	<title>Low</title>
-	<link>http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w1226210005_b750000.m3u8</link>
+	<link>http://livestreaming.itworkscdn.net/kablatvlive/kabtv_160p/chunklist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Sama Dubai</cname>
+   	<cname>Sharjah Kabla</cname>
 	<item>
 	<title>Med</title>
-	<link>http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w1226210005_b1200000.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Dubai</cname>
-	<item>
-	<title>Low</title>
-	<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w457705655_b750000.m3u8</link>
+	<link>http://livestreaming.itworkscdn.net/kablatvlive/kabtv_240p/chunklist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Dubai</cname>
+   	<cname>Sharjah Kabla</cname>
 	<item>
-	<title>Med</title>
-	<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w457705655_b1200000.m3u8</link>
+	<title>High</title>
+	<link>http://livestreaming.itworkscdn.net/kablatvlive/kabtv_360p/chunklist.m3u8</link>
 	</item>
 </streaminginfo>
-
-<streaminginfo>
-	<cname>Fujairah</cname>
-	<item>
-	<title>Low</title>
-    	<link>rtmp://ccfz.dyndns.org:4425/fujtv/ playpath=livestream swfUrl=http://www.fujtv.ae/video-js/video-js.swf pageUrl=http://www.fujtv.ae/live_streaming.php live=1 timeout=20</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo><cname>KSA 1</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream2.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>KSA 1</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8</link></item></streaminginfo>
-
-<streaminginfo><cname>KSA 2</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel03/_definst_/live/stream2.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>KSA 2</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel03/_definst_/live/stream1.m3u8</link></item></streaminginfo>
-
 
 
 </streaminginfos>
