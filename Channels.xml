@@ -2033,6 +2033,89 @@
 
 <!-- News Channels End -->
 
+<!-- Doc Channels Start -->
+
+<channel>
+	<cname>Al Thakafiyah</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_thakafiyah_tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>doc</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Aljazeera Doc</cname>
+	<imageurl>http://s19.postimg.org/g59ua5ygv/aljazeeradoc.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>doc</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Animal Planet HD</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/APL.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>doc</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>KSA Doc</cname>
+	<imageurl>https://yt3.ggpht.com/-xPEtUcsv4xE/AAAAAAAAAAI/AAAAAAAAAAA/35mKdpYK0Y4/s100-c-k-no/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>doc</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>KTV ARABE</cname>
+	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_arabe_new.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>doc</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>KTV ETRAA</cname>
+	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_ethraa_new.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>doc</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>National Geo Ad</cname>
+	<imageurl>http://s19.postimg.org/5smhg6dxf/natgeoad.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>doc</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Nile Culture</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nilethqfh_zps1e14b399.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>doc</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Nile Learning</cname>
+	<imageurl>http://niletc.tv/images/Learning/Learning.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>doc</category>
+	</assignedcategory>
+</channel>
+
+<!-- Doc Channels End -->
+
 <!-- Ent Channels Start -->
 
 <channel>
@@ -2914,11 +2997,757 @@
 
 <!-- Egypt Channels End -->
 
+<!-- Gulf Channels Start -->
 
+<channel>
+	<cname>Abu Dhabi</cname>
+	<imageurl>http://s19.postimg.org/hb86nb6df/image.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Abu Dhabi Emirates</cname>
+	<imageurl>http://jazarah.net/wp-content/uploads/2015/03/Al-Emarat-Logo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Ajman</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/ajman_tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
 
+<channel>
+	<cname>Al sahraa</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_sahraa_tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
 
+<channel>
+	<cname>Almajlis</cname>
+	<imageurl>http://s24.postimg.org/vcfam86g5/Alma.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
 
+<channel>
+	<cname>Almas</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/aa/almas_tv_us.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
 
+<channel>
+	<cname>Alqseem</cname>
+	<imageurl>http://s16.postimg.org/lmvzwexyd/qaseem.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Alrai</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rai_zpsc466a183.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>alrayan</cname>
+	<imageurl>http://www.qatarbroadcast.qa/images/ryn.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Alrayan2</cname>
+	<imageurl>http://www.qatarbroadcast.qa/images/ryn.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Alwaka</cname>
+	<imageurl>http://s21.postimg.org/jiqh22zx3/w0yhp_Isu.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>alwatan</cname>
+	<imageurl>https://yt3.ggpht.com/-KbhxwZdyA4Q/AAAAAAAAAAI/AAAAAAAAAAA/i0C3-T7Uz1A/s100-c-k-no/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>	
+ <channel>
+	<cname>Alwatan Plus</cname>
+	<imageurl>http://www.sat-address.com/f/pics/logotipi/Alwatan-TV-Plus_o.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Bahrain</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/btvb_zps69198e98.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+    <cname>Bedaya</cname>
+    <imageurl>http://s8.postimg.org/o16ibukdh/Logo_Bedaya_2014_0002.png</imageurl>
+    <enabled>True</enabled>
+    <assignedcategory>
+    <category>gulf</category>
+    </assignedcategory>
+</channel>
+
+<channel>
+    <cname>Citruss</cname>
+    <imageurl>http://www.lyngsat-logo.com/hires/cc/citruss_tv.png</imageurl>
+    <enabled>True</enabled>
+    <assignedcategory>
+    <category>gulf</category>
+    </assignedcategory>
+</channel>
+
+<channel>
+	<cname>DM</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/dd/decision_maker_tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>DMM</cname>
+	<imageurl>http://s1.postimg.org/ud0dk7apr/DMM.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Dubai</cname>
+	<imageurl>http://s23.postimg.org/6l1hndql7/Dubai_TV.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+<channel>
+    <cname>Fujairah</cname>
+    <imageurl>https://yt3.ggpht.com/-QfMRDqcx-mA/AAAAAAAAAAI/AAAAAAAAAAA/-HPtKy5PR30/s88-c-k-no/photo.jpg</imageurl>
+    <enabled>True</enabled>
+    <assignedcategory>
+    <category>gulf</category>
+    </assignedcategory>
+</channel>
+
+<channel>
+	<cname>Funoon</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/fnun_zps67a34ccb.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Al Dafra</cname>
+	<imageurl>http://s23.postimg.org/59iijkd5n/icon_340.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>KSA 1</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/ksa1_zpsc1a67dec.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>KSA 2</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/ksa2_zpsd55c482b.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>KTV 2</cname>
+	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_2_new.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>KTV PLUS</cname>
+	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_plus_new.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>		
+<channel>
+	<cname>Kuwait</cname>
+	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_1_new.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+     <cname>Maannews</cname>
+     <imageurl>http://s30.postimg.org/6dv7vvwld/url.jpg</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+	 <category>gulf</category>
+     </assignedcategory>
+</channel>
+
+<channel>
+	<cname>Nourmina</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/nn/nourmina.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Oman</cname>
+	<imageurl>http://s13.postimg.org/7kb0py2sn/Oman.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Qatar</cname>
+	<imageurl>http://www.qatarbroadcast.qa/images/qtv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+     <cname>RAK</cname>
+     <imageurl>http://www.lyngsat-logo.com/logo/tv/rr/rak_tv_ae.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>gulf</category>
+     </assignedcategory>
+</channel>
+
+<channel>
+	<cname>Rotana Khaligi</cname>
+	<imageurl>http://s19.postimg.org/oj3bmnxtv/rotanakhalijia.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Sama Dubai</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/smdbi_zpsa410142f.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Sharjah</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/shrg_zps375735be.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Shada</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/ss/shada_tv_jo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Sharjah Kabla</cname>
+	<imageurl>http://s15.postimg.org/ebzyvp3g7/man_qalba_off.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+
+<!-- Gulf Channels End -->
+
+<!-- Sham Channels Start -->
+
+<channel>
+	<cname>7Stars</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/num/7_stars_tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Al Haqeeqa</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_haqeeqah_al_dawliyah.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Al Ordonia</cname>
+	<imageurl>http://www.arabicnadwah.com/tv/tv-logo-new.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Alaqsa</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_aqsa.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>ALFALASTINIAH</cname>
+	<imageurl>http://panorama-pvs.com/files/image/Clients/Al-Falestinay.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Aljadeed</cname>
+	<imageurl>http://s19.postimg.org/audoa667z/aljadeed.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Alqudis</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/quds_zps15fd3391.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Fatafeat</cname>
+	<imageurl>http://s19.postimg.org/pq7786nsz/fetafettv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Future TV</cname>
+	<imageurl>http://s19.postimg.org/mif2qpedf/futuretv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Halab Today</cname>
+	<imageurl>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/t1.0-1/p160x160/12480_635471726507246_1498485639_n.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Jordan</cname>
+	<imageurl>http://www.jrtv.jo/App_Themes/ar/images/logo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>LBC</cname>
+	<imageurl>http://s19.postimg.org/bmz6bpkw3/lbcsat.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Lbc Europe</cname>
+	<imageurl>http://s19.postimg.org/v29y4te6b/lbceurope.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+     <cname>LDC</cname>
+     <imageurl>http://www.lyngsat-logo.com/hires/ll/ldc_lb.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>sham</category>
+     </assignedcategory>
+</channel>
+
+<channel>
+	<cname>MTV</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mtv_zpsadd2693c.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>OTV Lebanon</cname>
+	<imageurl>http://s19.postimg.org/df5gsgrgf/otv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Palestine</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/plstin_zpsc73a2ef5.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Palestine AlYawm</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/pp/palestine_al_yawm.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Palestine Live</cname>
+	<imageurl>http://s2.postimg.org/w9oo11iix/Palites.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Roya</cname>
+	<imageurl>http://s19.postimg.org/ub3ftt7nn/roya.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Sama Syria</cname>
+	<imageurl>http://s19.postimg.org/fbw69n1fn/samatv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Syria</cname>
+	<imageurl>http://live.rtv.gov.sy/images/sat.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Syria Aloula</cname>
+	<imageurl>http://live.rtv.gov.sy/images/Aloula.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Syria Sedu</cname>
+	<imageurl>http://live.rtv.gov.sy/images/sedu.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Syria Talaqie</cname>
+	<imageurl>http://live.rtv.gov.sy/images/talaqie.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Tele Liban</cname>
+	<imageurl>http://s19.postimg.org/67xr96zur/teleliban.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+
+	  <channel>
+	<cname>Zweina Bladna</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/zz/zweina_baladna.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sham</category>
+	</assignedcategory>
+</channel>
+
+<!-- Sham Channels End -->
+
+<!-- Iraq Channels Start -->
+
+<channel>
+	<cname>Al Baghdadia</cname>
+	<imageurl>http://s19.postimg.org/9lbnhk9tv/b1tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Al Baghdadia 2</cname>
+	<imageurl>http://s19.postimg.org/4789w9upv/b2tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Al Fayhaa</cname>
+	<imageurl>http://s18.postimg.org/nkvy1tgrt/al_fayhaa.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Al Iraqiya Documentary</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_iraqya_documentary.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Al Iraqiya Tarbawiyah</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_iraqya.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Al Rafidain</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rffdin_zps7f3a34ea.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Al Rasheed</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rchid_zps8a47a5d3.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Al Sharqiya</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/shrkia_zps33bf4bda.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Al Sumaria</cname>
+	<imageurl>http://s19.postimg.org/9tw9ndzpf/alsumaria.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Al Taghier</cname>
+	<imageurl>http://live-tv.im/wp-content/uploads/2014/04/Al-Taghier.gif</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Al-hurra Iraq</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/hurr_zpsb88e20dc.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+     <cname>Alahad</cname>
+     <imageurl>http://www.lyngsat-logo.com/hires/aa/al_ahad_tv_iq.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>iraq</category>
+     </assignedcategory>
+</channel>
+
+<channel>
+	<cname>AlBabeleyia</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_babeleyia.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Aldiyar</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_diyar.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Aliraqia 2</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/irq_zps5fe463d4.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Aliraqiya</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/irq_zps5fe463d4.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Baghdad</cname>
+	<imageurl>http://www.tvbaghdad.net/theme/images/logo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Beladi</cname>
+	<imageurl>http://www.frosat.net/images/logotv/original/Al-Beladi-TV.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+     <cname>Dejlah</cname>
+     <imageurl>http://www.lyngsat-logo.com/hires/dd/dijlah_tv_iq.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>iraq</category>
+     </assignedcategory>
+</channel>
+
+<channel>
+	<cname>Houna Baghdad</cname>
+	<imageurl>http://honabaghdad.com/main/images/logo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Iraq</category>
+	</assignedcategory>
+</channel>
+
+<!-- Iraq Channels Start -->
 
 
 
@@ -2939,41 +3768,7 @@
 	<category>North Africa</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Alqanat</cname>
-	<imageurl>http://s28.postimg.org/8r392b3ux/logo_site.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Alqseem</cname>
-	<imageurl>http://s16.postimg.org/lmvzwexyd/qaseem.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
 
-<channel>
-	<cname>DMM</cname>
-	<imageurl>http://s1.postimg.org/ud0dk7apr/DMM.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-
-<channel>
-	<cname>Alwaka</cname>
-	<imageurl>http://s21.postimg.org/jiqh22zx3/w0yhp_Isu.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
  <channel>
 	<cname>218TV</cname>
 	<imageurl>http://s17.postimg.org/4d5vmo227/unnamed.png</imageurl>
@@ -2982,16 +3777,6 @@
 	<category>North Africa</category>
 	</assignedcategory>
 </channel>	
-
-	
-<channel>
-	<cname>Almajlis</cname>
-	<imageurl>http://s24.postimg.org/vcfam86g5/Alma.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
 
 <channel>
 	<cname>Aljaleya</cname>
@@ -3066,16 +3851,6 @@
 </channel>
 
 <channel>
-     <cname>Alahad</cname>
-     <imageurl>http://www.lyngsat-logo.com/hires/aa/al_ahad_tv_iq.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>iraq</category>
-     </assignedcategory>
-</channel>
-
-
-<channel>
     	<cname>Tom and Jerry</cname>
 	<imageurl>http://www.americasfreedomfighters.com/wp-content/uploads/2014/10/Tom-And-Jerry-Picture.jpg</imageurl>
 	<enabled>True</enabled>
@@ -3083,16 +3858,6 @@
 	<category>kids</category>
 	</assignedcategory>
  </channel>
-
-
-<channel>
-    <cname>Citruss</cname>
-    <imageurl>http://www.lyngsat-logo.com/hires/cc/citruss_tv.png</imageurl>
-    <enabled>True</enabled>
-    <assignedcategory>
-    <category>gulf</category>
-    </assignedcategory>
-</channel>
 
 <channel>
 	<cname>Burhan</cname>
@@ -3103,9 +3868,6 @@
 	</assignedcategory>
 </channel>
 
-
-
-
 <channel>
     <cname>AlJameela</cname>
     <imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_jameela_tv.png</imageurl>
@@ -3115,34 +3877,6 @@
     </assignedcategory>
 </channel>
 
-
-<channel>
-    <cname>Fujairah</cname>
-    <imageurl>https://yt3.ggpht.com/-QfMRDqcx-mA/AAAAAAAAAAI/AAAAAAAAAAA/-HPtKy5PR30/s88-c-k-no/photo.jpg</imageurl>
-    <enabled>True</enabled>
-    <assignedcategory>
-    <category>gulf</category>
-    </assignedcategory>
-</channel>
-
-
-<channel>
-    <cname>Bedaya</cname>
-    <imageurl>http://s8.postimg.org/o16ibukdh/Logo_Bedaya_2014_0002.png</imageurl>
-    <enabled>True</enabled>
-    <assignedcategory>
-    <category>gulf</category>
-    </assignedcategory>
-</channel>
-
-<channel>
-	<cname>Houna Baghdad</cname>
-	<imageurl>http://honabaghdad.com/main/images/logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>
 
 <channel>
 	<cname>Selah</cname>
@@ -3161,27 +3895,7 @@
 	<category>islam</category>
      </assignedcategory>
 </channel>
-<channel>
-     <cname>Maannews</cname>
-     <imageurl>http://s30.postimg.org/6dv7vvwld/url.jpg</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-	 <category>gulf</category>
-     </assignedcategory>
-</channel>
 
-
-
-
-
-<channel>
-	<cname>Syria Aloula</cname>
-	<imageurl>http://live.rtv.gov.sy/images/Aloula.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
 <channel>
 	<cname>Assalamu Alayk</cname>
 	<imageurl>http://yemenportal.net/images/2013/02/28/179444842094597_k.fbcdn.netsafe_image.phpdAQAKZJk7Y7w55wm1urlhttps3A2F2Ffbcdn-profile-a.akamaihd.net2Fhprofile-ak-ash42F373018_518026048231162_923776733_n.jpg</imageurl>
@@ -3190,23 +3904,8 @@
 	<category>islam</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Sharjah Kabla</cname>
-	<imageurl>http://s15.postimg.org/ebzyvp3g7/man_qalba_off.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
 
-<channel>
-	<cname>Animal Planet HD</cname>
-	<imageurl>http://content.osn.com/logo/channel/500x300/APL.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>doc</category>
-	</assignedcategory>
-</channel>
+
 
 <channel>
 	<cname>OSN Movies Kids</cname>
@@ -3257,18 +3956,6 @@
 
 
 
-
-
-<channel>
-	<cname>Halab Today</cname>
-	<imageurl>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/t1.0-1/p160x160/12480_635471726507246_1498485639_n.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-
-
 <channel>
 	<cname>ALNADATV</cname>
 	<imageurl>https://yt3.ggpht.com/-JLVPgEbFuy8/AAAAAAAAAAI/AAAAAAAAAAA/GX4VXPamOms/s100-c-k-no/photo.jpg</imageurl>
@@ -3278,32 +3965,8 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Alaqsa</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_aqsa.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Shada</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ss/shada_tv_jo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
 
 
-<channel>
-	<cname>KSA Doc</cname>
-	<imageurl>https://yt3.ggpht.com/-xPEtUcsv4xE/AAAAAAAAAAI/AAAAAAAAAAA/35mKdpYK0Y4/s100-c-k-no/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>doc</category>
-	</assignedcategory>
-</channel>
 <channel>
 	<cname>Ibnothaimeentv</cname>
 	<imageurl>https://yt3.ggpht.com/-CKxhCV0grPg/AAAAAAAAAAI/AAAAAAAAAAA/pffBDV51aqc/s100-c-k-no/photo.jpg</imageurl>
@@ -3314,17 +3977,6 @@
 </channel>
 
 
-
-
-
-<channel>
-	<cname>Palestine Live</cname>
-	<imageurl>http://s2.postimg.org/w9oo11iix/Palites.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
 <channel>
 	<cname>Huda</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/hh/huda_tv.jpg</imageurl>
@@ -3333,43 +3985,6 @@
 	<category>islam</category>
 	</assignedcategory>
 </channel>
-
-
-<channel>
-	<cname>7Stars</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/num/7_stars_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Nourmina</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/nn/nourmina.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Almas</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/almas_tv_us.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Nilat</cname>
-	<imageurl>http://www.jascomediacity.net/images/New/partners/NaylatTV.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
 
 <channel>
 	<cname>Kaifa</cname>
@@ -3381,71 +3996,11 @@
 </channel>
 
 <channel>
-	<cname>Beladi</cname>
-	<imageurl>http://www.frosat.net/images/logotv/original/Al-Beladi-TV.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Aldiyar</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_diyar.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>
-
-	  <channel>
-	<cname>Zweina Bladna</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/zz/zweina_baladna.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Palestine AlYawm</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/pp/palestine_al_yawm.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Al Sabah</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_sabah_tv.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>islam</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Al Ordonia</cname>
-	<imageurl>http://www.arabicnadwah.com/tv/tv-logo-new.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Al Haqeeqa</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_haqeeqah_al_dawliyah.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Ajman</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/ajman_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
 	</assignedcategory>
 </channel>
 
@@ -3467,36 +4022,6 @@
 </channel>
 
 <channel>
-	<cname>Al Thakafiyah</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_thakafiyah_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>doc</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Al Taghier</cname>
-	<imageurl>http://live-tv.im/wp-content/uploads/2014/04/Al-Taghier.gif</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>
-
-
-<channel>
-	<cname>Al Fayhaa</cname>
-	<imageurl>http://s18.postimg.org/nkvy1tgrt/al_fayhaa.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>
-
-
-
-
-<channel>
 	<cname>Blue Nile</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/bb/blue_nile.png</imageurl>
 	<enabled>True</enabled>
@@ -3504,18 +4029,6 @@
 	<category>North Africa</category>
 	</assignedcategory>
 </channel>
-
-<channel>
-	<cname>Al Dafra</cname>
-	<imageurl>http://s23.postimg.org/59iijkd5n/icon_340.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-
-	
-	
 	
 <channel>
 	<cname>Alinsen</cname>
@@ -3535,17 +4048,6 @@
 	</assignedcategory>
 </channel>
 
-
-
-<channel>
-	<cname>Al sahraa</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_sahraa_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
 <channel>
 	<cname>Alasr</cname>
 	<imageurl>http://4.bp.blogspot.com/-o9kBpBMJ4eM/UuBd3NHJOOI/AAAAAAAAE1U/Et7FhFfYpkI/s1600/alasr_tv.png</imageurl>
@@ -3556,79 +4058,13 @@
 </channel>	
 
 <channel>
-	<cname>Oman</cname>
-	<imageurl>http://s13.postimg.org/7kb0py2sn/Oman.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-
-
-<channel>
 	<cname>Syria Nour</cname>
 	<imageurl>http://live.rtv.gov.sy/images/nour.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>islam</category>
 	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Syria Talaqie</cname>
-	<imageurl>http://live.rtv.gov.sy/images/talaqie.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Syria Sedu</cname>
-	<imageurl>http://live.rtv.gov.sy/images/sedu.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Palestine</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/plstin_zpsc73a2ef5.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
 </channel>	
-
-<channel>
-	<cname>Al Baghdadia 2</cname>
-	<imageurl>http://s19.postimg.org/4789w9upv/b2tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>	
-	
-<channel>
-	<cname>alrayan</cname>
-	<imageurl>http://www.qatarbroadcast.qa/images/ryn.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
-	
-<channel>
-	<cname>Qatar</cname>
-	<imageurl>http://www.qatarbroadcast.qa/images/qtv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
-	
 
 <channel>
 	<cname>Ajyal</cname>
@@ -3638,8 +4074,6 @@
 	<category>kids</category>
 	</assignedcategory>
 </channel>	
-
-
 
 <channel>
 	<cname>Al Majd</cname>
@@ -3659,34 +4093,6 @@
 	</assignedcategory>
 </channel>	
 
-    
-<channel>
-	<cname>Al Rafidain</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rffdin_zps7f3a34ea.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>	
-<channel>
-	<cname>Al Sharqiya</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/shrkia_zps33bf4bda.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Al Sumaria</cname>
-	<imageurl>http://s19.postimg.org/9tw9ndzpf/alsumaria.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>	
-	
-
 <channel>
 	<cname>Al-Resalah</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/res_zps7a9d541f.png</imageurl>
@@ -3694,34 +4100,7 @@
 	<assignedcategory>
 	<category>islam</category>
 	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Al-hurra Iraq</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/hurr_zpsb88e20dc.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>	
-	
-<channel>
-	<cname>Aliraqiya</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/irq_zps5fe463d4.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Aljadeed</cname>
-	<imageurl>http://s19.postimg.org/audoa667z/aljadeed.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>	
+</channel>		
 
 <channel>
 	<cname>Aljazeera Children</cname>
@@ -3732,59 +4111,7 @@
 	</assignedcategory>
 </channel>	
 
-<channel>
-	<cname>Aljazeera Doc</cname>
-	<imageurl>http://s19.postimg.org/g59ua5ygv/aljazeeradoc.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>doc</category>
-	</assignedcategory>
-</channel>	
 
-<channel>
-	<cname>Alqudis</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/quds_zps15fd3391.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Al Rasheed</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rchid_zps8a47a5d3.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Sama Syria</cname>
-	<imageurl>http://s19.postimg.org/fbw69n1fn/samatv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Al Baghdadia</cname>
-	<imageurl>http://s19.postimg.org/9lbnhk9tv/b1tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Bahrain</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/btvb_zps69198e98.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
 
 <channel>
 	<cname>Coran</cname>
@@ -3796,24 +4123,6 @@
 </channel>
 
 <channel>
-	<cname>Dubai</cname>
-	<imageurl>http://s23.postimg.org/6l1hndql7/Dubai_TV.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Funoon</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/fnun_zps67a34ccb.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
 	<cname>Iqra</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/iqr_zps13586871.png</imageurl>
 	<enabled>True</enabled>
@@ -3822,52 +4131,7 @@
 	</assignedcategory>
 </channel>	
 
-<channel>
-	<cname>KSA 1</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/ksa1_zpsc1a67dec.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
 
-<channel>
-	<cname>KSA 2</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/ksa2_zpsd55c482b.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
-
-
-<channel>
-	<cname>Kuwait</cname>
-	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_1_new.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>LBC</cname>
-	<imageurl>http://s19.postimg.org/bmz6bpkw3/lbcsat.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>	
-	
-
-<channel>
-	<cname>Lbc Europe</cname>
-	<imageurl>http://s19.postimg.org/v29y4te6b/lbceurope.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>	
 
 <channel>
 	<cname>MBC 3</cname>
@@ -3885,15 +4149,6 @@
 	<category>kids</category>
 	</assignedcategory>
 </channel>	
-
-<channel>
-	<cname>MTV</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mtv_zpsadd2693c.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>	
 	
 <channel>
 	<cname>Mauritanie</cname>
@@ -3902,16 +4157,7 @@
 	<assignedcategory>
 	<category>North Africa</category>
 	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>National Geo Ad</cname>
-	<imageurl>http://s19.postimg.org/5smhg6dxf/natgeoad.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>doc</category>
-	</assignedcategory>
-</channel>	
+</channel>		
 
 <channel>
 	<cname>Noor Dubai</cname>
@@ -3922,43 +4168,6 @@
 	</assignedcategory>
 </channel>		
 
-<channel>
-	<cname>Rotana Khaligi</cname>
-	<imageurl>http://s19.postimg.org/oj3bmnxtv/rotanakhalijia.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Roya</cname>
-	<imageurl>http://s19.postimg.org/ub3ftt7nn/roya.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Sama Dubai</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/smdbi_zpsa410142f.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Sharjah</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/shrg_zps375735be.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	<category>islam</category>
-	</assignedcategory>
-</channel>	
-	
 <channel>
 	<cname>Karameesh</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/kk/karameesh.png</imageurl>
@@ -3975,28 +4184,7 @@
 	<assignedcategory>
 	<category>North Africa</category>
 	</assignedcategory>
-</channel>	
-
-
-
-<channel>
-	<cname>Syria</cname>
-	<imageurl>http://live.rtv.gov.sy/images/sat.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>	
-
-
-<channel>
-	<cname>Tele Liban</cname>
-	<imageurl>http://s19.postimg.org/67xr96zur/teleliban.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>	
+</channel>		
 	
 <channel>
 	<cname>Toyor Al Janah</cname>
@@ -4007,7 +4195,15 @@
 	</assignedcategory>
 </channel>	
 	
-
+<channel>
+	<cname>Bilad Al Harameen</cname>
+	<imageurl>https://pbs.twimg.com/profile_images/723797752862392320/fGRqpiu_.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+	
 <channel>
 	<cname>Al Magharibia 2</cname>
 	<imageurl>http://s23.postimg.org/qsrqo9l3v/url.jpg</imageurl>
@@ -4172,24 +4368,6 @@
 	<category>kids</category>
 	</assignedcategory>
 </channel>	
-
-<channel>
-	<cname>Nile Learning</cname>
-	<imageurl>http://niletc.tv/images/Learning/Learning.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>doc</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Nile Culture</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nilethqfh_zps1e14b399.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>doc</category>
-	</assignedcategory>
-</channel>	
 	
 <channel>
 	<cname>M3Ali Tv</cname>
@@ -4225,81 +4403,7 @@
 	<assignedcategory>
 	<category>islam</category>
 	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Future TV</cname>
-	<imageurl>http://s19.postimg.org/mif2qpedf/futuretv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>	
-
-	
-	
-<channel>
-	<cname>KTV PLUS</cname>
-	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_plus_new.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>KTV ETRAA</cname>
-	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_ethraa_new.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>doc</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>KTV ARABE</cname>
-	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_arabe_new.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>doc</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>KTV 2</cname>
-	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_2_new.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Alrai</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rai_zpsc466a183.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
-	
-<channel>
-	<cname>ALFALASTINIAH</cname>
-	<imageurl>http://panorama-pvs.com/files/image/Clients/Al-Falestinay.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-     <cname>Dejlah</cname>
-     <imageurl>http://www.lyngsat-logo.com/hires/dd/dijlah_tv_iq.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>iraq</category>
-     </assignedcategory>
-</channel>
+</channel>		
 
 <channel>
 	<cname>Al oula Maroc</cname>
@@ -4417,168 +4521,6 @@
 </channel>
 
 <channel>
-	<cname>AlBabeleyia</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_babeleyia.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Aliraqia 2</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/irq_zps5fe463d4.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Baghdad</cname>
-	<imageurl>http://www.tvbaghdad.net/theme/images/logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Abu Dhabi Emirates</cname>
-	<imageurl>http://jazarah.net/wp-content/uploads/2015/03/Al-Emarat-Logo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Abu Dhabi</cname>
-	<imageurl>http://s19.postimg.org/hb86nb6df/image.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Al Adala</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_adalah.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>alwatan</cname>
-	<imageurl>https://yt3.ggpht.com/-KbhxwZdyA4Q/AAAAAAAAAAI/AAAAAAAAAAA/i0C3-T7Uz1A/s100-c-k-no/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
-
- <channel>
-	<cname>Alwatan Plus</cname>
-	<imageurl>http://www.bluetechkw.com/wp-content/uploads/2013/05/watanPlus1.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>DM</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/dd/decision_maker_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Mahbooba</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/mm/mahbooba_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Nojoom1</cname>
-	<imageurl>http://i1.ytimg.com/i/tZt1WukG8vXeg6TQwMJkiQ/mq1.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Oyoun Jeddah</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/oo/oyoun_jeddah_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Fatafeat</cname>
-	<imageurl>http://s19.postimg.org/pq7786nsz/fetafettv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Future News</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/future_zps15d5f945.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Jordan</cname>
-	<imageurl>http://www.jrtv.jo/App_Themes/ar/images/logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-     <cname>LDC</cname>
-     <imageurl>http://www.lyngsat-logo.com/hires/ll/ldc_lb.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>sham</category>
-     </assignedcategory>
-</channel>
-
-<channel>
-	<cname>OTV Lebanon</cname>
-	<imageurl>http://s19.postimg.org/df5gsgrgf/otv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Al Lubnania</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_lubnania.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Baraem</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/br3m_zps8255f16a.png</imageurl>
 	<enabled>True</enabled>
@@ -4652,23 +4594,6 @@
     </assignedcategory>
 </channel>
 
-<channel>
-	<cname>Al Iraqiya Tarbawiyah</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_iraqya.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Al Iraqiya Documentary</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_iraqya_documentary.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Iraq</category>
-	</assignedcategory>
-</channel>	
 
 <channel>
      <cname>Atfal wa Mawaheb</cname>
@@ -4679,14 +4604,6 @@
      </assignedcategory>
 </channel>
 
-<channel>
-     <cname>RAK</cname>
-     <imageurl>http://www.lyngsat-logo.com/logo/tv/rr/rak_tv_ae.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>gulf</category>
-     </assignedcategory>
-</channel>
 
 
 </channels>
