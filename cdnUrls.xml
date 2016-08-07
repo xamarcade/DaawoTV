@@ -310,17 +310,11 @@
 <streaminginfo>
 	<cname>Abu Dhabi Drama</cname>
 	<item>
-	<title>High 2</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-altamimi.org:8000/live/amin1/amin1/26.ts</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Drama</cname>
-	<item>
-	<title>High </title>
-	<link>http://38.99.146.36:7777/ADDrama_HD.m3u8</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
 	<cname>Al Nahar Drama</cname>
@@ -621,6 +615,7 @@
 	</item>
 </streaminginfo>
 
+
 	<streaminginfo>
 		<cname>Syria Drama</cname>
 		<item>
@@ -678,34 +673,11 @@
 <!-- Egypt Channels Start -->
 
 <streaminginfo>
-    <cname>Al Masriyah</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.99.146.36:7777/AlMasriyah_HD.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
         <cname>Al Nahar</cname>
 		<item>
 		<title>Med 2</title>
 		<link>http://stream138.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/gmswf.m3u8</link>
 		</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Al Nahar</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.99.146.36:7777/AlNahar_HD.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-    <cname>Al Nahar 2</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.99.146.36:7777/AlNaharMovies_HD.m3u8</link>
-	</item>
 </streaminginfo>
 
 <streaminginfo>
@@ -724,22 +696,7 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Alhayat 1</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.99.146.36:7777/Hayat_HD.m3u8</link>
-	</item>
-</streaminginfo>
-
 <streaminginfo><cname>Alhayat2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=0lmM6zgL2AU</link></item></streaminginfo>
-<streaminginfo>
-	<cname>Alhayat2</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.99.146.36:7777/Alhayat2_HD.m3u8</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>AlMasrawia</cname>
@@ -756,13 +713,6 @@
 <link>plugin://plugin.video.youtube/play/?video_id=G1BgKI2KBCo</link>
 </item>
 </streaminginfo>
-<streaminginfo>
-	<cname>AlQahera W Elnas</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.99.146.36:7777/AlKaheraWalNas_HD.m3u8</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 <cname>AlQahera W Elnas 2</cname>
@@ -771,26 +721,12 @@
 <link>plugin://plugin.video.youtube/play/?video_id=REyOZv_jM7g</link>
 </item>
 </streaminginfo>
-<streaminginfo>
-	<cname>AlQahera W Elnas 2</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.99.146.36:7777/AlKaheraWalNas2_HD.m3u8</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>CBC</cname>
 	<item>
 	<title>You need Youtube Addon</title>
 	<link>plugin://plugin.video.youtube/play/?video_id=1yEMLzYzE1g</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>CBC</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.99.146.36:7777/CBC_HD.m3u8</link>
 	</item>
 </streaminginfo>
 
@@ -801,13 +737,6 @@
 	<link>plugin://plugin.video.youtube/play/?video_id=r7ammFV2blg</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>CBC Extra</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.99.146.36:7777/CBC2_HD.m3u8</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>CBC Sofra</cname>
@@ -816,14 +745,6 @@
 	<link>plugin://plugin.video.youtube/play/?video_id=K8XaIiikpAo</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>CBC Sofra</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.99.146.36:7777/CBCSofra_HD.m3u8</link>
-	</item>
-</streaminginfo>
-
 
 <streaminginfo>
 		<cname>Dream</cname>
@@ -849,22 +770,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Egypt 2</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.99.146.36:7777/AlThanya_HD.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Massaya</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.99.146.36:7777/Massaya_HD.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
         <cname>Mehwar</cname>
 	<item>
 	<title>Low</title>
@@ -886,13 +791,7 @@
 	<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Nile Family</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.99.146.36:7777/NileFamily_HD.m3u8</link>
-	</item>
-</streaminginfo>
+
 
 	<streaminginfo>
 		<cname>Nile Life</cname>
@@ -901,13 +800,6 @@
 			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life timeout=20</link>
 		</item>
 	</streaminginfo>
-<streaminginfo>
-	<cname>Nile Life</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.99.146.36:7777/NileLife_HD.m3u8</link>
-	</item>
-</streaminginfo>
 
 
 <streaminginfo><cname>ONTV Live</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=lGPBmTSQHuY</link></item></streaminginfo>
