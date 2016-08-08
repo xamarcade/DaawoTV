@@ -565,14 +565,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Fatafeat</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/Fatafeat.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>France 24</cname>
 	<item>
 	<title>Low</title>
@@ -633,13 +625,6 @@
 	<item>
 	<title>Low</title>
 	<link>http://38.99.146.36:7777/Ishtar.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Jordan</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/GamarHashimi.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 
@@ -1734,13 +1719,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Fatafeat</cname>
-	<item>
-	<title>Proxy HD</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=Fatafeat_HD&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>France 24</cname>
 	<item>
 	<title>Proxy HD</title>
@@ -1801,13 +1779,6 @@
 	<item>
 	<title>Proxy HD</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=Ishtar_HD&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Jordan</cname>
-	<item>
-	<title>Proxy HD</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=GamarHashimi_HD&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -2883,13 +2854,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Fatafeat</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=Fatafeat_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>France 24</cname>
 	<item>
 	<title>Proxy Med</title>
@@ -2957,13 +2921,6 @@
 	<item>
 	<title>Proxy Med</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=Ishtar_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Jordan</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=GamarHashimi_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -4032,13 +3989,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Fatafeat</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Fatafeat_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>France 24</cname>
 	<item>
 	<title>Proxy Low</title>
@@ -4099,13 +4049,6 @@
 	<item>
 	<title>Proxy Low</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Ishtar_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Jordan</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=GamarHashimi_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -5111,13 +5054,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Fatafeat</cname>
-	<item>
-	<title>Proxy LR</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLR$&amp;channel=Fatafeat_LR&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>France 24</cname>
 	<item>
 	<title>Proxy LR</title>
@@ -5178,13 +5114,6 @@
 	<item>
 	<title>Proxy LR</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLR$&amp;channel=Ishtar_LR&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Jordan</cname>
-	<item>
-	<title>Proxy LR</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLR$&amp;channel=GamarHashimi_LR&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -7274,13 +7203,7 @@
 	<link>http://38.99.146.36:7777/AlThanya_HD.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Fatafeat</cname>
-	<item>
-	<title>HD</title>
-	<link>http://38.99.146.36:7777/Fatafeat_HD.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>France 24</cname>
 	<item>
@@ -7344,13 +7267,7 @@
 	<link>http://38.99.146.36:7777/Ishtar_HD.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Jordan</cname>
-	<item>
-	<title>HD</title>
-	<link>http://38.99.146.36:7777/GamarHashimi_HD.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Karameesh</cname>
 	<item>
@@ -8308,13 +8225,6 @@
 <item>
 <title>Future_HD</title>
 <link>http://38.99.146.36:7777/Future_HD.m3u8</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>Future TV</cname>
-<item>
-<title>FutureUSA_HD</title>
-<link>http://38.99.146.36:7777/FutureUSA_HD.m3u8</link>
 </item>
 </streaminginfo>
 <streaminginfo>
