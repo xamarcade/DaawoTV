@@ -41,7 +41,7 @@
 	<cname>7Stars</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/7Stars.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/7Stars.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -153,7 +153,7 @@
 	<cname>Al Haqeeqa</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/AlHaqeeqa.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/AlHaqeeqa.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -237,7 +237,7 @@
 	<cname>Al Ordonia</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/AlOrdoni.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/AlOrdoni.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -335,9 +335,10 @@
 	<cname>Alaqsa</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/AqsaSatCh.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/AqsaSatCh.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>AlBabeleyia</cname>
 	<item>
@@ -433,9 +434,10 @@
 	<cname>Alqudis</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/Alquds.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/Alquds.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Alrai</cname>
 	<item>
@@ -573,9 +575,10 @@
 	<cname>Fatafeat</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/Fatafeat.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/Fatafeat.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>France 24</cname>
 	<item>
@@ -643,9 +646,10 @@
 	<cname>Jordan</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/GamarHashimi.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/GamarHashimi.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Karameesh</cname>
 	<item>
@@ -909,21 +913,21 @@
 	<cname>Palestine AlYawm</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/PalestineAlYawm.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/PalestineAlYawm.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Palestine Live</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/PalestineLive.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/PalestineLive.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Palestine</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/Palestinian.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/Palestinian.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -951,9 +955,10 @@
 	<cname>Roya</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/Roya.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/Roya.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Russia Alyaum</cname>
 	<item>
@@ -972,9 +977,10 @@
 	<cname>Sama Syria</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/SamaTV.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/SamaTV.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Sat7 Kid</cname>
 	<item>
@@ -1056,14 +1062,14 @@
 	<cname>Syria Sedu</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/SyrianEducation.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/SyrianEducation.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Syria</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/SyriaSat.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/SyriaSat.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -1091,9 +1097,10 @@
 	<cname>Tele Liban</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/TeleLiban.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/TeleLiban.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Top Movies</cname>
 	<item>
@@ -1140,9 +1147,10 @@
 	<cname>Zweina Bladna</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.36:7777/ZweinaBaladna.m3u8</link>
+	<link>http://$GL-IPLOW$:7777/ZweinaBaladna.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>2M</cname>
 	<item>
