@@ -24,12 +24,6 @@
 
 
 
-
-
-
-
-
-
 <streaminginfo>
 	<cname>2M</cname>
 	<item>
@@ -1143,13 +1137,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=4Shbab_HD&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>7Stars</cname>
-	<item>
-	<title>Proxy HD</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=7Stars_HD&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>ABN</cname>
 	<item>
@@ -6628,13 +6616,7 @@
 	<link>http://38.99.146.36:7777/4Shbab_HD.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>7Stars</cname>
-	<item>
-	<title>HD</title>
-	<link>http://38.99.146.36:7777/7Stars_HD.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>ABN</cname>
 	<item>
