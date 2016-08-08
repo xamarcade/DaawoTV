@@ -331,13 +331,6 @@
 	<link>http://38.99.146.36:7777/AlResala.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Alaqsa</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/AqsaSatCh.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>AlBabeleyia</cname>
@@ -1466,13 +1459,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AlResala_HD&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Alaqsa</cname>
-	<item>
-	<title>Proxy HD</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AqsaSatCh_HD&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>AlBabeleyia</cname>
 	<item>
@@ -2621,13 +2608,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlResala_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Alaqsa</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AqsaSatCh_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>AlBabeleyia</cname>
 	<item>
@@ -3790,13 +3771,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlResala_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Alaqsa</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AqsaSatCh_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>AlBabeleyia</cname>
 	<item>
@@ -4910,13 +4885,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLR$&amp;channel=AlResala_LR&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Alaqsa</cname>
-	<item>
-	<title>Proxy LR</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLR$&amp;channel=AqsaSatCh_LR&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>AlBabeleyia</cname>
 	<item>
@@ -7031,13 +7000,7 @@
 	<link>http://38.99.146.36:7777/AlResala_HD.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Alaqsa</cname>
-	<item>
-	<title>HD</title>
-	<link>http://38.99.146.36:7777/AqsaSatCh_HD.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>AlBabeleyia</cname>
 	<item>
