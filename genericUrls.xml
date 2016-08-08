@@ -772,29 +772,7 @@
 </streaminginfo>
 
 
-<streaminginfo>
-    <cname>Aljadeed</cname>
-	<item>
-	<title>itworkscdn low</title>
-	<link>http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_160p/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 
-<streaminginfo>
-    <cname>Aljadeed</cname>
-	<item>
-		<title>itworkscdn Med</title>
-		<link>http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_240p/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-    <cname>Aljadeed</cname>
-	<item>
-		<title>itworkscdn High</title>
-		<link>http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 
 
 
@@ -1237,7 +1215,6 @@
 <streaminginfo><cname>Euro News Arabic</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=vFgvp3GQgkU</link></item></streaminginfo>
 <streaminginfo><cname>KSA News</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=cCe0Hzqjhso</link></item></streaminginfo>
 <streaminginfo><cname>Aljazeera Mubasher</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=QOq1R1kWmXM</link></item></streaminginfo>
-<streaminginfo><cname>Roya</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=LOZ_qmJ8JHs</link></item></streaminginfo>
 <streaminginfo><cname>Alahad</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=PcMS1FgQK90</link></item></streaminginfo>
 
 	<streaminginfo>

@@ -1,5 +1,7 @@
 <streaminginfos>
 
+<!-- GulfChannels Start -->
+
 <streaminginfo>
 	<cname>Al Dafra</cname>
 	<item><title>Low</title>
@@ -264,5 +266,214 @@
 	</item>
 </streaminginfo>
 
+<!-- Gulf Channels End -->
 
+<!-- Sham Channels Start -->
+
+<streaminginfo>
+    <cname>7Stars</cname>
+	<item>
+	<title>Med</title>
+	<link>rtmp://194.165.136.150/live playpath=myStream swfUrl=http://7stars.tv/Modules/Mdameer.JWPlayer/Contents/player.swf live=1 pageUrl=http://7stars.tv/ timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Alaqsa</cname>
+		<item>
+			<title>official/ipad</title>
+			<link>$doregex[get-link]</link>
+			<regex>
+			<name>get-link</name>
+			<expres>ipadUrl: '(.*?)'</expres>
+				<page>http://aqsatv.ps/live/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>ALFALASTINIAH</cname>
+		<item>
+			<title>flv</title>
+			<link>rtmp://46.43.64.166:1935/flv/flv timeout=20</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+    <cname>Aljadeed</cname>
+	<item>
+	<title>itworkscdn low</title>
+	<link>http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_160p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Aljadeed</cname>
+	<item>
+		<title>itworkscdn Med</title>
+		<link>http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_240p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Aljadeed</cname>
+	<item>
+		<title>itworkscdn High</title>
+		<link>http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+   	<cname>Alqudis</cname>
+	<item>
+	<title>Low</title>
+	<link>rtmp://www.qudstv.com:1935/livepkgr/livestream?adbe-live-event=liveevent live=1 timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Halab Today</cname>
+	<item>
+	<title>SD</title>
+	<link>rtmp://streaming.tootvs.com:1935/8010/8010 live=1 timeout=20</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>MTV</cname>
+	<item>
+	<title>Low</title>
+	<link>rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_160p swfUrl=http://mtv.com.lb/Player/400/jwplayer.flash.swf pageUrl=http://mtv.com.lb/Player/600/400</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>MTV</cname>
+	<item>
+	<title>Med</title>
+	<link>rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_240p swfUrl=http://mtv.com.lb/Player/400/jwplayer.flash.swf pageUrl=http://mtv.com.lb/Player/600/400</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>MTV</cname>
+	<item>
+	<title>High</title>
+	<link>rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_360p swfUrl=http://mtv.com.lb/Player/400/jwplayer.flash.swf pageUrl=http://mtv.com.lb/Player/600/400</link>
+	</item>
+</streaminginfo>
+	<streaminginfo>
+		<cname>MTV</cname>
+		<item>
+			<title>livestreaming1</title>
+			<link>rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_160p</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+    <cname>Palestine AlYawm</cname>
+	<item>
+	<title>Med:f4m You need to install f4m_tester addon from Shani Repo</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://live.paltoday.tv:1935/paltv/live/manifest.f4m</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Palestine AlYawm</cname>
+	<item>
+	<title>Med</title>
+	<link>http://live.paltoday.tv:1935/paltv/live/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo><cname>Roya</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=LOZ_qmJ8JHs</link></item></streaminginfo>
+<streaminginfo>
+    <cname>Roya</cname>
+	<item>
+	<title>300kB_Low</title>
+	<link>http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&amp;password=2acc51f15bbba0a9ad4bab6da0ff0c81&amp;lq=1</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Roya</cname>
+	<item>
+	<title>750kB_High</title>
+	<link>http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&amp;password=2acc51f15bbba0a9ad4bab6da0ff0c81</link>
+	</item>
+</streaminginfo>
+
+	<streaminginfo>
+	<cname>Sama Syria</cname>
+	<item>
+	<title>Official</title>
+	<link>rtmp://sama-tv.net/live/samatv timeout=20</link>
+	</item>
+</streaminginfo>
+ <streaminginfo>
+	<cname>Sama Syria</cname>
+	<item>
+	<title>Low</title>
+	<link>http://sama-tv.net:1935/live/samatv/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+   	<cname>Syria Aloula</cname>
+	<item>
+	<title>Low</title>
+	<link>http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria Aloula</cname>
+	<item>
+	<title>Med</title>
+	<link>http://82.137.248.21:1935/Aloula/AloulaLive2/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria Aloula</cname>
+	<item>
+	<title>High</title>
+	<link>http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+   	<cname>Syria Talaqie</cname>
+	<item>
+	<title>Low</title>
+	<link>http://82.137.248.20:1935/Talaqie/TalaqieLive1/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria Talaqie</cname>
+	<item>
+	<title>Med</title>
+	<link>http://82.137.248.20:1935/Talaqie/TalaqieLive2/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria Talaqie</cname>
+	<item>
+	<title>High</title>
+	<link>http://82.137.248.20:1935/Talaqie/TalaqieLive3/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<!-- Sham Channels End -->
+
+<!-- Iraq Channels Start -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Iraq Channels End-->
 </streaminginfos>
