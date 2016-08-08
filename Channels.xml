@@ -2574,15 +2574,7 @@
 	 <category>drama</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Darbaka Cinema</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/dd/darbaka_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	 <category>drama</category>
-	</assignedcategory>
-</channel>
-	
+
 <channel>
 	<cname>Dubai One</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/db1_zps792175e5.png</imageurl>
