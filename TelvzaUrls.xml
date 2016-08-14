@@ -5,15 +5,8 @@
 <streaminginfo>
 	<cname>Rai 1</cname>
 	<item>
-	<title>High 2</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/367.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Rai 1</cname>
-	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2695.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/586.ts</link>
 	</item>
 </streaminginfo>
 
@@ -21,14 +14,7 @@
 	<cname>Rai 2</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/368.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Rai 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2694.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/587.ts</link>
 	</item>
 </streaminginfo>
 
@@ -36,7 +22,7 @@
 	<cname>Rai 3</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/369.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/588.ts</link>
 	</item>
 </streaminginfo>
 
@@ -45,7 +31,7 @@
 	<cname>Rai 4</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/932.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/589.ts</link>
 	</item>
 </streaminginfo>
 
@@ -53,7 +39,7 @@
 	<cname>Rai 5</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1518.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/590.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -68,7 +54,7 @@
 	<cname>Rai Movie</cname>
 	<item>
 	<title>f4mTester: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1520.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/625.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -83,7 +69,7 @@
 	<cname>Rai Sport 2</cname>
 	<item>
 	<title>f4mTester: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1708.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/632.ts</link>
 	</item>
 </streaminginfo>
 
@@ -91,7 +77,7 @@
 	<cname>Rai Sport 1</cname>
 	<item>
 	<title>f4mTester: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1524.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/615.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -105,22 +91,8 @@
 <streaminginfo>
 	<cname>Canale 5</cname>
 	<item>
-	<title>High 3</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2722.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Canale 5</cname>
-	<item>
-	<title>High 2</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1709.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Canale 5</cname>
-	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/2721.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/680.ts</link>
 	</item>
 </streaminginfo>
 
@@ -128,7 +100,7 @@
 	<cname>Italia 1</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1096.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/619.ts</link>
 	</item>
 </streaminginfo>
 
@@ -136,7 +108,7 @@
 	<cname>Rete 4</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/370.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/674.ts</link>
 	</item>
 </streaminginfo>
 
