@@ -120,7 +120,7 @@
 	<cname>SVT 1</cname>
 	<item>
 	<title>Globiptv: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2520.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2520.ts</link>
 	</item>
 </streaminginfo>
 
@@ -128,7 +128,7 @@
 	<cname>SVT 2</cname>
 	<item>
 	<title>Globiptv: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2522.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2522.ts</link>
 	</item>
 </streaminginfo>
 
@@ -136,7 +136,7 @@
 	<cname>TV 3</cname>
 	<item>
 	<title>Globiptv: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2539.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2539.ts</link>
 	</item>
 </streaminginfo>
 
@@ -144,7 +144,7 @@
 	<cname>TV 4</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2538.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2538.ts</link>
 	</item>
 </streaminginfo>
 
@@ -160,14 +160,14 @@
 	<cname>TV 4 Komedi</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2546.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2546.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 4 Guld</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2544.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2544.ts</link>
 	</item>
 </streaminginfo>
 
@@ -175,7 +175,7 @@
 	<cname>TV 4 Fakta</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2545.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2545.ts</link>
 	</item>
 </streaminginfo>
 
@@ -183,7 +183,7 @@
 	<cname>TV 4 Sport</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2543.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2543.ts</link>
 	</item>
 </streaminginfo>
 
@@ -191,7 +191,7 @@
 	<cname>TV 5</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2549.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2549.ts</link>
 	</item>
 </streaminginfo>
 
@@ -199,7 +199,7 @@
 	<cname>TV 6</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2541.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2541.ts</link>
 	</item>
 </streaminginfo>
 
@@ -207,28 +207,28 @@
 	<cname>TV 7</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2542.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2542.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 8</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2550.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2550.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 9</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2551.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2551.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 10</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2446.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2446.ts</link>
 	</item>
 </streaminginfo>
 
@@ -244,14 +244,14 @@
 	<cname>TV 11</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2688.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2688.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 12</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2552.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2552.ts</link>
 	</item>
 </streaminginfo>
 
@@ -273,14 +273,14 @@
 	<cname>Discovery Channel</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2518.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2518.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>National Geographic</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2478.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2478.ts</link>
 	</item>
 </streaminginfo>
 
@@ -295,14 +295,14 @@
 	<cname>TCM</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2476.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2476.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>FOX</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2517.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2517.ts</link>
 	</item>
 </streaminginfo>
 
@@ -310,14 +310,14 @@
 	<cname>TNT</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2474.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2474.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Comedy Central</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2464.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2464.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -348,7 +348,7 @@
 	<cname>C more Action</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2450.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2450.ts</link>
 	</item>
 </streaminginfo>
 
@@ -411,21 +411,21 @@
 	<cname>C more Live 2</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2525.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2525.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>C more Live 3</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2526.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2526.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>C more Live 4</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2527.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2527.ts</link>
 	</item>
 </streaminginfo>
 
@@ -457,14 +457,14 @@
 	<cname>Viasat Film Premiere</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2416.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2416.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Series</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2418.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2418.ts</link>
 	</item>
 </streaminginfo>
 
@@ -479,7 +479,7 @@
 	<cname>Viasat Family</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2417.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2417.ts</link>
 	</item>
 </streaminginfo>
 
@@ -487,21 +487,21 @@
 	<cname>Viasat Sport</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2411.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2411.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Fotboll</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2415.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2415.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Motor</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2428.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2428.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -539,7 +539,7 @@
 	<cname>Cartoon  Network</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2469.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2469.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -560,7 +560,7 @@
 	<cname>Nickelodeon</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2470.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2470.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -574,7 +574,7 @@
 	<cname>Barn Kanalen</cname>
 	<item>
 	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/55239/55239/2523.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2523.ts</link>
 	</item>
 </streaminginfo>
 
