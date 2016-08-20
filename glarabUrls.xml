@@ -1419,13 +1419,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AlTaghier_HD&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Al Thakafiyah</cname>
-	<item>
-	<title>Proxy HD</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=AlThakafiyah_HD&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Al-hurra Iraq</cname>
 	<item>
@@ -6978,13 +6972,7 @@
 	<link>http://38.99.146.36:7777/AlTaghier_HD.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Al Thakafiyah</cname>
-	<item>
-	<title>HD</title>
-	<link>http://38.99.146.36:7777/AlThakafiyah_HD.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Al-hurra Iraq</cname>
 	<item>
