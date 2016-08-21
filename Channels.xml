@@ -1739,15 +1739,6 @@
 <!-- Nes Channels Start -->
 
 <channel>
-     <cname>A1 Jordan</cname>
-     <imageurl>http://s29.postimg.org/nyvrapt6b/website_logo.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>news</category>
-     </assignedcategory>
-</channel>
-
-<channel>
 	<cname>Al Eqtisadiyah</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/eqtsa_zps121a0d27.png</imageurl>
 	<enabled>True</enabled>
@@ -1869,27 +1860,10 @@
 	<category>news</category>
 	</assignedcategory>
 </channel>	
-<channel>
-	<cname>Aljazeera Mubasher Masr</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/jmm_zps3ca98a44.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>	
 
 <channel>
 	<cname>alnabaa</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_nabaa_news_channel_ly.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Althawra</cname>
-	<imageurl>http://s9.postimg.org/7ufabvcff/althawara.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>news</category>
@@ -2061,15 +2035,6 @@
 	<category>doc</category>
 	</assignedcategory>
 </channel>
-
-<channel>
-	<cname>KSA Doc</cname>
-	<imageurl>https://yt3.ggpht.com/-xPEtUcsv4xE/AAAAAAAAAAI/AAAAAAAAAAA/35mKdpYK0Y4/s100-c-k-no/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>doc</category>
-	</assignedcategory>
-</channel>	
 
 <channel>
 	<cname>KTV ARABE</cname>
