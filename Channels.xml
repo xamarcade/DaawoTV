@@ -1280,15 +1280,6 @@
 </channel>
 
 <channel>
-	<cname>AL AHLY</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_ahly_tv_cairo_eg.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
 	<cname>alkass</cname>
 	<imageurl>http://www.qatarbroadcast.qa/images/kas.png</imageurl>
 	<enabled>True</enabled>
