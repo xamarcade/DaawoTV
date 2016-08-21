@@ -36,6 +36,13 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
+	<cname>Abu Dhabi</cname>
+	<item>
+	<title>Low</title>
+	<link>http://$GL-IPLOW$:7777/ADAlOula.m3u8?session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>Aden</cname>
 	<item>
 	<title>Low</title>
@@ -65,6 +72,13 @@
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Adala</cname>
+	<item>
+	<title>Low</title>
+	<link>http://$GL-IPLOW$:7777/AlAhlyTV.m3u8?session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al AHLY</cname>
 	<item>
 	<title>Low</title>
 	<link>http://$GL-IPLOW$:7777/AlAdala.m3u8?session=$GL-Sesession$</link>
@@ -408,20 +422,7 @@
 	<link>http://$GL-IPLOW$:7777/Arryadia.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Alwatan Plus</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/AlwatanPlus.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>alwatan</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/Alwatan.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Arrabia</cname>
 	<item>
@@ -1522,20 +1523,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=Arryadia_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Alwatan Plus</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlwatanPlus_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>alwatan</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=Alwatan_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Arabica Music</cname>
 	<item>
@@ -2677,20 +2665,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Arryadia_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Alwatan Plus</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlwatanPlus_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>alwatan</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Alwatan_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Arabica Music</cname>
 	<item>
