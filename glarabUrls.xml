@@ -35,13 +35,7 @@
 	<link>http://$GL-IPLOW$:7777/ADSport.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/ADAlOula.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Aden</cname>
 	<item>
@@ -77,39 +71,12 @@
 	<link>http://$GL-IPLOW$:7777/AlAhlyTV.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Al AHLY</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/AlAdala.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Al Amaken Drama</cname>
 	<item>
 	<title>Low</title>
 	<link>http://$GL-IPLOW$:7777/AlAmakenDrama.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Anwar</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/AlAnwar.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Baghdadia</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/AlBaghdadia.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Eman</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/AlEman.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -127,13 +94,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Al Forat</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/AlForat.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Al Haqeeqa</cname>
 	<item>
 	<title>Low</title>
@@ -141,31 +101,10 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Al Hiwar</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/AlHiwar.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>KSA News</cname>
 	<item>
 	<title>Low</title>
 	<link>http://$GL-IPLOW$:7777/AlEkhbariya.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Iraqiya Documentary</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/AlIraqiaDocumentary.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Iraqiya Tarbawiyah</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/AlIraqAlTarbawiyah.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -316,20 +255,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Alaqsa</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/AqsaSatCh.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>AlBabeleyia</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/AlBabeleyia.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Aldiyar</cname>
 	<item>
 	<title>Low</title>
@@ -438,17 +363,10 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Asunnah TV</cname>
+	<cname>sunnah TV</cname>
 	<item>
 	<title>Low</title>
 	<link>http://$GL-IPLOW$:7777/AlSunnah.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Baghdad</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/Baghdad.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -508,13 +426,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>DM</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/DM.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>DW Arabic</cname>
 	<item>
 	<title>Low</title>
@@ -526,13 +437,6 @@
 	<item>
 	<title>Low</title>
 	<link>http://$GL-IPLOW$:7777/AlThanya.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Fatafeat</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/Fatafeat.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -557,13 +461,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Goan</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/GoanTV.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Hanibal</cname>
 	<item>
 	<title>Low</title>
@@ -582,27 +479,6 @@
 	<item>
 	<title>Low</title>
 	<link>http://$GL-IPLOW$:7777/Huda.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>iFilm Arabic</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/iFilm.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Ishtar</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/Ishtar.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Jordan</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/GamarHashimi.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -652,27 +528,6 @@
 	<item>
 	<title>Low</title>
 	<link>http://$GL-IPLOW$:7777/KuwaitSpace.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Libya 2</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/Libya.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Libya AlWataniya</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/LibyaAlWataniya.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Libya Sport 1</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/LibyaSportChannel1.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -900,13 +755,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Rotana Classic</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/RotanaZaman.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Roya</cname>
 	<item>
 	<title>Low</title>
@@ -977,13 +825,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Space Power</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/SpacePower.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Sudan TV</cname>
 	<item>
 	<title>Low</title>
@@ -1041,24 +882,10 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Tayba</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/Tayba.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Tele Liban</cname>
 	<item>
 	<title>Low</title>
 	<link>http://$GL-IPLOW$:7777/TeleLiban.m3u8?session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Top Movies</cname>
-	<item>
-	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/TopMovies.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -1131,13 +958,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=ADSport_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=ADAlOula_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Aden</cname>
 	<item>
@@ -1180,13 +1001,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlAdala_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>AL AHLY</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlAhlyTV_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Al Amaken Drama</cname>
 	<item>
@@ -1194,27 +1009,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlAmakenDrama_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Al Anwar</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlAnwar_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Baghdadia</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlBaghdadia_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Eman</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlEman_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Al Eqtisadiyah</cname>
 	<item>
@@ -1230,13 +1025,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Al Forat</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlForat_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Al Haqeeqa</cname>
 	<item>
 	<title>Proxy Med</title>
@@ -1244,24 +1032,10 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Al Hiwar</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlHiwar_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>KSA News</cname>
 	<item>
 	<title>Proxy Med</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlEkhbariya_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Iraqiya Tarbawiyah</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlIraqAlTarbawiyah_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -1405,20 +1179,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Alaqsa</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AqsaSatCh_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>AlBabeleyia</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlBabeleyia_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Aldiyar</cname>
 	<item>
 	<title>Proxy Med</title>
@@ -1454,13 +1214,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Aljadeed</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlJadeed_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Aljazeera En</cname>
 	<item>
 	<title>Proxy Med</title>
@@ -1493,13 +1246,6 @@
 	<item>
 	<title>Proxy Med</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlMalakot_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Almas</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlMas_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -1546,17 +1292,10 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Asunnah TV</cname>
+	<cname>sunnah TV</cname>
 	<item>
 	<title>Proxy Med</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlSunnah_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Baghdad</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=Baghdad_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -1581,13 +1320,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Bein Sport</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=beINSports_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Beladi</cname>
 	<item>
 	<title>Proxy Med</title>
@@ -1602,24 +1334,10 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Cairo Cinema</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=CairoCinema_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>CCTV Arabic</cname>
 	<item>
 	<title>Proxy Med</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=CCTVArabia_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Coptic_Christian</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=CTVEgypt_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -1630,31 +1348,10 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>DM</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=DM_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Dream 1</cname>
 	<item>
 	<title>Proxy Med</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=Dream1_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Dubai Sport 3</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=DubaiSports_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Dubai</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=DubaiEurope_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -1669,13 +1366,6 @@
 	<item>
 	<title>Proxy Med</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlThanya_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Fatafeat</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=Fatafeat_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -1700,13 +1390,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Goan</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=GoanTV_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Hanibal</cname>
 	<item>
 	<title>Proxy Med</title>
@@ -1725,34 +1408,6 @@
 	<item>
 	<title>Proxy Med</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=Huda_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>iFilm Arabic</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=iFilm_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Iqra</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=Iqraa_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Ishtar</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=Ishtar_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Jordan</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=GamarHashimi_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -1802,27 +1457,6 @@
 	<item>
 	<title>Proxy Med</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=KuwaitSpace_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Libya 2</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=Libya_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Libya AlWataniya</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=LibyaAlWataniya_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Libya Sport 1</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=LibyaSportChannel1_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -1882,27 +1516,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Miracle</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=Miracle_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>MTV</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=MTVLebanon_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Music+</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=MusicPlus_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Nart</cname>
 	<item>
 	<title>Proxy Med</title>
@@ -1931,38 +1544,10 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Nile Cinema</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=NileCinema_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Nile Comedy</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=NileComedy_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Nile Drama</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=NileDrama_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Nile Sport</cname>
 	<item>
 	<title>Proxy Med</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=NileSport_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Nile Tv</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=NileInt_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -2008,13 +1593,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>On TV</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=ONTV_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Oyoun Jeddah</cname>
 	<item>
 	<title>Proxy Med</title>
@@ -2054,13 +1632,6 @@
 	<item>
 	<title>Proxy Med</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=AlQuran_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Rotana Music</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=RotanaMusic_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -2197,13 +1768,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Tayba</cname>
-	<item>
-	<title>Proxy Med</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPMED$&amp;channel=Tayba_Med&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Tele Liban</cname>
 	<item>
 	<title>Proxy Med</title>
@@ -2287,13 +1851,7 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=ADSport_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=ADAlOula_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Aden</cname>
 	<item>
@@ -2336,39 +1894,12 @@
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlAdala_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>AL AHLY</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlAhlyTV_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Al Amaken Drama</cname>
 	<item>
 	<title>Proxy Low</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlAmakenDrama_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Anwar</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlAnwar_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Baghdadia</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlBaghdadia_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Eman</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlEman_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -2386,13 +1917,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Al Forat</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlForat_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Al Haqeeqa</cname>
 	<item>
 	<title>Proxy Low</title>
@@ -2400,24 +1924,10 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Al Hiwar</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlHiwar_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>KSA News</cname>
 	<item>
 	<title>Proxy Low</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlEkhbariya_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Iraqiya Tarbawiyah</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlIraqAlTarbawiyah_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -2561,20 +2071,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Alaqsa</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AqsaSatCh_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>AlBabeleyia</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlBabeleyia_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Aldiyar</cname>
 	<item>
 	<title>Proxy Low</title>
@@ -2600,13 +2096,6 @@
 	<item>
 	<title>Proxy Low</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlIraqiya_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Aljadeed</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlJadeed_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -2688,17 +2177,10 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Asunnah TV</cname>
+	<cname>sunnah TV</cname>
 	<item>
 	<title>Proxy Low</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlSunnah_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Baghdad</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Baghdad_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -2723,13 +2205,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Bein Sport</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=beINSports_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Beladi</cname>
 	<item>
 	<title>Proxy Low</title>
@@ -2741,13 +2216,6 @@
 	<item>
 	<title>Proxy Low</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=BlueNile_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Cairo Cinema</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=CairoCinema_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -2772,31 +2240,10 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>DM</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=DM_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Dream 1</cname>
 	<item>
 	<title>Proxy Low</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Dream1_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Dubai Sport 3</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=DubaiSports_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Dubai</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=DubaiEurope_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -2811,13 +2258,6 @@
 	<item>
 	<title>Proxy Low</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlThanya_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Fatafeat</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Fatafeat_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -2860,34 +2300,6 @@
 	<item>
 	<title>Proxy Low</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Huda_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>iFilm Arabic</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=iFilm_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Iqra</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Iqraa_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Ishtar</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Ishtar_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Jordan</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=GamarHashimi_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -2937,13 +2349,6 @@
 	<item>
 	<title>Proxy Low</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=KuwaitSpace_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Libya 2</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Libya_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -3003,27 +2408,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Miracle</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Miracle_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>MTV</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=MTVLebanon_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Music+</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=MusicPlus_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Nart</cname>
 	<item>
 	<title>Proxy Low</title>
@@ -3052,38 +2436,10 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Nile Cinema</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=NileCinema_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Nile Comedy</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=NileComedy_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Nile Drama</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=NileDrama_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Nile Sport</cname>
 	<item>
 	<title>Proxy Low</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=NileSport_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Nile Tv</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=NileInt_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -3108,20 +2464,6 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Noursat</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Noursat_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>NoursatAlShabab</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=NourAlShabab_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Om Durman</cname>
 	<item>
 	<title>Proxy Low</title>
@@ -3133,13 +2475,6 @@
 	<item>
 	<title>Proxy Low</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Oman_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>On TV</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=ONTV_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -3175,13 +2510,6 @@
 	<item>
 	<title>Proxy Low</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=AlQuran_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Rotana Music</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=RotanaMusic_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -3315,13 +2643,6 @@
 	<item>
 	<title>Proxy Low</title>
 	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Tamazight_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Tayba</cname>
-	<item>
-	<title>Proxy Low</title>
-	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPLOW$&amp;channel=Tayba_Low&amp;port=2077&amp;session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
