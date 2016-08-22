@@ -961,15 +961,6 @@
 </channel>
 
 <channel>
-	<cname>Colors India</cname>
-	<imageurl>http://apne.tv/db_imgs/T6QH91X8YBZKU3VG5C7S1309997914.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Colors AUD</cname>
 	<imageurl>http://apne.tv/db_imgs/T6QH91X8YBZKU3VG5C7S1309997914.jpg</imageurl>
 	<enabled>True</enabled>
@@ -977,41 +968,6 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Colors UK</cname>
-	<imageurl>http://apne.tv/db_imgs/T6QH91X8YBZKU3VG5C7S1309997914.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Colors HD</cname>
-	<imageurl>http://apne.tv/db_imgs/T6QH91X8YBZKU3VG5C7S1309997914.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Colors TV</cname>
-	<imageurl>http://apne.tv/db_imgs/T6QH91X8YBZKU3VG5C7S1309997914.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-
-<channel>
-	<cname>GEM BOLLYWOOD (Irani)</cname>
-	<imageurl>http://www.zendetv.com/wp-content/uploads/2014/11/live_gemballywood.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
 
 <channel>
 	<cname>Rishtey</cname>
@@ -1055,7 +1011,7 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-
+<!--
 <channel>
 	<cname>Imagines Movies</cname>
 	<imageurl>http://www.imaginemovies.ae/wp-content/themes/imagine/images/logo.png</imageurl>
@@ -1064,7 +1020,7 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-<!--
+
 <channel>
 	<cname>Sony TV</cname>
 	<imageurl>http://1.bp.blogspot.com/-5jWtLOrE2t8/VUhmR2vYF2I/AAAAAAAACIA/315S-8RB-Xk/s1600/Zinda%2BSerial%2Bon%2BSony%2BTV%2B-%2BStory,%2BTimings%2B%26%2BFull%2BStar%2BCast,%2BPromos.png</imageurl>

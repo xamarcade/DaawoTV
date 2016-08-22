@@ -46,7 +46,7 @@
         <cname>B4U Aflam</cname>
 		<item>
 		<title>Hamada: High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/hamada/hamada/581.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/577.ts</link>
 		</item>
 </streaminginfo>
 
@@ -54,7 +54,7 @@
     <cname>B4U Movies</cname>
 	<item>
 	<title>Box</title>
-	<link>http://130.185.144.63:8081/box/b4umovies/chunks.m3u8</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/226.ts</link>
 	</item>
 </streaminginfo>
 
@@ -70,7 +70,7 @@
     <cname>B4U Plus</cname>
 	<item>
 	<title>Hamada: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/hamada/hamada/1934.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/228.ts</link>
 	</item>
 </streaminginfo>
 
@@ -83,55 +83,10 @@
 </streaminginfo> 
 
 <streaminginfo>
-        <cname>Colors India</cname>
-		<item>
-		<title>High</title>
-		<link>http://zeeapp-lh.akamaihd.net/i/colorsuk_1@140317/index_800.m3u8</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
         <cname>Colors AUD</cname>
 		<item>
 		<title>High</title>
 		<link>http://186.179.169.35/edge/smil:colors_iptv.smil/chunklist_w1295553661_b600000.m3u8</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Colors UK</cname>
-		<item>
-		<title>High</title>
-		<link>http://130.185.144.63:8081/iptv/ColorsEurope/playlist.m3u8</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Colors HD</cname>
-		<item>
-		<title>High</title>
-		<link>http://130.185.144.63:8081/iptv/ColorsHD/playlist.m3u8</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Colors TV</cname>
-		<item>
-		<title>High</title>
-		<link>http://130.185.144.63:8081/iptv/colors/playlist.m3u8</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Colors TV</cname>
-		<item>
-		<title>APAC: High</title>
-		<link>http://130.185.144.63:8081/iptv/ColorsAPAC/playlist.m3u8</link>
-		</item>
-</streaminginfo>
-
-
-<streaminginfo>
-        <cname>GEM BOLLYWOOD (Irani)</cname>
-		<item>
-		<title>High</title>
-		<link>http://63.237.48.23/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8</link>
 		</item>
 </streaminginfo>
 
