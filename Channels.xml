@@ -3692,15 +3692,6 @@
 </channel>	
 
 <channel>
-	<cname>Assalamu Alayk</cname>
-	<imageurl>http://yemenportal.net/images/2013/02/28/179444842094597_k.fbcdn.netsafe_image.phpdAQAKZJk7Y7w55wm1urlhttps3A2F2Ffbcdn-profile-a.akamaihd.net2Fhprofile-ak-ash42F373018_518026048231162_923776733_n.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Burhan</cname>
 	<imageurl>http://s3.postimg.org/xwuq2ia73/burhan.png</imageurl>
 	<enabled>True</enabled>
@@ -3716,15 +3707,6 @@
 	<assignedcategory>
 	<category>islam</category>
 	</assignedcategory>
-</channel>
-
-<channel>
-     <cname>GuideUS TV</cname>
-     <imageurl>http://www.lyngsat-logo.com/logo/tv/gg/guide_us_tv.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-	 <category>islam</category>
-     </assignedcategory>
 </channel>
 
 <channel>
@@ -3748,6 +3730,22 @@
 <channel>
 	<cname>Iqra</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/iqr_zps13586871.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Iqra Europe</cname>
+	<imageurl>http://www.frocus.net/images/logotv/original/Iqraa-Europe.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Iqra America</cname>
+	<imageurl>http://store1.up-00.com/2016-08/1472333542761.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>islam</category>

@@ -889,6 +889,13 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
+	<cname>Tayba</cname>
+	<item>
+	<title>Low</title>
+	<link>http://$GL-IPLOW$:7777/Tayba.m3u8?session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>Toyor Al Janah</cname>
 	<item>
 	<title>Low</title>

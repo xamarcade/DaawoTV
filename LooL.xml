@@ -338,6 +338,30 @@
 </streaminginfo>
 
 <streaminginfo>
+	<cname>Lbc Europe</cname>
+	<item>
+	<title>From website</title>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>file: "(http.*?)"</expres>
+	<page>http://www.lbcgroup.tv/live</page>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Lbc Europe</cname>
+	<item>
+	<title>From website</title>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>file: "(http.*?)"</expres>
+	<page>http://freetv247.com/content/shareyyah-tv</page>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
     <cname>MTV</cname>
 	<item>
 	<title>Low</title>

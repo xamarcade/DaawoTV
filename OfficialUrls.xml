@@ -127,93 +127,15 @@
 
 
 
-<streaminginfo>
-	<cname>Alinsen</cname>
-	<item>
-	<title>Med</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>window.flashvars.src = '(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/Insen-TV</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
-
-
-
-
-<streaminginfo>
-	<cname>LBC EUROPE</cname>
-	<item>
-	<title>From website</title>
-	<link>$doregex[url]</link>
-	<regex>
-	<name>url</name>
-	<expres>file: "(http.*?)"</expres>
-	<page>http://www.lbcgroup.tv/live</page>
-	</regex>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>LBC EUROPE</cname>
-	<item>
-	<title>From website</title>
-	<link>$doregex[url]</link>
-	<regex>
-	<name>url</name>
-	<expres>file: "(http.*?)"</expres>
-	<page>http://freetv247.com/content/shareyyah-tv</page>
-	</regex>
-	</item>
-</streaminginfo>
 
 
 
 
 
 
-<streaminginfo>
-    <cname>Mecca</cname>
-	<item>
-	<title>low: You need to install f4m_tester addon from Shani Repo</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://streamer11.elementssys.com:8080/mecca/archive/1422705314/now/manifest.f4m</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Mecca</cname>
-	<item>
-	<title>Med: You need to install f4m_tester addon from Shani Repo</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://streamer11.elementssys.com:8080/mecca/archive/1422705471/now/manifest.f4m</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>AlJameela</cname>
-	<item>
-    	<title>low</title>
-    	<link>http://de.live.net.sa:1935/live/alj/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 
 
-<streaminginfo>
-    <cname>Selah</cname>
-	<item>
-	<title>Low: You need to install f4m_tester addon from Shani Repo</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://streamer11.elementssys.com:8080/selah/archive/1415734692/now/manifest.f4m</link>
-	</item>
-</streaminginfo>
 
-
-<streaminginfo>
-    <cname>Assalamu Alayk</cname>
-	<item>
-	<title>Low</title>
-	<link>http://5.9.96.232:1935/live/salam/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>Al oula Maroc</cname>
@@ -303,62 +225,6 @@
 </streaminginfo>
 	
 	
-
-
-	
-	
-<streaminginfo>
-     <cname>Al Majd Hadeeth</cname>
-	<item>
-	<title>Med</title>
-	<link>http://176.52.176.83/3495/playlist.m3u8?stb_id=1&amp;uid=94dfcddc573ed7aadf13eb8c4c7f90b7</link>
-	</item>
-</streaminginfo>
-	
-
-	<streaminginfo>
-		<cname>Wesal Tv</cname>
-		<item>
-			<title>Haq high</title>
-			<link>http://188.40.138.23/hls/wesh/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Wesal Tv</cname>
-		<item>
-			<title>Haq low</title>
-			<link>http://188.40.138.23/hls/wesh_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Wesal Tv</cname>
-		<item>
-			<title>elahmad</title>
-			<link>rtmp://109.123.123.82:1935/wesal playpath=wesal1 swfUrl=http://www.elahmad.com/tv/swf/wesaltv.swf?autostart=true pageUrl=http://www.elahmad.com/tv/wesaltv.htm timeout=20</link>
-		</item>
-	</streaminginfo>
-
-
-
-
-	
-
-<streaminginfo>
-	<cname>Noor Dubai</cname>
-	<item>
-	<title>Low</title>
-	<link>http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w512425117_b750000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Noor Dubai</cname>
-	<item>
-	<title>Med</title>
-	<link>http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w512425117_b1200000.m3u8</link>
-	</item>
-</streaminginfo>
-
-	
 	
 		<streaminginfo>
 		<cname>EnnaharTV algerie</cname>
@@ -368,92 +234,19 @@
 		</item>
 	</streaminginfo>
 
-	<streaminginfo>
-		<cname>Iqra</cname>
-		<item>
-			<title>ME</title>
-			<link>http://fl1.viastreaming.net/iqraatv/livestream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<streaminginfo>
-        <cname>Quran TV ksa</cname>
-	<item>
-	<title>Med</title>
-	<link>http://46.245.160.224/mekke/mekke/chunklist_w248840820.m3u8</link>
-	</item>
-</streaminginfo>
-
-
-
-
-<streaminginfo>
-   	<cname>Syria Nour</cname>
-	<item>
-	<title>Low</title>
-	<link>http://82.137.248.21:1935/Nour/NourLive1/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Syria Nour</cname>
-	<item>
-	<title>Med: You need to install f4m_tester addon from Shani Repo</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://82.137.248.21:1935/Nour/NourLive3/manifest.f4m</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Syria Nour</cname>
-	<item>
-	<title>Med</title>
-	<link>http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-   	<cname>Syria Nour</cname>
-	<item>
-	<title>High</title>
-	<link>http://82.137.248.21:1935/Nour/NourLive3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-    <cname>Shada</cname>
-	<item>
-	<title>Low</title>
-	<link>http://38.96.148.147:1935/live/livestream/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 
 
 <streaminginfo><cname>Ajyal</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream2.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Ajyal</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8</link></item></streaminginfo>
 
-<streaminginfo><cname>Quran TV ksa</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel06/_definst_/live/stream2.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Quran TV ksa</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel06/_definst_/live/stream1.m3u8</link></item></streaminginfo>
-
-<streaminginfo><cname>sunnah TV</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel07/_definst_/live/stream2.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Ksunnah TV</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel07/_definst_/live/stream1.m3u8</link></item></streaminginfo>
 
 
 <streaminginfo><cname>Tamazigh Maroc</cname><item><title>Med: You need to install f4m_tester addon from Shani Repo</title><link>plugin://plugin.video.f4mTester/?url=http://tamazight-tv.scdn.arkena.com/tamazight.isml/manifest.f4m</link></item></streaminginfo>
 <streaminginfo><cname>Al oula Maroc la3youn</cname><item><title>Med: You need to install f4m_tester addon from Shani Repo</title><link>plugin://plugin.video.f4mTester/?url=http://alaoulalayoune-tv.scdn.arkena.com/alaoulalayoune.isml/manifest.f4m</link></item></streaminginfo>
-<streaminginfo><cname>Assadissa</cname><item><title>Med: You need to install f4m_tester addon from Shani Repo</title><link>plugin://plugin.video.f4mTester/?url=http://assadissa-tv.scdn.arkena.com/assadissa.isml/manifest.f4m</link></item></streaminginfo>
 <streaminginfo><cname>Arrabia</cname><item><title>Med: You need to install f4m_tester addon from Shani Repo</title><link>plugin://plugin.video.f4mTester/?url=http://arrabiaa-tv.scdn.arkena.com/arrabiaa.isml/manifest.f4m</link></item></streaminginfo>
 <streaminginfo><cname>Al Maghribia</cname><item><title>Med: You need to install f4m_tester addon from Shani Repo</title><link>plugin://plugin.video.f4mTester/?url=http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/manifest.f4m</link></item></streaminginfo>
 <streaminginfo><cname>Al oula Maroc</cname><item><title>Med: You need to install f4m_tester addon from Shani Repo</title><link>plugin://plugin.video.f4mTester/?url=http://alaoulainter-tv.scdn.arkena.com/alaoulainter.isml/manifest.f4m</link></item></streaminginfo>
@@ -474,10 +267,6 @@
 <streaminginfo><cname>Al Maghribia</cname><item><title>Med</title><link>http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101=64000-video=730000.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Al Maghribia</cname><item><title>High</title><link>http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101=64000-video=1130000.m3u8</link></item></streaminginfo>
 
-<streaminginfo><cname>Assadissa</cname><item><title>Low 320x240</title><link>http://assadissa-tv.scdn.arkena.com/assadissa.isml/assadissa-audio101=64000-video=150000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Assadissa</cname><item><title>Low 448x336</title><link>http://assadissa-tv.scdn.arkena.com/assadissa.isml/assadissa-audio101=64000-video=350000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Assadissa</cname><item><title>Med</title><link>http://assadissa-tv.scdn.arkena.com/assadissa.isml/assadissa-audio101=64000-video=730000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Assadissa</cname><item><title>High</title><link>http://assadissa-tv.scdn.arkena.com/assadissa.isml/assadissa-audio101=64000-video=1130000.m3u8</link></item></streaminginfo>
 
 <streaminginfo><cname>Al oula Maroc La3youn</cname><item><title>Low 320x240</title><link>http://alaoulalayoune-tv.scdn.arkena.com/alaoulalayoune.isml/alaoulalayoune-audio101=64000-video=150000.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Al oula Maroc La3youn</cname><item><title>Low 448x336</title><link>http://alaoulalayoune-tv.scdn.arkena.com/alaoulalayoune.isml/alaoulalayoune-audio101=64000-video=350000.m3u8</link></item></streaminginfo>

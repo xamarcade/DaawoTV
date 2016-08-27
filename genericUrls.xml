@@ -346,49 +346,131 @@
 
 <!-- Yemen Channels End -->
 
-
-
-
-
+<!-- Islam Channels Start -->
 
 <streaminginfo>
-	<cname>Elmourabiton</cname>
+	<cname>4Shbab</cname>
+	<item>
+	<title>Low</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+		<regex>
+			<name>get-m3u8final</name>
+			<expres>.*\s?(http.*?)\s</expres>
+			<page>$doregex[get-m3u8]</page>
+			<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+			<cookieJar></cookieJar>
+		</regex>
+		<regex>
+			<name>get-m3u8</name>
+			<expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+			<page>$doregex[get-json]</page>
+		</regex>
+		<regex>
+			<name>get-json</name>
+			<expres>config = ({.*})</expres>
+			<page>https://new.livestream.com/accounts/13608789/events/4065056/player?width=960&amp;amp;height=540&amp;autoPlay=true&amp;mute=false</page>
+			<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+			<cookieJar></cookieJar>
+		</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Al Majd Hadeeth</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/171.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Al Rahma</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/176.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Alinsen</cname>
 	<item>
 	<title>Med</title>
-	<link>http://m.live.net.sa:1935/m/chm7/chunklist.m3u8</link>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/Insen-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
 	</item>
-</streaminginfo> 
+</streaminginfo>
+
 <streaminginfo>
-	<cname>SM SM KIDS</cname>
+	<cname>AlJameela</cname>
+	<item>
+    	<title>low</title>
+    	<link>http://de.live.net.sa:1935/live/alj/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo><cname>ALNADATV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=0G6qeODyRbc</link></item></streaminginfo>
+	<streaminginfo>
+		<cname>ALNADATV</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=$doregex[get-id]</link>
+			<regex>
+			<name>get-id</name>
+			<expres>src="//www.youtube.com/embed/(.*?)?rel=0&amp;autoplay=1</expres>
+			<page>http://www.alnada.tv/cms/live.php</page>
+			</regex>
+		</item>
+	</streaminginfo>
+
+<streaminginfo><cname>Burhan</cname><item><title>arabch.tv</title><link>http://streaming.i-sat.tv:1935/live/burhan.stream_360p/playlist.m3u8</link></item></streaminginfo>
+
+<streaminginfo>
+<cname>Coran</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/coran-tv-5/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo><cname>Ibnothaimeentv</cname><item><title>Alibel You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=uSe9Emar5t8</link></item></streaminginfo>
+
+<streaminginfo>
+	<cname>Iqra</cname>
 	<item>
 	<title>Med</title>
-	<link>http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8</link>
+	<link>http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Iqra America</cname>
+	<item>
+	<title>Med</title>
+	<link>http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_americac</link>
 	</item>
 </streaminginfo> 
-<!--
 <streaminginfo>
-	<cname>Tom and Jerry</cname>
+	<cname>Iqra Europe</cname>
 	<item>
-	<title>Source SD</title>
-	<link>rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1</link>
-	</item>	
-</streaminginfo>
--->
-<streaminginfo>
-	<cname>Tom and Jerry</cname>
-	<item>
-	<title>Source SD</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lucky.lts1.net:23000/live/yKr4zy3JJW/jrjZ3ygVUA/21102.ts</link>
-	</item>	
-</streaminginfo>
- <streaminginfo>
-	<cname>Tom and Jerry</cname>
-	<item>
-	<title>med</title>
-	<link>rtmp://208.53.164.194/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?file=tom.flv&amp;type=rtmp&amp;streamer=rtmp://206.190.132.244/tvamigos/&amp;autostart=true&amp;bufferlength=1&amp;stretching=exactfit&amp;controlbar=over pageUrl=http://www.carolineoliveira.com.br/swf/player.swf?file=tom.flv&amp;type=rtmp&amp;streamer=rtmp://206.190.132.244/tvamigos/&amp;autostart=true&amp;bufferlength=1&amp;stretching=exactfit&amp;controlbar=over</link>
+	<title>Med</title>
+	<link>http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_africa</link>
 	</item>
 </streaminginfo> 
-	
 
 <streaminginfo>
 	<cname>Islam Channel UK</cname>
@@ -397,6 +479,39 @@
 	<link>http://wowza05.sharp-stream.com:1935/islamtv/mp4:islamtv.stream/chunklist_w110095687.m3u8</link>
 	</item>
 </streaminginfo>	
+
+<streaminginfo><cname>Kaifa</cname><item><title>188</title><link>http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8</link></item></streaminginfo>
+
+	<streaminginfo>
+		<cname>M3Ali Tv</cname>
+		<item>
+			<title>elahmad</title>
+			<link>rtmp://free.flashwebtown.com:1935/bashaclick playpath=myStream.sdp swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=m3alitv&amp;autostart=true pageUrl=http://www.elahmad.com/tv/m3alitv.php timeout=20</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+    <cname>Mecca</cname>
+	<item>
+	<title>Med: You need to install f4m_tester addon from Shani Repo</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://streamer11.elementssys.com:8080/Mecca-TV/Mecca_1/archive/1472330593/now/manifest.f4m</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Mecca</cname>
+	<item>
+	<title>Med: You need to install f4m_tester addon from Shani Repo</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://streamer11.elementssys.com:8080/mecca/archive/1422705471/now/manifest.f4m</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Noor Dubai</cname>
+	<item>
+	<title>Med</title>
+	<link>http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w512425117_b1200000.m3u8</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>Peace TV Asia</cname>
@@ -413,95 +528,7 @@
 	</item>
 </streaminginfo>
 
-
-<streaminginfo>
-	<cname>GuideUS TV</cname>
-	<item>
-	<title>RTMP_Stream</title>
-	<link>rtmp://stream.streamislam.com:1935/streamer/live</link>
-	</item>
-</streaminginfo>
-
-
-
-
-
-<streaminginfo>
-    <cname>Libya 2</cname>
-	<item>
-	<title>Low</title>
-	<link>http://173.224.120.161:1935/live/myStream/gmswf.m3u8</link>
-	</item>
-</streaminginfo>
-
-
-
-
-
-<streaminginfo><cname>Zaitouna</cname><item><title>wowzacontrol.com</title><link>http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8</link></item></streaminginfo>
-
-
-<streaminginfo>
-	<cname>OSN Movies Kids</cname>
-	<item>
-	<title>Amiin: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/514.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>MBC 3</cname>
-<item>
-<title>tvlive12</title>
-<link>http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/15.m3u8|X-Forwarded-For=80.217.155.211</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>MBC 3</cname>
-<item>
-<title>tvlive463</title>
-<link>http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/463.m3u8|X-Forwarded-For=80.217.155.211</link>
-</item>
-</streaminginfo>
-
-
-
-	<streaminginfo>
-		<cname>Quran TV ksa</cname>
-		<item>
-			<title>ustream</title>
-			<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/17904315/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex>
-		</item>
-	</streaminginfo>
-
-
-
-
-<!--
-<streaminginfo>
-        <cname>Hawas</cname>
-	<item>
-	<title>You need to install f4m_tester addon from Shani Repo</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://flash-lh.akamaihd.net/z/hawas_1@192483/manifest.f4m?hdcore=2.11.3&amp;ag=CSNEUQOFUMPG</link>
-	</item>
-</streaminginfo>
--->
-
-
-
-
-
-<streaminginfo>
-	<cname>Tanasuh</cname>
-	<item><title>Med</title>
-	<link>http://m.live.net.sa:1935/m/tanasuhtv/chunklist.m3u8</link>
-	</item>
-</streaminginfo>
+<streaminginfo><cname>Quran Hidayah</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=20PObSQqncc</link></item></streaminginfo>
 
 
 <streaminginfo>
@@ -700,7 +727,7 @@
     <cname>Quran Radio</cname>
 	<item>
 		<title>Maher Al Meaqli</title>
-		<link>Radiomms://50.22.223.13/maher</link>
+		<link>mms://50.22.223.13/maher</link>
 	</item>
 </streaminginfo>
 
@@ -728,14 +755,205 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo><cname>Quran TV ksa</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=lsKg9KpVaKg</link></item></streaminginfo>
+<streaminginfo>
+	<cname>Quran TV ksa</cname>
+	<item>
+	<title>Med 2</title>
+	<link>rtmpt://1356438483@199.167.151.237/live playpath=dub_1_ch1377?key=F0645B69278437229F1C8606B4112D244ABFDEA1B7758ACE0722110E372FB15E swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=quranalkareem&amp;autostart=true&amp;/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/qurantv.php</link>
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>Quran TV ksa</cname>
+	<item>
+	<title>Med</title>
+	<link>http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream1.m3u8?v=1356438483</link>
+	</item>
+</streaminginfo>
+ <streaminginfo>
+	<cname>Quran TV ksa</cname>
+	<item>
+	<title>Elahmad</title>
+	<link>http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=qurantv</link>
+	</item>
+</streaminginfo> 
+
+ <streaminginfo>
+	<cname>Safa</cname>
+	<item>
+	<title>Elahmad</title>
+	<link>rtmp://41.128.181.132:1935/live/?=1356438483 playpath=SafaTV.stream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=safatv&amp;autostart=true&amp;/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/safaatv.php
+</link>
+	</item>
+</streaminginfo> 
+
+<streaminginfo>
+    <cname>Selah</cname>
+	<item>
+	<title>Low: You need to install f4m_tester addon from Shani Repo</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://streamer11.elementssys.com:8080/selah/archive/1415734692/now/manifest.f4m</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Shada</cname>
+	<item>
+	<title>Low</title>
+	<link>http://38.96.148.147:1935/live/livestream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo><cname>sunnah TV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ArVmnth5jB4</link></item></streaminginfo>
+<streaminginfo>
+	<cname>sunnah TV</cname>
+	<item>
+	<title>Med</title>
+	<link>http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream1.m3u8?v=1356438483</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>sunnah TV</cname>
+	<item>
+	<title>Elahmad</title>
+	<link>http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=sunnatv</link>
+	</item>
+</streaminginfo> 
+
+<streaminginfo>
+   	<cname>Syria Nour</cname>
+	<item>
+	<title>Low</title>
+	<link>http://82.137.248.21:1935/Nour/NourLive1/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Syria Nour</cname>
+	<item>
+	<title>Med: You need to install f4m_tester addon from Shani Repo</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://82.137.248.21:1935/Nour/NourLive3/manifest.f4m</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria Nour</cname>
+	<item>
+	<title>Med</title>
+	<link>http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria Nour</cname>
+	<item>
+	<title>High</title>
+	<link>http://82.137.248.21:1935/Nour/NourLive3/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Tanasuh</cname>
+	<item><title>Med</title>
+	<link>http://m.live.net.sa:1935/m/tanasuhtv/chunklist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Tayba</cname>
+	<item><title>Med</title>
+	<link>rtmp://109.123.123.82:1935/tayba playpath=taybatv swfUrl=http://www.elahmad.com/tv/swf/taybatv.swf?autostart=true&amp;/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/taybatv.php</link>
+	</item>
+</streaminginfo>
+
+	<streaminginfo>
+		<cname>Wesal Tv</cname>
+		<item>
+			<title>elahmad</title>
+			<link>rtmp://109.123.123.82:1935/wesal playpath=wesal1 swfUrl=http://www.elahmad.com/tv/swf/wesaltv.swf?autostart=true pageUrl=http://www.elahmad.com/tv/wesaltv.htm timeout=20</link>
+		</item>
+	</streaminginfo>
 
 
+<!-- Islam Channels End -->
+
+<streaminginfo>
+		<cname>Al majd</cname>
+		<item>
+	<title>islambox</title>
+	<link>rtmp://ib12.islambox.tv/live/almhoqur?key=E3C514495F7B7D6C04E64D615E9733F311B948F638FCCAE21768A21BADF49C4B timeout=20</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Elmourabiton</cname>
+	<item>
+	<title>Med</title>
+	<link>http://m.live.net.sa:1935/m/chm7/chunklist.m3u8</link>
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>SM SM KIDS</cname>
+	<item>
+	<title>Med</title>
+	<link>http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8</link>
+	</item>
+</streaminginfo> 
+<!--
+<streaminginfo>
+	<cname>Tom and Jerry</cname>
+	<item>
+	<title>Source SD</title>
+	<link>rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1</link>
+	</item>	
+</streaminginfo>
+-->
+<streaminginfo>
+	<cname>Tom and Jerry</cname>
+	<item>
+	<title>Source SD</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lucky.lts1.net:23000/live/yKr4zy3JJW/jrjZ3ygVUA/21102.ts</link>
+	</item>	
+</streaminginfo>
+ <streaminginfo>
+	<cname>Tom and Jerry</cname>
+	<item>
+	<title>med</title>
+	<link>rtmp://208.53.164.194/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?file=tom.flv&amp;type=rtmp&amp;streamer=rtmp://206.190.132.244/tvamigos/&amp;autostart=true&amp;bufferlength=1&amp;stretching=exactfit&amp;controlbar=over pageUrl=http://www.carolineoliveira.com.br/swf/player.swf?file=tom.flv&amp;type=rtmp&amp;streamer=rtmp://206.190.132.244/tvamigos/&amp;autostart=true&amp;bufferlength=1&amp;stretching=exactfit&amp;controlbar=over</link>
+	</item>
+</streaminginfo> 
+	
+
+<streaminginfo>
+    <cname>Libya 2</cname>
+	<item>
+	<title>Low</title>
+	<link>http://173.224.120.161:1935/live/myStream/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
 
 
+<streaminginfo><cname>Zaitouna</cname><item><title>wowzacontrol.com</title><link>http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8</link></item></streaminginfo>
 
 
+<streaminginfo>
+	<cname>OSN Movies Kids</cname>
+	<item>
+	<title>Amiin: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/514.ts</link>
+	</item>
+</streaminginfo>
 
-
+<streaminginfo>
+<cname>MBC 3</cname>
+<item>
+<title>tvlive12</title>
+<link>http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/15.m3u8|X-Forwarded-For=80.217.155.211</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC 3</cname>
+<item>
+<title>tvlive463</title>
+<link>http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/463.m3u8|X-Forwarded-For=80.217.155.211</link>
+</item>
+</streaminginfo>
 
 
 <streaminginfo>
@@ -814,8 +1032,8 @@
 
 
 <streaminginfo><cname>Nilat</cname><item><title>188</title><link>http://82.212.95.122:1935/live/nilat.stream_360p/hassuni.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Kaifa</cname><item><title>188</title><link>http://82.212.95.122:1935/live/kifa.stream_360p/hassuni.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Burhan</cname><item><title>arabch.tv</title><link>http://82.212.95.122:1935/live/burhan.stream_360p/playlist.m3u8</link></item></streaminginfo>
+
+
 <streaminginfo><cname>Libya One</cname><item><title>arabch.tv</title><link>http://82.212.95.122:1935/live/Libya-One.stream_360p/playlist.m3u8</link></item></streaminginfo>
 
 
@@ -851,17 +1069,6 @@
 	</item>
 </streaminginfo>
 
-
-
-
-
-<streaminginfo>
-        <cname>Quran TV ksa</cname>
-	<item>
-	<title>m3u8 Source</title>
-	<link>http://46.245.160.224/mekke/mekke/chunklist_w581447799.m3u8</link>
-	</item>
-</streaminginfo>
 
 
 
@@ -906,25 +1113,6 @@
 
 
 
-
-
-
-
-<streaminginfo>
-		<cname>Almajd</cname>
-		<item>
-	<title>islambox</title>
-	<link>rtmp://ib12.islambox.tv/live/almhoqur?key=E3C514495F7B7D6C04E64D615E9733F311B948F638FCCAE21768A21BADF49C4B timeout=20</link>
-		</item>
-</streaminginfo>
-
-
-
-
-
-
-
-
 <streaminginfo>
 <cname>AlYawm</cname>
 <item>
@@ -939,36 +1127,10 @@
 </streaminginfo>
 
 
-<streaminginfo><cname>Quran Hidayah</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=20PObSQqncc</link></item></streaminginfo>
-<streaminginfo><cname>sunnah TV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=4OoKpZWJASY</link></item></streaminginfo>
-<streaminginfo><cname>Quran TV ksa</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ArVmnth5jB4</link></item></streaminginfo>
-<streaminginfo><cname>Quran TV ksa</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=VopbGPJVkzM</link></item></streaminginfo>
 
-<streaminginfo><cname>ALNADATV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=0G6qeODyRbc</link></item></streaminginfo>
-<streaminginfo><cname>Mecca</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ArVmnth5jB4</link></item></streaminginfo>
 
-	<streaminginfo>
-		<cname>ALNADATV</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=$doregex[get-id]</link>
-			<regex>
-			<name>get-id</name>
-			<expres>src="//www.youtube.com/embed/(.*?)?rel=0&amp;autoplay=1</expres>
-			<page>http://www.alnada.tv/cms/live.php</page>
-			</regex>
-		</item>
-	</streaminginfo>
 
-<streaminginfo><cname>Ibnothaimeentv</cname><item><title>Alibel You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=EyszcUeiq6w</link></item></streaminginfo>
 
-	<streaminginfo>
-		<cname>M3Ali Tv</cname>
-		<item>
-			<title>elahmad</title>
-			<link>rtmp://free.flashwebtown.com:1935/bashaclick playpath=myStream.sdp swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=m3alitv&amp;autostart=true pageUrl=http://www.elahmad.com/tv/m3alitv.php timeout=20</link>
-		</item>
-	</streaminginfo>
 
 
 
@@ -1029,27 +1191,6 @@
 </regex>
 </item>
 </streaminginfo>
-<streaminginfo>
-<cname>Coran</cname>
-<item>
-<title>800</title>
-<link>$doregex[url]|User-Agent=iPad</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>jsonurl</name>
-	<expres>url":"(.*?)"</expres>
-	<page>http://playtv.fr/player/play/coran-tv-5/?bitrate=800&amp;format=hls&amp;language=ar</page>
-	<referer>http://playtv.fr</referer>
-</regex>
-</item>
-</streaminginfo>
-
-
-
 
 
 
