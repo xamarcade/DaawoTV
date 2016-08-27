@@ -209,14 +209,7 @@
 	<cname>Sanaa</cname>
 	<item>
 	<title>Elahmad</title>
-	<link>rtmp://82.212.95.122:1935/live?hghpl=1356439042 playpath=sanaa1 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=shar3yah pageUrl=http://www.elahmad.com/tv/yemen-tv.php</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Sanaa</cname>
-	<item>
-	<title>Low</title>
-	<link>http://82.212.95.122:1935/live/sanaa1/gmswf.m3u8</link>
+	<link>rtmp://185.27.116.54:1935/live?hghpl=1356438483 playpath=sanaa1 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=sanaatv&amp;autostart=true&amp;/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm</link>
 	</item>
 </streaminginfo>
 

@@ -149,11 +149,18 @@
 
 -->
 
-
-
 <!-- Somalian Channels End -->
 
 <!-- Yemen Channels Start -->
+
+<channel>
+	<cname>Aden</cname>
+	<imageurl>http://www.worldakhbar.com/wp-content/uploads/%D9%82%D9%86%D8%A7%D8%A9-%D8%B9%D8%AF%D9%86-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>yemen</category>
+	</assignedcategory>
+</channel>
 
 <channel>
 	<cname>Masira</cname>
