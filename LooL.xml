@@ -460,6 +460,72 @@
 
 <!-- Iraq Channels Start -->
 
+	<streaminginfo>
+		<cname>Al Sharqiya</cname>
+		<item>
+			<title>indexforce</title>
+			<link>rtmp://ns8.indexforce.com/home/mystream timeout=20</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+    <cname>Al Sharqiya</cname>
+	<item>
+	<title>Low</title>
+	<link>http://46.165.208.230:1935/home/mystream/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>Al Taghier</cname>
+	<item>
+	<title>Low</title>
+	<link>http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Al Taghier</cname>
+	<item>
+	<title>Low: You need to install f4m_tester addon from Shani Repo</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://stream1.joinvisions.net:1935/taglive/taghier/manifest.f4m</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Al-hurra Iraq</cname>
+	<item>
+	<title>Low</title>
+	<link>rtmp://cp51007.live.edgefcs.net:80/live?ovpfv=2.1.6/Alhurra_Flash@15 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.alhurra.com/info/english/112.html</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al-hurra Iraq</cname>
+	<item>
+	<title>mbnhls</title>
+	<link>http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Dejlah</cname>
+	<item>
+	<title>Med</title>
+	<link>rtmp://91.134.145.75:1935 playpath=Dijlah?speed=1 swfUrl=http://91.134.145.75:10001/flu/FlussonicAS3.swf?t=1472321227617 pageUrl=http://91.134.145.75:10001/Dijlah/embed.html?dvr=true</link>
+	</item>
+</streaminginfo>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

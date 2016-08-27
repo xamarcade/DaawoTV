@@ -1,9 +1,5 @@
 <streamingInfos>
 
-
-
-
- 
 <streaminginfo>
 	<cname>218TV</cname>
 	<item>
@@ -176,16 +172,6 @@
 
 
 
-<streaminginfo>
-    <cname>Al Taghier</cname>
-	<item>
-	<title>Low</title>
-	<link>http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8</link>
-	</item>
-</streaminginfo>
-
-
-
 
 
 
@@ -212,19 +198,6 @@
 </streaminginfo>
 
 
-
-
-
-
-<streaminginfo>
-		<cname>Houna Baghdad</cname>
-		<item>
-		<title>Med</title>
-		<link>http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8</link>
-		</item>
-</streaminginfo>
-
-
 <streaminginfo>
     <cname>Selah</cname>
 	<item>
@@ -234,67 +207,6 @@
 </streaminginfo>
 
 
-
-<streaminginfo>
-	<cname>Canal plus</cname>
-	<item>
-	<title>Canal+ en clair</title>
-	<link>rtmp://live-fms.canalplus.fr:1935/live/canalplusclair_1500@42246 timeout=15</link>
-	</item>
-</streaminginfo>
-
-
-
-
-
-
-
-
-
-<streaminginfo>
-     <cname>Al Sumaria</cname>
-	<item>
-	<title>Low</title>
-	<link>rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live_160p swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Al Sumaria</cname>
-	<item>
-	<title>Med</title>
-	<link>rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live_240p swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Al Sumaria</cname>
-	<item>
-	<title>High</title>
-	<link>rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live_360p swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live</link>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-     <cname>Al Sumaria</cname>
-	<item>
-	<title>Highst</title>
-	<link>rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live</link>
-	</item>
-</streaminginfo>
-
-
-
-
-
-
-
-<streaminginfo>
-    <cname>Al Taghier</cname>
-	<item>
-	<title>Low: You need to install f4m_tester addon from Shani Repo</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://stream1.joinvisions.net:1935/taglive/taghier/manifest.f4m</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
     <cname>Assalamu Alayk</cname>
 	<item>
@@ -302,10 +214,6 @@
 	<link>http://5.9.96.232:1935/live/salam/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-
-
-
-
 
 <streaminginfo>
 	<cname>Al oula Maroc</cname>
@@ -396,16 +304,8 @@
 	
 	
 
-<streaminginfo>
-	<cname>Dejlah</cname>
-	<item>
-	<title>Med</title>
-	<link>http://stream.joinvisions.net:1935/dij/dij/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-	
-	
 
+	
 	
 <streaminginfo>
      <cname>Al Majd Hadeeth</cname>
@@ -414,12 +314,6 @@
 	<link>http://176.52.176.83/3495/playlist.m3u8?stb_id=1&amp;uid=94dfcddc573ed7aadf13eb8c4c7f90b7</link>
 	</item>
 </streaminginfo>
-	
-
-	
-
-
-	
 	
 
 	<streaminginfo>
@@ -487,13 +381,7 @@
 
 
 
-<streaminginfo>
-        <cname>Al-hurra Iraq</cname>
-	<item>
-	<title>Low</title>
-	<link>rtmp://cp51007.live.edgefcs.net:80/live?ovpfv=2.1.6/Alhurra_Flash@15 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.alhurra.com/info/english/112.html</link>
-	</item>
-</streaminginfo>
+
 
 
 
@@ -544,10 +432,6 @@
 </streaminginfo>
 
 
-
-
-
-
 <streaminginfo>
     <cname>Shada</cname>
 	<item>
@@ -555,8 +439,6 @@
 	<link>http://38.96.148.147:1935/live/livestream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-
-
 
 
 <streaminginfo><cname>Ajyal</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream2.m3u8</link></item></streaminginfo>
@@ -567,7 +449,6 @@
 
 <streaminginfo><cname>sunnah TV</cname><item><title>SVR2</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel07/_definst_/live/stream2.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Ksunnah TV</cname><item><title>SVR1</title><link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel07/_definst_/live/stream1.m3u8</link></item></streaminginfo>
-
 
 
 <streaminginfo><cname>Tamazigh Maroc</cname><item><title>Med: You need to install f4m_tester addon from Shani Repo</title><link>plugin://plugin.video.f4mTester/?url=http://tamazight-tv.scdn.arkena.com/tamazight.isml/manifest.f4m</link></item></streaminginfo>
