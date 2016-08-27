@@ -206,6 +206,15 @@
 	<category>yemen</category>
 	</assignedcategory>
 </channel>
+
+<channel>
+	<cname>Sanaa</cname>
+	<imageurl>http://s30.postimg.org/905ghuuip/Sana_Sat_Channel_o.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>yemen</category>
+	</assignedcategory>
+</channel>
 <!--
 <channel>
 	<cname>Suhail TV</cname>
@@ -234,14 +243,7 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Sanaa</cname>
-	<imageurl>http://s30.postimg.org/905ghuuip/Sana_Sat_Channel_o.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>yemen</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Yemen Alyawm</cname>
 	<imageurl>http://www.yementodaytv.net/images/logo.png</imageurl>
@@ -3588,11 +3590,49 @@
 	</assignedcategory>
 </channel>
 
-<!-- Iraq Channels Start -->
+<!-- Iraq Channels End -->
+
+<!-- Islam Channels Start -->
 
 <channel>
-	<cname>Quran Hidayah</cname>
-	<imageurl>http://s12.postimg.org/mcy4nlwax/photo.jpg</imageurl>
+    <cname>4Shbab</cname>
+    <imageurl>http://www.lyngsat-logo.com/hires/num/4shbab_tv1_eg.png</imageurl>
+    <enabled>True</enabled>
+    <assignedcategory>
+    <category>islam</category>
+    </assignedcategory>
+</channel>
+
+<channel>
+	<cname>Al Majd</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mjd1_zps6cc89fac.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Al Majd Hadeeth</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mjd1_zps6cc89fac.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Al Rahma</cname>
+	<imageurl>http://thewatchtv.com/wp-content/uploads/2013/03/Watch-Al-Rahma-Live-TV-from-Egypt.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Al Sabah</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_sabah_tv.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>islam</category>
@@ -3600,41 +3640,112 @@
 </channel>
 
 <channel>
-	<cname>Elmourabiton</cname>
-	<imageurl>http://s8.postimg.org/6dyyieco5/mor_n.png</imageurl>
+	<cname>Al-Resalah</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/res_zps7a9d541f.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
- <channel>
-	<cname>218TV</cname>
-	<imageurl>http://s17.postimg.org/4d5vmo227/unnamed.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
+	<category>islam</category>
 	</assignedcategory>
 </channel>	
 
 <channel>
-	<cname>Aljaleya</cname>
-	<imageurl>http://s19.postimg.org/xf91thi4j/Aljaleya.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-		
-<channel>
-	<cname>Tanasuh</cname>
-	<imageurl>http://s17.postimg.org/vro4lvmov/1259035.png</imageurl>
+	<cname>Alinsen</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_insan_tv_tn.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>islam</category>
 	</assignedcategory>
 </channel>
 
+<channel>
+    <cname>AlJameela</cname>
+    <imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_jameela_tv.png</imageurl>
+    <enabled>True</enabled>
+    <assignedcategory>
+	<category>islam</category>
+    </assignedcategory>
+</channel>
+
+<channel>
+	<cname>ALNADATV</cname>
+	<imageurl>http://www.zajelcard.com/logos/AlnadaAlnadaal_nada_tv.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Assadissa</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/6d_zpsc4b4aa57.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Assalamu Alayk</cname>
+	<imageurl>http://yemenportal.net/images/2013/02/28/179444842094597_k.fbcdn.netsafe_image.phpdAQAKZJk7Y7w55wm1urlhttps3A2F2Ffbcdn-profile-a.akamaihd.net2Fhprofile-ak-ash42F373018_518026048231162_923776733_n.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Burhan</cname>
+	<imageurl>http://s3.postimg.org/xwuq2ia73/burhan.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Coran</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/tvg_zps33829f55.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+     <cname>GuideUS TV</cname>
+     <imageurl>http://www.lyngsat-logo.com/logo/tv/gg/guide_us_tv.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+	 <category>islam</category>
+     </assignedcategory>
+</channel>
+
+<channel>
+	<cname>Huda</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/hh/huda_tv.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Ibnothaimeentv</cname>
+	<imageurl>https://yt3.ggpht.com/-CKxhCV0grPg/AAAAAAAAAAI/AAAAAAAAAAA/pffBDV51aqc/s100-c-k-no/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Iqra</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/iqr_zps13586871.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
 
 <channel>
 	<cname>Islam Channel UK</cname>
@@ -3645,6 +3756,41 @@
 	</assignedcategory>
 </channel>	
 
+<channel>
+	<cname>Kaifa</cname>
+	<imageurl>http://www.jascomediacity.net/images/New/partners/logo%20kifa.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>M3Ali Tv</cname>
+	<imageurl>http://www.m3ali.tv/images23/index_06.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+     <cname>Mecca</cname>
+     <imageurl>http://s28.postimg.org/4sitz3lod/Unbenannt.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+	<category>islam</category>
+     </assignedcategory>
+</channel>
+
+<channel>
+	<cname>Noor Dubai</cname>
+	<imageurl>http://s22.postimg.org/rfvxqr169/Noor.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
 
 <channel>
      <cname>Peace TV Asia</cname>
@@ -3662,14 +3808,132 @@
 	 <category>islam</category>
      </assignedcategory>
 </channel>
+
 <channel>
-     <cname>GuideUS TV</cname>
-     <imageurl>http://www.lyngsat-logo.com/logo/tv/gg/guide_us_tv.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-	 <category>islam</category>
-     </assignedcategory>
+	<cname>Quran Hidayah</cname>
+	<imageurl>http://s12.postimg.org/mcy4nlwax/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
 </channel>
+
+<channel>
+	<cname>Quran Radio</cname>
+	<imageurl>https://lh5.ggpht.com/4BKwazfLGLgXK5GUEzgW07Zf2tjswDFKuUt19BBW-ZU_Pc3isyeMo7relFlKlg_-Wd8=w300</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Quran TV ksa</cname>
+	<imageurl>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmVWS5gB7j1HX-o2RXZK1-0_Tvt1ZWEWLeI0Ui2tlF3VTT0axc-w</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Safa</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/ss/safa_tv_sa.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Selah</cname>
+	<imageurl>http://s16.postimg.org/u08vwfm7l/sela_logo1.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Shada</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/ss/shada_tv_jo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>sunnah TV</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/snn_zpsd7d0fbe7.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Syria Nour</cname>
+	<imageurl>http://live.rtv.gov.sy/images/nour.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Tanasuh</cname>
+	<imageurl>http://s17.postimg.org/vro4lvmov/1259035.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Tayba</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/tt/tayba_tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+	
+<channel>
+	<cname>Wesal Tv</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/wsl_zpsd5639b30.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
+
+<!-- Islam Channels End -->
+<channel>
+	<cname>Elmourabiton</cname>
+	<imageurl>http://s8.postimg.org/6dyyieco5/mor_n.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+
+ <channel>
+	<cname>218TV</cname>
+	<imageurl>http://s17.postimg.org/4d5vmo227/unnamed.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Aljaleya</cname>
+	<imageurl>http://s19.postimg.org/xf91thi4j/Aljaleya.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
 
 <channel>
 	<cname>Beur</cname>
@@ -3699,54 +3963,6 @@
  </channel>
 
 <channel>
-	<cname>Burhan</cname>
-	<imageurl>http://s3.postimg.org/xwuq2ia73/burhan.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-    <cname>AlJameela</cname>
-    <imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_jameela_tv.png</imageurl>
-    <enabled>True</enabled>
-    <assignedcategory>
-	<category>islam</category>
-    </assignedcategory>
-</channel>
-
-
-<channel>
-	<cname>Selah</cname>
-	<imageurl>http://s16.postimg.org/u08vwfm7l/sela_logo1.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-     <cname>Mecca</cname>
-     <imageurl>http://s28.postimg.org/4sitz3lod/Unbenannt.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-	<category>islam</category>
-     </assignedcategory>
-</channel>
-
-<channel>
-	<cname>Assalamu Alayk</cname>
-	<imageurl>http://yemenportal.net/images/2013/02/28/179444842094597_k.fbcdn.netsafe_image.phpdAQAKZJk7Y7w55wm1urlhttps3A2F2Ffbcdn-profile-a.akamaihd.net2Fhprofile-ak-ash42F373018_518026048231162_923776733_n.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
-
-
-
-<channel>
 	<cname>OSN Movies Kids</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_movies_kids.png</imageurl>
 	<enabled>True</enabled>
@@ -3771,19 +3987,6 @@
 	</assignedcategory>
 </channel> 
 
-
-
-<channel>
-	<cname>Quran Radio</cname>
-	<imageurl>https://lh5.ggpht.com/4BKwazfLGLgXK5GUEzgW07Zf2tjswDFKuUt19BBW-ZU_Pc3isyeMo7relFlKlg_-Wd8=w300</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
-
-
-
 <channel>
 	<cname>Libya One</cname>
 	<imageurl>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/t1.0-1/c25.25.315.315/s160x160/205367_403626716340925_5096025_n.jpg</imageurl>
@@ -3793,64 +3996,6 @@
 	</assignedcategory>
 </channel>
 
-
-
-<channel>
-	<cname>ALNADATV</cname>
-	<imageurl>https://yt3.ggpht.com/-JLVPgEbFuy8/AAAAAAAAAAI/AAAAAAAAAAA/GX4VXPamOms/s100-c-k-no/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
-
-
-
-<channel>
-	<cname>Ibnothaimeentv</cname>
-	<imageurl>https://yt3.ggpht.com/-CKxhCV0grPg/AAAAAAAAAAI/AAAAAAAAAAA/pffBDV51aqc/s100-c-k-no/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
-
-
-<channel>
-	<cname>Huda</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/hh/huda_tv.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Kaifa</cname>
-	<imageurl>http://www.jascomediacity.net/images/New/partners/logo%20kifa.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Al Sabah</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_sabah_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Tayba</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/tt/tayba_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
 <channel>
 	<cname>Om Durman</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/oo/omdurman_tv.png</imageurl>
@@ -3866,15 +4011,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-	
-<channel>
-	<cname>Alinsen</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_insan_tv_tn.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
 	</assignedcategory>
 </channel>
 
@@ -3897,15 +4033,6 @@
 </channel>	
 
 <channel>
-	<cname>Syria Nour</cname>
-	<imageurl>http://live.rtv.gov.sy/images/nour.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
 	<cname>Ajyal</cname>
 	<imageurl>http://s11.postimg.org/qbxxmbz4z/ajyal.png</imageurl>
 	<enabled>True</enabled>
@@ -3914,32 +4041,7 @@
 	</assignedcategory>
 </channel>	
 
-<channel>
-	<cname>Al Majd</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mjd1_zps6cc89fac.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Al Majd Hadeeth</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mjd1_zps6cc89fac.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Al-Resalah</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/res_zps7a9d541f.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>		
+	
 
 <channel>
 	<cname>Aljazeera Children</cname>
@@ -3949,28 +4051,6 @@
 	<category>kids</category>
 	</assignedcategory>
 </channel>	
-
-
-
-<channel>
-	<cname>Coran</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/tvg_zps33829f55.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Iqra</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/iqr_zps13586871.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>	
-
-
 
 <channel>
 	<cname>MBC 3</cname>
@@ -3998,22 +4078,7 @@
 	</assignedcategory>
 </channel>		
 
-<channel>
-	<cname>Noor Dubai</cname>
-	<imageurl>http://s22.postimg.org/rfvxqr169/Noor.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>		
-<channel>
-	<cname>Shada</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ss/shada_tv_jo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>	
+
 <channel>
 	<cname>Karameesh</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/kk/karameesh.png</imageurl>
@@ -4040,15 +4105,7 @@
 	<category>kids</category>
 	</assignedcategory>
 </channel>	
-	
-<channel>
-	<cname>Bilad Al Harameen</cname>
-	<imageurl>https://pbs.twimg.com/profile_images/723797752862392320/fGRqpiu_.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
+
 	
 <channel>
 	<cname>Al Magharibia 2</cname>
@@ -4213,42 +4270,6 @@
 	<assignedcategory>
 	<category>kids</category>
 	</assignedcategory>
-</channel>	
-	
-<channel>
-	<cname>M3Ali Tv</cname>
-	<imageurl>http://www.m3ali.tv/images23/index_06.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>	
-	
-<channel>
-	<cname>Wesal Tv</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/wsl_zpsd5639b30.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>sunnah TV</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/snn_zpsd7d0fbe7.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Quran TV ksa</cname>
-	<imageurl>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmVWS5gB7j1HX-o2RXZK1-0_Tvt1ZWEWLeI0Ui2tlF3VTT0axc-w</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
 </channel>		
 
 <channel>
@@ -4300,15 +4321,6 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Assadissa</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/6d_zpsc4b4aa57.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
 	</assignedcategory>
 </channel>	
 
@@ -4428,18 +4440,6 @@
 	<category>North Africa</category>
 	</assignedcategory>
 </channel>
-
-
-
-<channel>
-    <cname>4Shbab</cname>
-    <imageurl>http://www.lyngsat-logo.com/hires/num/4shbab_tv1_eg.png</imageurl>
-    <enabled>True</enabled>
-    <assignedcategory>
-    <category>islam</category>
-    </assignedcategory>
-</channel>
-
 
 <channel>
      <cname>Atfal wa Mawaheb</cname>
