@@ -775,27 +775,6 @@
 </streaminginfo>
 
 <streaminginfo><cname>Quran TV ksa</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=lsKg9KpVaKg</link></item></streaminginfo>
-<streaminginfo>
-	<cname>Quran TV ksa</cname>
-	<item>
-	<title>Med 2</title>
-	<link>rtmpt://1356438483@199.167.151.237/live playpath=dub_1_ch1377?key=F0645B69278437229F1C8606B4112D244ABFDEA1B7758ACE0722110E372FB15E swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=quranalkareem&amp;autostart=true&amp;/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/qurantv.php</link>
-	</item>
-</streaminginfo> 
-<streaminginfo>
-	<cname>Quran TV ksa</cname>
-	<item>
-	<title>Med</title>
-	<link>http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream1.m3u8?v=1356438483</link>
-	</item>
-</streaminginfo>
- <streaminginfo>
-	<cname>Quran TV ksa</cname>
-	<item>
-	<title>Elahmad</title>
-	<link>http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=qurantv</link>
-	</item>
-</streaminginfo> 
 
  <streaminginfo>
 	<cname>Safa</cname>
@@ -891,14 +870,6 @@
 
 
 <!-- Islam Channels End -->
-
-<streaminginfo>
-		<cname>Al majd</cname>
-		<item>
-	<title>islambox</title>
-	<link>rtmp://ib12.islambox.tv/live/almhoqur?key=E3C514495F7B7D6C04E64D615E9733F311B948F638FCCAE21768A21BADF49C4B timeout=20</link>
-		</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>Elmourabiton</cname>
