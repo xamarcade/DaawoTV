@@ -27,14 +27,7 @@
      <category>somalia</category>
      </assignedcategory>
 </channel>
-<channel>
-	<cname>Somali  Channel</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/smli_zps93a6c01a.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>SBC</cname>
 	<imageurl>http://allsbc.com/sbcon/wp-content/themes/sbc-2015/images/sbc-logo-blue-lg.png</imageurl>
@@ -96,7 +89,7 @@
 </channel>
 -<channel>
 	<cname>Dalmar TV</cname>
-	<imageurl>http://www.dalmartv.com/wp-content/uploads/2015/03/DALMAR-TV-Final-LOGO-300x150.jpg</imageurl>
+	<imageurl>https://pbs.twimg.com/profile_images/637314509141581825/zf3j1yjK.jpg</imageurl>
 	<enabled>True</enabled>
 -	<assignedcategory>
 		<category>somalia</category>
@@ -120,7 +113,14 @@
 	</assignedcategory>
 </channel>
 <!--
-
+<channel>
+	<cname>Somali  Channel</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/smli_zps93a6c01a.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>somalia</category>
+	</assignedcategory>
+</channel>
 <channel>
 	<cname>Royal TV Somalia</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rylsml_zps4185b722.png</imageurl>

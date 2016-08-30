@@ -9,20 +9,6 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/84.ts</link>
 </item>
 </streaminginfo>
-<streaminginfo>
-<cname>MBC 1</cname>
-<item>
-<title>Med</title>
-<link>http://mbc4-live.hls.adaptive.level3.net/hls-live/mbc-mbc1/_definst_/live/stream1.m3u8</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>MBC 1</cname>
-<item>
-<title>elahmad</title>
-<link>http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1</link>
-</item>
-</streaminginfo>
 
 <streaminginfo>
 <cname>MBC 2</cname>
@@ -31,26 +17,13 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/85.ts</link>
 </item>
 </streaminginfo>
-<streaminginfo>
-<cname>MBC 2</cname>
-<item>
-<title>elahmad</title>
-<link>http://www.elahmad.com/tv/swf/playlist.php?id=mbc2</link>
-</item>
-</streaminginfo>
+
 
 <streaminginfo>
 <cname>MBC 4</cname>
 <item>
 <title>Amiin</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/87.ts</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>MBC 4</cname>
-<item>
-<title>elahmad</title>
-<link>http://www.elahmad.com/tv/swf/playlist.php?id=mbc4</link>
 </item>
 </streaminginfo>
 
@@ -61,13 +34,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/81.ts</link>
 </item>
 </streaminginfo>
-<streaminginfo>
-<cname>MBC Action</cname>
-<item>
-<title>elahmad</title>
-<link>http://www.elahmad.com/tv/swf/playlist.php?id=mbcaction</link>
-</item>
-</streaminginfo>
+
 
 <streaminginfo>
 <cname>MBC Bollywood</cname>

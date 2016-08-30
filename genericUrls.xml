@@ -45,11 +45,16 @@
 <streaminginfo>
 	<cname>Kalsan Tv</cname>
 	<item>
-	<title>HLS_Stream</title>
-	<link>http://cdn01.iqbroadcast.tv:8081/g1/kalsan300/chunks.m3u8</link>
+	<title>Official</title>
+	<link>$doregex[get-url]</link>
+	<regex>
+	<name>get-url</name>
+	<expres>file: '(.*?)'</expres>
+	<page>http://www.kalsantv.com/</page>
+	<agent>Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</agent>
+	</regex>
 	</item>
 </streaminginfo>
-
 <streaminginfo>
 	<cname>Dalmar TV</cname>
 	<item><title>Youtube - High</title>
@@ -453,22 +458,36 @@
 <streaminginfo>
 	<cname>Iqra</cname>
 	<item>
-	<title>Med</title>
+	<title>Elahmed</title>
 	<link>http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Iqra</cname>
+	<item>
+	<title>Med</title>
+	<link>http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaar.smil/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Iqra America</cname>
 	<item>
 	<title>Med</title>
-	<link>http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_americac</link>
+	<link>http://iqraa.cdn.mangomolo.com/iqraaen/smil:iqraaen.smil/playlist.m3u8</link>
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>Iqra Europe</cname>
+	<item>
+	<title>Elahmed</title>
+	<link>http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_africa</link>
 	</item>
 </streaminginfo> 
 <streaminginfo>
 	<cname>Iqra Europe</cname>
 	<item>
 	<title>Med</title>
-	<link>http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_africa</link>
+	<link>http://iqraa.cdn.mangomolo.com/iqraafr/smil:iqraafr.smil/playlist.m3u8</link>
 	</item>
 </streaminginfo> 
 
