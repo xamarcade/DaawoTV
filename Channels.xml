@@ -3914,14 +3914,8 @@
 </channel>	
 
 <!-- Islam Channels End -->
-<channel>
-	<cname>Elmourabiton</cname>
-	<imageurl>http://s8.postimg.org/6dyyieco5/mor_n.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
+
+<!-- North AfricaChannels Start -->
 
  <channel>
 	<cname>218TV</cname>
@@ -3931,243 +3925,24 @@
 	<category>North Africa</category>
 	</assignedcategory>
 </channel>	
+
 <channel>
-	<cname>Aljaleya</cname>
-	<imageurl>http://s19.postimg.org/xf91thi4j/Aljaleya.png</imageurl>
-	<enabled>True</enabled>
+	<cname>2M</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/2m_zps92ea421b.png</imageurl>
 	<assignedcategory>
 	<category>North Africa</category>
 	</assignedcategory>
 </channel>	
 
 <channel>
-	<cname>Beur</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/bb/beur_tv_be.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Attasi3a</cname>
-	<imageurl>http://satexpat.com/img/cha/tn/tv9-95x95.gif</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-    	<cname>Tom and Jerry</cname>
-	<imageurl>http://www.americasfreedomfighters.com/wp-content/uploads/2014/10/Tom-And-Jerry-Picture.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>kids</category>
-	</assignedcategory>
- </channel>
-
-<channel>
-	<cname>OSN Movies Kids</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_movies_kids.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>kids</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>First TV</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ff/first_tv_tn.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Canal Atlas</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/cc/canal_atlas_dz.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel> 
-
-<channel>
-	<cname>Libya One</cname>
-	<imageurl>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/t1.0-1/c25.25.315.315/s160x160/205367_403626716340925_5096025_n.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Om Durman</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/oo/omdurman_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Blue Nile</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/bb/blue_nile.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Tamazigh Algeria</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ee/entv_4_tv_tamazight.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Alasr</cname>
-	<imageurl>http://4.bp.blogspot.com/-o9kBpBMJ4eM/UuBd3NHJOOI/AAAAAAAAE1U/Et7FhFfYpkI/s1600/alasr_tv.png</imageurl>
+	<cname>Al Hiwar Ettounsi</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/hiwar_zps48f74f57.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
 	</assignedcategory>
 </channel>	
 
-<channel>
-	<cname>Ajyal</cname>
-	<imageurl>http://s11.postimg.org/qbxxmbz4z/ajyal.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>kids</category>
-	</assignedcategory>
-</channel>	
-
-	
-
-<channel>
-	<cname>Aljazeera Children</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/jeem_zpseaada2dd.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>kids</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>MBC 3</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mbc3_zps071b0fd9.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>kids</category>
-	</assignedcategory>
-</channel>	
-<channel>
-	<cname>Nart</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/nn/national_adiga_rtv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>kids</category>
-	</assignedcategory>
-</channel>	
-	
-<channel>
-	<cname>Mauritanie</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mrtn_zps679492ee.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>		
-
-
-<channel>
-	<cname>Karameesh</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/kk/karameesh.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>kids</category>
-	</assignedcategory>
-</channel>		
-	
-<channel>
-	<cname>Sudan TV</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/sudan_zpsa5859579.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>		
-	
-<channel>
-	<cname>Toyor Al Janah</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/toyor_zps57a34079.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>kids</category>
-	</assignedcategory>
-</channel>	
-
-	
-<channel>
-	<cname>Al Magharibia 2</cname>
-	<imageurl>http://s23.postimg.org/qsrqo9l3v/url.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-<channel>
-	<cname>Al Magharibia</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mgrbi_zps1eec1e35.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-	
-
-
-<channel>
-	<cname>Tunisia national 1</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/ttn1_zps7e34acdf.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Tunisia national 2</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/ttn2_zps9da27537.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Nessma</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nessma_zpsc12bef51.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Hanibal</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/htv_zpsb411e35d.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-	
 <channel>
 	<cname>Al Janoubiya</cname>
 	<imageurl>http://www.aljanoubiyatv.com/-/wp-content/uploads/2014/04/1-300x217.png</imageurl>
@@ -4178,27 +3953,17 @@
 </channel>	
 
 <channel>
-	<cname>TNN</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/tnn_zps49f023d1.png</imageurl>
+	<cname>Al Magharibia</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mgrbi_zps1eec1e35.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
 	</assignedcategory>
 </channel>	
-
-    
+	
 <channel>
-	<cname>Tounesna</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/tunisna_zps3cd36551.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Zaitouna</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/zitoun_zps47a41297.png</imageurl>
+	<cname>Al Magharibia 2</cname>
+	<imageurl>http://s23.postimg.org/qsrqo9l3v/url.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
@@ -4206,8 +3971,35 @@
 </channel>	
 
 <channel>
-	<cname>Al Hiwar Ettounsi</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/hiwar_zps48f74f57.png</imageurl>
+	<cname>Al Maghribia</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/m5_zps9ab04d28.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Al oula Maroc</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/oula_zpsd979b818.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Al oula Maroc la3youn</cname>
+	<imageurl>http://s3.postimg.org/p9cfg9h8f/laayoune.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Alasr</cname>
+	<imageurl>http://4.bp.blogspot.com/-o9kBpBMJ4eM/UuBd3NHJOOI/AAAAAAAAE1U/Et7FhFfYpkI/s1600/alasr_tv.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
@@ -4233,6 +4025,96 @@
 </channel>	
 
 <channel>
+	<cname>Aljaleya</cname>
+	<imageurl>http://s19.postimg.org/xf91thi4j/Aljaleya.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Arrabia</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/m4_zpse201689a.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Ashorooq</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/ashorooq_tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Attasi3a</cname>
+	<imageurl>http://satexpat.com/img/cha/tn/tv9-95x95.gif</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Beur</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/bb/beur_tv_be.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Blue Nile</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/bb/blue_nile.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Canal Atlas</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/cc/canal_atlas_dz.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel> 
+
+<channel>
+	<cname>Dzair tv</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/dzer_zpseefbfe79.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Echorouk Tv</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/chrouknws_zpsd0413ad3.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Elmourabiton</cname>
+	<imageurl>http://s8.postimg.org/6dyyieco5/mor_n.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+
+<channel>
 	<cname>EnnaharTV algerie</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nhr_zps0a69a25a.png</imageurl>
 	<enabled>True</enabled>
@@ -4242,14 +4124,41 @@
 </channel>	
 
 <channel>
-	<cname>Echorouk Tv</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/chrouknws_zpsd0413ad3.png</imageurl>
+	<cname>Ettounsia</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/ee/ettounsiya_tv_tn.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
 	</assignedcategory>
-</channel>		
-	
+</channel>	
+
+<channel>
+	<cname>First TV</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/ff/first_tv_tn.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Hanibal</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/htv_zpsb411e35d.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Khartoum</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/kk/khartoum_tv_sd.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+
 <channel>
 	<cname>Libya</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/LIBYE_zpsdc438529.png</imageurl>
@@ -4269,105 +4178,17 @@
 </channel>	
 	
 <channel>
-	<cname>SM SM KIDS</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/semsem_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>kids</category>
-	</assignedcategory>
-</channel>		
-
-<channel>
-	<cname>Al oula Maroc</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/oula_zpsd979b818.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-<channel>
-	<cname>Al oula Maroc la3youn</cname>
-	<imageurl>http://s3.postimg.org/p9cfg9h8f/laayoune.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-<channel>
-	<cname>2M</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/2m_zps92ea421b.png</imageurl>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-
-<channel>
-	<cname>Medi 1 Sat</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/med1_zps6d90fb9f.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-<channel>
-	<cname>Al Maghribia</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/m5_zps9ab04d28.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-    
-<channel>
-	<cname>Arrabia</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/m4_zpse201689a.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Tamazigh Maroc</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/tmzg_zps302fc6f4.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Khartoum</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/kk/khartoum_tv_sd.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Dzair tv</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/dzer_zpseefbfe79.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Ettounsia</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ee/ettounsiya_tv_tn.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
 	<cname>Libya AlWataniya</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/ll/libya_al_watanya.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Libya One</cname>
+	<imageurl>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/t1.0-1/c25.25.315.315/s160x160/205367_403626716340925_5096025_n.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
@@ -4381,6 +4202,145 @@
 	<assignedcategory>
 	<category>North Africa</category>
 	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Mauritanie</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mrtn_zps679492ee.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>		
+
+<channel>
+	<cname>Medi 1 Sat</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/med1_zps6d90fb9f.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Nessma</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nessma_zpsc12bef51.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Om Durman</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/oo/omdurman_tv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Sudan TV</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/sudan_zpsa5859579.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Tamazigh Algeria</cname>
+	<imageurl>http://www.lyngsat-logo.com/logo/tv/ee/entv_4_tv_tamazight.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Tamazigh Maroc</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/tmzg_zps302fc6f4.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>TNN</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/tnn_zps49f023d1.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+    
+<channel>
+	<cname>Tounesna</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/tunisna_zps3cd36551.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Tunisia national 1</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/ttn1_zps7e34acdf.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Tunisia national 2</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/ttn2_zps9da27537.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Zaitouna</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/zitoun_zps47a41297.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<!-- North Africa Channels End -->
+
+<!-- Kids Channels Start -->
+
+<channel>
+	<cname>Ajyal</cname>
+	<imageurl>http://s11.postimg.org/qbxxmbz4z/ajyal.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>kids</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Aljazeera Children</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/jeem_zpseaada2dd.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>kids</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+     <cname>Atfal wa Mawaheb</cname>
+     <imageurl>http://www.lyngsat-logo.com/logo/tv/aa/atfal_mawaheb.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>kids</category>
+     </assignedcategory>
 </channel>
 
 <channel>
@@ -4402,6 +4362,15 @@
 </channel>	
 
 <channel>
+	<cname>Karameesh</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/kk/karameesh.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>kids</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
 	<cname>Koky Kids</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/kk/koky_kids_eg.png</imageurl>
 	<enabled>True</enabled>
@@ -4411,6 +4380,24 @@
 </channel>
 
 <channel>
+	<cname>MBC 3</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mbc3_zps071b0fd9.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>kids</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Nart</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/nn/national_adiga_rtv.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>kids</category>
+	</assignedcategory>
+</channel>	
+
+	<channel>
 	<cname>Noon Kids</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/nn/noon_kids_tv_jo.png</imageurl>
 	<enabled>True</enabled>
@@ -4420,8 +4407,17 @@
 </channel>
 
 <channel>
-	<cname>Space Power</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/spcetoon_zps055055f4.png</imageurl>
+	<cname>OSN Movies Kids</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_movies_kids.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>kids</category>
+	</assignedcategory>
+</channel>
+	
+<channel>
+	<cname>SM SM KIDS</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/ss/semsem_tv.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>kids</category>
@@ -4438,23 +4434,23 @@
 </channel>	
 
 <channel>
-	<cname>Ashorooq</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/ashorooq_tv.png</imageurl>
+    	<cname>Tom and Jerry</cname>
+	<imageurl>http://www.americasfreedomfighters.com/wp-content/uploads/2014/10/Tom-And-Jerry-Picture.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>North Africa</category>
+	<category>kids</category>
 	</assignedcategory>
-</channel>
-
+ </channel>
+ 
 <channel>
-     <cname>Atfal wa Mawaheb</cname>
-     <imageurl>http://www.lyngsat-logo.com/logo/tv/aa/atfal_mawaheb.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>kids</category>
-     </assignedcategory>
-</channel>
+	<cname>Toyor Al Janah</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/toyor_zps57a34079.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>kids</category>
+	</assignedcategory>
+</channel>	
 
-
+<!-- Kids Channels End -->
 
 </channels>
