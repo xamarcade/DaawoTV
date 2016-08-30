@@ -3960,24 +3960,6 @@
 	<category>North Africa</category>
 	</assignedcategory>
 </channel>	
-	
-<channel>
-	<cname>Al Magharibia 2</cname>
-	<imageurl>http://s23.postimg.org/qsrqo9l3v/url.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Al Maghribia</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/m5_zps9ab04d28.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
 
 <channel>
 	<cname>Al oula Maroc</cname>
@@ -3991,15 +3973,6 @@
 <channel>
 	<cname>Al oula Maroc la3youn</cname>
 	<imageurl>http://s3.postimg.org/p9cfg9h8f/laayoune.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Alasr</cname>
-	<imageurl>http://4.bp.blogspot.com/-o9kBpBMJ4eM/UuBd3NHJOOI/AAAAAAAAE1U/Et7FhFfYpkI/s1600/alasr_tv.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
@@ -4070,24 +4043,6 @@
 </channel>
 
 <channel>
-	<cname>Blue Nile</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/bb/blue_nile.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Canal Atlas</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/cc/canal_atlas_dz.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel> 
-
-<channel>
 	<cname>Dzair tv</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/dzer_zpseefbfe79.png</imageurl>
 	<enabled>True</enabled>
@@ -4151,15 +4106,6 @@
 </channel>	
 
 <channel>
-	<cname>Khartoum</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/kk/khartoum_tv_sd.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Libya</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/LIBYE_zpsdc438529.png</imageurl>
 	<enabled>True</enabled>
@@ -4169,35 +4115,8 @@
 </channel>	
 
 <channel>
-	<cname>Libya 2</cname>
-	<imageurl>http://s3.postimg.org/ruhs0qfjj/libyatvlogo_bgblack.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-	
-<channel>
 	<cname>Libya AlWataniya</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/ll/libya_al_watanya.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Libya One</cname>
-	<imageurl>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/t1.0-1/c25.25.315.315/s160x160/205367_403626716340925_5096025_n.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Lindex</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ll/l_index_tv_dz.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
@@ -4225,24 +4144,6 @@
 <channel>
 	<cname>Nessma</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nessma_zpsc12bef51.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Om Durman</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/oo/omdurman_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Sudan TV</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/sudan_zpsa5859579.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
