@@ -1,825 +1,1122 @@
 <streamingInfos>
-
-<!-- Ent Channels Start -->
+<!-- SportChannels Start -->
 
 <streaminginfo>
-<cname>MBC 1</cname>
+	<cname>Bein Sport 1</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/FLUbhensp-1/counter1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 2</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/FLUbhensp-2/counter1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 3</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/FLUbhensp-3/counter1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 4</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/FLUbhensp-4/counter1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 5</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/FLUbhensp-5/counter1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 6</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/FLUbhensp-6/counter1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 7</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/FLUbhensp-7/counter1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 8</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/FLUbhensp-8/counter1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 9</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/FLUbhensp-9/counter1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 10</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/FLUbhensp-10/counter1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 11</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/FLUbhensp-11/counter1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 12</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/FLUbhensp-12/counter1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 13</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/FLUbhensp-13/counter1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 14</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/SNDHbhens-macs-4/counter1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 15</cname>
+	<item>
+	<title>Local</title>
+	<link>http://149.202.207.8:8080/SNDHbhens-macs-5/counter1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo> 
+<cname>Bein Sport News</cname>
 <item>
-<title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/84.ts</link>
+<title>Local</title>
+<link>http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8</link>
 </item>
 </streaminginfo>
 
 <streaminginfo>
-<cname>MBC 2</cname>
-<item>
-<title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/85.ts</link>
-</item>
-</streaminginfo>
-
-
-<streaminginfo>
-<cname>MBC 4</cname>
-<item>
-<title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/87.ts</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>MBC Action</cname>
-<item>
-<title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/81.ts</link>
-</item>
-</streaminginfo>
-
-
-<streaminginfo>
-<cname>MBC Bollywood</cname>
-<item>
-<title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/82.ts</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>MBC Bollywood</cname>
-<item>
-<title>Roku ios</title>
-<link>http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>MBC Drama</cname>
-<item>
-<title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/80.ts</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>MBC Masr</cname>
-<item>
-<title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/78.ts</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>MBC Masr 2</cname>
-<item>
-<title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/79.ts</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>MBC Max</cname>
-<item>
-<title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/83.ts</link>
-</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>OSN AMC</cname>
+	<cname>alkass</cname>
 	<item>
-	<title>High 2</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/887.ts</link>
+	<title>Low</title>
+	<link>http://137.135.64.32:1935/kas/kas/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-
-<streaminginfo>
-	<cname>OSN AlYawm</cname>
-	<item>
-	<title>High 2</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/838.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN AlYawm</cname>
-	<item>
-	<title>High 1</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/12.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN Box Offiece 1</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/33.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN Box Offiece 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/34.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN Box Offiece 3</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/35.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN Cinema 1</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/13.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN Cinema 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/14.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN First HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/29.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN First Comedy</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/26.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN Movies HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/20.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN Movies HD Plus 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/32.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN Movies Action HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/21.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN Movies Action Plus 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/22.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN Movies Comedy HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/27.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN Movies Drama HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/10.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN Movies Festival</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/9.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN Movies Premiere HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/23.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN Movies Premiere HD Plus 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/24.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN Star Movies HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/19.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN On Demand HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/25.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN On Demand HD Extra</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/837.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN Ya Hala Shabab HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/16.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN Yahala Cinema HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/886.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN Yahala Drama HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/17.ts</link>
-	</item>
-</streaminginfo> 
-<streaminginfo>
-	<cname>OSN Yahala HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/15.ts</link>
-	</item>
-</streaminginfo> 
-
-<streaminginfo>
-	<cname>Bein Moveis 1 HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/46.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Moveis 2 HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/47.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Moveis 3 HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/878.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Moveis 4 HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1287.ts</link>
-	</item>
-</streaminginfo>
-
-<!-- Ent Channels End -->
-
-<!-- Drama Channels Start -->
-
-<streaminginfo>
-	<cname>Abu Dhabi Drama</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/202.ts</link>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>Al Nahar Drama</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/121.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Nahar Drama</cname>
-	<item>
-	<title>Stream: High</title>
-	<link>http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/chunklist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Albait Baitak Cinema</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/213.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Alhayat Series</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3m/3m/6890.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Art Aflam 1</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/1.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Art Aflam 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/2.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Art Cinema</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/5.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>ART Hekayat</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/3.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>ART Hekayat 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/4.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Cairo Cinema</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/125.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Cairo Comedy</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/1649.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Cairo Drama</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/126.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>CBC Drama</cname>
-<item>
-<title>You need Youtube Addon</title>
-<link>plugin://plugin.video.youtube/play/?video_id=uMvhnVugCjo</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>CBC Drama</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/105.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Cima</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/298.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Darbaka Aflam</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/323.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Dubai One</cname>
-	<item>
-	<title>Med</title>
-	<link>http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_w565927905_b1800000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Dubai Zaman</cname>
-	<item>
-	<title>High</title>
-	<link>http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>Melody Aflam</cname>
-<item>
-<title>High SVR1</title>
-<link>http://38.96.148.164/MelodyAflam/smil:aflam.smil/chunklist_w987824450_b2400000.m3u8</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>Melody Classic</cname>
-<item>
-<title>High SVR1</title>
-<link>http://38.96.148.164/MelodyClassic/smil:classic.smil/chunklist_w63959344_b2400000.m3u8</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>Melody Drama</cname>
-<item>
-<title>High SVR1</title>
-<link>http://38.96.148.164//MelodyDrama/smil:drama.smil/chunklist_w659482942_b2400000.m3u8</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Moga Comedy</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/165.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-		<cname>Nile Cinema</cname>
-		<item>
-			<title>livestreaming</title>
-			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema timeout=20</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Nile Cinema</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/100.ts</link>
-	</item>
-</streaminginfo> 
-
-<streaminginfo>
-		<cname>Nile Comedy</cname>
-		<item>
-			<title>livestreaming</title>
-			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=20</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Nile Comedy</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/97.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-		<cname>Nile Drama</cname>
-		<item>
-			<title>livestreaming</title>
-			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1 timeout=20</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Nile Drama</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/101.ts</link>
-	</item>
-</streaminginfo> 
-
-<streaminginfo>
-	<cname>Panorama Comedy</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/229.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Panorama Drama</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/111.ts</link>
-	</item>
-</streaminginfo>
- <streaminginfo>
-	<cname>Panorama Drama 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/109.ts</link>
-	</item>
-</streaminginfo> 
-<streaminginfo>
-	<cname>Panorama film</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/161.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>Rotana Aflam</cname>
-<item>
-<title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-aflam&amp;mode=125&amp;name=Rotana+Aflam&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2618%2Fextra_big_logo.png&amp;start=rotana-aflam&amp;ch_fanart=2618</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>Rotana Cinema</cname>
-<item>
-<title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-cinema&amp;mode=125&amp;name=Rotana+Cinema&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2615%2Fextra_big_logo.png&amp;start=rotana-cinema&amp;ch_fanart=2615</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>Rotana Classic</cname>
-<item>
-<title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-classic&amp;mode=125&amp;name=Rotana+Classic&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2609%2Fextra_big_logo.png&amp;start=rotana-classic&amp;ch_fanart=2609</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>Sada AlBalad Drama</cname>
-<item>
-<title>You need Youtube Addon</title>
-<link>plugin://plugin.video.youtube/play/?video_id=7NgyiRV8Fas</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Star 1 Cinema</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/114.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Star 2 Cinema</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/115.ts</link>
-	</item>
-</streaminginfo>
-
-
 	<streaminginfo>
-		<cname>Syria Drama</cname>
+		<cname>alkass</cname>
 		<item>
-			<title>elahmad</title>
-			<link>rtmp://82.137.248.21:1935/Drama/DramaLive1</link>
+			<title>qna.org</title>
+			<link>rtmp://AgendaStreamerx1.qna.org.qa/kas//kas timeout=20</link>
 		</item>
 	</streaminginfo>
+
 <streaminginfo>
-	<cname>Syria Drama</cname>
-	<item>
-	<title>Low 2</title>
-	<link>http://38.99.146.40:7777/SyriaDrama.m3u8?session=a9f1e73e077c86a46129a84e14fb8c2e1790be6e9b9f2dad4170d86ff6e06499b1535c890fbdc3e3&amp;user=731C7940-5768-11E6-9E0F-DC0EA1A03989</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Syria Drama</cname>
-	<item>
-	<title>Low 1</title>
-	<link>http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Syria Drama</cname>
-	<item>
-	<title>Med</title>
-	<link>http://82.137.248.21:1935/Drama/DramaLive2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Syria Drama</cname>
+	<cname>Abu Dhabi Sports 1</cname>
 	<item>
 	<title>High</title>
-	<link>http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
+	<link>http://149.202.207.8:8080/SNDHoyesn/abd1/index.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Toktok</cname>
+	<cname>Abu Dhabi Sports 2</cname>
 	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/604.ts</link>
+	<title>High</title>
+	<link>http://149.202.207.8:8080/SNDHoyesn/abd2/index.m3u8</link>
 	</item>
 </streaminginfo>
 
+
 <streaminginfo>
-	<cname>Top Movies</cname>
+   <cname>Alriadia Sport</cname>
+    <item>
+    <title>Med: You need to install f4m_tester addon from Shani Repo</title>
+    <link>plugin://plugin.video.f4mTester/?url=http://arriadia-tv.scdn.arkena.com/arriadia.isml/manifest.f4m</link>
+    </item>
+</streaminginfo>
+<streaminginfo>
+<cname>Alriadia Sport</cname>
+<item>
+<title>Low 320x240</title>
+<link>http://arriadia-tv.scdn.arkena.com/arriadia.isml/arriadia-audio101=64000-video=150000.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Alriadia Sport</cname>
+<item>
+<title>Low 448x336</title>
+<link>http://arriadia-tv.scdn.arkena.com/arriadia.isml/arriadia-audio101=64000-video=350000.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Alriadia Sport</cname>
+<item>
+<title>Med</title>
+<link>http://arriadia-tv.scdn.arkena.com/arriadia.isml/arriadia-audio101=64000-video=730000.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Alriadia Sport</cname>
+<item>
+<title>High</title>
+<link>http://arriadia-tv.scdn.arkena.com/arriadia.isml/arriadia-audio101=64000-video=1130000.m3u8</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Dubai Sport HD2</cname>
 	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/1548.ts</link>
+	<title>Low</title>
+	<link>http://cdnehlsdubaisportsspecial.endavomedia.com/smil:dubaisportsspecialhls.smil/chunklist_b391600.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Sport HD2</cname>
+	<item>
+	<title>Med</title>
+	<link>http://cdnehlsdubaisportsspecial.endavomedia.com/smil:dubaisportsspecialhls.smil/chunklist_b666600.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Sport HD2</cname>
+	<item>
+	<title>High480</title>
+	<link>http://cdnehlsdubaisportsspecial.endavomedia.com/smil:dubaisportsspecialhls.smil/chunklist_b1161600.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Sport HD2</cname>
+	<item>
+	<title>High</title>
+	<link>http://cdnehlsdubaisportsspecial.endavomedia.com/smil:dubaisportsspecialhls.smil/chunklist_b2151600.m3u8</link>
 	</item>
 </streaminginfo>
 
-<!-- Drama Channels End -->
-
-<!-- Egypt Channels Start -->
+<streaminginfo>
+	<cname>Dubai Sport 3</cname>
+	<item>
+	<title>web.tv</title> 
+	<link>$doregex[clean-url]</link> 
+<regex>
+	<name>clean-url</name>
+	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>get-url</name>
+	<expres>"mediaUrl":"(.*?)"</expres>
+	<page>http://dubaisports.web.tv/</page>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Sport 3</cname>
+	<item>
+	<title>Low</title>
+	<link>http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_w1518227480_b750000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Sport 3</cname>
+	<item>
+	<title>Med</title>
+	<link>http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_w1518227480_b1200000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Dubai Sport 1</cname>
+<item>
+<title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fdubai-sports&amp;mode=125&amp;name=Dubai+Sports&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F79%2Fextra_big_logo.png&amp;start=dubai-sports&amp;ch_fanart=79</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Racing</cname>
+	<item>
+	<title>Low Racing3</title>
+	<link>http://dmi.mangomolo.com:1935/events/smil:events.smil/chunklist_w774894673_b750000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Racing</cname>
+	<item>
+	<title>Med Racing3</title>
+	<link>http://dmi.mangomolo.com:1935/events/smil:events.smil/chunklist_w774894673_b1200000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Racing</cname>
+	<item>
+	<title>Low</title>
+	<link>http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/chunklist_w927858682_b750000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Racing</cname>
+	<item>
+	<title>Med</title>
+	<link>http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/chunklist_w927858682_b1300000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Jordan Sport</cname>
+	<item>
+	<title>Low</title>
+	<link>rtmp://stream2.joinvisions.net:1935/jorlive/s1 timeout=20</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
-        <cname>Al Nahar</cname>
+	<cname>KTV SPORT</cname>
+	<item>
+	<title>media.gov.kw</title>
+	<link>rtmp://stream03.fasttelco.net:1935/live/_definst_ playpath=ktv3_480.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.media.gov.kw/tvradio/Portal/KTVSport_1.htm</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KTV Sport Extra</cname>
+	<item>
+	<title>media.gov.kw</title>
+	<link>rtmp://stream03.fasttelco.net:1935/live/_definst_ playpath=ktv7_480.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.media.gov.kw/tvradio/Portal/KTVSportExtra_1.htm</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KTV Sport Plus</cname>
+	<item>
+	<title>media.gov.kw</title>
+	<link>rtmp://stream03.fasttelco.net:1935/live/_definst_ playpath=ktv4_480.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.media.gov.kw/tvradio/Portal/KTVSportPlus_1.htm</link>
+	</item>
+</streaminginfo>
+
+	<streaminginfo>
+		<cname>Nile Sport</cname>
 		<item>
-		<title>Med 2</title>
-		<link>http://stream138.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/gmswf.m3u8</link>
+			<title>livestreaming</title>
+			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport timeout=20</link>
 		</item>
+	</streaminginfo>
+
+<streaminginfo>
+     <cname>Oman Sport</cname>
+	<item>
+	<title>Low</title>
+	<link>http://38.96.148.30:1935/live/omantv2/chunklist.m3u8?wowzasessionid=65335900</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Oman Sport</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.96.148.30:1935/live/omantv2/chunklist.m3u8?wowzasessionid=453125211</link>
+    </item>
 </streaminginfo>
 
 <streaminginfo>
-        <cname>Al Nahar Cinema</cname>
+   	<cname>Sharjah Sport</cname>
+	<item>
+	<title>Low</title>
+	<link>http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_160p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Sharjah Sport</cname>
+	<item>
+	<title>Med</title>
+	<link>http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_240p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Sharjah Sport</cname>
+	<item>
+	<title>High</title>
+	<link>http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Saudia Sport</cname>
+<item>
+<title>You need Youtube Addon</title>
+<link>plugin://plugin.video.youtube/play/?video_id=IQB3n_BEQeg</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Saudia Sport</cname>
+<item>
+<title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-sports&amp;mode=125&amp;name=Saudi+Arabian+TV+Sports&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1781%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-sports&amp;ch_fanart=1781</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Saudia Sport</cname>
+<item>
+<title>SVR2</title>
+<link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live/stream2.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Saudia Sport</cname>
+<item>
+<title>SVR1</title>
+<link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live/stream1.m3u8</link>
+</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+        <cname>Eurosport</cname>
 		<item>
 		<title>High</title>
-		<link>http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/gmswf.m3u8</link>
+		<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/681.ts</link>
 		</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Al Nahar Alyoum</cname>
-	<item>
-	<title>Med</title>
-	<link>http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/gmswf.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo><cname>Alhayat2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=0lmM6zgL2AU</link></item></streaminginfo>
-
-<streaminginfo>
-<cname>AlQahera W Elnas</cname>
-<item>
-<title>You need Youtube Addon</title>
-<link>plugin://plugin.video.youtube/play/?video_id=G1BgKI2KBCo</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>AlQahera W Elnas 2</cname>
-<item>
-<title>You need Youtube Addon</title>
-<link>plugin://plugin.video.youtube/play/?video_id=REyOZv_jM7g</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>CBC</cname>
-	<item>
-	<title>You need Youtube Addon</title>
-	<link>plugin://plugin.video.youtube/play/?video_id=1yEMLzYzE1g</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>CBC Extra</cname>
-	<item>
-	<title>You need Youtube Addon</title>
-	<link>plugin://plugin.video.youtube/play/?video_id=r7ammFV2blg</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>CBC Sofra</cname>
-	<item>
-	<title>You need Youtube Addon</title>
-	<link>plugin://plugin.video.youtube/play/?video_id=K8XaIiikpAo</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-		<cname>Dream</cname>
+        <cname>Eurosport 2</cname>
 		<item>
-			<title>rtmp</title>
-			<link>rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH playpath=livestream swfUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/flowplayer-3.2.18.swf live=1 pageUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/Channels/index1.html</link>
+		<title>High</title>
+		<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/680.ts</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Chelsea TV</cname>
+	<item>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/661.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Sky Sports 1</cname>
+	<item>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/15.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 2</cname>
+	<item>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/16.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 3</cname>
+	<item>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/17.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 4</cname>
+	<item>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/18.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 5</cname>
+	<item>
+	<title>pascal</title>
+	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/19.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>MBC PRO SP1</cname>
+	<item>
+	<title>Highl</title>
+	<link>http://htq.ddns.me/iptv/ch823?code=39006645183604</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>MBC PRO SP2</cname>
+	<item>
+	<title>High</title>
+	<link>http://htq.ddns.me/iptv/ch824?code=39006645183604</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>MBC PRO SP3</cname>
+	<item>
+	<title>High</title>
+	<link>http://htq.ddns.me/iptv/ch825?code=39006645183604</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>MBC PRO SP4</cname>
+	<item>
+	<title>High</title>
+	<link>http://htq.ddns.me/iptv/ch826?code=39006645183604</link>
+	</item>
+</streaminginfo>
+
+	<streaminginfo>		
+		<cname>NBC Golf</cname>
+		<item>
+			<title>480p SD</title>
+			<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>NBC Golf</cname>
+		<item>
+			<title>720p HD</title>
+			<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>NBC Golf</cname>
+		<item>
+			<title>1080p HD</title>
+			<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
 		</item>
 	</streaminginfo>
 
+<!-- Sport Channels End -->
+
+<!-- Doc Channels Start -->
+
+<streaminginfo><cname>Al Thakafiyah</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=NqXJNHgP7iE</link></item></streaminginfo>
+
 <streaminginfo>
-     <cname>Egypt 1</cname>
+        <cname>Aljazeera Doc</cname>
 	<item>
-	<title>Low</title>
-	<link>rtmp://livestreaming4.onlinehorizons.net/ app=ERTUCH1 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch1.html live=true timeout=15</link>
+	<title>Low Quality</title>
+	<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_doc_low swfUrl=http://www.watcharab.com/tv/swf/aljazeera_documentary.swf pageUrl=http://www.elahmad.com/tv/aljazeera_documentary.php swfVfy=true live=true timeout=60</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Egypt 1</cname>
+        <cname>Aljazeera Doc</cname>
+	<item>
+	<title>Medium Quality</title>
+	<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/-live playpath=aljazeera_doc_med swfUrl=http://www.arabztv.net/player.swf live=1 pageUrl=http://www.arabztv.com/ live=true swfVfy=true</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Doc</cname>
+	<item>
+	<title>High Quality</title>
+	<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera_documentary.swf pageUrl=http://www.elahmad.com/tv/aljazeera_documentary.php swfVfy=true live=true timeout=60</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Doc</cname>
+		<item>
+		<title>Low</title>
+		<link>http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/600kStream.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Doc</cname>
+		<item>
+		<title>Med</title>
+		<link>http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Doc</cname>
+		<item>
+		<title>High</title>
+		<link>http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1200kStream.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Doc</cname>
+		<item>
+		<title>Highst</title>
+		<link>http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Doc</cname>
+		<item>
+		<title>High_Master</title>
+		<link>http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/stb.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Animal Planet HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/1699.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+    <cname>KTV ARABE</cname>
 	<item>
 	<title>Med</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/214.ts</link>
+	<link>rtmp://stream03.fasttelco.net:1935/live/_definst_ playPath=ktv6_480.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.media.gov.kw/tvradio/Portal/KTVArabe_1.htm</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-        <cname>Mehwar</cname>
+	<cname>KTV ETRAA</cname>
+	<item>
+	<title>media.gov.kw</title>
+	<link>rtmp://stream03.fasttelco.net:1935/live/_definst_ playpath=ktv5_480.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.media.gov.kw/tvradio/Portal/KTVEthraa_1.htm</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Nile Culture</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8</link>
+	<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=culture</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Mehwar</cname>
-	<item>
-	<title>Med</title>
-	<link>http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1096642953</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>Nile Family</cname>
-	<item>
-	<title>Low</title>
-	<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family</link>
-	</item>
-</streaminginfo>
-
 
 	<streaminginfo>
-		<cname>Nile Life</cname>
+		<cname>Nile Learning</cname>
 		<item>
 			<title>livestreaming</title>
-			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life timeout=20</link>
+			<link>rtmp://livestreaming4.onlinehorizons.net/Learning1 playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=Learning timeout=20</link>
 		</item>
 	</streaminginfo>
 
+<!-- Doc Channels End -->
 
-<streaminginfo><cname>ONTV Live</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=lGPBmTSQHuY</link></item></streaminginfo>
+<!-- News Channels Start -->
 
-<streaminginfo><cname>Rotana Masriya</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-masriya&amp;mode=125&amp;name=Rotana+Masriya&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2612%2Fextra_big_logo.png&amp;start=rotana-masriya&amp;ch_fanart=2612</link></item></streaminginfo>
+<streaminginfo><cname>Al Eqtisadiyah</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=1j6GokDz7Sc</link></item></streaminginfo>
 
+<streaminginfo>
+   	<cname>Al Hiwar</cname>
+	<item>
+	<title>Med</title>
+	<link>http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8</link>
+	</item>
+</streaminginfo>
 
-<streaminginfo><cname>Sada Al Balad</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=2Iyj2w2MyWw</link></item></streaminginfo>
-<streaminginfo><cname>Sada Al Balad2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=dyDq1yxKDS8</link></item></streaminginfo>
+<streaminginfo>
+   	<cname>Al Ikhbaria Syria</cname>
+	<item>
+	<title>Low</title>
+	<link>http://82.137.248.16:1935/Snews/SnewsLive1/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Al Ikhbaria Syria</cname>
+	<item>
+	<title>Med</title>
+	<link>http://82.137.248.16:1935/Snews/SnewsLive2/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Al Ikhbaria Syria</cname>
+	<item>
+	<title>High</title>
+	<link>http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8</link>
+	</item>
+</streaminginfo>
 
+<streaminginfo><cname>Al mayaden</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=04uzP251PoY</link></item></streaminginfo>
 
+<streaminginfo>
+	<cname>Al Sharqiya News</cname>
+	<item>
+	<title>indexforce</title>
+	<link>rtmp://ns8.indexforce.com/alsharqiyalive/mystream timeout=20</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Al Sharqiya News</cname>
+	<item>
+	<title>Med</title>
+	<link>http://46.165.208.230:1935/alsharqiyalive/mystream/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
 
+<streaminginfo>
+	<cname>Alan</cname><item><title>Low</title><link>http://livestreaming.itworkscdn.net/alaanlive/alaantv_160p/chunklist.m3u8</link></item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alan</cname><item><title>High</title><link>http://livestreaming.itworkscdn.net/alaanlive/alaantv_360p/chunklist.m3u8</link></item>
+</streaminginfo>
 
+<streaminginfo><cname>Alarabiya</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=rlvfffhWo2A</link></item></streaminginfo>
 
+<streaminginfo>
+		<cname>Alarabiya Ahdas</cname>
+		<item>
+		<title>unknow</title>
+		<link>http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8</link>
+		</item>
+</streaminginfo>
 
+<streaminginfo>
+	<cname>Alaraby</cname>
+	<item>
+	<title>Low</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>27.*\s?(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
 
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/13453801/events/4043174/player?width=960&amp;amp;height=540&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alaraby</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>48.*\s?(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
 
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/13453801/events/4043174/player?width=960&amp;amp;height=540&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alaraby</cname>
+	<item>
+	<title>High</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>43.*\s?(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
 
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/13453801/events/4043174/player?width=1080&amp;amp;height=720&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alaraby</cname>
+	<item>
+	<title>High 720</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>72.*\s?(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
 
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/13453801/events/4043174/player?width=1080&amp;amp;height=720&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
 
+<streaminginfo>
+	<cname>Alghad Alarabi</cname>
+	<item>
+	<title>Med</title>
+	<link>http://41.128.181.132:1935/live/test.stream/chunklist_w1333595922.m3u8</link>
+	</item>
+</streaminginfo>
 
+<streaminginfo><cname>Aljazeera</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=elqcDJ3TXUs</link></item></streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera</cname>
+		<item>
+		<title>Low</title>
+		<link>http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+		<cname>Aljazeera</cname>
+		<item>
+		<title>800</title>
+		<link>http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8</link>  
+		</item> 
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera</cname>
+		<item>
+		<title>High</title>
+		<link>http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8</link>
+		</item>
+</streaminginfo>
 
+<streaminginfo><cname>Aljazeera En</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=VBEmqvVPOX4</link></item></streaminginfo>
 
+<streaminginfo><cname>Aljazeera Mubasher</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=y_zLVhac8nU</link></item></streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Mubasher</cname>
+		<item>
+		<title>Low Quality</title>
+		<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_mubasher2_low swfUrl=http://www.arabztv.net/player.swf live=1 pageUrl=http://www.arabztv.com/ live=true swfVfy=true</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Mubasher</cname>
+		<item>
+		<title>Med Quality</title>
+		<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_mubasher2_med swfUrl=http://www.arabztv.net/player.swf live=1 pageUrl=http://www.arabztv.com/ live=true swfVfy=true</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Aljazeera Mubasher</cname>
+		<item>
+		<title>High Quality</title>
+		<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_mubasher2_high swfUrl=http://www.arabztv.net/player.swf live=1 pageUrl=http://www.arabztv.com/ live=true swfVfy=true</link>
+		</item>
+</streaminginfo>
 
+<streaminginfo>
+    <cname>alnabaa</cname>
+	<item>
+	<title>Low</title>
+	<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_264.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>alnabaa</cname>
+	<item>
+	<title>Med</title>
+	<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_528.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>alnabaa</cname>
+	<item>
+	<title>High</title>
+	<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_828.m3u8</link>
+	</item>
+</streaminginfo>
 
+<streaminginfo><cname>ANB</cname><item><title>188</title><link>http://streaming.i-sat.tv:1935/live/anb.stream_360p/playlist.m3u8</link></item></streaminginfo>
 
+		<streaminginfo>
+		<cname>ANN</cname>
+		<item>
+			<title>indexforce</title>
+			<link>rtmp://ns8.indexforce.com/ann/ann timeout=20</link>
+		</item>
+	</streaminginfo>
 
+	<streaminginfo>
+	<cname>BBC Arabic</cname>
+	<item>
+	<title>Low</title>
+	<link>http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_192_av-b.m3u8?sd=10&amp;rebase=on</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>BBC Arabic</cname>
+	<item>
+	<title>Med</title>
+	<link>http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_400_av-p.m3u8?sd=10&amp;rebase=on</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>BBC Arabic</cname>
+	<item>
+	<title>High</title>
+	<link>http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&amp;rebase=on</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>BBC Arabic</cname>
+	<item>
+	<title>High_mast</title>
+	<link>http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>BBC Arabic</cname>
+	<item>
+	<title>You need to install f4m_tester addon from Shani Repo</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://bbcwshdlive01-lh.akamaihd.net/z/atv_1@61433/manifest.f4m?hdcore=2.11.3</link>
+	</item>
+</streaminginfo>
+<streaminginfo><cname>BBC Arabic</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=m0RMXgxMhs8</link></item></streaminginfo>
 
+<streaminginfo>
+    <cname>CCTV Arabic</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36</link>
+	<regex>
+	<name>geturl</name>
+	<expres>"hls[0-9]*":"(http.*?)"</expres>
+	<page>http://vdn.live.cntv.cn/api2/liveHtml5.do?channel=pa://cctv_p2p_hdcctvarabic&amp;client=flash</page>
+	<referer>http://arabic.cntv.cn/live/index.shtml</referer>
+	<cookiejar></cookiejar>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36</agent>
+	</regex>
+	</item>
+</streaminginfo>
 
+	<streaminginfo>
+		<cname>DW Arabic</cname>
+		<item>
+			<title>Arabic</title>
+			<link>http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+    <cname>DW Arabic</cname>
+<item>
+<title>Medium</title>
+<link>$doregex[get-rtmp] playpath=$doregex[get-playpath] pageUrl=http://live-tv.im/dw-tv-arabia-live live=1 swfVfy=1 timeout=10</link>
+<regex>
+<name>get-rtmp</name>
+<expres>meta base="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
 
+<regex>
+<name>get-playpath</name>
+<expres>"medium"\s*src="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>DW Arabic</cname>
+<item>
+<title>High</title>
+<link>$doregex[get-rtmp] playpath=$doregex[get-playpath] pageUrl=http://live-tv.im/dw-tv-arabia-live live=1 swfVfy=1 timeout=10</link>
+<regex>
+<name>get-rtmp</name>
+<expres>meta base="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
+<regex>
+<name>get-playpath</name>
+<expres>"high"\s*src="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>DW Arabic</cname>
+<item>
+<title>Highest</title>
+<link>$doregex[get-rtmp] playpath=$doregex[get-playpath] pageUrl=http://live-tv.im/dw-tv-arabia-live live=1 swfVfy=1 timeout=10</link>
+<regex>
+<name>get-rtmp</name>
+<expres>meta base="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
 
+<regex>
+<name>get-playpath</name>
+<expres>"highest"\s*src="(.*?)"</expres>
+<page>http://www.metafilegenerator.de/DWelle/tv-arabia/flv/tv.smil</page>
+</regex>
+</item>
+</streaminginfo>
 
+<streaminginfo><cname>Euro News Arabic</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=vFgvp3GQgkU</link></item></streaminginfo>
 
+<streaminginfo>
+<cname>France 24</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/france-24-arabe/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>	
+<streaminginfo><cname>France 24</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=55IL8QtH0Ao</link></item></streaminginfo>
+	
+<streaminginfo>
+<cname>i24News</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/i24-news-arabic/?bitrate=800&amp;format=hls&amp;language=fr</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>	
+	
+<streaminginfo><cname>KSA News</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=cCe0Hzqjhso</link></item></streaminginfo>
+	
+<streaminginfo>
+        <cname>Mekamleen</cname>
+	<item>
+	<title>85.111 Source</title>
+	<link>rtmp://mn-l.mncdn.com/r_mekameleen/_definst_/ playpath=mp4:live1 swfUrl=http://ssl.p.jwpcdn.com/player/v/7.6.0/jwplayer.flash.swf pageUrl=http://pallap.com/tv.php?i=mekameleen</link>
+	</item>
+</streaminginfo>	
 
+<streaminginfo>
+        <cname>Orient News</cname>
+	<item>
+	<title>High</title>
+	<link>http://ls02.orienths.org/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8</link>
+	</item>
+</streaminginfo>	
+	
+<streaminginfo><cname>Russia Alyaum</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=hSV-nfWm3Wc</link></item></streaminginfo>
+<streaminginfo>
+<cname>Russia Alyaum</cname>
+<item>
+<title>800</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>url":"(.*?)"</expres>
+	<page>http://playtv.fr/player/play/russia-al-yaum/?bitrate=800&amp;format=hls&amp;language=ar</page>
+	<referer>http://playtv.fr</referer>
+</regex>
+</item>
+</streaminginfo>
+	
+<streaminginfo>
+    <cname>SkyNewsArabia</cname>
+	<item>
+	<title>Low</title>
+	<link>http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl.m3u8</link>
+	</item>
+</streaminginfo>
+	
+<streaminginfo>
+     <cname>TRT Arabic</cname>
+	<item>
+	<title>270p</title>
+	<link>http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_500_av-b.m3u8?sd=10&amp;rebase=on</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>TRT Arabic</cname>
+	<item>
+	<title>360p</title>
+	<link>http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_500_av-p.m3u8?sd=10&amp;rebase=on</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>TRT Arabic</cname>
+	<item>
+	<title>360p</title>
+	<link>http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1000_av-b.m3u8?sd=10&amp;rebase=on</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>TRT Arabic</cname>
+	<item>
+	<title>720p</title>
+	<link>http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1200_av-p.m3u8?sd=10&amp;rebase=on</link>
+	</item>
+</streaminginfo>	
 
-
-
-
+<!-- News Channels End -->
 
 
 </streamingInfos>

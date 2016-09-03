@@ -1,20 +1,796 @@
 <streamingInfos>
 
+<!-- Ent Channels Start -->
+
+<streaminginfo>
+<cname>MBC 1</cname>
+<item>
+<title>Amiin</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/84.ts</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>MBC 2</cname>
+<item>
+<title>Amiin</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/85.ts</link>
+</item>
+</streaminginfo>
 
 
+<streaminginfo>
+<cname>MBC 4</cname>
+<item>
+<title>Amiin</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/87.ts</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>MBC Action</cname>
+<item>
+<title>Amiin</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/81.ts</link>
+</item>
+</streaminginfo>
 
 
+<streaminginfo>
+<cname>MBC Bollywood</cname>
+<item>
+<title>Amiin</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/82.ts</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC Bollywood</cname>
+<item>
+<title>Roku ios</title>
+<link>http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>MBC Drama</cname>
+<item>
+<title>Amiin</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/80.ts</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>MBC Masr</cname>
+<item>
+<title>Amiin</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/78.ts</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>MBC Masr 2</cname>
+<item>
+<title>Amiin</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/79.ts</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>MBC Max</cname>
+<item>
+<title>Amiin</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/83.ts</link>
+</item>
+</streaminginfo>
 
 
+<streaminginfo>
+	<cname>OSN AMC</cname>
+	<item>
+	<title>High 2</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/887.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN AlYawm</cname>
+	<item>
+	<title>High 2</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/838.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN AlYawm</cname>
+	<item>
+	<title>High 1</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/12.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Box Offiece 1</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/33.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Box Offiece 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/34.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Box Offiece 3</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/35.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Cinema 1</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/13.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Cinema 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/14.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN First HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/29.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN First Comedy</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/26.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/20.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies HD Plus 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/32.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Action HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/21.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Action Plus 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/22.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Comedy HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/27.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Drama HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/10.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Festival</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/9.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Premiere HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/23.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Premiere HD Plus 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/24.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Star Movies HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/19.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN On Demand HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/25.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN On Demand HD Extra</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/837.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Ya Hala Shabab HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/16.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Yahala Cinema HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/886.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Yahala Drama HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/17.ts</link>
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>OSN Yahala HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/15.ts</link>
+	</item>
+</streaminginfo> 
+
+<streaminginfo>
+	<cname>Bein Moveis 1 HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/46.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Moveis 2 HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/47.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Moveis 3 HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/878.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Moveis 4 HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1287.ts</link>
+	</item>
+</streaminginfo>
+
+<!-- Ent Channels End -->
+
+<!-- Drama Channels Start -->
+
+<streaminginfo>
+	<cname>Abu Dhabi Drama</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/202.ts</link>
+	</item>
+</streaminginfo>
 
 
+<streaminginfo>
+	<cname>Al Nahar Drama</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/121.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Nahar Drama</cname>
+	<item>
+	<title>Stream: High</title>
+	<link>http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/chunklist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Albait Baitak Cinema</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/213.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Alhayat Series</cname>
+	<item>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3m/3m/6890.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Art Aflam 1</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/1.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Art Aflam 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/2.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Art Cinema</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/5.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>ART Hekayat</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/3.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>ART Hekayat 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/4.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Cairo Cinema</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/125.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Cairo Comedy</cname>
+	<item>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/1649.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Cairo Drama</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/126.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>CBC Drama</cname>
+<item>
+<title>You need Youtube Addon</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uMvhnVugCjo</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>CBC Drama</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/105.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Cima</cname>
+	<item>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/298.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Darbaka Aflam</cname>
+	<item>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/323.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Dubai One</cname>
+	<item>
+	<title>Med</title>
+	<link>http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_w565927905_b1800000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai Zaman</cname>
+	<item>
+	<title>High</title>
+	<link>http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Melody Aflam</cname>
+<item>
+<title>High SVR1</title>
+<link>http://38.96.148.164/MelodyAflam/smil:aflam.smil/chunklist_w987824450_b2400000.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Melody Classic</cname>
+<item>
+<title>High SVR1</title>
+<link>http://38.96.148.164/MelodyClassic/smil:classic.smil/chunklist_w63959344_b2400000.m3u8</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Melody Drama</cname>
+<item>
+<title>High SVR1</title>
+<link>http://38.96.148.164//MelodyDrama/smil:drama.smil/chunklist_w659482942_b2400000.m3u8</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Moga Comedy</cname>
+	<item>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/165.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Nile Cinema</cname>
+		<item>
+			<title>livestreaming</title>
+			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema timeout=20</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Cinema</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/100.ts</link>
+	</item>
+</streaminginfo> 
+
+<streaminginfo>
+		<cname>Nile Comedy</cname>
+		<item>
+			<title>livestreaming</title>
+			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=20</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Comedy</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/97.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Nile Drama</cname>
+		<item>
+			<title>livestreaming</title>
+			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1 timeout=20</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile Drama</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/101.ts</link>
+	</item>
+</streaminginfo> 
+
+<streaminginfo>
+	<cname>Panorama Comedy</cname>
+	<item>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/229.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Panorama Drama</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/111.ts</link>
+	</item>
+</streaminginfo>
+ <streaminginfo>
+	<cname>Panorama Drama 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/109.ts</link>
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>Panorama film</cname>
+	<item>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/161.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Rotana Aflam</cname>
+<item>
+<title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-aflam&amp;mode=125&amp;name=Rotana+Aflam&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2618%2Fextra_big_logo.png&amp;start=rotana-aflam&amp;ch_fanart=2618</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Rotana Cinema</cname>
+<item>
+<title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-cinema&amp;mode=125&amp;name=Rotana+Cinema&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2615%2Fextra_big_logo.png&amp;start=rotana-cinema&amp;ch_fanart=2615</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Rotana Classic</cname>
+<item>
+<title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-classic&amp;mode=125&amp;name=Rotana+Classic&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2609%2Fextra_big_logo.png&amp;start=rotana-classic&amp;ch_fanart=2609</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Sada AlBalad Drama</cname>
+<item>
+<title>You need Youtube Addon</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7NgyiRV8Fas</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Star 1 Cinema</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/114.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Star 2 Cinema</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/115.ts</link>
+	</item>
+</streaminginfo>
 
 
+	<streaminginfo>
+		<cname>Syria Drama</cname>
+		<item>
+			<title>elahmad</title>
+			<link>rtmp://82.137.248.21:1935/Drama/DramaLive1</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+	<cname>Syria Drama</cname>
+	<item>
+	<title>Low 2</title>
+	<link>http://38.99.146.40:7777/SyriaDrama.m3u8?session=a9f1e73e077c86a46129a84e14fb8c2e1790be6e9b9f2dad4170d86ff6e06499b1535c890fbdc3e3&amp;user=731C7940-5768-11E6-9E0F-DC0EA1A03989</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria Drama</cname>
+	<item>
+	<title>Low 1</title>
+	<link>http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria Drama</cname>
+	<item>
+	<title>Med</title>
+	<link>http://82.137.248.21:1935/Drama/DramaLive2/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria Drama</cname>
+	<item>
+	<title>High</title>
+	<link>http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Toktok</cname>
+	<item>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/604.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Top Movies</cname>
+	<item>
+	<title>Wael: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/1548.ts</link>
+	</item>
+</streaminginfo>
+
+<!-- Drama Channels End -->
+
+<!-- Egypt Channels Start -->
+
+<streaminginfo>
+        <cname>Al Nahar</cname>
+		<item>
+		<title>Med 2</title>
+		<link>http://stream138.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/gmswf.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Al Nahar Cinema</cname>
+		<item>
+		<title>High</title>
+		<link>http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/gmswf.m3u8</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Al Nahar Alyoum</cname>
+	<item>
+	<title>Med</title>
+	<link>http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo><cname>Alhayat2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=0lmM6zgL2AU</link></item></streaminginfo>
+
+<streaminginfo>
+<cname>AlQahera W Elnas</cname>
+<item>
+<title>You need Youtube Addon</title>
+<link>plugin://plugin.video.youtube/play/?video_id=G1BgKI2KBCo</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>AlQahera W Elnas 2</cname>
+<item>
+<title>You need Youtube Addon</title>
+<link>plugin://plugin.video.youtube/play/?video_id=REyOZv_jM7g</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>CBC</cname>
+	<item>
+	<title>You need Youtube Addon</title>
+	<link>plugin://plugin.video.youtube/play/?video_id=1yEMLzYzE1g</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>CBC Extra</cname>
+	<item>
+	<title>You need Youtube Addon</title>
+	<link>plugin://plugin.video.youtube/play/?video_id=r7ammFV2blg</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>CBC Sofra</cname>
+	<item>
+	<title>You need Youtube Addon</title>
+	<link>plugin://plugin.video.youtube/play/?video_id=K8XaIiikpAo</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+		<cname>Dream</cname>
+		<item>
+			<title>rtmp</title>
+			<link>rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH playpath=livestream swfUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/flowplayer-3.2.18.swf live=1 pageUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/Channels/index1.html</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+     <cname>Egypt 1</cname>
+	<item>
+	<title>Low</title>
+	<link>rtmp://livestreaming4.onlinehorizons.net/ app=ERTUCH1 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch1.html live=true timeout=15</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Egypt 1</cname>
+	<item>
+	<title>Med</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/214.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Mehwar</cname>
+	<item>
+	<title>Low</title>
+	<link>http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Mehwar</cname>
+	<item>
+	<title>Med</title>
+	<link>http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1096642953</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+        <cname>Nile Family</cname>
+	<item>
+	<title>Low</title>
+	<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family</link>
+	</item>
+</streaminginfo>
 
 
+	<streaminginfo>
+		<cname>Nile Life</cname>
+		<item>
+			<title>livestreaming</title>
+			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life timeout=20</link>
+		</item>
+	</streaminginfo>
 
 
+<streaminginfo><cname>ONTV Live</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=lGPBmTSQHuY</link></item></streaminginfo>
 
+<streaminginfo><cname>Rotana Masriya</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
+<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-masriya&amp;mode=125&amp;name=Rotana+Masriya&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2612%2Fextra_big_logo.png&amp;start=rotana-masriya&amp;ch_fanart=2612</link></item></streaminginfo>
+
+
+<streaminginfo><cname>Sada Al Balad</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=2Iyj2w2MyWw</link></item></streaminginfo>
+<streaminginfo><cname>Sada Al Balad2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=dyDq1yxKDS8</link></item></streaminginfo>
 
 
 </streamingInfos>

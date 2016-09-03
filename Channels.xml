@@ -4236,15 +4236,6 @@
 </channel>	
 
 <channel>
-     <cname>Atfal wa Mawaheb</cname>
-     <imageurl>http://www.lyngsat-logo.com/logo/tv/aa/atfal_mawaheb.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>kids</category>
-     </assignedcategory>
-</channel>
-
-<channel>
 	<cname>Baraem</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/br3m_zps8255f16a.png</imageurl>
 	<enabled>True</enabled>
