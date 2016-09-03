@@ -280,18 +280,10 @@
 </streaminginfo>
 
 <streaminginfo>
-    <cname>Zee Living</cname>
-	<item>
-	<title>Zem.tv</title>
-	<link>plugin://plugin.video.ZemTV-shani/?url=ZGl0dG86aHR0cDovL3d3dy5kaXR0b3R2LmNvbS9pbmRleC5waHA%2Fcj1saXZlLXR2L2xpbmsmbmFtZT1abGl2aW5n&amp;mode=11&amp;name=%5BCOLOR+green%5DZliving+ditto%5B%2FCOLOR%5D</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
         <cname>Zee TV (Hindi)</cname>
 		<item>
 		<title>High</title>
-		<link>http://50.7.124.2:8010/server22channel3_bitrate4.m3u8</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3m/3m/4871.ts</link>
 		</item>
 </streaminginfo>
 
@@ -299,7 +291,7 @@
         <cname>Zee TV (UK)</cname>
 		<item>
 		<title>High</title>
-		<link>http://zeeapp-lh.akamaihd.net/i/zeetvuk_1@140491/index_800.m3u8</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globeiptv.ddns.net:9999/live/Guillermo/UlZ1TybU4D/147.ts</link>
 		</item>
 </streaminginfo>
 
@@ -694,6 +686,93 @@
 <streaminginfo><cname>Ajyal</cname><item><title>SVR2</title><link>http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/stream1.m3u8?v=1356438483</link></item></streaminginfo>
 <streaminginfo><cname>Ajyal</cname><item><title>SVR1</title><link>http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ajyaltv</link></item></streaminginfo>
 <streaminginfo><cname>Ajyal</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=dPgjrXpFpSs</link></item></streaminginfo>
+
+
+<streaminginfo>
+   <cname>Baraem</cname>
+	<item>
+	<title>Box</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/55.ts</link>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+	<cname>SM SM KIDS</cname>
+	<item>
+	<title>Med</title>
+	<link>http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8</link>
+	</item>
+</streaminginfo> 
+<!--
+<streaminginfo>
+	<cname>Tom and Jerry</cname>
+	<item>
+	<title>Source SD</title>
+	<link>rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1</link>
+	</item>	
+</streaminginfo>
+-->
+<streaminginfo>
+	<cname>Tom and Jerry</cname>
+	<item>
+	<title>Source SD</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lucky.lts1.net:23000/live/yKr4zy3JJW/jrjZ3ygVUA/21102.ts</link>
+	</item>	
+</streaminginfo>
+ <streaminginfo>
+	<cname>Tom and Jerry</cname>
+	<item>
+	<title>med</title>
+	<link>rtmp://208.53.164.194/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?file=tom.flv&amp;type=rtmp&amp;streamer=rtmp://206.190.132.244/tvamigos/&amp;autostart=true&amp;bufferlength=1&amp;stretching=exactfit&amp;controlbar=over pageUrl=http://www.carolineoliveira.com.br/swf/player.swf?file=tom.flv&amp;type=rtmp&amp;streamer=rtmp://206.190.132.244/tvamigos/&amp;autostart=true&amp;bufferlength=1&amp;stretching=exactfit&amp;controlbar=over</link>
+	</item>
+</streaminginfo> 
+
+
+<streaminginfo>
+	<cname>OSN Movies Kids</cname>
+	<item>
+	<title>Amiin: High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/514.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>MBC 3</cname>
+<item>
+<title>tvlive12</title>
+<link>http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/15.m3u8|X-Forwarded-For=80.217.155.211</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC 3</cname>
+<item>
+<title>tvlive463</title>
+<link>http://portal-server.ddns.net:8000/live/tvlive22/tvlive22/463.m3u8|X-Forwarded-For=80.217.155.211</link>
+</item>
+</streaminginfo>
+
+
+<streaminginfo><cname>Aljazeera Children</cname><item><title>Bcoveliveios</title><link>http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8</link></item></streaminginfo>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
