@@ -87,7 +87,7 @@
 	<cname>SLNTV</cname>
 	<item>
 	<title>Med</title>
-	<link>http://www.axadledirect.com:1936/16/stream/playlist.m3u8</link>
+	<link>rtmp://www.axadledirect.com/axadledirect_video/16 playpath=stream swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com/channel/view/slntv-16</link>
     </item>
 </streaminginfo>
 
