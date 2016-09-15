@@ -813,7 +813,7 @@ def replaceGLArabVariables(link, d,gcid, title):
             traceback.print_exc(file=sys.stdout)
         
         if gcid or ProxyCall==False and 'HD' not in title:
-            if gcid:
+            if gcid and 1==2:
                 gcUrl='https://apps.glwiz.com:448/uniwebappandroidads/(S(g01ykv45pojkhpzwap1u14dy))/ajax.ashx?channel=tv&chid=%s&'%gcid
                 print gcUrl,'gcUrl'
                 gcidhtml=getUrl(gcUrl)
@@ -826,7 +826,20 @@ def replaceGLArabVariables(link, d,gcid, title):
 #                gcurl='https://apps.glwiz.com:448/uniwebappandroidads/(S(0mdxhq55vlua3zy1wfg4oooz))/ajax.ashx?stream=tv&ppoint=0&chid=0&chname=&clustername=zixi-mobile&'
                 gcurl='https://apps.glwiz.com:448/UniWebApp-iOS-Ads/ajax.ashx?stream=tv&ppoint=%s.m3u8&clustername=zixi-mobile&&ref=2648384280'%videoPath
                 
-            sessionpage=getUrl(gcurl,cookieJar)
+            #sessionpage=getUrl(gcurl,cookieJar)
+            #data={"gmt":"0","APIPassword":apipwd,"APIKey":apikey,"appVersion":"4.5","deviceType":"7","deviceFirmware":"4.4.4","deviceModel":"GT-I9300","action":"checkNewDevice","serialNumber":glserialno ,"macAddress": glmacAddress,"deviceInfo":"samsung-m0-amlogic-19","applicationType":"5"}
+            data={"appName":"glwizApple","action":"getKeys"}          
+            header=[('User-Agent','GLArab/8 CFNetwork/758.0.2 Darwin/15.0.0')]
+            sessionpage=getUrl(base64.b64decode('aHR0cHM6Ly9hcGkuZ2xpcHR2LmNvbS9nZXRQYXJhbXMuYXNweA=='),post=json.dumps(data), headers=header,jsonpost=True)
+            sessionpage=json.loads(sessionpage)
+            apikey=sessionpage["resp"][0]["APIKey"]
+            APIPassword=sessionpage["resp"][0]["APIPassword"]
+            data={"streamProtocol":"hls","clusterName":"zixi-mobile","province":"","country":"","contentGenreID":"","action":"getPlayURL","appVersion":"4.9","city":"","languageID":"1","playMode":"TV","streamURL":"zixi://38.99.146.42:7777/%s.m3u8"%videoPath,"APIKey":apikey,"channelID":"","appName":"glwizApple","APIPassword":APIPassword,"deviceID":"","packageID":"80","userAgent":"","deviceTypeID":"6","channelName":"","appID":"5"}
+            header=[('User-Agent','GLArab/8 CFNetwork/758.0.2 Darwin/15.0.0')]
+            sessionpage=getUrl(base64.b64decode('aHR0cHM6Ly9hcGkuZ2xpcHR2LmNvbS9hdXRoTW9iaWxlLmFzcHg='),post=json.dumps(data), headers=header,jsonpost=True)
+            sessionpage=json.loads(sessionpage)
+            return sessionpage["resp"][0]["url"]
+             
             
             import uuid
             GlUser=str(uuid.uuid1()).upper()
@@ -1222,4 +1235,3 @@ def saveCookieJar(cookieJar,COOKIEFILE):
 	try:
 		cookieJar.save(COOKIEFILE,ignore_discard=True)
 	except: pass
-
