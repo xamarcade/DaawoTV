@@ -6,7 +6,7 @@
 	<cname>Rai 1</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.proff.co:15003/live/spuntino/NwWQgCnNFQ/134.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/541.ts</link>
 	</item>
 </streaminginfo>
 
@@ -14,7 +14,7 @@
 	<cname>Rai 2</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.proff.co:15003/live/spuntino/NwWQgCnNFQ/135.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/542.ts</link>
 	</item>
 </streaminginfo>
 
@@ -22,16 +22,15 @@
 	<cname>Rai 3</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.proff.co:15003/live/spuntino/NwWQgCnNFQ/136.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/543.ts</link>
 	</item>
 </streaminginfo>
-
 
 <streaminginfo>
 	<cname>Rai 4</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.proff.co:15003/live/spuntino/NwWQgCnNFQ/535.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/481.ts</link>
 	</item>
 </streaminginfo>
 
@@ -39,7 +38,7 @@
 	<cname>Rai 5</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ksportiptv.com:1557/live/dreambox%20OE20/svvwwhq2S4/2013.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/480.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -54,7 +53,7 @@
 	<cname>Rai Movie</cname>
 	<item>
 	<title>f4mTester: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.proff.co:15003/live/spuntino/NwWQgCnNFQ/534.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/634.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -69,17 +68,10 @@
 	<cname>Rai Sport 2</cname>
 	<item>
 	<title>f4mTester: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.proff.co:15003/live/spuntino/NwWQgCnNFQ/244.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/475.ts</link>
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Rai Sport 1</cname>
-	<item>
-	<title>f4mTester: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.proff.co:15003/live/spuntino/NwWQgCnNFQ/243.ts</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>Rai Sport 1</cname>
 	<item>
@@ -92,7 +84,7 @@
 	<cname>Canale 5</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.proff.co:15003/live/spuntino/NwWQgCnNFQ/138.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/545.ts</link>
 	</item>
 </streaminginfo>
 
@@ -100,7 +92,7 @@
 	<cname>Italia 1</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.proff.co:15003/live/spuntino/NwWQgCnNFQ/139.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/560.ts</link>
 	</item>
 </streaminginfo>
 
@@ -108,7 +100,7 @@
 	<cname>Rete 4</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.proff.co:15003/live/spuntino/NwWQgCnNFQ/137.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/544.ts</link>
 	</item>
 </streaminginfo>
 
