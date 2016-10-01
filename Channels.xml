@@ -358,7 +358,7 @@
 <!-- Italy Channels End -->
 
 <!-- Sweden Channels Start -->
-
+<!--
 <channel>
 	<cname>SVT 1</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/SVT1_logo_2012.svg/2000px-SVT1_logo_2012.svg.png</imageurl>
@@ -616,7 +616,7 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
--->
+
 <channel>
 	<cname>Oppna Kanalen</cname>
 	<imageurl>http://live-sport.me/wp-content/uploads/2015/05/%C3%96ppna-Kanalen-Stockholm.gif</imageurl>
@@ -860,11 +860,9 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
-
-
 -->
-
 <!-- Sweden Channels End -->
+
 
 <!-- Indian Channels Start -->
 
