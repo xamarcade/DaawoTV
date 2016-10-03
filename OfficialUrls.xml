@@ -6,7 +6,7 @@
 <cname>MBC 1</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/84.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/260.ts</link>
 </item>
 </streaminginfo>
 
@@ -14,7 +14,7 @@
 <cname>MBC 2</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/85.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/261.ts</link>
 </item>
 </streaminginfo>
 
@@ -23,7 +23,7 @@
 <cname>MBC 4</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/87.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/263.ts</link>
 </item>
 </streaminginfo>
 
@@ -31,23 +31,15 @@
 <cname>MBC Action</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/81.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7493.ts</link>
 </item>
 </streaminginfo>
-
 
 <streaminginfo>
 <cname>MBC Bollywood</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/82.ts</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>MBC Bollywood</cname>
-<item>
-<title>Roku ios</title>
-<link>http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7494.ts</link>
 </item>
 </streaminginfo>
 
@@ -55,7 +47,7 @@
 <cname>MBC Drama</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/80.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7495.ts</link>
 </item>
 </streaminginfo>
 
@@ -63,7 +55,7 @@
 <cname>MBC Masr</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/78.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7496.ts</link>
 </item>
 </streaminginfo>
 
@@ -71,7 +63,7 @@
 <cname>MBC Masr 2</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/79.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7498.ts</link>
 </item>
 </streaminginfo>
 
@@ -79,7 +71,7 @@
 <cname>MBC Max</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/83.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7497.ts</link>
 </item>
 </streaminginfo>
 
@@ -111,21 +103,21 @@
 	<cname>OSN Box Offiece 1</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/33.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7200.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Box Offiece 2</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/34.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7201.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Box Offiece 3</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/35.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7202.ts</link>
 	</item>
 </streaminginfo>
 
@@ -149,14 +141,14 @@
 	<cname>OSN First HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/29.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/521.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN First Comedy</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/26.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/503.ts</link>
 	</item>
 </streaminginfo>
 
@@ -171,7 +163,7 @@
 	<cname>OSN Movies HD Plus 2</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/32.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/13014.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -192,14 +184,14 @@
 	<cname>OSN Movies Comedy HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/27.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/522.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Movies Drama HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/10.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/525.ts</link>
 	</item>
 </streaminginfo>
 
@@ -207,7 +199,7 @@
 	<cname>OSN Movies Festival</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/9.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/508.ts</link>
 	</item>
 </streaminginfo>
 
@@ -215,7 +207,7 @@
 	<cname>OSN Movies Premiere HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/23.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/519.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -230,7 +222,7 @@
 	<cname>OSN Star Movies HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/19.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/500.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -260,7 +252,7 @@
 	<cname>OSN Yahala Cinema HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/886.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/506.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -274,7 +266,7 @@
 	<cname>OSN Yahala HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/15.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/517.ts</link>
 	</item>
 </streaminginfo> 
 
@@ -282,28 +274,28 @@
 	<cname>Bein Moveis 1 HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/46.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/4802.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Moveis 2 HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/47.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/4803.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Moveis 3 HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/878.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/13032.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Moveis 4 HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1287.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/1581.ts</link>
 	</item>
 </streaminginfo>
 
