@@ -96,14 +96,6 @@
 	</assignedcategory>
 </channel>
 
--<channel>
-	<cname>SLNTV</cname>
-	<imageurl>http://i.imgur.com/LPTRMeR.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
 <channel>
 	<cname>PLTV</cname>
 	<imageurl>http://www.balcad.com/wp-content/uploads/2016/06/NNNNNNNNNN.png</imageurl>
@@ -113,6 +105,15 @@
 	</assignedcategory>
 </channel>
 <!--
+-<channel>
+	<cname>SLNTV</cname>
+	<imageurl>http://i.imgur.com/LPTRMeR.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
+
 <channel>
 	<cname>Somali  Channel</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/smli_zps93a6c01a.png</imageurl>
