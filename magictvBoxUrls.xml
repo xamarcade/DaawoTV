@@ -197,7 +197,7 @@
     <cname>Zee Aflam</cname>
 	<item>
 	<title>Hamada: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/hamada/hamada/593.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7304.ts</link>
 	</item>
 </streaminginfo>
 
@@ -205,7 +205,7 @@
     <cname>Zee Alwan</cname>
 	<item>
 	<title>Hamada: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/live/hamada/hamada/592.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7305.ts</link>
 	</item>
 </streaminginfo>
 
@@ -252,7 +252,7 @@
         <cname>Zee Cinema (US)</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/945.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/1546.ts</link>
 		</item>
 </streaminginfo>
 
@@ -260,7 +260,7 @@
         <cname>Zee Classic</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1209.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/1549.ts</link>
 		</item>
 </streaminginfo>
 
@@ -268,14 +268,7 @@
         <cname>Zee Anmol</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1213.ts</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Zee Anmol</cname>
-		<item>
-		<title>Box: High</title>
-		<link>http://130.185.144.63:8081/box/zeeanmol/chunks.m3u8</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/1543.ts</link>
 		</item>
 </streaminginfo>
 
@@ -291,7 +284,7 @@
         <cname>Zee TV (UK)</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globeiptv.ddns.net:9999/live/Guillermo/UlZ1TybU4D/147.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/3441.ts</link>
 		</item>
 </streaminginfo>
 
