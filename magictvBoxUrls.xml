@@ -46,7 +46,7 @@
         <cname>B4U Aflam</cname>
 		<item>
 		<title>Hamada: High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/577.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/monji2011/monji2011/138.ts</link>
 		</item>
 </streaminginfo>
 
@@ -54,7 +54,7 @@
     <cname>B4U Movies</cname>
 	<item>
 	<title>Box</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/226.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/monji2011/monji2011/226.ts</link>
 	</item>
 </streaminginfo>
 
@@ -70,7 +70,7 @@
     <cname>B4U Plus</cname>
 	<item>
 	<title>Hamada: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/228.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/monji2011/monji2011/228.ts</link>
 	</item>
 </streaminginfo>
 
