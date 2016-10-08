@@ -104,6 +104,9 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
+
+<!--
+
 -<channel>
 	<cname>SLNTV</cname>
 	<imageurl>http://i.imgur.com/LPTRMeR.jpg</imageurl>
@@ -112,9 +115,6 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
-<!--
-
-
 <channel>
 	<cname>Somali  Channel</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/smli_zps93a6c01a.png</imageurl>
