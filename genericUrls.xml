@@ -4,12 +4,6 @@
 
 <streaminginfo>
 	<cname>Africa TV4</cname>
-	<item><title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/monji2011/monji2011/651.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Africa TV4</cname>
 	<item>
 	<title>Low</title>		
 	<link>http://africatv.live.net.sa:1935/live/africatv4/playlist.m3u8</link>
@@ -34,12 +28,6 @@
 
 <streaminginfo>
 	<cname>HCTV</cname>
-	<item><title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/monji2011/monji2011/1372.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>HCTV</cname>
 	<item>
 	<title>Med</title>
 	<link>http://www.axadledirect.com:1936/17/stream/playlist.m3u8</link>
@@ -54,12 +42,6 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Kalsan Tv</cname>
-	<item><title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/monji2011/monji2011/1374.ts</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>Kalsan Tv</cname>
 	<item>
@@ -80,12 +62,7 @@
 	<link>plugin://plugin.video.youtube/play/?video_id=Yz5j2-z8hs8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>SBC</cname>
-	<item><title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/monji2011/monji2011/1375.ts</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>SBC</cname>
 	<item>
@@ -116,22 +93,9 @@
 
 <streaminginfo>
 	<cname>SNTV</cname>
-	<item><title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/monji2011/monji2011/1390.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>SNTV</cname>
 	<item>
 	<title>Axadledirect - Low</title>
 	<link>http://www.axadledirect.com:1936/13/stream/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Somali Cable</cname>
-	<item><title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/monji2011/monji2011/1676.ts</link>
 	</item>
 </streaminginfo>
 
@@ -155,7 +119,6 @@
 	</regex>
 	</item>
 </streaminginfo>
-
 
 <streaminginfo>
 	<cname>PLTV</cname>
@@ -217,12 +180,6 @@
 	<item>
 	<title>Med</title>		
 	<link>http://www.axadledirect.com:1936/15/stream/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Universal Somali</cname>
-	<item><title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/monji2011/monji2011/1393.ts</link>
 	</item>
 </streaminginfo>
 
