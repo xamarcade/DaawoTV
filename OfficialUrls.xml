@@ -6,7 +6,7 @@
 <cname>MBC 1</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/260.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/tripoli/tripoli/24.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -14,7 +14,7 @@
 <cname>MBC 2</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/261.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/tripoli/tripoli/25.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -23,7 +23,7 @@
 <cname>MBC 4</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/263.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/tripoli/tripoli/27.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -31,7 +31,7 @@
 <cname>MBC Action</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7493.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/tripoli/tripoli/29.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -39,7 +39,7 @@
 <cname>MBC Bollywood</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7494.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/tripoli/tripoli/30.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -47,7 +47,7 @@
 <cname>MBC Drama</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7495.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/tripoli/tripoli/360.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -55,7 +55,7 @@
 <cname>MBC Masr</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7496.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/tripoli/tripoli/386.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -63,7 +63,7 @@
 <cname>MBC Masr 2</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7498.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/tripoli/tripoli/385.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -71,7 +71,7 @@
 <cname>MBC Max</cname>
 <item>
 <title>Amiin</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/7497.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/tripoli/tripoli/28.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
