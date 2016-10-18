@@ -6,7 +6,7 @@
 	<cname>Rai 1</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/541.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/tripoli/tripoli/510.ts</link>
 	</item>
 </streaminginfo>
 
@@ -14,7 +14,7 @@
 	<cname>Rai 2</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/542.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/tripoli/tripoli/623.ts</link>
 	</item>
 </streaminginfo>
 
@@ -22,7 +22,7 @@
 	<cname>Rai 3</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/543.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/tripoli/tripoli/624.ts</link>
 	</item>
 </streaminginfo>
 
@@ -30,7 +30,7 @@
 	<cname>Rai 4</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/481.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/tripoli/tripoli/625.ts</link>
 	</item>
 </streaminginfo>
 
@@ -38,7 +38,7 @@
 	<cname>Rai 5</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/480.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/1382.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -53,7 +53,7 @@
 	<cname>Rai Movie</cname>
 	<item>
 	<title>f4mTester: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/634.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/2674.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -68,7 +68,7 @@
 	<cname>Rai Sport 2</cname>
 	<item>
 	<title>f4mTester: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/475.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/tripoli/tripoli/630.ts</link>
 	</item>
 </streaminginfo>
 
@@ -76,7 +76,7 @@
 	<cname>Rai Sport 1</cname>
 	<item>
 	<title>Fratelli: High</title>
-	<link>http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8?auth=daEbQded2dtdnaactbSaUazc1bjdMdrb7d1-bwKNoI-c0-CmvxvHw&amp;aifp=V001</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/tripoli/tripoli/627.ts</link>
 	</item>
 </streaminginfo>
 
@@ -84,7 +84,7 @@
 	<cname>Canale 5</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/545.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/tripoli/tripoli/654.ts</link>
 	</item>
 </streaminginfo>
 
@@ -92,7 +92,7 @@
 	<cname>Italia 1</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/560.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/tripoli/tripoli/640.ts</link>
 	</item>
 </streaminginfo>
 
@@ -100,7 +100,7 @@
 	<cname>Rete 4</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rts-tv-service.webhop.biz:7664/live/michele/rheinheim/544.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.8:8000/live/first/first/2827.ts</link>
 	</item>
 </streaminginfo>
 
