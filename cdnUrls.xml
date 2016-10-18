@@ -5,7 +5,7 @@
 	<cname>Bein Sport 1</cname>
 	<item>
 	<title>Local</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/3054.ts</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/3054.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -13,7 +13,7 @@
 	<cname>Bein Sport 2</cname>
 	<item>
 	<title>Local</title>
-	<link>http://149.202.207.8:8080/FLUbhensp-2/counter1/index.m3u8</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/27.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -21,7 +21,7 @@
 	<cname>Bein Sport 3</cname>
 	<item>
 	<title>Local</title>
-	<link>http://149.202.207.8:8080/FLUbhensp-3/counter1/index.m3u8</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/28.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -29,7 +29,7 @@
 	<cname>Bein Sport 4</cname>
 	<item>
 	<title>Local</title>
-	<link>http://149.202.207.8:8080/FLUbhensp-4/counter1/index.m3u8</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/29.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -37,7 +37,7 @@
 	<cname>Bein Sport 5</cname>
 	<item>
 	<title>Local</title>
-	<link>http://149.202.207.8:8080/FLUbhensp-5/counter1/index.m3u8</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/30.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -45,7 +45,7 @@
 	<cname>Bein Sport 6</cname>
 	<item>
 	<title>Local</title>
-	<link>http://149.202.207.8:8080/FLUbhensp-6/counter1/index.m3u8</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/31.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -53,7 +53,7 @@
 	<cname>Bein Sport 7</cname>
 	<item>
 	<title>Local</title>
-	<link>http://149.202.207.8:8080/FLUbhensp-7/counter1/index.m3u8</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/32.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -61,7 +61,7 @@
 	<cname>Bein Sport 8</cname>
 	<item>
 	<title>Local</title>
-	<link>http://149.202.207.8:8080/FLUbhensp-8/counter1/index.m3u8</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/33.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -69,7 +69,7 @@
 	<cname>Bein Sport 9</cname>
 	<item>
 	<title>Local</title>
-	<link>http://149.202.207.8:8080/FLUbhensp-9/counter1/index.m3u8</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/34.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -77,7 +77,7 @@
 	<cname>Bein Sport 10</cname>
 	<item>
 	<title>Local</title>
-	<link>http://149.202.207.8:8080/FLUbhensp-10/counter1/index.m3u8</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/35.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -85,7 +85,7 @@
 	<cname>Bein Sport 11</cname>
 	<item>
 	<title>Local</title>
-	<link>http://149.202.207.8:8080/FLUbhensp-11/counter1/index.m3u8</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/2576.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -93,7 +93,7 @@
 	<cname>Bein Sport 12</cname>
 	<item>
 	<title>Local</title>
-	<link>http://149.202.207.8:8080/FLUbhensp-12/counter1/index.m3u8</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/2577.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -101,7 +101,7 @@
 	<cname>Bein Sport 13</cname>
 	<item>
 	<title>Local</title>
-	<link>http://149.202.207.8:8080/FLUbhensp-13/counter1/index.m3u8</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/2578.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -109,7 +109,7 @@
 	<cname>Bein Sport 14</cname>
 	<item>
 	<title>Local</title>
-	<link>http://149.202.207.8:8080/SNDHbhens-macs-4/counter1/index.m3u8</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/2579.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -117,7 +117,7 @@
 	<cname>Bein Sport 15</cname>
 	<item>
 	<title>Local</title>
-	<link>http://149.202.207.8:8080/SNDHbhens-macs-5/counter1/index.m3u8</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/2580.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
