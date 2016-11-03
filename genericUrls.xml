@@ -19,14 +19,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>ESTV</cname>
-	<item>
-    <title>Low</title>
-    <link>http://htq.ddns.me/iptv/ch1005?code=39006645183604</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>HCTV</cname>
 	<item>
 	<title>Med</title>
@@ -85,21 +77,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>SLNTV</cname>
-	<item><title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/monji2011/monji2011/1389.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>SNTV</cname>
-	<item>
-	<title>Axadledirect - Low</title>
-	<link>http://www.axadledirect.com:1936/13/stream/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>Somali Cable</cname>
 	<item>
 	<title>Med</title>
@@ -148,6 +125,30 @@
 	<link>http://cdn01.iqbroadcast.tv:8081/startv/hb9wp/playlist.m3u8</link>
 	</item>
 </streaminginfo>
+<!--
+
+<streaminginfo>
+	<cname>ESTV</cname>
+	<item>
+    <title>Low</title>
+    <link>http://htq.ddns.me/iptv/ch1005?code=39006645183604</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>SLNTV</cname>
+	<item><title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/monji2011/monji2011/1389.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>SNTV</cname>
+	<item>
+	<title>Axadledirect - Low</title>
+	<link>http://www.axadledirect.com:1936/13/stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>Universal Somali</cname>
@@ -182,6 +183,10 @@
 	<link>http://www.axadledirect.com:1936/15/stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
+-->
+
+
+
 
 <!-- Somalian Channels End -->
 
