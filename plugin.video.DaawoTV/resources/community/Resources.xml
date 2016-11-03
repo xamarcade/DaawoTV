@@ -25,7 +25,7 @@
 	<file fname="palestinecoolUrls.xml" url="http://goo.gl/yNlwCM"/>
 	<file fname="ZombiList.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/ZombiList.xml"/>	
     	<file fname="emadUrls.xml"  url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/emadUrls.xml"/>
-	<file fname="filmonUrls.xml"/> 
+	<file fname="filmonUrls.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/filmonUrls.xml"/> 
 	<file fname="filmonPlayer.py"/> 
 	<file fname="OfficialUrls.xml"   url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/OfficialUrls.xml"/>
 	<file fname="TelvzaUrls.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/TelvzaUrls.xml"/>
