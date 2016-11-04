@@ -13,19 +13,69 @@
 <streaminginfo>
 	<cname>Djibouti</cname>
 	<item>
+	<title>Med 1</title>		
+<link>rtmp://www.axadledirect.com/axadledirect_video/19 app=axadledirect_video/19 playpath=stream conn=S:19 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
+<regex>
+<name>userid</name>
+<expres>userId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/rtd-en-direct-19</page>
+</regex>
+<regex>
+<name>uniqid</name>
+<expres>uniqId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/rtd-en-direct-19</page>
+</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Djibouti</cname>
+	<item>
     <title>Low</title>
     <link>http://www.axadledirect.com:1936/19/stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
+	<cname>ESTV</cname>
+	<item>
+	<title>Med 1</title>		
+<link>rtmp://www.axadledirect.com/axadledirect_video/18 app=axadledirect_video/18 playpath=stream conn=S:18 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
+<regex>
+<name>userid</name>
+<expres>userId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/estv-18</page>
+</regex>
+<regex>
+<name>uniqid</name>
+<expres>uniqId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/estv-18</page>
+</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>HCTV</cname>
 	<item>
-	<title>Med</title>
+	<title>Med 2</title>
 	<link>http://www.axadledirect.com:1936/17/stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-
+<streaminginfo>
+	<cname>HCTV</cname>
+	<item>
+	<title>Med 1</title>		
+<link>rtmp://www.axadledirect.com/axadledirect_video/17 app=axadledirect_video/17 playpath=stream conn=S:17 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
+<regex>
+<name>userid</name>
+<expres>userId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/hctv-17</page>
+</regex>
+<regex>
+<name>uniqid</name>
+<expres>uniqId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/hctv-17</page>
+</regex>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>JLTV</cname>
 	<item>
@@ -47,6 +97,7 @@
 	</regex>
 	</item>
 </streaminginfo>
+
 
 <streaminginfo>
 	<cname>Dalmar TV</cname>
@@ -73,6 +124,49 @@
 		<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18624946/streams/live/playlist.m3u8')</expres>
 		<page></page>
 		</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>SLNTV</cname>
+	<item><title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/monji2011/monji2011/1389.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>SLNTV</cname>
+	<item>
+	<title>Med 2</title>		
+<link>rtmp://www.axadledirect.com/axadledirect_video/16 app=axadledirect_video/16 playpath=stream conn=S:16 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
+<regex>
+<name>userid</name>
+<expres>userId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/slntv-16</page>
+</regex>
+<regex>
+<name>uniqid</name>
+<expres>uniqId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/slntv-16</page>
+</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>SNTV</cname>
+	<item>
+	<title>Axadledirect - Low</title>	
+<link>rtmp://www.axadledirect.com/axadledirect_video/13 app=axadledirect_video/13 playpath=stream conn=S:13 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
+<regex>
+<name>userid</name>
+<expres>userId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/sntv-13</page>
+</regex>
+<regex>
+<name>uniqid</name>
+<expres>uniqId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/sntv-13</page>
+</regex>
 	</item>
 </streaminginfo>
 
@@ -125,6 +219,25 @@
 	<link>http://cdn01.iqbroadcast.tv:8081/startv/hb9wp/playlist.m3u8</link>
 	</item>
 </streaminginfo>
+
+
+<streaminginfo>
+	<cname>Universal Somali</cname>
+	<item>
+	<title>Med 2</title>		
+<link>rtmp://www.axadledirect.com/axadledirect_video/15 app=axadledirect_video/15 playpath=stream conn=S:15 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
+<regex>
+<name>userid</name>
+<expres>userId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/universaltv-15</page>
+</regex>
+<regex>
+<name>uniqid</name>
+<expres>uniqId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/universaltv-15</page>
+</regex>
+	</item>
+</streaminginfo>
 <!--
 
 <streaminginfo>
@@ -135,12 +248,6 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>SLNTV</cname>
-	<item><title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/monji2011/monji2011/1389.ts</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>SNTV</cname>
@@ -184,9 +291,6 @@
 	</item>
 </streaminginfo>
 -->
-
-
-
 
 <!-- Somalian Channels End -->
 
