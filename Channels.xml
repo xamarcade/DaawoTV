@@ -13,7 +13,7 @@
 </channel>
 <channel>
 	<cname>Djibouti</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/rr/rtd_dj.png</imageurl>
+	<imageurl>http://universaltvlive.net/wp-content/uploads/2016/02/images.jpeg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>somalia</category>
@@ -21,7 +21,7 @@
 </channel>
 <channel>
      <cname>SNTV</cname>
-     <imageurl>http://www.lyngsat-logo.com/hires/ss/sntv_so.png</imageurl>
+     <imageurl>http://allssc.com/wp-content/uploads/2011/05/SNtv-somalia.jpg</imageurl>
      <enabled>True</enabled>
      <assignedcategory>
      <category>somalia</category>
@@ -38,7 +38,7 @@
 </channel>
 <channel>
 	<cname>HCTV</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/hh/horn_cable_tv_so.png</imageurl>
+	<imageurl>https://pbs.twimg.com/profile_images/2204802170/logo.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>somalia</category>
@@ -46,7 +46,7 @@
 </channel>
 <channel>
 	<cname>Universal Somali</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/uu/universal_somali_tv.png</imageurl>
+	<imageurl>http://img.new.livestream.com/accounts/00000000001f6a4f/5ba7db77-d17d-476d-86a5-b9cba35e9773_170x170.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>somalia</category>
@@ -98,7 +98,7 @@
 
 <channel>
 	<cname>PLTV</cname>
-	<imageurl>http://www.balcad.com/wp-content/uploads/2016/06/NNNNNNNNNN.png</imageurl>
+	<imageurl>http://www.sat-address.com/f/pics/logotipi/Puntland-TV_o.jpg</imageurl>
 	<enabled>True</enabled>
 -	<assignedcategory>
 		<category>somalia</category>
@@ -107,7 +107,7 @@
 
 -<channel>
 	<cname>ESTV</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ee/ethiopia_somali_tv.png</imageurl>
+	<imageurl>http://www.islambox.com/images/products/channels/web/estv-boxee.png</imageurl>
 	<enabled>True</enabled>
 -	<assignedcategory>
 		<category>somalia</category>
