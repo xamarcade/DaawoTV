@@ -209,7 +209,6 @@
      </assignedcategory>
 </channel>
 
-
 <channel>
 	<cname>Sanaa</cname>
 	<imageurl>http://s30.postimg.org/905ghuuip/Sana_Sat_Channel_o.jpg</imageurl>
@@ -218,7 +217,23 @@
 	<category>yemen</category>
 	</assignedcategory>
 </channel>
-<!--
+
+<channel>
+	<cname>Al-Eiman</cname>
+	<imageurl>http://store2.up-00.com/2016-12/1482792388541.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>yemen</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Sheba</cname>
+	<imageurl>https://yt3.ggpht.com/-c-zhG-i6VgA/AAAAAAAAAAI/AAAAAAAAAAA/KpCwC_wXOJw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>yemen</category>
+	</assignedcategory>
+</channel>
 <channel>
 	<cname>Suhail TV</cname>
 	<imageurl>http://www.suhail.net/userimages/suhail_final_new_05.jpg</imageurl>
@@ -243,6 +258,14 @@
      <category>yemen</category>
      </assignedcategory>
 </channel>
+<channel>
+     <cname>Al-Ghad Al-Mushreq</cname>
+     <imageurl>https://pbs.twimg.com/profile_images/733015347159273473/Rsl0JrOc.jpg</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>yemen</category>
+     </assignedcategory>
+</channel>
 
 <channel>
 	<cname>AL sahat</cname>
@@ -252,7 +275,14 @@
 	<category>yemen</category>
 	</assignedcategory>
 </channel>
-
+<channel>
+	<cname>Sama Yemen</cname>
+	<imageurl>http://www.nsowo.com/wp-content/uploads/2015/04/17828_409550742551967_2430860591793723464_n.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>yemen</category>
+	</assignedcategory>
+</channel>
 
 <channel>
 	<cname>Yemen Alyawm</cname>
@@ -262,7 +292,15 @@
 	<category>yemen</category>
 	</assignedcategory>
 </channel>
--->
+<channel>
+	<cname>Yemen Shabab</cname>
+	<imageurl>https://yt3.ggpht.com/-Oz4g6zWEm4g/AAAAAAAAAAI/AAAAAAAAAAA/z1KnBDqmusc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>yemen</category>
+	</assignedcategory>
+</channel>
+
 
 <!-- Yemen Channels End -->
 
