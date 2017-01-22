@@ -112,62 +112,6 @@
 </streaminginfo>
 
 <streaminginfo>
-<cname>Universal Somali</cname>
-<item>
-<title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3024.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>SLNTV</cname>
-<item>
-<title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3027.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>HCTV</cname>
-<item>
-<title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3037.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>SNTV</cname>
-<item>
-<title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3029.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>Somali Cable</cname>
-<item>
-<title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3028.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>Kalsan Tv</cname>
-<item>
-<title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3036.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>Africa TV4</cname>
-<item>
-<title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3021.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-
-<!--
-<streaminginfo>
 	<cname>ESTV</cname>
 	<item>
 	<title>Med 1</title>		
@@ -185,48 +129,12 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>HCTV</cname>
+	<cname>ESTV</cname>
 	<item>
-	<title>Med 2</title>
-	<link>http://www.axadledirect.com:1936/17/stream/playlist.m3u8</link>
+    <title>Low</title>
+    <link>http://www.axadledirect.com:1936/18/stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>HCTV</cname>
-	<item>
-	<title>Med 1</title>		
-<link>rtmp://www.axadledirect.com/axadledirect_video/17 app=axadledirect_video/17 playpath=stream conn=S:17 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
-<regex>
-<name>userid</name>
-<expres>userId: "(.*?)"</expres>
-<page>http://www.axadledirect.com/channel/view/hctv-17</page>
-</regex>
-<regex>
-<name>uniqid</name>
-<expres>uniqId: "(.*?)"</expres>
-<page>http://www.axadledirect.com/channel/view/hctv-17</page>
-</regex>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>SLNTV</cname>
-	<item>
-	<title>Med</title>		
-<link>rtmp://www.axadledirect.com/axadledirect_video/16 app=axadledirect_video/16 playpath=stream conn=S:16 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
-<regex>
-<name>userid</name>
-<expres>userId: "(.*?)"</expres>
-<page>http://www.axadledirect.com/channel/view/slntv-16</page>
-</regex>
-<regex>
-<name>uniqid</name>
-<expres>uniqId: "(.*?)"</expres>
-<page>http://www.axadledirect.com/channel/view/slntv-16</page>
-</regex>
-	</item>
-</streaminginfo>
-
 <streaminginfo>
 	<cname>Djibouti</cname>
 	<item>
@@ -253,9 +161,61 @@
 </streaminginfo>
 
 <streaminginfo>
+	<cname>HCTV</cname>
+	<item>
+	<title>Med 2</title>		
+<link>rtmp://www.axadledirect.com/axadledirect_video/17 app=axadledirect_video/17 playpath=stream conn=S:17 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
+<regex>
+<name>userid</name>
+<expres>userId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/hctv-17</page>
+</regex>
+<regex>
+<name>uniqid</name>
+<expres>uniqId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/hctv-17</page>
+</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>HCTV</cname>
+	<item>
+	<title>Med</title>
+	<link>http://www.axadledirect.com:1936/17/stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>SLNTV</cname>
+	<item>
+	<title>Med</title>		
+<link>rtmp://www.axadledirect.com/axadledirect_video/16 app=axadledirect_video/16 playpath=stream conn=S:16 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
+<regex>
+<name>userid</name>
+<expres>userId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/slntv-16</page>
+</regex>
+<regex>
+<name>uniqid</name>
+<expres>uniqId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/slntv-16</page>
+</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>SLNTV</cname>
+	<item>
+	<title>Axadledirect - Low</title>
+	<link>http://www.axadledirect.com:1936/16/stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
 	<cname>SNTV</cname>
 	<item>
-	<title>Axadledirect - Low</title>	
+	<title>Axadledirect - Low2</title>	
 <link>rtmp://www.axadledirect.com/axadledirect_video/13 app=axadledirect_video/13 playpath=stream conn=S:13 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
 <regex>
 <name>userid</name>
@@ -269,34 +229,6 @@
 </regex>
 	</item>
 </streaminginfo>
-
-<streaminginfo>
-	<cname>Universal Somali</cname>
-	<item>
-	<title>Med 2</title>		
-<link>rtmp://www.axadledirect.com/axadledirect_video/15 app=axadledirect_video/15 playpath=stream conn=S:15 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
-<regex>
-<name>userid</name>
-<expres>userId: "(.*?)"</expres>
-<page>http://www.axadledirect.com/channel/view/universaltv-15</page>
-</regex>
-<regex>
-<name>uniqid</name>
-<expres>uniqId: "(.*?)"</expres>
-<page>http://www.axadledirect.com/channel/view/universaltv-15</page>
-</regex>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>ESTV</cname>
-	<item>
-    <title>Low</title>
-    <link>http://htq.ddns.me/iptv/ch1005?code=39006645183604</link>
-	</item>
-</streaminginfo>
-
-
 <streaminginfo>
 	<cname>SNTV</cname>
 	<item>
@@ -334,11 +266,27 @@
 <streaminginfo>
 	<cname>Universal Somali</cname>
 	<item>
+	<title>Med 2</title>		
+<link>rtmp://www.axadledirect.com/axadledirect_video/15 app=axadledirect_video/15 playpath=stream conn=S:15 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
+<regex>
+<name>userid</name>
+<expres>userId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/universaltv-15</page>
+</regex>
+<regex>
+<name>uniqid</name>
+<expres>uniqId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/universaltv-15</page>
+</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Universal Somali</cname>
+	<item>
 	<title>Med</title>		
 	<link>http://www.axadledirect.com:1936/15/stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
--->
 
 <!-- Somalian Channels End -->
 
