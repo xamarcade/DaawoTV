@@ -70,6 +70,22 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
+<channel>
+	<cname>Som news TV</cname>
+	<imageurl>http://www.sahalsoftware.com/wp-content/uploads/2015/09/SomNews-Sahalsoftware.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>STN</cname>
+	<imageurl>http://store6.up-00.com/2017-01/14854734394361.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
 -<channel>
 	<cname>Star TV</cname>
 	<imageurl>http://somaliiptv.com/wp-content/uploads/2015/03/somali-star-tv-300x225.jpg</imageurl>
@@ -397,6 +413,483 @@
 </channel>
 
 <!-- Italy Channels End -->
+
+<!-- Sweden Channels Start -->
+
+<channel>
+	<cname>SVT 1</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/SVT1_logo_2012.svg/2000px-SVT1_logo_2012.svg.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>SVT 2</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/SVT2_logo_2012.svg/220px-SVT2_logo_2012.svg.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV 3</cname>
+	<imageurl>http://bdtv.se/wordpress/BDTV_2/wp-content/gallery/basutbud/05.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV 4</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TV4sweden_logo.svg/512px-TV4sweden_logo.svg.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV 4 Film</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/TV4_Film.svg/576px-TV4_Film.svg.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV 4 Komedi</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/7/74/TV4_Komedi.svg/825px-TV4_Komedi.svg.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV 4 Guld</cname>
+	<imageurl>http://www.hoist.dk/archive/images/logos/TV-Kanaler/tv4guld.gif</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV 4 Fakta</cname>
+	<imageurl>https://s-media-cache-ak0.pinimg.com/236x/b3/1d/08/b31d089aa60e7a1cfbbaf9e9e59bf95e.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<!--
+<channel>
+	<cname>TV 4 Sport</cname>
+	<imageurl>http://www.spvm.se/uploads/news/id403/TV4Sport_logotyp_RGB.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+-->
+<channel>
+	<cname>TV 5</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Kanal_5_Sweden.svg/1024px-Kanal_5_Sweden.svg.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV 6</cname>
+	<imageurl>http://bdtv.se/wordpress/BDTV_2/wp-content/gallery/basutbud/08.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV 7</cname>
+	<imageurl>http://store1.up-00.com/2016-02/145609485983021.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV 8</cname>
+	<imageurl>http://store2.up-00.com/2016-02/145617123311351.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV 9</cname>
+	<imageurl>http://www.scandinaviantvsolutions.com/images/channels/sweden-kanal9.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV 10</cname>
+	<imageurl>https://aom99.files.wordpress.com/2011/03/bild71.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV 11</cname>
+	<imageurl>http://www.resume.se/contentassets/cd972759631c47749779129ed9b40f89/logo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV 12</cname>
+	<imageurl>https://www.viasat.se/sites/viasat.se/files/styles/promo_channel_logo/public/tv12_logo_lightgray_orange_rgb2.png?itok=xIQbzqC4</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Kunskapskanalen</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/en/c/c7/Kunskapskanalen.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Oppna Kanalen</cname>
+	<imageurl>http://live-sport.me/wp-content/uploads/2015/05/%C3%96ppna-Kanalen-Stockholm.gif</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Discovery Channel</cname>
+	<imageurl>http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024x768.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>National Geographic</cname>
+	<imageurl>https://s-media-cache-ak0.pinimg.com/236x/71/45/56/7145568da8969eb8ea38295b2f1c662b.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>TCM</cname>
+	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/c/c2/TCM_2009.jpg/revision/latest?cb=20111006202159</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>SF-Kanalen</cname>
+	<imageurl>http://www.elektronikkbransjen.no/var/ezflow_site/storage/images/media/images/2009-7/ny-svensk-filmkanal/0/113816-1-nno-NO/image_huge_image.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>FOX</cname>
+	<imageurl>http://www.birtvizle.com/wp-content/uploads/2015/01/fox-tv-izle.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TNT</cname>
+	<imageurl>http://www.tvweek.com/wp-content/uploads/2014/07/tnt-LOGO.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Comedy Central</cname>
+	<imageurl>https://s-media-cache-ak0.pinimg.com/236x/13/ae/19/13ae19265cdd6424eb38223f12f3bdca.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TLC</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/200px-TLC_USA_logo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>C more First</cname>
+	<imageurl>https://www.boxer.se/siteassets/tv/tv-kanaler/channel-thumbnails/channel_logo_thumbnail_cmore_first.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C more Action</cname>
+	<imageurl>http://www.allatvkanaler.se/imagestv/cmore_action.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C more Series</cname>
+	<imageurl>https://www.boxer.se/siteassets/tv/tv-kanaler/channel-thumbnails/channel_logo_thumbnail_cmore_series.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C more Hits</cname>
+	<imageurl>https://www.boxer.se/siteassets/tv/tv-kanaler/channel-thumbnails/channel_logo_thumbnail_cmore_hits_hd.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C More Emotion</cname>
+	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_emotion.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C more Tennis</cname>
+	<imageurl>http://www.allatvkanaler.se/imagestv/cmore_tennis.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C More Sport</cname>
+	<imageurl>http://tv.moviesntvlive.com/wp-content/uploads/2015/11/C-More-Sport.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C more Live</cname>
+	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_live_1.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C more Live 2</cname>
+	<imageurl>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_live_2.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C More Live 3</cname>
+	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_live_3.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C More Live 4</cname>
+	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_live_4.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat Nature</cname>
+	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/5/51/Viasat_Nature_2014.png/revision/latest?cb=20140512144610</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat E!</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Viasat_explore.png/100px-Viasat_explore.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat History</cname>
+	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/6/6f/Viasat_History.png/revision/latest?cb=20140512144319</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat Hits</cname>
+	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/a/a5/Viasat_Film_Hits.jpeg/revision/latest?cb=20151119203355</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat Family</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/en/a/a4/Viasat_film_family.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Viasat Film Premiere</cname>
+	<imageurl>http://vignette3.wikia.nocookie.net/logopedia/images/d/df/Viasat_Film_Premiere.jpeg/revision/latest?cb=20151119194830</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat Series</cname>
+	<imageurl>http://vignette2.wikia.nocookie.net/logopedia/images/2/27/Viasat_series_.jpeg/revision/latest?cb=20151119202840</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Viasat Sport</cname>
+	<imageurl>http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Viasat_Sport_2008.png/revision/latest?cb=20100122152914</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat Fotboll</cname>
+	<imageurl>http://vignette2.wikia.nocookie.net/logopedia/images/3/36/Viasat_Fotboll_2008.png/revision/latest?cb=20100122153127</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat Motor</cname>
+	<imageurl>http://vignette2.wikia.nocookie.net/logopedia/images/f/f5/Viasat_Motor_2008.png/revision/latest?cb=20100122153323</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat Hockey</cname>
+	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/d/de/Viasat_Hockey_logo.png/revision/latest?cb=20100318124513</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat Golf</cname>
+	<imageurl>http://www.soderhamnnara.se/images/18.45dad9ca13d891e21421cc1/1384397418916/ViasatGolf_web.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV3 Sport 1</cname>
+	<imageurl>http://tvarena.ru/images/info/tv31.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV3 Sport 2</cname>
+	<imageurl>http://www.inniagotu.org/wp-content/uploads/2015/07/tv3sport2.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Cartoon  Network</cname>
+	<imageurl>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDnAWfEKk5bZ_9_bYswofrReBK2ygTX42aR-xF3uWQTLLSTY1n</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Disney XD</cname>
+	<imageurl>http://vignette3.wikia.nocookie.net/disney/images/7/7b/Logo_Disney_XD.svg.png/revision/latest?cb=20130730004116</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Disney</cname>
+	<imageurl>http://www.adweek.com/files/imagecache/node-detail/news_article/disney-hed-2014.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Nickelodeon</cname>
+	<imageurl>http://cdn.playbuzz.com/cdn/894dc8a1-1998-4d1b-9199-2dbad00a37b9/aa7be833-8f67-47ad-84cf-0dc7eb0a16f9.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Barn Kanalen</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/commons/3/3b/Barnkanalen_logo_2012.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Boomerang</cname>
+	<imageurl>http://store2.up-00.com/2016-02/145617876092671.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+
+<!-- Sweden Channels End -->
 
 <!-- Indian Channels Start -->
 
