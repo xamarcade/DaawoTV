@@ -712,7 +712,7 @@
 	<link>rtmp://208.53.164.194/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?file=tom.flv&amp;type=rtmp&amp;streamer=rtmp://206.190.132.244/tvamigos/&amp;autostart=true&amp;bufferlength=1&amp;stretching=exactfit&amp;controlbar=over pageUrl=http://www.carolineoliveira.com.br/swf/player.swf?file=tom.flv&amp;type=rtmp&amp;streamer=rtmp://206.190.132.244/tvamigos/&amp;autostart=true&amp;bufferlength=1&amp;stretching=exactfit&amp;controlbar=over</link>
 	</item>
 </streaminginfo> 
--->
+
 <streaminginfo>
 	<cname>Tom and Jerry</cname>
 	<item>
@@ -720,8 +720,14 @@
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lucky.lts1.net:23000/live/RovofGX7r6/WUkqv3GKTr/21102.ts</link>
 	</item>	
 </streaminginfo>
-
-
+-->
+<streaminginfo>
+<cname>Tom and Jerry</cname>
+  <item>
+  <title>You need Youtube Addon</title>
+  <link>plugin://plugin.video.youtube/play/?video_id=YKviBwZCJCA</link>
+   </item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>OSN Movies Kids</cname>
