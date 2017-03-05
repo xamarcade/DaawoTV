@@ -1,4 +1,5 @@
 <streamingInfos>
+<streamingInfos>
 
 <!-- Somalian Channels Start -->
 
@@ -14,7 +15,7 @@
 	<cname>JLTV</cname>
 	<item>
     <title>Low</title>
-	<link>http://livestream.5centscdn.com/iqb/85b1ef64c5b13b446b68e7d65ebf854a.sdp/index.m3u8</link>
+	<link>rtmp://livestream.5centscdn.com/iqb/85b1ef64c5b13b446b68e7d65ebf854a.sdp</link>
 	</item>
 </streaminginfo>
 
@@ -76,7 +77,7 @@
 <streaminginfo>
 	<cname>Dalmar TV</cname>
 	<item><title>Youtube - High</title>
-	<link>plugin://plugin.video.youtube/play/?video_id=LyIMr6Y8fuc</link>
+	<link>plugin://plugin.video.youtube/play/?video_id=UI9v-JfKYtA</link>
 	</item>
 </streaminginfo>
 
