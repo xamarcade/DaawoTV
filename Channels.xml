@@ -86,14 +86,7 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
--<channel>
-	<cname>Star TV</cname>
-	<imageurl>http://somaliiptv.com/wp-content/uploads/2015/03/somali-star-tv-300x225.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
+
 
 -<channel>
 	<cname>JLTV</cname>
@@ -139,7 +132,14 @@
 </channel>
 <!--
 
-
+-<channel>
+	<cname>Star TV</cname>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2015/03/somali-star-tv-300x225.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
 <channel>
 	<cname>Somali  Channel</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/smli_zps93a6c01a.png</imageurl>

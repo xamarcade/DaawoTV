@@ -9,12 +9,26 @@
 	<link>http://africatv.live.net.sa:1935/live/africatv4/playlist.m3u8</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Africa TV4</cname>
+	<item>
+	<title>BestHD</title>		
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/dmy2101/596366/651.ts</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>JLTV</cname>
 	<item>
     <title>Low</title>
 	<link>http://livestream.5centscdn.com/iqb/85b1ef64c5b13b446b68e7d65ebf854a.sdp/index.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>JLTV</cname>
+	<item>
+    <title>Ipsatpro</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/satreshare/456534311/2452.ts</link>
 	</item>
 </streaminginfo>
 
@@ -31,6 +45,14 @@
 	</regex>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Kalsan Tv</cname>
+	<item>
+    <title>BestHD</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/dmy2101/596366/1374.ts</link>
+	</item>
+</streaminginfo>
+
 <streaminginfo>
 	<cname>STN</cname>
 	<item>
@@ -60,6 +82,7 @@
 	</regex>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Som news TV</cname>
 	<item>
@@ -76,7 +99,7 @@
 <streaminginfo>
 	<cname>Dalmar TV</cname>
 	<item><title>Youtube - High</title>
-	<link>plugin://plugin.video.youtube/play/?video_id=UI9v-JfKYtA</link>
+	<link>plugin://plugin.video.youtube/play/?video_id=w8QgJxyukc</link>
 	</item>
 </streaminginfo>
 
@@ -85,6 +108,20 @@
 	<item>
 	<title>SBC Livestream</title>
 	<link>http://cdn01.iqbroadcast.tv:8081/g1/sbscvt1206/chunks.m3u8</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>SBC</cname>
+	<item>
+	<title>BestHD</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/dmy2101/596366/1375.ts</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>SBC</cname>
+	<item>
+	<title>Ipsatpro</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/satreshare/456534311/2451.ts</link>
 	</item>	
 </streaminginfo>
 
@@ -108,6 +145,21 @@
 	<link>http://cdn01.iqbroadcast.tv:8081/g1/somcblehb9/chunks.m3u8</link>
 	</item>	
 </streaminginfo>
+<streaminginfo>
+	<cname>Somali Cable</cname>
+	<item>
+	<title>BestHD</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/dmy2101/596366/1676.ts</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>Somali Cable</cname>
+	<item>
+	<title>Ipsatpro</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/satreshare/456534311/2454.ts</link>
+	</item>	
+</streaminginfo>
+
 <streaminginfo>
 	<cname>Royal TV Somalia</cname>
 	<item>
@@ -150,6 +202,13 @@
 	<link>http://cdn01.iqbroadcast.tv:8081/startv/hb9wp/playlist.m3u8</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Star TV</cname>
+	<item>
+	<title>Ipsatpro</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/satreshare/456534311/2453.ts</link>
+	</item>	
+</streaminginfo>
 
 <streaminginfo>
 	<cname>ESTV</cname>
@@ -176,6 +235,15 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
+	<cname>ESTV</cname>
+	<item>
+	<title>BestHD</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/dmy2101/596366/2026.ts</link>
+	</item>	
+</streaminginfo>
+
+
+<streaminginfo>
 	<cname>Djibouti</cname>
 	<item>
 	<title>Med 1</title>		
@@ -199,6 +267,14 @@
     <link>http://www.axadledirect.com:1936/19/stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Djibouti</cname>
+	<item>
+	<title>BestHD</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/dmy2101/596366/2058.ts</link>
+	</item>	
+</streaminginfo>
+
 
 <streaminginfo>
 	<cname>HCTV</cname>
@@ -224,7 +300,13 @@
 	<link>http://www.axadledirect.com:1936/17/stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-
+<streaminginfo>
+	<cname>HCTV</cname>
+	<item>
+	<title>BestHD</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/dmy2101/596366/1372.ts</link>
+	</item>	
+</streaminginfo>
 
 <streaminginfo>
 	<cname>SLNTV</cname>
@@ -250,7 +332,13 @@
 	<link>http://www.axadledirect.com:1936/16/stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-
+<streaminginfo>
+	<cname>SLNTV</cname>
+	<item>
+	<title>BestHD</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/dmy2101/596366/1389.ts</link>
+	</item>	
+</streaminginfo>
 
 <streaminginfo>
 	<cname>SNTV</cname>
@@ -276,6 +364,14 @@
 	<link>http://www.axadledirect.com:1936/13/stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>SNTV</cname>
+	<item>
+	<title>BestHD</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/dmy2101/596366/1390.ts</link>
+	</item>	
+</streaminginfo>
+
 
 <streaminginfo>
 	<cname>Universal Somali</cname>
@@ -326,6 +422,13 @@
 	<title>Med</title>		
 	<link>http://www.axadledirect.com:1936/15/stream/playlist.m3u8</link>
 	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Universal Somali</cname>
+	<item>
+	<title>BestHD</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/dmy2101/596366/1393.ts</link>
+	</item>	
 </streaminginfo>
 
 <!-- Somalian Channels End -->
