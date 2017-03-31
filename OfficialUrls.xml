@@ -66,18 +66,11 @@
 <streaminginfo>
 <cname>MBC Bollywood</cname>
 <item>
-<title>High 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/dmy2101/596366/24.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>High</title>
+<link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/dmy2101/596366/24.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
-<streaminginfo>
-<cname>MBC Bollywood</cname>
-<item>
-<title>High</title>
-<link>http://iprotv.ddnss.me/live/?z=1&amp;u=demo0PRy9616sL&amp;s=Vy9pINUT9O9AAi6sXF&amp;id=631&amp;t=live&amp;f=ts</link>
-</item>
-</streaminginfo>
 
 <streaminginfo>
 <cname>MBC Drama</cname>
