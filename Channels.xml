@@ -139,7 +139,9 @@
 -	<assignedcategory>
 		<category>somalia</category>
 	</assignedcategory>
-</channel>
+</channel>eå¨´öåpäöpåä,
+
+bbhiä.llk,löäkm00_::_:_:_:Ä.ö0..-ö_:-.Ö.-Ööä.-ö.--Ö_äöö-.äö-ä-ö-ö-öä
 <channel>
 	<cname>Somali  Channel</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/smli_zps93a6c01a.png</imageurl>
@@ -2110,6 +2112,14 @@
 	</assignedcategory>
 </channel>
 <channel>
+	<cname>MBC Drama +HD</cname>
+	<imageurl>https://c.top4top.net/p_4699bxjr1.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>MBC Masr</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mbc-msr_zps87074427.png</imageurl>
 	<enabled>True</enabled>
@@ -2133,6 +2143,7 @@
 	<category>ent</category>
 	</assignedcategory>
 </channel>
+
 
 <channel>
 	<cname>OSN AMC</cname>

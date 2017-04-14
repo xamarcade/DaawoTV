@@ -5,7 +5,7 @@
 <sname>Teledunet.com</sname>
 <colour>red</colour>
 <baseurl>http://www.teledunet.com/</baseurl>
-<enabled>True</enabled>
+<enabled>False</enabled>
 <urlfile>teledunetUrls.xml</urlfile>
 <rtmpstring>%s playpath=%s swfUrl=http://www.teledunet.com/mobile/player.swf?channel=%s&amp;user=%s&amp;token=%s pageUrl=http://www.teledunet.com/mobile/ flashVer=WIN\2020,0,0,306  live=true timeout=15</rtmpstring>
 <imageurl>http://www.teledunet.com/icon.png</imageurl>
@@ -144,7 +144,7 @@
 <sname>IPTVPlanet</sname>
 <colour>FF8B009B</colour>
 <baseurl>http://website.com</baseurl>
-<enabled>True</enabled>
+<enabled>False</enabled>
 <urlfile>IPTVPlanetUrls.xml</urlfile>
 <imageurl>http://iptv-planet.com/images/logo.png</imageurl>
 <processor>genericPlayer.py</processor>
@@ -195,7 +195,7 @@
 <sname>yo</sname>
 <colour>orange</colour>
 <baseurl>http://website.com</baseurl>
-<enabled>True</enabled>
+<enabled>False</enabled>
 <urlfile>yoUrls.xml</urlfile>
 <imageurl>http://mylogo.com</imageurl>
 <processor>genericPlayer.py</processor>
