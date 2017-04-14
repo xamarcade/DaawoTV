@@ -5,71 +5,84 @@
 <streaminginfo>
 <cname>MBC 1</cname>
 <item>
-<title>hej</title>
+<title>High HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/1378.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC 1</cname>
+<item>
+<title>High</title>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/19.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
 <streaminginfo>
 <cname>MBC 2</cname>
 <item>
+<title>High HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/1371.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC 2</cname>
+<item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/8721/8721/387.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/20.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
 <streaminginfo>
 <cname>MBC 4</cname>
 <item>
-<title>High 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://81.230.200.187:1967/live/mustafa/mustafa1/13.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>High HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/1377.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 <streaminginfo>
 <cname>MBC 4</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/8721/8721/389.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/22.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
 <streaminginfo>
 <cname>MBC Action</cname>
 <item>
-<title>High 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://81.230.200.187:1967/live/mustafa/mustafa1/2.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>High HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/1394.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 <streaminginfo>
 <cname>MBC Action</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/8721/8721/385.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/23.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
-
 
 <streaminginfo>
 <cname>MBC Bollywood</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://185.2.83.140:8000/live/dmy2101/596366/24.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/24.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
-
-<streaminginfo>
-<cname>MBC Drama</cname>
-<item>
-<title>High 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://81.230.200.187:1967/live/mustafa/mustafa1/4.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
 <streaminginfo>
 <cname>MBC Drama</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/8721/8721/392.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/25.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>MBC Drama +HD</cname>
+<item>
+<title>High</title>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/1395.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -77,77 +90,77 @@
 <cname>MBC Masr</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/8721/8721/390.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/27.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
 <streaminginfo>
 <cname>MBC Masr 2</cname>
 <item>
-<title>High 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://81.230.200.187:1967/live/mustafa/mustafa1/9.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>High</title>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/28.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
+
 <streaminginfo>
-<cname>MBC Masr 2</cname>
+<cname>MBC Variety HD</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/8721/8721/391.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/28.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
 <streaminginfo>
 <cname>MBC Max</cname>
 <item>
-<title>High 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://81.230.200.187:1967/live/mustafa/mustafa1/7.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>High maka</title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.254.47.234:8000/live/maka/maka/194.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
-</streaminginfo>
-<streaminginfo>
-<cname>MBC Max</cname>
-<item>
-<title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.77.226:7500/live/8721/8721/386.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>OSN AMC</cname>
-	<item>
-	<title>High 2</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/tripoli/tripoli/2893.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN AlYawm</cname>
-	<item>
-	<title>High 1</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/12.ts</link>
-	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>OSN Box Offiece 1</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3059.ts</link>
-	</item>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/1949.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Box Offiece 2</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3060.ts</link>
-	</item>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/1948.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Box Offiece 3</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3061.ts</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/1947.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN Movies Premiere HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/596366/2284.ts</link>
 	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Premiere HD Plus 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/596366/1701.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>OSN AlYawm</cname>
+	<item>
+	<title>High 1</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://51.254.47.234:8000/live/maka/maka/194.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    </item>
 </streaminginfo>
 
 <streaminginfo>
@@ -233,21 +246,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>OSN Movies Premiere HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/2102.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN Movies Premiere HD Plus 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/3201.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>OSN Star Movies HD</cname>
 	<item>
 	<title>High</title>
@@ -303,28 +301,28 @@
 	<cname>Bein Moveis 1 HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://88.198.34.144:8000/live/samara25/samara25/463.ts</link>
+	<link><link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/269.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Moveis 2 HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/987654/987654/2776.ts</link>
+	<link><link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/1942.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Moveis 3 HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/987654/987654/2777.ts</link>
+	<link><link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/265.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Moveis 4 HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.4.21.70:8000/live/benani/benani/3385.ts</link>
+	<link><link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/2610.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link></link>
 	</item>
 </streaminginfo>
 
