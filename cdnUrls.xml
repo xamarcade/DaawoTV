@@ -4,24 +4,45 @@
 <streaminginfo>
 	<cname>Bein Sport 1</cname>
 	<item>
+	<title>Local HD</title>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/1.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 1</cname>
+	<item>
 	<title>Local</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/dmy2101/596366/300.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/300.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 2</cname>
 	<item>
+	<title>Local HD</title>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/2.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 2</cname>
+	<item>
 	<title>Local</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/27.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/307.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 3</cname>
 	<item>
+	<title>Local HD</title>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/3.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 3</cname>
+	<item>
 	<title>Local</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/28.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/308.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -29,97 +50,154 @@
 	<cname>Bein Sport 4</cname>
 	<item>
 	<title>Local</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/29.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/4.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 4</cname>
+	<item>
+	<title>Local</title>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/309.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 5</cname>
 	<item>
+	<title>Local HD</title>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/5.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 5</cname>
+	<item>
 	<title>Local</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/30.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/310.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 6</cname>
 	<item>
+	<title>Local HD</title>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/311.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 6</cname>
+	<item>
 	<title>Local</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/31.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/6.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 7</cname>
 	<item>
+	<title>Local HD</title>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/312.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 7</cname>
+	<item>
 	<title>Local</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/32.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/7.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 8</cname>
 	<item>
+	<title>Local HD</title>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/313.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 8</cname>
+	<item>
 	<title>Local</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/33.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/8.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 9</cname>
 	<item>
+	<title>Local HD</title>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/9.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 9</cname>
+	<item>
 	<title>Local</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/34.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/314.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 10</cname>
 	<item>
+	<title>Local HD</title>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/10.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 10</cname>
+	<item>
 	<title>Local</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/35.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/301.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 11</cname>
 	<item>
+	<title>Local HD</title>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/11.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 11</cname>
+	<item>
 	<title>Local</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/2576.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/302.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 12</cname>
 	<item>
+	<title>Local HD</title>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/303.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 12</cname>
+	<item>
 	<title>Local</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/2577.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/12.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 13</cname>
 	<item>
+	<title>Local HD</title>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/13.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 13</cname>
+	<item>
 	<title>Local</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/2578.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/304.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Bein Sport 14</cname>
-	<item>
-	<title>Local</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/2579.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
 
-<streaminginfo>
-	<cname>Bein Sport 15</cname>
-	<item>
-	<title>Local</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/2580.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo> 
 <cname>Bein Sport News</cname>
