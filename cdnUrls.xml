@@ -196,14 +196,54 @@
 	</item>
 </streaminginfo>
 
-
-
+<streaminginfo> 
+<cname>Bein 1 FR</cname>
+<item>
+<title>Local HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/2739.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo> 
+<cname>Bein 1 FR</cname>
+<item>
+<title>Local</title>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/17.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo> 
+<cname>Bein 2 FR</cname>
+<item>
+<title>Local HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/2740.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo> 
+<cname>Bein 2 FR</cname>
+<item>
+<title>Local</title>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/18.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Bein 3 FR</cname>
+<item>
+<title>Local HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/3677.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo> 
+<cname>Bein 3 FR</cname>
+<item>
+<title>Local</title>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/336.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
 
 <streaminginfo> 
 <cname>Bein Sport News</cname>
 <item>
 <title>Local</title>
-<link>http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/299.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
