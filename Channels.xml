@@ -1457,7 +1457,7 @@
 </channel>
 <channel>
 	<cname>Bein Sport News</cname>
-	<imageurl>https://lh6.googleusercontent.com/-56L601mTIFA/U6kr2iiiXmI/AAAAAAAAAHw/uF4dMVWgvLs/BS%252520News.jpg</imageurl>
+	<imageurl>https://d.top4top.net/p_472xfb0d1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1499,7 +1499,7 @@
 
 <channel>
 	<cname>Jordan Sport</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/sport_tv_jo.png</imageurl>
+	<imageurl>http://pallap.com/up/1444833093.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1508,7 +1508,7 @@
 
 <channel>
 	<cname>KTV SPORT</cname>
-	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_sport_new.png</imageurl>
+	<imageurl>https://pbs.twimg.com/profile_images/598168758159454208/mlpw7msW.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1517,7 +1517,7 @@
 
 <channel>
 	<cname>KTV Sport Plus</cname>
-	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_sportplus.png</imageurl>
+	<imageurl>https://f.top4top.net/p_472zq9j81.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1570,7 +1570,7 @@
 
 <channel>
 	<cname>Oman Sport</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/oo/oman_tv_sport.png</imageurl>
+	<imageurl>https://pbs.twimg.com/profile_images/683079854661746688/Yv7vhuSj.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1597,7 +1597,7 @@
 
 <channel>
 	<cname>Sharjah Sport</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/sharjah_sports_tv.png</imageurl>
+	<imageurl>https://f.top4top.net/p_472zuj3b1.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1606,7 +1606,7 @@
 
 <channel>
 	<cname>Sky Sports 1</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport_01_hd.png</imageurl>
+	<imageurl>https://a.top4top.net/p_472n8zrr1.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1614,7 +1614,7 @@
 </channel>
 <channel>
 	<cname>Sky Sports 2</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport_02_hd.png</imageurl>
+	<imageurl>http://frocus.net/images/logotv/original/sky-sport-2-hd-de.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1622,7 +1622,7 @@
 </channel>
 <channel>
 	<cname>Sky Sports 3</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport.png</imageurl>
+	<imageurl>http://www.liveonlinetv247.info/images/skysports3.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1630,7 +1630,7 @@
 </channel>		
 <channel>
 	<cname>Sky Sports 4</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport.png</imageurl>
+	<imageurl>http://www.liveonlinetv247.info/images/skysports4.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1638,7 +1638,15 @@
 </channel>	
 <channel>
 	<cname>Sky Sports 5</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ss/sky_de_sport.png</imageurl>
+	<imageurl>http://foot-live-stream.com/wp-content/uploads/2016/10/SKY-SPORTS-5.jpeg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Sky Sports F1</cname>
+	<imageurl>https://a.top4top.net/p_472t8cqy1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>

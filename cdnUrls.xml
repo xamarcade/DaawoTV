@@ -501,30 +501,22 @@
 <streaminginfo>
 <cname>Saudia Sport</cname>
 <item>
-<title>You need Youtube Addon</title>
-<link>plugin://plugin.video.youtube/play/?video_id=IQB3n_BEQeg</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>Saudia Sport</cname>
-<item>
 <title>you need to install F.T.V Addon Filmon_Source</title>
 <link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-sports&amp;mode=125&amp;name=Saudi+Arabian+TV+Sports&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1781%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-sports&amp;ch_fanart=1781</link>
 </item>
 </streaminginfo>
-
 <streaminginfo>
 <cname>Saudia Sport</cname>
 <item>
-<title>SVR2</title>
-<link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live/stream2.m3u8</link>
+<title>You need Youtube Addon</title>
+<link>plugin://plugin.video.youtube/play/?video_id=gtSuxBJYgas</link>
 </item>
 </streaminginfo>
 <streaminginfo>
 <cname>Saudia Sport</cname>
 <item>
 <title>SVR1</title>
-<link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live/stream1.m3u8</link>
+<link>http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel4/_definst_/live/stream1.m3u8?v=1525040486</link>
 </item>
 </streaminginfo>
 
@@ -532,40 +524,73 @@
 <streaminginfo>
 	<cname>Sky Sports 1</cname>
 	<item>
-	<title>pascal</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/15.ts</link>
+	<title>High HD</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/874.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 1</cname>
+	<item>
+	<title>High </title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/2971.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Sky Sports 2</cname>
 	<item>
-	<title>pascal</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/16.ts</link>
+	<title>High HD</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/421.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/2972.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Sky Sports 3</cname>
 	<item>
-	<title>pascal</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/17.ts</link>
+	<title>High HD</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/420.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 3</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/2973.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Sky Sports 4</cname>
 	<item>
-	<title>pascal</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/18.ts</link>
+	<title>High HD</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/419.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Sky Sports 4</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/2974.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Sky Sports 5</cname>
 	<item>
-	<title>pascal</title>
-	<link>http://tv.supertv4u.eu:8000/live/pascal/inxGqLx6TK/19.ts</link>
+	<title>High HD</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/418.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
-
-
+<streaminginfo>
+	<cname>Sky Sports 5</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/596366/2975.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
 
 	<streaminginfo>		
 		<cname>NBC Golf</cname>
