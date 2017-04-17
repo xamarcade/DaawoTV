@@ -1578,15 +1578,6 @@
 </channel>
 
 <channel>
-	<cname>OSN Sport 2 HD</cname>
-	<imageurl>http://content.osn.com/logo/channel/500x300/SP2.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Saudia Sport</cname>
 	<imageurl>http://4.bp.blogspot.com/-2-sHy7Fn6uw/UB1BdM_oz9I/AAAAAAAAAOU/y6K_ZZxjfsc/s1600/rsz_1983.jpg</imageurl>
 	<enabled>True</enabled>
