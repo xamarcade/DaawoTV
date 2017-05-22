@@ -465,14 +465,7 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>TV 4 Guld</cname>
-	<imageurl>http://www.hoist.dk/archive/images/logos/TV-Kanaler/tv4guld.gif</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>TV 4 Fakta</cname>
 	<imageurl>https://s-media-cache-ak0.pinimg.com/236x/b3/1d/08/b31d089aa60e7a1cfbbaf9e9e59bf95e.jpg</imageurl>
@@ -483,8 +476,86 @@
 </channel>
 <!--
 <channel>
+	<cname>TV 4 Guld</cname>
+	<imageurl>http://www.hoist.dk/archive/images/logos/TV-Kanaler/tv4guld.gif</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+
+<channel>
 	<cname>TV 4 Sport</cname>
 	<imageurl>http://www.spvm.se/uploads/news/id403/TV4Sport_logotyp_RGB.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>TCM</cname>
+	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/c/c2/TCM_2009.jpg/revision/latest?cb=20111006202159</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>TNT</cname>
+	<imageurl>http://www.tvweek.com/wp-content/uploads/2014/07/tnt-LOGO.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>TLC</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/200px-TLC_USA_logo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>C more Live 2</cname>
+	<imageurl>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_live_2.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C More Live 3</cname>
+	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_live_3.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C More Live 4</cname>
+	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_live_4.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>C More Emotion</cname>
+	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_emotion.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C more Tennis</cname>
+	<imageurl>http://www.allatvkanaler.se/imagestv/cmore_tennis.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Sweden</category>
@@ -589,14 +660,7 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>TCM</cname>
-	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/c/c2/TCM_2009.jpg/revision/latest?cb=20111006202159</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>SF-Kanalen</cname>
 	<imageurl>http://www.elektronikkbransjen.no/var/ezflow_site/storage/images/media/images/2009-7/ny-svensk-filmkanal/0/113816-1-nno-NO/image_huge_image.jpg</imageurl>
@@ -613,25 +677,10 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>TNT</cname>
-	<imageurl>http://www.tvweek.com/wp-content/uploads/2014/07/tnt-LOGO.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Comedy Central</cname>
 	<imageurl>https://s-media-cache-ak0.pinimg.com/236x/13/ae/19/13ae19265cdd6424eb38223f12f3bdca.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>TLC</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/200px-TLC_USA_logo.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Sweden</category>
@@ -670,22 +719,7 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>C More Emotion</cname>
-	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_emotion.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>C more Tennis</cname>
-	<imageurl>http://www.allatvkanaler.se/imagestv/cmore_tennis.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>C More Sport</cname>
 	<imageurl>http://tv.moviesntvlive.com/wp-content/uploads/2015/11/C-More-Sport.jpg</imageurl>
@@ -702,30 +736,7 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>C more Live 2</cname>
-	<imageurl>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_live_2.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>C More Live 3</cname>
-	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_live_3.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>C More Live 4</cname>
-	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_live_4.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Viasat Nature</cname>
 	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/5/51/Viasat_Nature_2014.png/revision/latest?cb=20140512144610</imageurl>
