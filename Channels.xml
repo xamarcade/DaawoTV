@@ -561,6 +561,39 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
+
+<channel>
+	<cname>Viasat Sport</cname>
+	<imageurl>http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Viasat_Sport_2008.png/revision/latest?cb=20100122152914</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat Motor</cname>
+	<imageurl>http://vignette2.wikia.nocookie.net/logopedia/images/f/f5/Viasat_Motor_2008.png/revision/latest?cb=20100122153323</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Viasat Hockey</cname>
+	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/d/de/Viasat_Hockey_logo.png/revision/latest?cb=20100318124513</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Barn Kanalen</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/commons/3/3b/Barnkanalen_logo_2012.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Sweden</category>
+	</assignedcategory>
+</channel>
 -->
 <channel>
 	<cname>TV 5</cname>
@@ -796,14 +829,6 @@
 </channel>
 
 <channel>
-	<cname>Viasat Sport</cname>
-	<imageurl>http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Viasat_Sport_2008.png/revision/latest?cb=20100122152914</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
-<channel>
 	<cname>Viasat Fotboll</cname>
 	<imageurl>http://vignette2.wikia.nocookie.net/logopedia/images/3/36/Viasat_Fotboll_2008.png/revision/latest?cb=20100122153127</imageurl>
 	<enabled>True</enabled>
@@ -811,22 +836,7 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Viasat Motor</cname>
-	<imageurl>http://vignette2.wikia.nocookie.net/logopedia/images/f/f5/Viasat_Motor_2008.png/revision/latest?cb=20100122153323</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Viasat Hockey</cname>
-	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/d/de/Viasat_Hockey_logo.png/revision/latest?cb=20100318124513</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Viasat Golf</cname>
 	<imageurl>http://www.soderhamnnara.se/images/18.45dad9ca13d891e21421cc1/1384397418916/ViasatGolf_web.jpg</imageurl>
@@ -835,6 +845,7 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
+
 <channel>
 	<cname>TV3 Sport 1</cname>
 	<imageurl>http://tvarena.ru/images/info/tv31.png</imageurl>
@@ -884,14 +895,7 @@
 	<category>Sweden</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Barn Kanalen</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/commons/3/3b/Barnkanalen_logo_2012.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Sweden</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Boomerang</cname>
 	<imageurl>http://store2.up-00.com/2016-02/145617876092671.png</imageurl>
