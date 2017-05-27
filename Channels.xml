@@ -3679,6 +3679,14 @@
 </channel>
 
 <channel>
+	<cname>Dar Aleman</cname>
+	<imageurl>https://i.ytimg.com/vi/rRjdqpsJzJo/maxresdefault_live.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>Huda</cname>
 	<imageurl>http://www.lyngsat-logo.com/logo/tv/hh/huda_tv.jpg</imageurl>
 	<enabled>True</enabled>
