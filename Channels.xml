@@ -2129,22 +2129,7 @@
 	<category>ent</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>OSN Cinema 2</cname>
-	<imageurl>https://static.elcinema.com/images/channels/160px/1151.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>OSN First Comedy</cname>
-	<imageurl>http://content.osn.com/logo/channel/500x300/OCO.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>OSN First HD</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_first_hd.png</imageurl>
@@ -2314,6 +2299,25 @@
 	<category>ent</category>
 	</assignedcategory>
 </channel>
+<!--
+<channel>
+	<cname>OSN Cinema 2</cname>
+	<imageurl>https://static.elcinema.com/images/channels/160px/1151.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>OSN First Comedy</cname>
+	<imageurl>http://content.osn.com/logo/channel/500x300/OCO.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
+-->
 
 <!-- Ent Channels End -->
 
