@@ -3,6 +3,34 @@
 <!-- GulfChannels Start -->
 
 <streaminginfo>
+	<cname>Abu Dhabi</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/105.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Abu Dhabi</cname>
+	<item><title>Low</title>
+	<link>http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8?v=1525040486</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Abu Dhabi Emirates</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/101.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Abu Dhabi Emirates</cname>
+	<item><title>Low</title>
+	<link>http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8?v=1525040486</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
 	<cname>Al Dafra</cname>
 	<item><title>Low</title>
 	<link>http://live.aldafrah.tv:1935/live/myStream3/gmswf.m3u8</link>
@@ -201,6 +229,14 @@
 
 <streaminginfo><cname>Rotana Khaligi</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
 <link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-khalijiah&amp;mode=125&amp;name=Rotana+Khalijiah&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2606%2Fextra_big_logo.png&amp;start=rotana-khalijiah&amp;ch_fanart=2606</link></item></streaminginfo>
+
+<streaminginfo>
+	<cname>Rotana Khaligi</cname>
+	<item>
+	<title>High HD</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/48.ts</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>Sama Dubai</cname>

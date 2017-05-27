@@ -349,10 +349,22 @@
 	<cname>Abu Dhabi Drama</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/202.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/102.ts</link>
 	</item>
 </streaminginfo>
-
+<streaminginfo>
+	<cname>Abu Dhabi Drama</cname>
+	<item><title>Low</title>
+	<link>http://adtv.ercdn.net/addrama/addrama_360p.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Abu Dhabi Drama</cname>
+	<item><title>High</title>
+	<link>http://adtv.ercdn.net/addrama/addrama_720p.m3u8?v=1525040486
+</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>Al Nahar Drama</cname>
@@ -593,6 +605,7 @@
 	</item>
 </streaminginfo>
 
+
 <streaminginfo>
 <cname>Rotana Aflam</cname>
 <item>
@@ -601,6 +614,14 @@
 </item>
 </streaminginfo>
 <streaminginfo>
+	<cname>Rotana Aflam</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/3625.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
 <cname>Rotana Cinema</cname>
 <item>
 <title>you need to install F.T.V Addon Filmon_Source</title>
@@ -608,12 +629,49 @@
 </item>
 </streaminginfo>
 <streaminginfo>
+	<cname>Rotana Cinema</cname>
+	<item>
+	<title>High HD</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/3624.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Rotana Cinema</cname>
+	<item>
+	<title>High (KSA)</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/45.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Rotana Cinema</cname>
+	<item>
+	<title>High (EGY)</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/44.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
 <cname>Rotana Classic</cname>
 <item>
 <title>you need to install F.T.V Addon Filmon_Source</title>
 <link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-classic&amp;mode=125&amp;name=Rotana+Classic&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2609%2Fextra_big_logo.png&amp;start=rotana-classic&amp;ch_fanart=2609</link>
 </item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Rotana Classic</cname>
+	<item>
+	<title>High HD</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/3629.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Rotana Classic</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/46.ts</link>
+	</item>
+</streaminginfo>
+
 
 <streaminginfo>
 <cname>Sada AlBalad Drama</cname>
@@ -821,7 +879,20 @@
 
 <streaminginfo><cname>Rotana Masriya</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
 <link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-masriya&amp;mode=125&amp;name=Rotana+Masriya&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2612%2Fextra_big_logo.png&amp;start=rotana-masriya&amp;ch_fanart=2612</link></item></streaminginfo>
-
+<streaminginfo>
+	<cname>Rotana Masriya</cname>
+	<item>
+	<title>High HD</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/3626.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Rotana Masriya</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/49.ts</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo><cname>Sada Al Balad</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=2Iyj2w2MyWw</link></item></streaminginfo>
 <streaminginfo><cname>Sada Al Balad2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=dyDq1yxKDS8</link></item></streaminginfo>
