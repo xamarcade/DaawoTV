@@ -402,21 +402,6 @@
 
 <!-- Yemen Channels Start -->
 
-<streaminginfo>
-	<cname>Aden</cname>
-	<item>
-	<title>Low</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/samara4/samara4/1976.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>AL sahat</cname>
-	<item>
-	<title>Low</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/samara4/samara4/1981.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
 <streaminginfo><cname>AL sahat</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ewViM8XS5e4</link></item></streaminginfo>
 
 <streaminginfo>
@@ -432,14 +417,6 @@
 	<item>
 	<title>Low</title>
 	<link>http://livestream-f.akamaihd.net/i/4818613_6145209_lsie3f5ublmnhrz79m5_1@378888/index_446_av-b.m3u8?sd=10&amp;dw=100&amp;rebase=on&amp;hdntl=exp=1495999837~acl=%2fi%2f4818613_6145209_lsie3f5ublmnhrz79m5_1%40378888%2f*~data=hdntl~hmac=0d5f40a84af190fa813e6c1e7277fe57bced11a3d26f570d31ebb67ff8caf720</link>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>alsaeedah</cname>
-	<item>
-	<title>Low</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/samara4/samara4/1974.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -475,13 +452,6 @@
 </streaminginfo> 
 
 
-<streaminginfo>
-	<cname>Sanaa</cname>
-	<item>
-	<title>Low</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/samara4/samara4/1977.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>Sanaa</cname>
 	<item>
