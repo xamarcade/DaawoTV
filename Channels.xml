@@ -236,14 +236,6 @@
 </channel>
 
 <channel>
-	<cname>Al-Eiman</cname>
-	<imageurl>http://store2.up-00.com/2016-12/1482792388541.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-		<category>yemen</category>
-	</assignedcategory>
-</channel>
-<channel>
 	<cname>Sheba</cname>
 	<imageurl>https://yt3.ggpht.com/-c-zhG-i6VgA/AAAAAAAAAAI/AAAAAAAAAAA/KpCwC_wXOJw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
 	<enabled>True</enabled>
@@ -259,14 +251,7 @@
 		<category>yemen</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Hadramout</cname>
-	<imageurl>http://s27.postimg.org/l5t76ww2b/timthumb_php.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>yemen</category>
-	</assignedcategory>
-</channel>
+
 <channel>
      <cname>alsaeedah</cname>
      <imageurl>http://www.alsaeedah-tv.com/images/logo.jpg</imageurl>
@@ -292,14 +277,7 @@
 	<category>yemen</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Sama Yemen</cname>
-	<imageurl>http://www.nsowo.com/wp-content/uploads/2015/04/17828_409550742551967_2430860591793723464_n.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>yemen</category>
-	</assignedcategory>
-</channel>
+
 
 <channel>
 	<cname>Yemen Alyawm</cname>
