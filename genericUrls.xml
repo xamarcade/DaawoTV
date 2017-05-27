@@ -705,13 +705,35 @@
 </streaminginfo>
 
 <streaminginfo>
+	<cname>Al Majd</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2314.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Majd Scince</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2312.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Majd Quran</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2313.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>Al Majd Hadeeth</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/171.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2311.ts</link>
 	</item>
 </streaminginfo>
 
+<streaminginfo><cname>Al Rahma</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=alrahma</link></item></streaminginfo>
 <streaminginfo>
 	<cname>Al Rahma</cname>
 	<item>

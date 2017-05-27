@@ -3587,6 +3587,22 @@
 	<category>islam</category>
 	</assignedcategory>
 </channel>	
+<channel>
+	<cname>Al Majd Scince</cname>
+	<imageurl>https://b.top4top.net/p_5127v5831.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Al Majd Quran</cname>
+	<imageurl>https://archive.org/services/img/Abdulbari_Ath-Thubaity_-_Al-Majd3</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>islam</category>
+	</assignedcategory>
+</channel>	
 
 <channel>
 	<cname>Al Majd Hadeeth</cname>
