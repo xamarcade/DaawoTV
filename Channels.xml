@@ -236,14 +236,6 @@
 </channel>
 
 <channel>
-	<cname>Sheba</cname>
-	<imageurl>https://yt3.ggpht.com/-c-zhG-i6VgA/AAAAAAAAAAI/AAAAAAAAAAA/KpCwC_wXOJw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-		<category>yemen</category>
-	</assignedcategory>
-</channel>
-<channel>
 	<cname>Suhail TV</cname>
 	<imageurl>http://www.suhail.net/userimages/suhail_final_new_05.jpg</imageurl>
 	<enabled>True</enabled>
@@ -278,14 +270,6 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Yemen Alyawm</cname>
-	<imageurl>http://www.yementodaytv.net/images/logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>yemen</category>
-	</assignedcategory>
-</channel>
 <channel>
 	<cname>Yemen Shabab</cname>
 	<imageurl>https://yt3.ggpht.com/-Oz4g6zWEm4g/AAAAAAAAAAI/AAAAAAAAAAA/z1KnBDqmusc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
