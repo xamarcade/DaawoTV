@@ -113,6 +113,23 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
+<channel>
+	<cname>SaabTV</cname>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2017/03/saab-tv-300x225.png</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>BulshoTV</cname>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2017/04/bulshotv.png</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
 
 -<channel>
 	<cname>ESTV</cname>
@@ -2042,14 +2059,6 @@
 </channel>
 
 <channel>
-	<cname>OSN AlYawm</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_al_yawm.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
-<channel>
 	<cname>OSN Box Offiece 1</cname>
 	<imageurl>http://www.sat-address.com/f/pics/logotipi/OSN-Box-Office-1_o.jpg</imageurl>
 	<enabled>True</enabled>
@@ -2082,14 +2091,6 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>OSN First HD</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_first_hd.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
 <channel>
 	<cname>OSN Movies HD</cname>
 	<imageurl>http://content.osn.com/bob/500x300/OM1.jpg</imageurl>

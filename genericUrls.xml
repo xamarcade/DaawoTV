@@ -85,7 +85,7 @@
 <streaminginfo>
 	<cname>Dalmar TV</cname>
 	<item><title>Youtube - High</title>
-	<link>plugin://plugin.video.youtube/play/?video_id=ch9VdVq21L8</link>
+	<link>plugin://plugin.video.youtube/play/?video_id=keR3MQVemHI</link>
 	</item>
 </streaminginfo>
 
@@ -94,6 +94,13 @@
 	<item>
 	<title>SBC Livestream</title>
 	<link>http://cdn01.iqbroadcast.tv:8081/g1/sbscvt1206/chunks.m3u8</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>SaabTV</cname>
+	<item>
+	<title>High</title>
+	<link>http://dcunilive23-lh.akamaihd.net/i/dclive_1@369291/index_150_av-b.m3u8?sd=6&amp;rebase=on</link>
 	</item>	
 </streaminginfo>
 <streaminginfo>
@@ -113,6 +120,19 @@
 		<regex>
 		<name>get-link</name>
 		<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18624946/streams/live/playlist.m3u8')</expres>
+		<page></page>
+		</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>BulshoTV</cname>
+	<item>
+	<title>ustream</title>
+	<link>$doregex[get-link]</link>
+		<regex>
+		<name>get-link</name>
+		<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/12896784/streams/live/playlist.m3u8')</expres>
 		<page></page>
 		</regex>
 	</item>
