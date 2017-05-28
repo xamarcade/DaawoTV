@@ -636,6 +636,14 @@
 </streaminginfo>
 
 <streaminginfo>
+	<cname>Al-Resalah</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/161.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
 	<cname>Alinsen</cname>
 	<item>
 	<title>Med</title>
@@ -657,21 +665,7 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo><cname>ALNADATV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=0G6qeODyRbc</link></item></streaminginfo>
-	<streaminginfo>
-		<cname>ALNADATV</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=$doregex[get-id]</link>
-			<regex>
-			<name>get-id</name>
-			<expres>src="//www.youtube.com/embed/(.*?)?rel=0&amp;autoplay=1</expres>
-			<page>http://www.alnada.tv/cms/live.php</page>
-			</regex>
-		</item>
-	</streaminginfo>
-
-<streaminginfo><cname>Burhan</cname><item><title>arabch.tv</title><link>http://streaming.i-sat.tv:1935/live/burhan.stream_360p/playlist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>ALNADATV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=geC7_YTTRdE</link></item></streaminginfo>
 
 <streaminginfo>
 <cname>Coran</cname>
@@ -692,7 +686,7 @@
 </item>
 </streaminginfo>
 
-<streaminginfo><cname>Ibnothaimeentv</cname><item><title>Alibel You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=uSe9Emar5t8</link></item></streaminginfo>
+<streaminginfo><cname>Ibnothaimeentv</cname><item><title>Alibel You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=JuCiQrQRMSI</link></item></streaminginfo>
 
 <streaminginfo><cname>Dar Aleman</cname><item><title>Alibel You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=X2krQcc4GGs</link></item></streaminginfo>
 
@@ -707,7 +701,7 @@
 	<cname>Iqra</cname>
 	<item>
 	<title>Med</title>
-	<link>http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaar.smil/playlist.m3u8</link>
+	<link>http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t64NTc2cA==.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -750,20 +744,8 @@
 		</item>
 	</streaminginfo>
 
-<streaminginfo>
-    <cname>Mecca</cname>
-	<item>
-	<title>Med: You need to install f4m_tester addon from Shani Repo</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://streamer11.elementssys.com:8080/Mecca-TV/Mecca_1/archive/1472330593/now/manifest.f4m</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Mecca</cname>
-	<item>
-	<title>Med: You need to install f4m_tester addon from Shani Repo</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://streamer11.elementssys.com:8080/mecca/archive/1422705471/now/manifest.f4m</link>
-	</item>
-</streaminginfo>
+
+<streaminginfo><cname>Mecca</cname><item><title>Alibel You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=-1Cj4cqJ3_I</link></item></streaminginfo>
 
 <streaminginfo>
 	<cname>Noor Dubai</cname>
@@ -1015,16 +997,21 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo><cname>Quran TV ksa</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=lsKg9KpVaKg</link></item></streaminginfo>
-
- <streaminginfo>
-	<cname>Safa</cname>
+<streaminginfo><cname>Quran TV ksa</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=pREsuJLnpFs</link></item></streaminginfo>
+<streaminginfo>
+    <cname>Quran TV ksa</cname>
 	<item>
-	<title>Elahmad</title>
-	<link>rtmp://41.128.181.132:1935/live/?=1356438483 playpath=SafaTV.stream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=safatv&amp;autostart=true&amp;/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/safaatv.php
-</link>
+	<title>Med</title>
+	<link>rtmpt://199.167.151.237/live playpath=sp15_14.stream?key=F0645B69278437229F1C8606B4112D244ABFDEA1B7758ACE0722110E372FB15E swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=quranalkareem&amp;autostart=true&amp;/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/qurantv.php</link>
 	</item>
-</streaminginfo> 
+</streaminginfo>
+<streaminginfo>
+    <cname>Quran TV ksa</cname>
+	<item>
+	<title>High</title>
+	<link>http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8?v=1525040486</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
     <cname>Selah</cname>
@@ -1041,6 +1028,7 @@
 	<link>http://38.96.148.147:1935/live/livestream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
+
 
 <streaminginfo><cname>sunnah TV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ArVmnth5jB4</link></item></streaminginfo>
 <streaminginfo>

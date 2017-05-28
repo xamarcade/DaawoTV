@@ -3633,15 +3633,6 @@
 </channel>	
 
 <channel>
-	<cname>Burhan</cname>
-	<imageurl>http://s3.postimg.org/xwuq2ia73/burhan.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Coran</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/tvg_zps33829f55.png</imageurl>
 	<enabled>True</enabled>
@@ -3789,15 +3780,6 @@
 	<category>islam</category>
 	</assignedcategory>
 </channel>	
-
-<channel>
-	<cname>Safa</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ss/safa_tv_sa.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
 
 <channel>
 	<cname>Selah</cname>
