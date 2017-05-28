@@ -1021,21 +1021,13 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-    <cname>Shada</cname>
-	<item>
-	<title>Low</title>
-	<link>http://38.96.148.147:1935/live/livestream/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 
-
-<streaminginfo><cname>sunnah TV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ArVmnth5jB4</link></item></streaminginfo>
+<streaminginfo><cname>sunnah TV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ZYEKFOPUsmg</link></item></streaminginfo>
 <streaminginfo>
 	<cname>sunnah TV</cname>
 	<item>
 	<title>Med</title>
-	<link>http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream1.m3u8?v=1356438483</link>
+	<link>http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8?v=1525040486</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -1079,13 +1071,6 @@
 	<cname>Tanasuh</cname>
 	<item><title>Med</title>
 	<link>http://m.live.net.sa:1935/m/tanasuhtv/chunklist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Tayba</cname>
-	<item><title>Med</title>
-	<link>rtmp://109.123.123.82:1935/tayba playpath=taybatv swfUrl=http://www.elahmad.com/tv/swf/taybatv.swf?autostart=true&amp;/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/taybatv.php</link>
 	</item>
 </streaminginfo>
 

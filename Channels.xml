@@ -3791,15 +3791,6 @@
 </channel>
 
 <channel>
-	<cname>Shada</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ss/shada_tv_jo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>islam</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
 	<cname>sunnah TV</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/snn_zpsd7d0fbe7.png</imageurl>
 	<enabled>True</enabled>
