@@ -128,6 +128,19 @@
 <streaminginfo>
 	<cname>BulshoTV</cname>
 	<item>
+	<title>ustream 2</title>
+	<link>$doregex[get-link]</link>
+		<regex>
+		<name>get-link</name>
+		<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/12896784/streams/live/playlist.m3u8')</expres>
+		<page></page>
+		</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>BulshoTV</cname>
+	<item>
 	<title>Ustream</title>
 	<link>$doregex[get-url]</link>
     <regex>
