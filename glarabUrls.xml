@@ -1,16 +1,30 @@
 <streamingInfos>
 
 <streaminginfo>
-	<cname>Alrayan</cname>
+	<cname>SNTV</cname>
+	<item>
+	<title>Proxy High</title>
+	<link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=SNTV_High&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>SNTV</cname>
 	<item>
 	<title>Low</title>
+	<link>http://$GL-IPLOW$:7777/SNTV.m3u8?session=$GL-Sesession$</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alrayan</cname>
+	<item>
+	<title>Med</title>
 	<link>http://$GL-IPLOW$:7777/AlRayyan.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alrayan2</cname>
 	<item>
-	<title>Low</title>
+	<title>Med</title>
 	<link>http://$GL-IPLOW$:7777/AlRayyan2.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
@@ -531,7 +545,7 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>KTV2</cname>
+	<cname>KTV 2</cname>
 	<item>
 	<title>Low</title>
 	<link>http://$GL-IPLOW$:7777/KTV2Kuwait.m3u8?session=$GL-Sesession$</link>
