@@ -2856,7 +2856,7 @@
 
 <channel>
 	<cname>Al sahraa</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_sahraa_tv.png</imageurl>
+	<imageurl>https://www.altkia.com/wp-content/uploads/2015/04/%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-550x367.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>gulf</category>
@@ -2866,24 +2866,6 @@
 <channel>
 	<cname>Almajlis</cname>
 	<imageurl>http://s24.postimg.org/vcfam86g5/Alma.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Almas</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/almas_tv_us.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Alqseem</cname>
-	<imageurl>http://s16.postimg.org/lmvzwexyd/qaseem.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>gulf</category>
@@ -2901,7 +2883,7 @@
 
 <channel>
 	<cname>alrayan</cname>
-	<imageurl>http://www.qatarbroadcast.qa/images/ryn.png</imageurl>
+	<imageurl>https://e.top4top.net/p_540k2kjd1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>gulf</category>
@@ -2909,56 +2891,29 @@
 </channel>	
 <channel>
 	<cname>Alrayan2</cname>
-	<imageurl>http://www.qatarbroadcast.qa/images/ryn.png</imageurl>
+	<imageurl>https://f.top4top.net/p_540d7leh2.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>gulf</category>
 	</assignedcategory>
 </channel>	
-
-<channel>
-	<cname>Alwaka</cname>
-	<imageurl>http://s21.postimg.org/jiqh22zx3/w0yhp_Isu.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>alwatan</cname>
-	<imageurl>https://yt3.ggpht.com/-KbhxwZdyA4Q/AAAAAAAAAAI/AAAAAAAAAAA/i0C3-T7Uz1A/s100-c-k-no/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>	
- <channel>
-	<cname>Alwatan Plus</cname>
-	<imageurl>http://www.sat-address.com/f/pics/logotipi/Alwatan-TV-Plus_o.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
 
 <channel>
 	<cname>Bahrain</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/btvb_zps69198e98.png</imageurl>
+	<imageurl>https://lh3.googleusercontent.com/OJfVcpWvjgMwBZYGlv2nUe_Xn5jPxpnXTYy-j-Jp95WOQbmIsCq6dz7TNale2Ayk83k=w300</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>gulf</category>
 	</assignedcategory>
 </channel>	
-
 <channel>
-    <cname>Bedaya</cname>
-    <imageurl>http://s8.postimg.org/o16ibukdh/Logo_Bedaya_2014_0002.png</imageurl>
-    <enabled>True</enabled>
-    <assignedcategory>
-    <category>gulf</category>
-    </assignedcategory>
-</channel>
+	<cname>Bahrain English</cname>
+	<imageurl>https://lh3.googleusercontent.com/OJfVcpWvjgMwBZYGlv2nUe_Xn5jPxpnXTYy-j-Jp95WOQbmIsCq6dz7TNale2Ayk83k=w300</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>	
 
 <channel>
     <cname>Citruss</cname>
@@ -2970,26 +2925,16 @@
 </channel>
 
 <channel>
-	<cname>DM</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/dd/decision_maker_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>DMM</cname>
-	<imageurl>http://s1.postimg.org/ud0dk7apr/DMM.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Dubai</cname>
 	<imageurl>http://s23.postimg.org/6l1hndql7/Dubai_TV.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Dubai One</cname>
+	<imageurl>http://www.digitalstudiome.com/pictures/Dubai%20One%20Logo.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>gulf</category>
@@ -3041,41 +2986,16 @@
 
 <channel>
 	<cname>KTV 2</cname>
-	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_2_new.png</imageurl>
+	<imageurl>https://www.kurdtvs.net/uploads/files/06-01-2017-b3dc63e3-state-of-kuwait-ktv2hd.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>gulf</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>KTV PLUS</cname>
-	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_plus_new.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>		
+	
 <channel>
 	<cname>Kuwait</cname>
-	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_1_new.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-     <cname>Maannews</cname>
-     <imageurl>http://s30.postimg.org/6dv7vvwld/url.jpg</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-	 <category>gulf</category>
-     </assignedcategory>
-</channel>
-
-<channel>
-	<cname>Nourmina</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/nn/nourmina.png</imageurl>
+	<imageurl>http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>gulf</category>
@@ -3093,20 +3013,11 @@
 
 <channel>
 	<cname>Qatar</cname>
-	<imageurl>http://www.qatarbroadcast.qa/images/qtv.png</imageurl>
+	<imageurl>http://www.tv-logo.com/pt-data/uploads/images/logo/qatar_tv.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>gulf</category>
 	</assignedcategory>
-</channel>
-
-<channel>
-     <cname>RAK</cname>
-     <imageurl>http://www.lyngsat-logo.com/logo/tv/rr/rak_tv_ae.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>gulf</category>
-     </assignedcategory>
 </channel>
 
 <channel>

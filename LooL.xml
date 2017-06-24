@@ -5,13 +5,13 @@
 <streaminginfo>
 	<cname>Abu Dhabi</cname>
 	<item>
-	<title>High</title>
+	<title>High 2</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/105.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Abu Dhabi</cname>
-	<item><title>Low</title>
+	<item><title>High</title>
 	<link>http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8?v=1525040486</link>
 	</item>
 </streaminginfo>
@@ -19,13 +19,13 @@
 <streaminginfo>
 	<cname>Abu Dhabi Emirates</cname>
 	<item>
-	<title>High</title>
+	<title>High 2</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/101.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Abu Dhabi Emirates</cname>
-	<item><title>Low</title>
+	<item><title>High</title>
 	<link>http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8?v=1525040486</link>
 	</item>
 </streaminginfo>
@@ -49,13 +49,33 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo><cname>Almajlis</cname><item><title>Med</title><link>http://stream03.fasttelco.net/4/pub/asset/12/streams.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Almajlis</cname><item><title>Med</title><link>http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv7</link></item></streaminginfo>
 
 <streaminginfo>
-	<cname>Alqseem</cname>
+     <cname>Almajlis</cname>
+	 <item>
+<title>Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.media.gov.kw/LiveTV1.aspx?PanChannel=KTVSportExtra</page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Alrai</cname>
 	<item>
 	<title>Med</title>
-	<link>http://streaming.i-sat.tv:1935/live/alqseem.stream_360p/playlist.m3u8</link>
+	<link>rtmp://stream01.fasttelco.net:1935/live/_definst_/ playpath=ALRAI/LIVE_STREAMING/alrai swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=kw_alrai&amp;autostart=true&amp;/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/alraitv.php</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alrai</cname>
+	<item>
+	<title>Med</title>
+	<link>http://selevision9878-i.akamaihd.net/hls/live/219129/98781/1.m3u8</link>
 	</item>
 </streaminginfo> 
 
@@ -63,26 +83,83 @@
 	<cname>alrayan</cname>
 	<item>
 	<title>Low</title>
-    <link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_264.m3u8</link>
+    <link>http://31.11.50.210:1935/HR03/HR03.stream/gmswf.m3u8?v=1525040486</link>
+    </item>
+</streaminginfo>
+<streaminginfo>
+	<cname>alrayan</cname>
+	<item>
+	<title>Med 3</title>
+    <link>http://msqbstreamer1.qatarbroadcast.qa:1935/HR03/HR03.stream/playlist.m3u8</link>
+    </item>
+</streaminginfo>
+<streaminginfo>
+	<cname>alrayan</cname>
+	<item>
+	<title>Med 2</title>
+    <link>rtmp://31.11.50.210:1935/HR03?gmswf=1525040486 playpath=HR03.stream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=alrayyan_1&amp;autostart=true&amp;/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/alrayyantv.php
+</link>
     </item>
 </streaminginfo>
 <streaminginfo>
 	<cname>alrayan</cname>
 	<item>
 	<title>Med</title>
-    <link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_528.m3u8</link>
+    <link>http://alrayyan2live.azureedge.net/alrayyan1/alrayyan1.smil/chunklist_b1532000.m3u8</link>
+    </item>
+</streaminginfo>
+<streaminginfo>
+	<cname>alrayan</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/3569.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Alrayan2</cname>
+	<item>
+	<title>Med 4</title>
+    <link>http://msqbstreamer1.qatarbroadcast.qa:1935/HR07/HR07.stream/chunklist_w22532703.m3u8</link>
+    </item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alrayan2</cname>
+	<item>
+	<title>Med 3</title>
+    <link>http://alrayyan2live.azureedge.net/alrayyan2/alrayyan2.smil/chunklist_b982000.m3u8?v=1525040486</link>
+    </item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alrayan2</cname>
+	<item>
+	<title>Med 2</title>
+    <link>rtmp://31.11.50.210:1935/HR07?gmswf=1525040486 playpath=HR07.stream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=alrayyan_2&amp;autostart=true&amp;/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/alrayyantv.php
+</link>
+    </item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alrayan2</cname>
+	<item>
+	<title>Med</title>
+    <link>http://31.11.50.210:1935/HR07/HR07.stream/chunklist_w1652674159.m3u8?v=1525040486</link>
     </item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Alwaka</cname>
+	<cname>Bahrain</cname>
 	<item>
-	<title>Low</title>
-	<link>http://streaming.i-sat.tv:1935/live/alwaka.stream_360p/playlist.m3u8</link>
+	<title>Med</title>
+	<link>http://185.105.4.106:1935/live/Bahrain%20TV/chunklist_w1648915209.m3u8</link>
 	</item>
 </streaminginfo> 
-
-<streaminginfo><cname>Bedaya</cname><item><title>Alibel You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=YkY4zJUEXyE</link></item></streaminginfo>
+<streaminginfo>
+	<cname>Bahrain English</cname>
+	<item>
+	<title>Med</title>
+	<link>http://185.105.4.106:1935/live/Bahrain%20International/playlist.m3u8</link>
+	</item>
+</streaminginfo> 
 
 <streaminginfo>
     <cname>Citruss</cname>
@@ -93,18 +170,32 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>DMM</cname>
-	<item>
-	<title>Med</title>
-	<link>http://streaming.i-sat.tv:1935/live/dmm/playlist.m3u8</link>
-	</item>
-</streaminginfo> 
-
-<streaminginfo>
 	<cname>Dubai</cname>
 	<item>
 	<title>Med</title>
 	<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w457705655_b750000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Dubai</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/128.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Dubai One</cname>
+	<item>
+	<title>Med</title>
+	<link>http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>KSA 1</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/126.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -120,62 +211,85 @@
 <cname>KSA 1</cname>
 <item>
 <title>You need Youtube Addon</title>
-<link>plugin://plugin.video.youtube/play/?video_id=ALydA58qX7A</link>
+<link>plugin://plugin.video.youtube/play/?video_id=8Ry9yGYyx2Y</link>
 </item>
 </streaminginfo>
 <streaminginfo>
-<cname>KSA 1</cname>
-<item>
-<title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-1&amp;mode=125&amp;name=Saudi+Arabian+TV+1&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1775%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-1&amp;ch_fanart=1775</link>
-</item>
+	<cname>KSA 1</cname>
+	<item>
+	<title>Med</title>
+	<link>http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel1/3.m3u8</link>
+	</item>
 </streaminginfo>
-<streaminginfo><cname>KSA 2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=Tdd1EkznnHw</link></item></streaminginfo>
-<streaminginfo><cname>KSA 2</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-2&amp;mode=125&amp;name=Saudi+Arabian+TV+2&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1778%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-2&amp;ch_fanart=1778</link></item></streaminginfo>
+<streaminginfo>
+	<cname>KSA 1</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/1530.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo><cname>KSA 2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=QDH5KbYy1as</link></item></streaminginfo>
+<streaminginfo>
+	<cname>KSA 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/195.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>KTV 2</cname>
 	<item>
-	<title>media.gov.kw2</title>
-	<link>rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp timeout=20</link>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/814.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>KTV 2</cname>
 	<item>
 	<title>media.gov.kw</title>
-	<link>rtmp://stream03.fasttelco.net:1935/live/_definst_ playpath=ktv2_480.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.media.gov.kw/tvradio/Portal/KTV2_1.htm</link>
+	<link>http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>KTV PLUS</cname>
-	<item>
-	<title>media.gov.kw</title>
-	<link>rtmp://stream03.fasttelco.net:1935/live/_definst_ playpath=ktv8_480.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.media.gov.kw/tvradio/Portal/KTVPlus_1.htm</link>
-	</item>
+     <cname>KTV 2</cname>
+	 <item>
+<title>Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.media.gov.kw/LiveTV1.aspx?PanChannel=KTV2</page>
+</regex>
+</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>Kuwait</cname>
 	<item>
 	<title>media.gov.kw</title>
-	<link>rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp timeout=20</link>
+	<link>http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1</link>
 	</item>
 </streaminginfo>
-
 <streaminginfo>
-		<cname>Maannews</cname>
-		<item>
-		<title>Vstream</title>
-		<link>http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8</link>
-		</item>
+     <cname>Kuwait</cname>
+	 <item>
+<title>Gini</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.media.gov.kw/LiveTV1.aspx</page>
+</regex>
+</item>
 </streaminginfo>
 <streaminginfo>
-		<cname>Maannews</cname>
-		<item>
-		<title>HD</title>
-		<link>http://217.21.0.14:1935/maan/maan_1/playlist.m3u8</link>
-		</item>
+	<cname>Kuwait</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/1635.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
 </streaminginfo>
 
 <streaminginfo>
@@ -209,26 +323,17 @@
 <streaminginfo>
 	<cname>Qatar</cname>
 	<item>
-	<title>720P HD</title>
-	<link>$doregex[m3u8]</link>
-	<regex>
-	<name>m3u8</name>
-	<expres>src: escape\("([^"]*)</expres>
-	<page>http://www.qtv.qa/qtv/live.php</page>
-	<referer> </referer>
-	</regex>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/132.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 		<cname>Qatar</cname>
 		<item>
 		<title>Vstream</title>
-		<link>http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_231s.m3u8</link>
+		<link>http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_265s.m3u8</link>
 		</item>
 </streaminginfo>
-
-<streaminginfo><cname>Rotana Khaligi</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-khalijiah&amp;mode=125&amp;name=Rotana+Khalijiah&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2606%2Fextra_big_logo.png&amp;start=rotana-khalijiah&amp;ch_fanart=2606</link></item></streaminginfo>
 
 <streaminginfo>
 	<cname>Rotana Khaligi</cname>
@@ -245,6 +350,13 @@
 	<link>http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w1226210005_b750000.m3u8</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Sama Dubai</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/133.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
      <cname>Sharjah</cname>
@@ -259,24 +371,10 @@
 </item>
 </streaminginfo>
 <streaminginfo>
-     <cname>Sharjah</cname>
-	<item>
-	<title>Low</title>
-	<link>rtmp://livestreaming.itworkscdn.net/smc1live/ playpath=smc1tv_160p swfUrl=http://www.smc.ae/smcplayer/smcplayer/jwplayer.flash.swf pageUrl=http://www.smc.ae/stream.html swfVfy=true live=true timeout=15</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Sharjah</cname>
-	<item>
-	<title>Med</title>
-	<link>rtmp://livestreaming.itworkscdn.net/smc1live/ playpath=smc1tv_240p swfUrl=http://www.smc.ae/smcplayer/smcplayer/jwplayer.flash.swf pageUrl=http://www.smc.ae/stream.html swfVfy=true live=true timeout=15</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Sharjah</cname>
+	<cname>Sharjah</cname>
 	<item>
 	<title>High</title>
-	<link>rtmp://livestreaming.itworkscdn.net/smc1live/ playpath=smc1tv_360p swfUrl=http://www.smc.ae/smcplayer/smcplayer/jwplayer.flash.swf pageUrl=http://www.smc.ae/stream.html swfVfy=true live=true timeout=15</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/121.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
