@@ -65,17 +65,11 @@
 <streaminginfo>
 <cname>MBC Bollywood</cname>
 <item>
-<title>High 2</title>
+<title>High</title>
 <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/24.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
-<streaminginfo>
-<cname>MBC Bollywood</cname>
-<item>
-<title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://145.239.108.17:6500/live/vWVkgrSsuD/jAJvXsYSG5/9946.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
+
 
 <streaminginfo>
 <cname>MBC Drama</cname>
