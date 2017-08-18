@@ -238,13 +238,6 @@
 	<link>http://www.axadledirect.com:1936/17/stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>HCTV</cname>
-	<item>
-	<title>BestHD</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/1372.ts</link>
-	</item>	
-</streaminginfo>
 
 <streaminginfo>
 	<cname>SLNTV</cname>
@@ -269,13 +262,6 @@
 	<title>Axadledirect - Low</title>
 	<link>http://www.axadledirect.com:1936/16/stream/playlist.m3u8</link>
 	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>SLNTV</cname>
-	<item>
-	<title>BestHD</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/1389.ts</link>
-	</item>	
 </streaminginfo>
 
 <streaminginfo>
@@ -302,14 +288,6 @@
 	<link>http://www.axadledirect.com:1936/13/stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>SNTV</cname>
-	<item>
-	<title>BestHD</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/1390.ts</link>
-	</item>	
-</streaminginfo>
-
 
 <streaminginfo>
 	<cname>Universal Somali</cname>
@@ -360,13 +338,6 @@
 	<title>Med</title>		
 	<link>http://www.axadledirect.com:1936/15/stream/playlist.m3u8</link>
 	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Universal Somali</cname>
-	<item>
-	<title>BestHD</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/1393.ts</link>
-	</item>	
 </streaminginfo>
 
 <!-- Somalian Channels End -->
