@@ -8,6 +8,7 @@
 	<file fname="ssUrls.xml"/>
     	<file fname="ttvPlayer.py"/>
 	<file fname="ttvUrls.xml"/>
+	<file fname="Best4u.xml" url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/Best4u.xml"/>
 	<file fname="cdnUrls.xml"url="https://raw.githubusercontent.com/xamarcade/DaawoTV/master/cdnUrls.xml"/>
 	<file fname="yoUrls.xml"url="https://raw.githubusercontent.com/allouch89/ShaniXBMCdatabase/master/yoUrls.xml"/>
 	<file base64="true" fname="karUrls.xml"/>
