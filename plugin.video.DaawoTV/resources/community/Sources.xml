@@ -29,7 +29,7 @@
 <colour>yellow</colour>
 <baseurl>http://website.com</baseurl>
 <enabled>True</enabled>
-<urlfile>livetvUrls.xml</urlfile>
+<urlfile>Best4u.xml</urlfile>
 <imageurl>http://mylogo.com</imageurl>
 <processor>livetvPlayer.py</processor>
 </source>
