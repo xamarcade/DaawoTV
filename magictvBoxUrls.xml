@@ -535,13 +535,6 @@
 	<link>http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Mauritanie</cname>
-	<item>
-	<title>GTV</title>
-	<link>rtmp://204.77.214.14/mogulus-stream-edge/bellewarmediatv playpath=rtmp://212-47.livestream.com/affiliateStream/bellewarmediatv/6c69766572657065617465723a72746d703a2f2f323132بd34372e6c69766573747265616d2e636f6d2f6d6f67756c75732f62656c6c657761726d6564696174762f62656c6c657761726d656469617476 swfUrl=http://www.elahmad.com/[[IMPORT]]/cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.elahmad.com/tv/tv-mauritania-live.php</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 <cname>Medi 1 Sat</cname>
