@@ -3832,15 +3832,6 @@
 </channel>	
 
 <channel>
-	<cname>Aljaleya</cname>
-	<imageurl>http://s19.postimg.org/xf91thi4j/Aljaleya.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
 	<cname>Arrabia</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/m4_zpse201689a.png</imageurl>
 	<enabled>True</enabled>
@@ -3887,34 +3878,24 @@
 
 <channel>
 	<cname>Echorouk Tv</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/chrouknws_zpsd0413ad3.png</imageurl>
+	<imageurl>http://www.satchannelfrequency.com/public_html/wp-content/uploads/2016/05/1-10.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
 	</assignedcategory>
 </channel>	
-
 <channel>
-	<cname>Elmourabiton</cname>
-	<imageurl>http://s8.postimg.org/6dyyieco5/mor_n.png</imageurl>
+	<cname>CBC Benna</cname>
+	<imageurl>https://share.cdn.viber.com/pg_download?id=0-04-05-6aa0fd9c4626d4d47601161a11b1c7971bd105e57425c8a6e6e275581bf69ea8&amp;filetype=jpg&amp;type=icon</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
 	</assignedcategory>
-</channel>
+</channel>	
 
 <channel>
 	<cname>EnnaharTV algerie</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nhr_zps0a69a25a.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Ettounsia</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ee/ettounsiya_tv_tn.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
