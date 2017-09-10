@@ -170,12 +170,24 @@
 	<regex>
     <name>geturl</name>
     <expres>window.flashvars.src = '(.*?)'</expres>
-    <page>http://somaliiptv.com/saab-somali-tv-live-online/</page>
+    <page>http://www.saabtv.com/</page>
     <cookieJar></cookieJar>
 	</regex>
 	</item>
 </streaminginfo>
-
+<streaminginfo>
+	<cname>Star TV</cname>
+	<item>
+	<title>Official</title>
+	<link>$doregex[get-url]</link>
+	<regex>
+	<name>get-url</name>
+	<expres>file: '(.*?)'</expres>
+	<page>http://www.saabtv.com/</page>
+	<agent>Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</agent>
+	</regex>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Djibouti</cname>
 	<item>
