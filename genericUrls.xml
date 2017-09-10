@@ -162,7 +162,19 @@
 	<link>http://cdn01.iqbroadcast.tv:8081/startv/hb9wp/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-
+<streaminginfo>
+	<cname>Star TV</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>http://somaliiptv.com/saab-somali-tv-live-online/</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>Djibouti</cname>

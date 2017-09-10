@@ -501,20 +501,6 @@
 	</streaminginfo>
 
 <streaminginfo>
-	<cname>First TV</cname>
-	<item>
-	<title>Med</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>window.flashvars.src = '(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/First-TV</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>Hanibal</cname>
 	<item>
 	<title>Med</title>
@@ -593,19 +579,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>TNN</cname>
-	<item>
-	<title>Med</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>window.flashvars.src = '(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/TNN</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Tounesna</cname>
 	<item>
 	<title>Med</title>
@@ -646,6 +619,20 @@
 </streaminginfo>
 
 <streaminginfo><cname>Zaitouna</cname><item><title>wowzacontrol.com</title><link>http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8</link></item></streaminginfo>
+
+<streaminginfo>
+	<cname>M Tunisia</cname>
+	<item>
+	<title>Med</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>window.flashvars.src = '(.*?)'</expres>
+    <page>https://www.streaminghd.tn/live/MTunisia-TV</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
 
 <!-- North AfricaChannels End -->
 

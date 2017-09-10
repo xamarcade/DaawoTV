@@ -3903,15 +3903,6 @@
 </channel>	
 
 <channel>
-	<cname>First TV</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/ff/first_tv_tn.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Hanibal</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/htv_zpsb411e35d.png</imageurl>
 	<enabled>True</enabled>
@@ -3941,6 +3932,48 @@
 <channel>
 	<cname>Mauritanie</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mrtn_zps679492ee.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+
+<channel>
+	<cname>Mauritanie 2</cname>
+	<imageurl>https://1.bp.blogspot.com/-SuITSz5Qi2k/V11x6tocJfI/AAAAAAAABQk/Rk-EbQJ8eBozsVcRD4zZPAsB0ULK09G-gCLcB/s1600/%25D9%2585%25D8%25B4%25D8%25A7%25D9%2587%25D8%25AF%25D8%25A9%2B%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D9%2585%25D9%2588%25D8%25B1%25D9%258A%25D8%25AA%25D8%25A7%25D9%2586%25D9%258A%25D8%25A7%2B2%2B%25D8%25A8%25D8%25AB%2B%25D9%2585%25D8%25A8%25D8%25A7%25D8%25B4%25D8%25B1.PNG</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>El Mourabiton</cname>
+	<imageurl>https://www.lyngsat.com/logo/tv/ee/el_mourabiton_mr.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>El Wataniya TV</cname>
+	<imageurl>https://www.lyngsat.com/logo/tv/ee/el_wataniya_tv_mr.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Sahel TV</cname>
+	<imageurl>https://www.lyngsat.com/logo/tv/ss/sahel_tv_mr.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>		
+
+<channel>
+	<cname>Chinguit TV</cname>
+	<imageurl>https://i.ytimg.com/vi/OHN3oQ_Sabo/maxresdefault.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
@@ -3981,16 +4014,7 @@
 	<assignedcategory>
 	<category>North Africa</category>
 	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>TNN</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/tnn_zps49f023d1.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>North Africa</category>
-	</assignedcategory>
-</channel>	
+</channel>		
     
 <channel>
 	<cname>Tounesna</cname>
@@ -4022,6 +4046,38 @@
 <channel>
 	<cname>Zaitouna</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/zitoun_zps47a41297.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Zaitouna Hedaya</cname>
+	<imageurl>https://www.lyngsat.com/logo/tv/zz/zitouna_tv_tn_hedaya.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Sudan TV</cname>
+	<imageurl>http://sudantribune.com/IMG/jpg/_-4.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Blue Nile</cname>
+	<imageurl>http://www.shahidhd.tv/video/uploads/thumbs/45654dd8e-1.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>North Africa</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Sudan OUS</cname>
+	<imageurl>https://www.altkia.com/wp-content/uploads/2015/10/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-600x400.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>North Africa</category>
