@@ -721,7 +721,7 @@
 
 <!-- News Channels Start -->
 
-<streaminginfo><cname>Al Eqtisadiyah</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=1j6GokDz7Sc</link></item></streaminginfo>
+<streaminginfo><cname>Al Eqtisadiyah</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=HNFLp_OrQrY</link></item></streaminginfo>
 
 <streaminginfo>
    	<cname>Al Hiwar</cname>
@@ -731,29 +731,9 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-   	<cname>Al Ikhbaria Syria</cname>
-	<item>
-	<title>Low</title>
-	<link>http://82.137.248.16:1935/Snews/SnewsLive1/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Al Ikhbaria Syria</cname>
-	<item>
-	<title>Med</title>
-	<link>http://82.137.248.16:1935/Snews/SnewsLive2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Al Ikhbaria Syria</cname>
-	<item>
-	<title>High</title>
-	<link>http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
+<streaminginfo><cname>Al Ikhbaria Syria</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=YfH6U8CNp58</link></item></streaminginfo>
 
-<streaminginfo><cname>Al mayaden</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=04uzP251PoY</link></item></streaminginfo>
+<streaminginfo><cname>Al mayaden</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=OfZcE29c6c0</link></item></streaminginfo>
 
 <streaminginfo>
 	<cname>Al Sharqiya News</cname>
@@ -1124,24 +1104,7 @@
 </streaminginfo>	
 <streaminginfo><cname>France 24</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=55IL8QtH0Ao</link></item></streaminginfo>
 	
-<streaminginfo>
-<cname>i24News</cname>
-<item>
-<title>800</title>
-<link>$doregex[url]|User-Agent=iPad</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('\u0026','&amp;')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>jsonurl</name>
-	<expres>url":"(.*?)"</expres>
-	<page>http://playtv.fr/player/play/i24-news-arabic/?bitrate=800&amp;format=hls&amp;language=fr</page>
-	<referer>http://playtv.fr</referer>
-</regex>
-</item>
-</streaminginfo>	
+	
 	
 <streaminginfo><cname>KSA News</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=cCe0Hzqjhso</link></item></streaminginfo>
 	

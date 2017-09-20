@@ -80,6 +80,14 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
+<channel>
+	<cname>Royal TV Somalia</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rylsml_zps4185b722.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>somalia</category>
+	</assignedcategory>
+</channel>
 
 -<channel>
 	<cname>JLTV</cname>
@@ -152,14 +160,6 @@
 <channel>
 	<cname>Somali  Channel</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/smli_zps93a6c01a.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Royal TV Somalia</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rylsml_zps4185b722.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>somalia</category>
@@ -1812,15 +1812,6 @@
 <channel>
 	<cname>France 24</cname>
 	<imageurl>http://s19.postimg.org/bgysugyyn/france24arabic.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>news</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>i24News</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/ii/i_24_news_il.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>news</category>

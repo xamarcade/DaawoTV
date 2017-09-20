@@ -552,4 +552,130 @@
 </item>
 </streaminginfo>
 <!-- North Africa Channels End -->
+
+<!-- News Channels Start -->
+
+<streaminginfo>
+	<cname>Al Eqtisadiyah</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/3711.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Hiwar</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/817.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Ikhbaria Syria</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/1402.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al mayaden</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/816.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Al Sharqiya News</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/1500.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alarabiya</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/150.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alarabiya Ahdas</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/151.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Aljazeera</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/146.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>ANN</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/828.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>BBC Arabic</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/824.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>DW Arabic</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/288.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Alghad Alarabi</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/198.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>France 24</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/129.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nile News</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/295.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Russia Alyaum</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/2067.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>SkyNewsArabia</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/2305.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>TRT Arabic</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/1460.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+
+
+
+
 </streaminginfos>
