@@ -61,12 +61,6 @@
 	</regex>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Dalmar TV</cname>
-	<item><title>Youtube - High</title>
-	<link>plugin://plugin.video.youtube/play/?video_id=keR3MQVemHI</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>SBC</cname>

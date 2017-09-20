@@ -55,7 +55,7 @@
 
 <channel>
 	<cname>Kalsan Tv</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/klsn_zps62722125.png</imageurl>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2015/03/kalsan-tv.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>somalia</category>
@@ -83,7 +83,7 @@
 
 <channel>
 	<cname>Royal TV Somalia</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/rylsml_zps4185b722.png</imageurl>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2015/02/ryaltv.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>somalia</category>
@@ -93,14 +93,6 @@
 -<channel>
 	<cname>JLTV</cname>
 	<imageurl>https://yt3.ggpht.com/-FcDY5XY66yo/AAAAAAAAAAI/AAAAAAAAAAA/ZrPEQSnGk_8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
--<channel>
-	<cname>Dalmar TV</cname>
-	<imageurl>https://pbs.twimg.com/profile_images/637314509141581825/zf3j1yjK.jpg</imageurl>
 	<enabled>True</enabled>
 -	<assignedcategory>
 		<category>somalia</category>
