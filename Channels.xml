@@ -2354,14 +2354,6 @@
 	</assignedcategory>
 </channel>	
 <channel>
-    <cname>Cairo Comedy</cname>
-    <imageurl>http://www.lyngsat-logo.com/hires/cc/cairo_cinema_1_eg.png</imageurl>
-    <enabled>True</enabled>
-    <assignedcategory>
-    <category>drama</category>
-    </assignedcategory>
-</channel>
-<channel>
 	<cname>Cairo Drama</cname>
 	<imageurl>http://s15.postimg.org/dao23twe3/Drama_220x300.png</imageurl>
 	<enabled>True</enabled>
@@ -2387,24 +2379,6 @@
 	<category>drama</category>
 	</assignedcategory>
 </channel>	
-
-<channel>
-	<cname>Cine Majesti</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mjstc-cine_zps77ba40ca.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>drama</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Darbaka Aflam</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/dd/darbaka_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	 <category>drama</category>
-	</assignedcategory>
-</channel>
 
 <channel>
 	<cname>Dubai One</cname>
@@ -2583,14 +2557,6 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Top Movies</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/top_zps0107f759.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>drama</category>
-	</assignedcategory>
-</channel>
 
 <!-- Drama Channels End -->
 
@@ -2613,14 +2579,7 @@
 	<category>egypt</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Al Nahar 2</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/nhr2222_zps577c346d.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>	
+
 <channel>
 	<cname>Al Nahar Cinema</cname>
 	<imageurl>https://yt3.ggpht.com/-Xz6SsN9n-U0/AAAAAAAAAAI/AAAAAAAAAAA/ckoUyEZo3So/s900-c-k-no/photo.jpg</imageurl>
@@ -2690,6 +2649,14 @@
 	</assignedcategory>
 </channel>
 <channel>
+	<cname>CBC 2</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/cbc_zps770dbcaf.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>egypt</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>CBC Extra</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/cbcextr_zpsb9eae6dd.png</imageurl>
 	<enabled>True</enabled>
@@ -2726,15 +2693,6 @@
 <channel>
 	<cname>Egypt 2</cname>
 	<imageurl>http://dotnet.ertu.org/images/tv/HTML-slice-Tv_16.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>egypt</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Massaya</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/mm/massaya_tv.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>egypt</category>

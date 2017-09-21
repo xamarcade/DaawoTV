@@ -1,141 +1,7 @@
 <streamingInfos>
 
-<!-- Ent Channels Start -->
-
-<streaminginfo>
-	<cname>OSN Movies Premiere HD Plus 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/1701.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN AlYawm</cname>
-	<item>
-	<title>High 1</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://51.254.47.234:8000/live/maka/maka/194.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-    </item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN First HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3301.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN First Comedy</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/264.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN Movies HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2246.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN Movies Action HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2246.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN Movies Action Plus 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2245.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN Movies Comedy HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/264.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN Movies Festival</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/268.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN Star Movies HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/500.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN On Demand HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/25.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN On Demand HD Extra</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/837.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN Ya Hala Shabab HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/16.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>OSN Yahala Cinema HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2274.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>OSN Yahala Drama HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/XL1012WAUYJK3G/4NVEUNRT/1752.ts</link>
-	</item>
-</streaminginfo> 
-<streaminginfo>
-	<cname>OSN Yahala HD</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2607.ts</link>
-	</item>
-</streaminginfo> 
-
-
-
-<!-- Ent Channels End -->
-
 <!-- Drama Channels Start -->
 
-<streaminginfo>
-	<cname>Abu Dhabi Drama</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/102.ts</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>Abu Dhabi Drama</cname>
 	<item><title>Low</title>
@@ -153,89 +19,8 @@
 <streaminginfo>
 	<cname>Al Nahar Drama</cname>
 	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/121.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Al Nahar Drama</cname>
-	<item>
 	<title>Stream: High</title>
 	<link>http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/chunklist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Albait Baitak Cinema</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/213.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Alhayat Series</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3m/3m/6890.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Art Aflam 1</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/1.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Art Aflam 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/2.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Art Cinema</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/5.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>ART Hekayat</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/3.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>ART Hekayat 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/4.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Cairo Cinema</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/125.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Cairo Comedy</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/1649.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Cairo Drama</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/126.ts</link>
 	</item>
 </streaminginfo>
 
@@ -243,31 +28,8 @@
 <cname>CBC Drama</cname>
 <item>
 <title>You need Youtube Addon</title>
-<link>plugin://plugin.video.youtube/play/?video_id=uMvhnVugCjo</link>
+<link>plugin://plugin.video.youtube/play/?video_id=A9mtb0069XI</link>
 </item>
-</streaminginfo>
-<streaminginfo>
-	<cname>CBC Drama</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/105.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Cima</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/298.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Darbaka Aflam</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/323.ts</link>
-	</item>
 </streaminginfo>
 
 <streaminginfo>
@@ -308,27 +70,12 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Moga Comedy</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/165.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 		<cname>Nile Cinema</cname>
 		<item>
 			<title>livestreaming</title>
 			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema timeout=20</link>
 		</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Nile Cinema</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/100.ts</link>
-	</item>
-</streaminginfo> 
 
 <streaminginfo>
 		<cname>Nile Comedy</cname>
@@ -336,13 +83,6 @@
 			<title>livestreaming</title>
 			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=20</link>
 		</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Nile Comedy</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/97.ts</link>
-	</item>
 </streaminginfo>
 
 <streaminginfo>
@@ -352,58 +92,8 @@
 			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1 timeout=20</link>
 		</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Nile Drama</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/101.ts</link>
-	</item>
-</streaminginfo> 
-
-<streaminginfo>
-	<cname>Panorama Comedy</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/229.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Panorama Drama</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/111.ts</link>
-	</item>
-</streaminginfo>
- <streaminginfo>
-	<cname>Panorama Drama 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/109.ts</link>
-	</item>
-</streaminginfo> 
-<streaminginfo>
-	<cname>Panorama film</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/161.ts</link>
-	</item>
-</streaminginfo>
 
 
-<streaminginfo>
-<cname>Rotana Aflam</cname>
-<item>
-<title>you need to install F.T.V Addon Filmon_Source</title>
-<link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-aflam&amp;mode=125&amp;name=Rotana+Aflam&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2618%2Fextra_big_logo.png&amp;start=rotana-aflam&amp;ch_fanart=2618</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Rotana Aflam</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/3625.ts</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 <cname>Rotana Cinema</cname>
@@ -412,27 +102,7 @@
 <link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-cinema&amp;mode=125&amp;name=Rotana+Cinema&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2615%2Fextra_big_logo.png&amp;start=rotana-cinema&amp;ch_fanart=2615</link>
 </item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Rotana Cinema</cname>
-	<item>
-	<title>High HD</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/3624.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Rotana Cinema</cname>
-	<item>
-	<title>High (KSA)</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/45.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Rotana Cinema</cname>
-	<item>
-	<title>High (EGY)</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/44.ts</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
 <cname>Rotana Classic</cname>
@@ -441,20 +111,7 @@
 <link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-classic&amp;mode=125&amp;name=Rotana+Classic&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2609%2Fextra_big_logo.png&amp;start=rotana-classic&amp;ch_fanart=2609</link>
 </item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Rotana Classic</cname>
-	<item>
-	<title>High HD</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/3629.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Rotana Classic</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/46.ts</link>
-	</item>
-</streaminginfo>
+
 
 
 <streaminginfo>
@@ -465,20 +122,7 @@
 </item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Star 1 Cinema</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/114.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Star 2 Cinema</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/115.ts</link>
-	</item>
-</streaminginfo>
+
 
 
 	<streaminginfo>
@@ -517,21 +161,6 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Toktok</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/604.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Top Movies</cname>
-	<item>
-	<title>Wael: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sat.010e.net:8000/live/wael/wael/1548.ts</link>
-	</item>
-</streaminginfo>
 
 <!-- Drama Channels End -->
 
@@ -618,13 +247,6 @@
 	<link>rtmp://livestreaming4.onlinehorizons.net/ app=ERTUCH1 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch1.html live=true timeout=15</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Egypt 1</cname>
-	<item>
-	<title>Med</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tviptv.org:50100/live/technicien-toulousain/technicien-toulousain/214.ts</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
         <cname>Mehwar</cname>
@@ -663,23 +285,10 @@
 
 <streaminginfo><cname>Rotana Masriya</cname><item><title>you need to install F.T.V Addon Filmon_Source</title>
 <link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Frotana-masriya&amp;mode=125&amp;name=Rotana+Masriya&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2612%2Fextra_big_logo.png&amp;start=rotana-masriya&amp;ch_fanart=2612</link></item></streaminginfo>
-<streaminginfo>
-	<cname>Rotana Masriya</cname>
-	<item>
-	<title>High HD</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/3626.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Rotana Masriya</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/49.ts</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo><cname>Sada Al Balad</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=2Iyj2w2MyWw</link></item></streaminginfo>
-<streaminginfo><cname>Sada Al Balad2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=dyDq1yxKDS8</link></item></streaminginfo>
+<streaminginfo><cname>Sada Al Balad2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=W4PDUMiE47s</link></item></streaminginfo>
 
 
 </streamingInfos>
