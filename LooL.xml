@@ -4,25 +4,11 @@
 
 <streaminginfo>
 	<cname>Abu Dhabi</cname>
-	<item>
-	<title>High 2</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/105.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi</cname>
 	<item><title>High</title>
 	<link>http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8?v=1525040486</link>
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Abu Dhabi Emirates</cname>
-	<item>
-	<title>High 2</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/101.ts</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>Abu Dhabi Emirates</cname>
 	<item><title>High</title>
@@ -108,13 +94,6 @@
     <link>http://alrayyan2live.azureedge.net/alrayyan1/alrayyan1.smil/chunklist_b1532000.m3u8</link>
     </item>
 </streaminginfo>
-<streaminginfo>
-	<cname>alrayan</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/3569.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>Alrayan2</cname>
@@ -176,26 +155,13 @@
 	<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w457705655_b750000.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Dubai</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/128.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
 	<cname>Dubai One</cname>
 	<item>
 	<title>Med</title>
 	<link>http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Dubai One</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/126.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -221,30 +187,9 @@
 	<link>http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel1/3.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>KSA 1</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/1530.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo><cname>KSA 2</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=QDH5KbYy1as</link></item></streaminginfo>
-<streaminginfo>
-	<cname>KSA 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/195.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
 
-<streaminginfo>
-	<cname>KTV 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/814.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>KTV 2</cname>
 	<item>
@@ -284,13 +229,6 @@
 </regex>
 </item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Kuwait</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/1635.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
         <cname>Oman</cname>
@@ -321,13 +259,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Qatar</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/132.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 		<cname>Qatar</cname>
 		<item>
 		<title>Vstream</title>
@@ -336,25 +267,10 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Rotana Khaligi</cname>
-	<item>
-	<title>High HD</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/48.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>Sama Dubai</cname>
 	<item>
 	<title>Med</title>
 	<link>http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w1226210005_b750000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Sama Dubai</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/133.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -369,13 +285,6 @@
 <page>http://www.giniko.com/watch.php?id=183</page>
 </regex>
 </item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Sharjah</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/121.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
 </streaminginfo>
 
 <streaminginfo>

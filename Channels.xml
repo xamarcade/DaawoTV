@@ -1897,15 +1897,6 @@
 </channel>
 
 <channel>
-	<cname>Animal Planet HD</cname>
-	<imageurl>http://content.osn.com/logo/channel/500x300/APL.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>doc</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>KTV ARABE</cname>
 	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_arabe_new.png</imageurl>
 	<enabled>True</enabled>
@@ -4042,6 +4033,14 @@
 <channel>
 	<cname>Aljazeera Children</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/jeem_zpseaada2dd.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>kids</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Jeem</cname>
+	<imageurl>http://www.atrissi.com/wp-content/uploads/2013/08/Jeem_television_logo.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>kids</category>
