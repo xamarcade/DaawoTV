@@ -487,6 +487,13 @@
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2475.ts</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Disney Junior</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2527.ts</link>
+	</item>
+</streaminginfo>
 
 
 <!-- Sweden Channels END -->
@@ -504,6 +511,69 @@
 	<item>
 	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/3631.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>NRK3</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/3630.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>TV2 Zebra</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/3630.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Kanal 6 NO</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2811.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Kanal 2 NO</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2816.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>DR1 DK</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2810.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>DR2 DK</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2809.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Kanal3 DK</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/1241.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Kanal2 DK</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2814.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Kanal2 News DK</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2813.ts</link>
 	</item>
 </streaminginfo>
 

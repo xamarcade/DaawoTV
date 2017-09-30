@@ -3,49 +3,9 @@
 <!-- Indian Channels Start -->
 
 <streaminginfo>
-        <cname>&amp;PicturesHD</cname>
-		<item>
-		<title>Ditto: High</title>
-		<link>http://192.240.109.130:8010/server22channel2_bitrate4.m3u8</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>&amp;PicturesTV</cname>
-		<item>
-		<title>Ditto: High</title>
-		<link>http://89.35.158.170:8010/channel1_bitrate4.m3u8</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>&amp;TV</cname>
-		<item>
-		<title>Zeefamily: High</title>
-		<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeelamheuk/chunklist.m3u8</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>&amp;TV HD</cname>
-		<item>
-		<title>Zeefamily: High</title>
-		<link>http://50.7.124.2:8010/server6channel5_bitrate4.m3u8</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>9 XM</cname>
-		<item>
-		<title>High</title>
-		<link>http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
         <cname>B4U Aflam</cname>
 		<item>
-		<title>Hamada: High</title>
+		<title>High</title>
 		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/138.ts</link>
 		</item>
 </streaminginfo>
@@ -59,14 +19,6 @@
 </streaminginfo>
 
 <streaminginfo>
-    <cname>B4U Movies Apac</cname>
-	<item>
-	<title>Zem.tv</title>
-	<link>plugin://plugin.video.ZemTV-shani/?url=WVA6aHR0cDovL3d3dy55dXBwdHYuY29tL2I0dV9tb3ZpZXNfbGl2ZS5odG1s&amp;mode=11&amp;name=%5BCOLOR+ffdc00cc%5DB4u+movies+live+yp%5B%2FCOLOR%5D</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
     <cname>B4U Plus</cname>
 	<item>
 	<title>Hamada: High</title>
@@ -75,18 +27,10 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Care World</cname>
-	<item>
-	<title>Med</title>
-	<link>rtmp://server.maxwellstreaming.com/careworld playpath=myStream swfUrl= pageUrl=</link>
-	</item>
-</streaminginfo> 
-
-<streaminginfo>
         <cname>Colors AUD</cname>
 		<item>
 		<title>High</title>
-		<link>http://186.179.169.35/edge/smil:colors_iptv.smil/chunklist_w1295553661_b600000.m3u8</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/227.ts</link>
 		</item>
 </streaminginfo>
 
@@ -94,104 +38,40 @@
         <cname>Imagines Movies</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/19618936575612/19618936575612/693.ts</link>
-		</item>
-</streaminginfo>
-
-
-<streaminginfo>
-        <cname>Rishtey</cname>
-		<item>
-		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1226.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/852.ts</link>
 		</item>
 </streaminginfo>
 
 <streaminginfo>
-        <cname>Sony Sab</cname>
+        <cname>Life OK</cname>
 		<item>
 		<title>High</title>
-        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3905.ts</link>
+		<link>http://best4u.biz:8000/live/dmy2101/9764681/554.ts</link>
 		</item>
 </streaminginfo>
 
-
-<streaminginfo>
-        <cname>Sony TV</cname>
-		<item>
-		<title>High</title>
-		<link>hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Sony TV (Hindi)</cname>
-		<item>
-		<title>High</title>
-		<link>http://186.179.169.35/edge/smil:sonytv_iptv.smil/chunklist.m3u8</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>Sony Max India</cname>
-		<item>
-		<title>High</title>
-		<link>http://130.185.144.63:8081/iptv/setmaxHD/playlist.m3u8</link>
-		</item>
-</streaminginfo>
 <streaminginfo>
         <cname>Sony Max HD</cname>
 		<item>
 		<title>High</title>
-		<link>http://130.185.144.63:8081/box/HDSETMAX/playlist.m3u8</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Sony Max UK</cname>
-		<item>
-		<title>High</title>
-		<link>http://130.185.144.63:8081/box/SATMAXX/playlist.m3u8</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/1345.ts</link>
 		</item>
 </streaminginfo>
 
 <streaminginfo>
-        <cname>Star Plus (Hindi)</cname>
-		<item>
-		<title>Younis: High</title>
-		<link>http://186.179.169.35/edge/smil:starplus_iptv.smil/chunklist.m3u8</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>Star Plus (UK)</cname>
-		<item>
-		<title>High</title>
-		<link>http://130.185.144.63:8081/iptv/StarPlusHD/playlist.m3u8</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>Star Gold HD</cname>
-		<item>
-		<title>High</title>
-		<link>http://130.185.144.63:8081/box/stargoldHD/chunks.m3u8?nimblesessionid=52849213</link>
-		</item>
+    <cname>Star Plus (Hindi)</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/660.ts</link>
+	</item>
 </streaminginfo>
 <streaminginfo>
-        <cname>Star Gold</cname>
-		<item>
-		<title>High</title>
-		<link>http://130.185.144.63:8081/iptv/stargoldind/playlist.m3u8</link>
-		</item>
+    <cname>Star Gold</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2048.ts</link>
+	</item>
 </streaminginfo>
-
-<streaminginfo>
-        <cname>Zee Action</cname>
-		<item>
-		<title>Supertv4u: High</title>
-		<link>http://130.185.144.63:8081/iptv/ZEETVACTION/playlist.m3u8</link>
-		</item>
-</streaminginfo>
-
 
 <streaminginfo>
     <cname>Zee Aflam</cname>
@@ -210,45 +90,6 @@
 </streaminginfo>
 
 <streaminginfo>
-    <cname>Zee Bollywood</cname>
-	<item>
-	<title>Zliving</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3897.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>Zee Lamhe</cname>
-		<item>
-		<title>Zeefamily: High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1206.ts</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Zee Kannada</cname>
-		<item>
-		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1207.ts</link>
-		</item>
-</streaminginfo>
-
-
-<streaminginfo>
-        <cname>Zee Cinema (Hindi)</cname>
-		<item>
-		<title>High</title>
-		<link>http://130.185.144.63:8081/iptv/ZeeCinema/playlist.m3u8</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>Zee Cinema (UK)</cname>
-		<item>
-		<title>High</title>
-		<link>http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_800.m3u8</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
         <cname>Zee Cinema (US)</cname>
 		<item>
 		<title>High</title>
@@ -260,23 +101,7 @@
         <cname>Zee Classic</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/1549.ts</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>Zee Anmol</cname>
-		<item>
-		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://148.251.1.69:8000/live/12366/12366/1543.ts</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>Zee TV (Hindi)</cname>
-		<item>
-		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3m/3m/4871.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/225.ts</link>
 		</item>
 </streaminginfo>
 
@@ -695,23 +520,6 @@
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/lamine/lamine/514.ts</link>
 	</item>
 </streaminginfo>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </streamingInfos>
