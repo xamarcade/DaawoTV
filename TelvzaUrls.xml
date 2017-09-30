@@ -104,7 +104,7 @@
 <streaminginfo>
 	<cname>SVT 1</cname>
 	<item>
-	<title>Globiptv: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2520.ts</link>
 	</item>
 </streaminginfo>
@@ -112,7 +112,7 @@
 <streaminginfo>
 	<cname>SVT 2</cname>
 	<item>
-	<title>Globiptv: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2522.ts</link>
 	</item>
 </streaminginfo>
@@ -120,38 +120,30 @@
 <streaminginfo>
 	<cname>TV 3</cname>
 	<item>
-	<title>Globiptv: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2539.ts</link>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2416.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>TV 4</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/1272.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>TV 4 Film</cname>
-	<item>
-	<title>Globiptv: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2538.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>TV 4 Komedi</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2546.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 4 Guld</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2544.ts</link>
 	</item>
 </streaminginfo>
@@ -159,7 +151,7 @@
 <streaminginfo>
 	<cname>TV 4 Fakta</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2545.ts</link>
 	</item>
 </streaminginfo>
@@ -167,7 +159,7 @@
 <streaminginfo>
 	<cname>TV 4 Sport</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2543.ts</link>
 	</item>
 </streaminginfo>
@@ -175,7 +167,7 @@
 <streaminginfo>
 	<cname>TV 5</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2549.ts</link>
 	</item>
 </streaminginfo>
@@ -183,7 +175,7 @@
 <streaminginfo>
 	<cname>TV 6</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2541.ts</link>
 	</item>
 </streaminginfo>
@@ -191,28 +183,28 @@
 <streaminginfo>
 	<cname>TV 7</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2542.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 8</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2550.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 9</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2551.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 10</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2446.ts</link>
 	</item>
 </streaminginfo>
@@ -220,7 +212,7 @@
 <streaminginfo>
 	<cname>TV 10 SV</cname>
 	<item>
-	<title>Globiptv: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2410.ts</link>
 	</item>
 </streaminginfo>
@@ -228,95 +220,60 @@
 <streaminginfo>
 	<cname>TV 11</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2688.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TV 12</cname>
-	<item>
-	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2552.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Kunskapskanalen</cname>
-	<item>
-	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2476.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Oppna Kanalen</cname>
-	<item>
-	<title>High</title>
-	<link>http://82.96.17.2/edge/_451iw2h_/451iw2h/chunklist_w808556347.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Discovery Channel</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2807.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>National Geographic</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2477.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nat Geo Wild</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2478.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>SF-Kanalen</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/3585.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TCM</cname>
-	<item>
-	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2476.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>FOX</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2517.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>TNT</cname>
-	<item>
-	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2474.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>Comedy Central</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2464.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TLC</cname>
-	<item>
-	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/19618936575612/19618936575612/1084.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>C more Hits</cname>
 	<item>
-	<title>Globiptv: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2805.ts</link>
 	</item>
 </streaminginfo>
@@ -324,23 +281,23 @@
 <streaminginfo>
 	<cname>C more First</cname>
 	<item>
-	<title>Globiptv: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2449.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>C more Action</cname>
+	<cname>C more Stars HD</cname>
 	<item>
-	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/3699.ts</link>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2546.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>C more Series</cname>
 	<item>
-	<title>Globiptv: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2451.ts</link>
 	</item>
 </streaminginfo>
@@ -348,7 +305,7 @@
 <streaminginfo>
 	<cname>C more Emotion</cname>
 	<item>
-	<title>Globiptv: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2548.ts</link>
 	</item>
 </streaminginfo>
@@ -356,7 +313,7 @@
 <streaminginfo>
 	<cname>C more Tennis</cname>
 	<item>
-	<title>Globiptv: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2564.ts</link>
 	</item>
 </streaminginfo>
@@ -364,14 +321,14 @@
 <streaminginfo>
 	<cname>C More Fotboll</cname>
 	<item>
-	<title>Globiptv: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2454.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>C More Golf</cname>
 	<item>
-	<title>Globiptv: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2565.ts</link>
 	</item>
 </streaminginfo>
@@ -379,7 +336,7 @@
 <streaminginfo>
 	<cname>C more Sport</cname>
 	<item>
-	<title>Globiptv: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2452.ts</link>
 	</item>
 </streaminginfo>
@@ -387,45 +344,22 @@
 <streaminginfo>
 	<cname>C more Live</cname>
 	<item>
-	<title>Globiptv: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2481.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>C more Live 2</cname>
-	<item>
-	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2525.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>C more Live 3</cname>
-	<item>
-	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2526.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>C more Live 4</cname>
-	<item>
-	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2527.ts</link>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
 	<cname>Viasat Hits</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2418.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat History</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2523.ts</link>
 	</item>
 </streaminginfo>
@@ -448,14 +382,21 @@
 <streaminginfo>
 	<cname>Viasat Film Premiere</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2470.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Viasat Action</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2524.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Series</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2418.ts</link>
 	</item>
 </streaminginfo>
@@ -463,14 +404,14 @@
 <streaminginfo>
 	<cname>Viasat Nature</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2411.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Family</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2417.ts</link>
 	</item>
 </streaminginfo>
@@ -478,99 +419,92 @@
 <streaminginfo>
 	<cname>Viasat Sport</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2411.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Fotboll</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2415.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Motor</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2428.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Hockey</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/19618936575612/19618936575612/1128.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Golf</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2453.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV3 Sport 1</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/3701.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV3 Sport 2</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/3700.ts</link>
 	</item>
 </streaminginfo>
 
-
-
 <streaminginfo>
 	<cname>Cartoon  Network</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2469.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Disney XD</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/3584.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Disney</cname>
 	<item>
-	<title>Ipsatpro: High</title>
+	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2475.ts</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Nickelodeon</cname>
-	<item>
-	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2428.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Boomerang</cname>
-	<item>
-	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2543.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Barn Kanalen</cname>
-	<item>
-	<title>Ipsatpro: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2523.ts</link>
-	</item>
-</streaminginfo>
+
 
 <!-- Sweden Channels END -->
+<!-- Norway Channels START -->
 
+<streaminginfo>
+	<cname>NRK1</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/3632.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>NRK2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/3631.ts</link>
+	</item>
+</streaminginfo>
 
 </streamingInfos>
