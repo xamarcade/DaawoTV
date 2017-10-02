@@ -159,7 +159,7 @@
 <sname>IPTVPlanet</sname>
 <colour>FF8B009B</colour>
 <baseurl>http://website.com</baseurl>
-<enabled>False</enabled>
+<enabled>True</enabled>
 <urlfile>IPTVPlanetUrls.xml</urlfile>
 <imageurl>http://iptv-planet.com/images/logo.png</imageurl>
 <processor>genericPlayer.py</processor>
