@@ -1312,6 +1312,15 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
+
+<channel>
+	<cname>Bein Sport 13</cname>
+	<imageurl>https://lh6.googleusercontent.com/-P6stOyqEDZ4/U443rYNa7iI/AAAAAAAAAVo/bWb1b5s1EkY/w140-h140-p/bein%2Bsport%2B13HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
 -->
 
 <!-- Indian Channels End -->
@@ -1320,8 +1329,7 @@
 
 <channel>
 	<cname>Abu Dhabi Sports 1</cname>
-	<imageurl>http://s29.postimg.org/4mq9t51gn/abusport1l.png</imageurl>
-	<enabled>True</enabled>
+	<imageurl>https://3.bp.blogspot.com/-FUW8RnxZJfk/V9_NpoKmy0I/AAAAAAAAB-Y/ShI0NDzoq80-Sx9woVIuRXYNDNupdQ-yQCLcB/s1600/Abu-Dhabi-Sports-1_o.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
  	<category>sports</category>
@@ -1329,8 +1337,39 @@
 </channel>
 <channel>
 	<cname>Abu Dhabi Sports 2</cname>
-	<imageurl>http://s4.postimg.org/lqap9r9zx/Abu_dhabi_sport2.jpg</imageurl>
+	<imageurl>https://2.bp.blogspot.com/-S59G9m8emWI/V9_Pvp3iTBI/AAAAAAAAB-g/msVFXLecZ3oWhyTp-tOfEQ7qDyNEPZyNgCLcB/s1600/Abu-Dhabi-Sports-2_o.jpg</imageurl>
 	<enabled>True</enabled>
+	<assignedcategory>
+ 	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Abu Dhabi Sports 3</cname>
+	<imageurl>https://4.bp.blogspot.com/-LnIpWdgW-ZU/WSh5gAH7FmI/AAAAAAAAD78/bbT0z_rwPwgjgpLcKf7JKYDI81Xbvn-yQCLcB/s400/%25D8%25A7%25D8%25A8%25D9%2588%2B%25D8%25B8%25D8%25A8%25D9%258A%2B%25D8%25A7%25D9%2584%25D8%25B1%25D9%258A%25D8%25A7%25D8%25B6%25D8%25A9%2BHD3%2B%25D8%25A8%25D8%25AB%2B%25D9%2585%25D8%25A8%25D8%25A7%25D8%25B4%25D8%25B1.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+ 	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Abu Dhabi Sports 4</cname>
+	<imageurl>https://static.livetvhd.net/thumbs/abu_dhabi_sports_4.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+ 	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Abu Dhabi Sports 5</cname>
+	<imageurl>http://arabtvz.com/video-elements/files/2009/10/abus5.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+ 	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Abu Dhabi Sports 6</cname>
+	<imageurl>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVeYbWPkxtd585GJ30smfZF8ZJKYPBmWM4U8624d9ioO3Oa9sm</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
  	<category>sports</category>
@@ -1338,7 +1377,7 @@
 </channel>
 
 <channel>
-	<cname>alkass Online</cname>
+	<cname>Alkass Online</cname>
 	<imageurl>http://www.qatarbroadcast.qa/images/kas.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -1346,7 +1385,7 @@
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>alkass One</cname>
+	<cname>Alkass One</cname>
 	<imageurl>https://e.top4top.net/p_471la8e71.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -1354,7 +1393,7 @@
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>alkass Two</cname>
+	<cname>Alkass Two</cname>
 	<imageurl>http://speedtv.ps/img/posters/alkass-two.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -1362,8 +1401,16 @@
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>alkass Four</cname>
+	<cname>Alkass Four</cname>
 	<imageurl>https://1.bp.blogspot.com/-pQpus8UIOzU/WJsdqXXGD4I/AAAAAAAACTo/_E4MUjKTE2UuOCNAlLePly7I6zX9nEirwCLcB/s320/Al%2BKass%2BFour%2BLogo.PNG</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Alkass Five</cname>
+	<imageurl>https://tvwires.com/video-elements/files/2009/10/Al_Kass5.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1397,7 +1444,7 @@
 	</assignedcategory>
 </channel>	
 <channel>
-	<cname>Bein Sport 1</cname>
+	<cname>Bein Sport 01</cname>
 	<imageurl>http://2.bp.blogspot.com/-_9n3VyRowoY/U443tJywR-I/AAAAAAAAAVY/WoX-vW1-bv8/s200/bein+sport+1HD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -1405,7 +1452,7 @@
 	</assignedcategory>
 </channel>	
 <channel>
-	<cname>Bein Sport 2</cname>
+	<cname>Bein Sport 02</cname>
 	<imageurl>https://lh4.googleusercontent.com/-jtYX3OGtxyw/U443uLe5BmI/AAAAAAAAAWg/RNmStGUxJw8/w140-h140-p/bein%2Bsport%2B2HD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -1413,7 +1460,7 @@
 	</assignedcategory>
 </channel>	
 <channel>
-	<cname>Bein Sport 3</cname>
+	<cname>Bein Sport 03</cname>
 	<imageurl>https://lh6.googleusercontent.com/-kQbayViTHE8/U443uEazkwI/AAAAAAAAAWk/jdUxGQbJa04/w140-h140-p/bein%2Bsport%2B3HD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -1421,7 +1468,7 @@
 	</assignedcategory>
 </channel>	
 <channel>
-	<cname>Bein Sport 4</cname>
+	<cname>Bein Sport 04</cname>
 	<imageurl>https://lh3.googleusercontent.com/-N5GAYxCjC6s/U443veXfsII/AAAAAAAAAWA/u6Hvrkq4sV8/w140-h140-p/bein%2Bsport%2B4HD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -1429,7 +1476,7 @@
 	</assignedcategory>
 </channel>	
 <channel>
-	<cname>Bein Sport 5</cname>
+	<cname>Bein Sport 05</cname>
 	<imageurl>https://lh6.googleusercontent.com/--uxGVVL4c94/U443vilBxSI/AAAAAAAAAWc/5ZxVlJKOcWQ/w140-h140-p/bein%2Bsport%2B5HD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -1437,7 +1484,7 @@
 	</assignedcategory>
 </channel>	
 <channel>
-	<cname>Bein Sport 6</cname>
+	<cname>Bein Sport 06</cname>
 	<imageurl>https://lh6.googleusercontent.com/-BNQqp39FVYI/U443v3OIVHI/AAAAAAAAAV0/WVWxvcWZfb0/w140-h140-p/bein%2Bsport%2B6HD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -1445,7 +1492,7 @@
 	</assignedcategory>
 </channel>	
 <channel>
-	<cname>Bein Sport 7</cname>
+	<cname>Bein Sport 07</cname>
 	<imageurl>https://lh5.googleusercontent.com/-a6YPqsfH0E8/U443w3J3aOI/AAAAAAAAAWU/P8bWbAnRErs/w140-h140-p/bein%2Bsport%2B7HD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -1453,7 +1500,7 @@
 	</assignedcategory>
 </channel>	
 <channel>
-	<cname>Bein Sport 8</cname>
+	<cname>Bein Sport 08</cname>
 	<imageurl>https://lh6.googleusercontent.com/-PSlCNcwzDAg/U443xGljAKI/AAAAAAAAAWQ/ciZLtdf2yWk/w140-h140-p/bein%2Bsport%2B8HD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -1461,7 +1508,7 @@
 	</assignedcategory>
 </channel>	
 <channel>
-	<cname>Bein Sport 9</cname>
+	<cname>Bein Sport 09</cname>
 	<imageurl>https://lh4.googleusercontent.com/-roWtWCvcMpo/U443xaCYB-I/AAAAAAAAAWY/DWb3jWktqF8/w140-h140-p/bein%2Bsport%2B9HD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -1492,14 +1539,6 @@
 	<category>sports</category>
 	</assignedcategory>
 </channel>	
-<channel>
-	<cname>Bein Sport 13</cname>
-	<imageurl>https://lh6.googleusercontent.com/-P6stOyqEDZ4/U443rYNa7iI/AAAAAAAAAVo/bWb1b5s1EkY/w140-h140-p/bein%2Bsport%2B13HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
 
 <channel>
 	<cname>Bein 1 FR</cname>
@@ -1525,6 +1564,56 @@
 		<category>sports</category>
 	</assignedcategory>
 </channel>
+
+<channel>
+	<cname>Bein Sport MAX 4</cname>
+	<imageurl>http://vignette2.wikia.nocookie.net/logopedia/images/d/d0/Logo-bein-sports-max-4-hd_1ut2dcsfzw7zj1204z6hz3qkhp-1-.jpg/revision/latest?cb=20140414165810</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein Sport MAX 5</cname>
+	<imageurl>http://vignette2.wikia.nocookie.net/logopedia/images/d/d0/Bein-sports-max-5_uioihjesc6nw1p6ydjpmkhsr6-1-.jpg/revision/latest?cb=20140414170307</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein Sport MAX 6</cname>
+	<imageurl>http://sabonner.beinsports.com/wp-content/uploads/2015/07/max-6-300x105.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein Sport MAX 7</cname>
+	<imageurl>http://sabonner.beinsports.com/wp-content/uploads/2015/07/max-7-300x105.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein Sport MAX 8</cname>
+	<imageurl>https://vignette3.wikia.nocookie.net/logopedia/images/4/48/Bein-sports-max-8_pmivscalaaop15paofin6utsd-1-.jpg/revision/latest?cb=20140414170425</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein Sport MAX 9</cname>
+	<imageurl>http://scrat.hellocoton.fr/img/classic/bein-sport-max-9-hd-en-direct-live-gratuit-17447864.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>sports</category>
+	</assignedcategory>
+</channel>
+
 <channel>
 	<cname>Bein Sport News</cname>
 	<imageurl>https://d.top4top.net/p_472xfb0d1.png</imageurl>
