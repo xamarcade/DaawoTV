@@ -1321,6 +1321,22 @@
 	<category>sports</category>
 	</assignedcategory>
 </channel>	
+<channel>
+	<cname>Abu Dhabi Sports 3</cname>
+	<imageurl>https://4.bp.blogspot.com/-LnIpWdgW-ZU/WSh5gAH7FmI/AAAAAAAAD78/bbT0z_rwPwgjgpLcKf7JKYDI81Xbvn-yQCLcB/s400/%25D8%25A7%25D8%25A8%25D9%2588%2B%25D8%25B8%25D8%25A8%25D9%258A%2B%25D8%25A7%25D9%2584%25D8%25B1%25D9%258A%25D8%25A7%25D8%25B6%25D8%25A9%2BHD3%2B%25D8%25A8%25D8%25AB%2B%25D9%2585%25D8%25A8%25D8%25A7%25D8%25B4%25D8%25B1.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+ 	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Abu Dhabi Sports 6</cname>
+	<imageurl>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVeYbWPkxtd585GJ30smfZF8ZJKYPBmWM4U8624d9ioO3Oa9sm</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+ 	<category>sports</category>
+	</assignedcategory>
+</channel>
 -->
 
 <!-- Indian Channels End -->
@@ -1343,14 +1359,7 @@
  	<category>sports</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Abu Dhabi Sports 3</cname>
-	<imageurl>https://4.bp.blogspot.com/-LnIpWdgW-ZU/WSh5gAH7FmI/AAAAAAAAD78/bbT0z_rwPwgjgpLcKf7JKYDI81Xbvn-yQCLcB/s400/%25D8%25A7%25D8%25A8%25D9%2588%2B%25D8%25B8%25D8%25A8%25D9%258A%2B%25D8%25A7%25D9%2584%25D8%25B1%25D9%258A%25D8%25A7%25D8%25B6%25D8%25A9%2BHD3%2B%25D8%25A8%25D8%25AB%2B%25D9%2585%25D8%25A8%25D8%25A7%25D8%25B4%25D8%25B1.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
- 	<category>sports</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Abu Dhabi Sports 4</cname>
 	<imageurl>https://static.livetvhd.net/thumbs/abu_dhabi_sports_4.jpg</imageurl>
@@ -1367,14 +1376,7 @@
  	<category>sports</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Abu Dhabi Sports 6</cname>
-	<imageurl>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVeYbWPkxtd585GJ30smfZF8ZJKYPBmWM4U8624d9ioO3Oa9sm</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
- 	<category>sports</category>
-	</assignedcategory>
-</channel>
+
 
 <channel>
 	<cname>Alkass Online</cname>

@@ -396,28 +396,13 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Abu Dhabi Sports 3</cname>
-	<item>
-	<title>High</title>
-	<link>http://drop1.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/2418.m3u8</link>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
 	<cname>Abu Dhabi Sports 4</cname>
 	<item>
 	<title>High 2</title>
 	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/3893.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Sports 4</cname>
-	<item>
-	<title>High</title>
-	<link>http://94.130.66.203:1989/AD-SPORT4/tracks-v1a1/index.m3u8</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
 	<cname>Abu Dhabi Sports 5</cname>
@@ -426,21 +411,8 @@
 	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/3892.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Sports 5</cname>
-	<item>
-	<title>High</title>
-	<link>http://94.130.66.203:1989/AD-SPORT5/tracks-v1a1/index.m3u8</link>
-	</item>
-</streaminginfo>
 
-<streaminginfo>
-	<cname>Abu Dhabi Sports 6</cname>
-	<item>
-	<title>High</title>
-	<link>http://94.130.66.203:1989/AD-SPORT6/tracks-v1a1/index.m3u8</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
 <cname>Alriadia Sport</cname>
