@@ -1337,6 +1337,15 @@
  	<category>sports</category>
 	</assignedcategory>
 </channel>
+
+<channel>
+	<cname>Sky Sports F1</cname>
+	<imageurl>https://a.top4top.net/p_472t8cqy1.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
 -->
 
 <!-- Indian Channels End -->
@@ -1796,14 +1805,7 @@
 	<category>sports</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Sky Sports F1</cname>
-	<imageurl>https://a.top4top.net/p_472t8cqy1.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
+
 
 <!-- Sport Channels End -->
 
@@ -4364,15 +4366,6 @@
 	<category>kids</category>
 	</assignedcategory>
 </channel>	
-
-<channel>
-    	<cname>Tom and Jerry</cname>
-	<imageurl>http://www.americasfreedomfighters.com/wp-content/uploads/2014/10/Tom-And-Jerry-Picture.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>kids</category>
-	</assignedcategory>
- </channel>
  
 <channel>
 	<cname>Toyor Al Janah</cname>
