@@ -1805,6 +1805,14 @@
 	<category>sports</category>
 	</assignedcategory>
 </channel>
+<channel>
+	<cname>WWE</cname>
+	<imageurl>https://pbs.twimg.com/profile_images/783388139591270400/zsOyJO_c_400x400.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
 
 
 <!-- Sport Channels End -->
