@@ -82,20 +82,19 @@
 </channel>
 
 <channel>
-	<cname>Royal TV Somalia</cname>
-	<imageurl>http://somaliiptv.com/wp-content/uploads/2015/02/ryaltv.jpg</imageurl>
+	<cname>Som News TV</cname>
+	<imageurl>https://yt3.ggpht.com/-rpPOZfAQwxU/AAAAAAAAAAI/AAAAAAAAAAA/hLE4tx04oXM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>somalia</category>
 	</assignedcategory>
 </channel>
-
--<channel>
-	<cname>JLTV</cname>
-	<imageurl>https://yt3.ggpht.com/-FcDY5XY66yo/AAAAAAAAAAI/AAAAAAAAAAA/ZrPEQSnGk_8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
+<channel>
+	<cname>Eryal TV</cname>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2017/10/eryal.png</imageurl>
 	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
+	<assignedcategory>
+	<category>somalia</category>
 	</assignedcategory>
 </channel>
 

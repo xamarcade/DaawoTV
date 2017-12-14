@@ -11,14 +11,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>JLTV</cname>
-	<item>
-    <title>Low</title>
-	<link>http://livestream.5centscdn.com/iqb/85b1ef64c5b13b446b68e7d65ebf854a.sdp/index.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>STN</cname>
 	<item>
 	<title>Ustream</title>
@@ -48,19 +40,6 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Som news TV</cname>
-	<item>
-	<title>Official</title>
-	<link>$doregex[get-url]</link>
-	<regex>
-	<name>get-url</name>
-	<expres>file: '(.*?)'</expres>
-	<page>http://www.somnews.tv/</page>
-	<agent>Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</agent>
-	</regex>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>SBC</cname>
@@ -70,10 +49,17 @@
 	</item>	
 </streaminginfo>
 <streaminginfo>
-	<cname>SaabTV</cname>
+	<cname>Som News TV</cname>
 	<item>
-	<title>High</title>
-	<link>http://dcunilive23-lh.akamaihd.net/i/dclive_1@369291/index_150_av-b.m3u8?sd=6&amp;rebase=on</link>
+	<title>Med</title>
+	<link>http://cdn01.iqbroadcast.tv:8081/g1/snews15/playlist.m3u8</link>
+	</item>	
+</streaminginfo>
+<streaminginfo>
+	<cname>Eryal TV</cname>
+	<item>
+	<title>Med</title>
+	<link>http://eryal.zecast.net/eryal-live/eryaltv/playlist.m3u8</link>
 	</item>	
 </streaminginfo>
 
@@ -97,22 +83,6 @@
 	<link>http://cdn01.iqbroadcast.tv:8081/g1/somcblehb9/chunks.m3u8</link>
 	</item>	
 </streaminginfo>
-
-
-<streaminginfo>
-	<cname>Royal TV Somalia</cname>
-	<item>
-	<title>Official</title>
-	<link>$doregex[get-url]</link>
-	<regex>
-	<name>get-url</name>
-	<expres>file: '(.*?)'</expres>
-	<page>http://www.tvroyal.com/</page>
-	<agent>Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</agent>
-	</regex>
-	</item>
-</streaminginfo>
-
 
 <streaminginfo>
 	<cname>PLTV</cname>
@@ -143,30 +113,6 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>Djibouti</cname>
-	<item>
-	<title>Med 1</title>		
-<link>rtmp://www.axadledirect.com/axadledirect_video/19 app=axadledirect_video/19 playpath=stream conn=S:19 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
-<regex>
-<name>userid</name>
-<expres>userId: "(.*?)"</expres>
-<page>http://www.axadledirect.com/channel/view/rtd-en-direct-19</page>
-</regex>
-<regex>
-<name>uniqid</name>
-<expres>uniqId: "(.*?)"</expres>
-<page>http://www.axadledirect.com/channel/view/rtd-en-direct-19</page>
-</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Djibouti</cname>
-	<item>
-    <title>Low</title>
-    <link>http://www.axadledirect.com:1936/19/stream/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>HCTV</cname>
@@ -193,30 +139,7 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>SLNTV</cname>
-	<item>
-	<title>Med</title>		
-<link>rtmp://www.axadledirect.com/axadledirect_video/16 app=axadledirect_video/16 playpath=stream conn=S:16 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
-<regex>
-<name>userid</name>
-<expres>userId: "(.*?)"</expres>
-<page>http://www.axadledirect.com/channel/view/slntv-16</page>
-</regex>
-<regex>
-<name>uniqid</name>
-<expres>uniqId: "(.*?)"</expres>
-<page>http://www.axadledirect.com/channel/view/slntv-16</page>
-</regex>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>SLNTV</cname>
-	<item>
-	<title>Axadledirect - Low</title>
-	<link>http://www.axadledirect.com:1936/16/stream/playlist.m3u8</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
 	<cname>SNTV</cname>
@@ -252,6 +175,69 @@
 </streaminginfo>
 
 <!--
+
+<streaminginfo>
+	<cname>SLNTV</cname>
+	<item>
+	<title>Med</title>		
+<link>rtmp://www.axadledirect.com/axadledirect_video/16 app=axadledirect_video/16 playpath=stream conn=S:16 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
+<regex>
+<name>userid</name>
+<expres>userId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/slntv-16</page>
+</regex>
+<regex>
+<name>uniqid</name>
+<expres>uniqId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/slntv-16</page>
+</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>SLNTV</cname>
+	<item>
+	<title>Axadledirect - Low</title>
+	<link>http://www.axadledirect.com:1936/16/stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Djibouti</cname>
+	<item>
+	<title>Med 1</title>		
+<link>rtmp://www.axadledirect.com/axadledirect_video/19 app=axadledirect_video/19 playpath=stream conn=S:19 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
+<regex>
+<name>userid</name>
+<expres>userId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/rtd-en-direct-19</page>
+</regex>
+<regex>
+<name>uniqid</name>
+<expres>uniqId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/rtd-en-direct-19</page>
+</regex>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Djibouti</cname>
+	<item>
+    <title>Low</title>
+    <link>http://www.axadledirect.com:1936/19/stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Royal TV Somalia</cname>
+	<item>
+	<title>Official</title>
+	<link>$doregex[get-url]</link>
+	<regex>
+	<name>get-url</name>
+	<expres>file: '(.*?)'</expres>
+	<page>http://www.tvroyal.com/</page>
+	<agent>Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</agent>
+	</regex>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Universal Somali</cname>
 	<item>
