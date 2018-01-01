@@ -177,7 +177,7 @@ def get_params():
 def Addtypes():
 	addDir('Live TV' ,'CCats' ,14,addonArt+'/Network-1-icon.png')
 	addDir('Download Files' ,'cRefresh' ,17,addonArt+'/download-icon.png',isItFolder=False)
-	#addDir('Settings' ,'Settings' ,8,addonArt+'/setting.png',isItFolder=True) 
+	addDir('Settings' ,'Settings' ,8,addonArt+'/setting.png',isItFolder=False) 
 	return
 
 	
@@ -324,33 +324,33 @@ def ShowSettings(Fromurl):
 	current_teleDunetLogin=selfAddon.getSetting( "teledunetTvLogin" )+selfAddon.getSetting( "teledunetTvPassword")
 	selfAddon.setSetting( id="clearLogonSettings" ,value="false")
 	selfAddon.openSettings()
-	print 'after settings'
+	#print 'after settings'
 	clearLogonSettings=selfAddon.getSetting( "clearLogonSettings" )
 	after_LivePlayerLogin=selfAddon.getSetting( "liveTvLogin" )+selfAddon.getSetting( "liveTvPassword")
 	after_teleDunetLogin=selfAddon.getSetting( "teledunetTvLogin" )+selfAddon.getSetting( "teledunetTvPassword")
 	removeLoginFile(clearLogonSettings=="true" or not current_LivePlayerLogin==after_LivePlayerLogin, clearLogonSettings=="true" or not current_teleDunetLogin==after_teleDunetLogin )
 	return
 
-#def LIVETvLogin(Fromurl):
-	#Msg=""
-	#try:
+def LIVETvLogin(Fromurl):
+	Msg=""
+	try:
 	
-		#if communityStreamPath not in sys.path:
-		#		sys.path.append(communityStreamPath)
-		#removeLoginFile(True,False,showMsg=False)
-		#processorObject=import_module('livetvPlayer')
-		#new_code=processorObject.getLoginCode()
-		#if new_code:
-		#	selfAddon.setSetting( id="liveTvNonPremiumCode" ,value=new_code)
-		#	Msg="Login successful"
-		#else:
-		#	Msg="Login failed.If login not working then enter the code manually in the settings."
-	#except:
-	#	traceback.print_exc(file=sys.stdout)
-	#	Msg="Login failed.If login not working then enter the code manually in the settings."
-	#dialog = xbmcgui.Dialog()
-	#ok = dialog.ok('Livetv Login', Msg)
-	#return
+		if communityStreamPath not in sys.path:
+				sys.path.append(communityStreamPath)
+		removeLoginFile(True,False,showMsg=False)
+		processorObject=import_module('livetvPlayer')
+		new_code=processorObject.getLoginCode()
+		if new_code:
+			selfAddon.setSetting( id="liveTvNonPremiumCode" ,value=new_code)
+			Msg="Login successful"
+		else:
+			Msg="Login failed.If login not working then enter the code manually in the settings."
+	except:
+		traceback.print_exc(file=sys.stdout)
+		Msg="Login failed.If login not working then enter the code manually in the settings."
+	dialog = xbmcgui.Dialog()
+	ok = dialog.ok('Livetv Login', Msg)
+	return
 
 	
 def getFirstElement(elements,attrib, val):
@@ -418,7 +418,7 @@ def PlayStream(url, name, mode):
 		#rtmpLink='://192.95.32.7:1935/live/dubai_sport?user=MjA5N2Q3YjA2M2Q2ZjhiNWNjODAzYWJmM2RmNzU4YWE=&pass=fc9226bd032346a2deab1f903652229b'
 		liveLink="rtmp%s app=live/ swfUrl=http://www.hdarabic.com/jwplayer.flash.swf pageUrl=http://www.hdarabic.com live=1 timeout=15"%rtmpLink
 	else:
-		newURL='http://www.teledunet.com/rtmp_player/?channel=%s&no_pub'%url
+		newURL='http://www.teledunet.com/tv_/?channel=%s&no_pub'%url
 		req = urllib2.Request(newURL)
 		req.add_header('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36')
 		req.add_header('Referer',newURL)
@@ -429,8 +429,8 @@ def PlayStream(url, name, mode):
 		match =re.findall('time_player=(.*?);', link)
 		match=str(long(float(match[0])))
 
-		#liveLink='rtmp://5.135.134.110:1935/teledunet playpath=%s swfUrl=http://www.teledunet.com/tv_/player.swf?id0=%s&skin=bekle/bekle.xml&channel=%s  pageUrl=http://www.teledunet.com/tv_/?channel=%s&no_pub live=1  timeout=15'%(url,match,url,url)
-		liveLink='rtmp://www.teledunet.net:1935/live playpath=%s swfUrl=http://www.teledunet.com/rtmp_player/player.swf?id0=%s&skin=bekle/bekle.xml&channel=%s  pageUrl=http://www.teledunet.com/rtmp_player/?channel=%s&no_pub live=1  timeout=15'%(url,match,url,url)
+		liveLink='rtmp://5.135.134.110:1935/teledunet playpath=%s swfUrl=http://www.teledunet.com/tv_/player.swf?id0=%s&skin=bekle/bekle.xml&channel=%s  pageUrl=http://www.teledunet.com/tv_/?channel=%s&no_pub live=1  timeout=15'%(url,match,url,url)
+		
 	#print 'liveLink',liveLink
 
 	listitem = xbmcgui.ListItem( label = str(name), iconImage = "DefaultVideo.png", thumbnailImage = xbmc.getInfoImage( "ListItem.Thumb" ), path=liveLink )
