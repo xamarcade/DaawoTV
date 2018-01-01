@@ -37,12 +37,12 @@
 
 <source>
 <id>generic</id>
-<shortname>B4U</shortname>
-<sname>Best4u</sname>
+<shortname>IUD</shortname>
+<sname>IUD</sname>
 <colour>Brown</colour>
 <baseurl>http://website.com</baseurl>
 <enabled>True</enabled>
-<urlfile>Best4u.xml</urlfile>
+<urlfile>IUD.xml</urlfile>
 <imageurl>http://mylogo.com</imageurl>
 <processor>genericPlayer.py</processor>
 </source>
