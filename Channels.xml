@@ -2225,14 +2225,6 @@
 	<category>ent</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>MBC Variety HD</cname>
-	<imageurl>https://d.top4top.net/p_595tc3d51.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
 
 <channel>
 	<cname>OSN Box Offiece 1</cname>
