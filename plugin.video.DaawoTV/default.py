@@ -319,38 +319,38 @@ def removeLoginFile(livePlayer,TeleDunet,showMsg=True):
 		line1="Session data removed!"
 		xbmc.executebuiltin('Notification(%s, %s, %d, %s)'%(__addonname__,line1, time, __icon__))
 
-def ShowSettings(Fromurl):
-	current_LivePlayerLogin=selfAddon.getSetting( "liveTvLogin" )+selfAddon.getSetting( "liveTvPassword")
-	current_teleDunetLogin=selfAddon.getSetting( "teledunetTvLogin" )+selfAddon.getSetting( "teledunetTvPassword")
-	selfAddon.setSetting( id="clearLogonSettings" ,value="false")
-	selfAddon.openSettings()
+#def ShowSettings(Fromurl):
+	#current_LivePlayerLogin=selfAddon.getSetting( "liveTvLogin" )+selfAddon.getSetting( "liveTvPassword")
+	#current_teleDunetLogin=selfAddon.getSetting( "teledunetTvLogin" )+selfAddon.getSetting( "teledunetTvPassword")
+	#selfAddon.setSetting( id="clearLogonSettings" ,value="false")
+	#selfAddon.openSettings()
 	#print 'after settings'
-	clearLogonSettings=selfAddon.getSetting( "clearLogonSettings" )
-	after_LivePlayerLogin=selfAddon.getSetting( "liveTvLogin" )+selfAddon.getSetting( "liveTvPassword")
-	after_teleDunetLogin=selfAddon.getSetting( "teledunetTvLogin" )+selfAddon.getSetting( "teledunetTvPassword")
-	removeLoginFile(clearLogonSettings=="true" or not current_LivePlayerLogin==after_LivePlayerLogin, clearLogonSettings=="true" or not current_teleDunetLogin==after_teleDunetLogin )
-	return
+	#clearLogonSettings=selfAddon.getSetting( "clearLogonSettings" )
+	#after_LivePlayerLogin=selfAddon.getSetting( "liveTvLogin" )+selfAddon.getSetting( "liveTvPassword")
+	#after_teleDunetLogin=selfAddon.getSetting( "teledunetTvLogin" )+selfAddon.getSetting( "teledunetTvPassword")
+	#removeLoginFile(clearLogonSettings=="true" or not current_LivePlayerLogin==after_LivePlayerLogin, clearLogonSettings=="true" or not current_teleDunetLogin==after_teleDunetLogin )
+	#return
 
-def LIVETvLogin(Fromurl):
-	Msg=""
-	try:
+#def LIVETvLogin(Fromurl):
+	#Msg=""
+	#try:
 	
-		if communityStreamPath not in sys.path:
-				sys.path.append(communityStreamPath)
-		removeLoginFile(True,False,showMsg=False)
-		processorObject=import_module('livetvPlayer')
-		new_code=processorObject.getLoginCode()
-		if new_code:
-			selfAddon.setSetting( id="liveTvNonPremiumCode" ,value=new_code)
-			Msg="Login successful"
-		else:
-			Msg="Login failed.If login not working then enter the code manually in the settings."
-	except:
-		traceback.print_exc(file=sys.stdout)
-		Msg="Login failed.If login not working then enter the code manually in the settings."
-	dialog = xbmcgui.Dialog()
-	ok = dialog.ok('Livetv Login', Msg)
-	return
+	#	if communityStreamPath not in sys.path:
+	#			sys.path.append(communityStreamPath)
+	#	removeLoginFile(True,False,showMsg=False)
+	#	processorObject=import_module('livetvPlayer')
+	#	new_code=processorObject.getLoginCode()
+	#	if new_code:
+	#		selfAddon.setSetting( id="liveTvNonPremiumCode" ,value=new_code)
+	#		Msg="Login successful"
+	#	else:
+	#		Msg="Login failed.If login not working then enter the code manually in the settings."
+	#except:
+	#	traceback.print_exc(file=sys.stdout)
+	#	Msg="Login failed.If login not working then enter the code manually in the settings."
+	#dialog = xbmcgui.Dialog()
+	#ok = dialog.ok('Livetv Login', Msg)
+	#return
 
 	
 def getFirstElement(elements,attrib, val):
