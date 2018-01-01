@@ -29,7 +29,7 @@
 <sname>GLArab</sname>
 <colour>FF7FFF00</colour>
 <baseurl>http://website.com</baseurl>
-<enabled>True</enabled>
+<enabled>False</enabled>
 <urlfile>glarabUrls.xml</urlfile>
 <imageurl>http://www.glarab.com/skin/default/images/website_logo.png</imageurl>
 <processor>genericPlayer.py</processor>
