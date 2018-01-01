@@ -84,7 +84,7 @@ def PlayStream(sourceEtree, urlSoup, name, url):
             vtype=1
             vheaders=None
             if 1==1:
-                newURL='http://www.teledunet.com/mobile/'
+                newURL='http://www.teledunet.com/'
                 print 'newURL',newURL
                 token=''
                 try:
@@ -104,10 +104,10 @@ def PlayStream(sourceEtree, urlSoup, name, url):
                     rtmp =re.findall(('rtmp://(.*?)/%s\''%channelId), link)
                     if len(rtmp)==0:
                         print 'creating it manually'
-                        rtmp='rtmp://127.0.0.1:1935/live/%s'%channelId
+                        rtmp='rtmp://www.teledunet.net:1935/live/%s'%channelId
                     else:
                         rtmp=rtmp[0]               
-                    rtmp='rtmp://127.0.0.1:1935/live/%s'%channelId #ignore the available one
+                    rtmp='rtmp://www.teledunet.net:1935/live/%s'%channelId #ignore the available one
                     print 'rtmp1',rtmp
                     #rtmp='rtmp://%s/%s'%(rtmp,channelId)
                     rtmp='rtmp://%s'%(rtmp)
@@ -144,7 +144,7 @@ def PlayStream(sourceEtree, urlSoup, name, url):
                         rtmp='rtmp://%s/%s'%(rtmp,channelId)
                     except:
                         traceback.print_exc(file=sys.stdout)
-                        rtmp='rtmp://5.196.84.28:1935/live/%s'%(channelId)
+                        rtmp='rtmp://www.teledunet.net:1935/live/%s'%(channelId)
                         print 'error in channel using hardcoded value'
             pDialog.update(80, 'trying to play')
             liveLink= sourceEtree.findtext('rtmpstring');
@@ -181,20 +181,20 @@ def PlayStream(sourceEtree, urlSoup, name, url):
 
                 #swf=re.findall(patt, liveLink)[0]
 
-                getUrl("http://www.teledunet.com/mobile/rtmp_player/?channel=%s&streamer=rtmp://www.teledunet.com:1935/live?idu=%s"%(channelId,token) ,getCookieJar())   
+                getUrl("http://www.teledunet.com/rtmp_player/?channel=%s&streamer=rtmp://www.teledunet.net:1935/live?idu=%s"%(channelId,token) ,getCookieJar())   
                 #liveLink="%s swfUrl=http://www.teledunet.com/mobile/rtmp_player/player.swf pageUrl=http://www.teledunet.com/mobile/rtmp_player/?channel=2m&streamer=rtmp://www.teledunet.com:1935/live2/ flashVer=WIN21,0,0,216 timeout=15 live=True"%("rtmp://www.teledunet.com:1935/live/?idu=%s/%s"%(token, channelId))
 
-                liveLink="rtmp://www.teledunet.org:1935/live?idu=%s/%s app=live?idu=%s swfUrl=http://www.teledunet.com/mobile/rtmp_player/player.swf live=1 pageUrl=http://www.teledunet.com/mobile/rtmp_player/?channel=%s&streamer=rtmp://www.teledunet.org:1935/live?idu=%s"%(token, channelId,token,channelId,token)
+                liveLink="rtmp://www.teledunet.net:1935/live?idu=%s/%s app=live?idu=%s swfUrl=http://www.teledunet.com/rtmp_player/player.swf live=1 pageUrl=http://www.teledunet.com/rtmp_player/?channel=%s&streamer=rtmp://www.teledunet.net:1935/live?idu=%s"%(token, channelId,token,channelId,token)
                 liveLink+=" flashVer=WIN/2022,0,0,192"#.encode("utf-8")
                 vtype=2
                 #getUrl(swf)
             else:
                 try:
-                    ur="http://www.teledunet.com/mobile/http_player/?channel=%s"%channelId
-                    urhtml=getUrl(ur,getCookieJar(),referer='http://www.teledunet.com/mobile/')
-                    liveLink=re.findall('src: "(.*?)"',urhtml)[0]+'|X-Requested-With: ShockwaveFlash/21.0.0.182&Referer=http://www.teledunet.com/mobile/http_player/?channel=teledunet_tv&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'
-                    vheaders=[('X-Requested-With','ShockwaveFlash/21.0.0.182'),('Referer','http://www.teledunet.com/mobile/http_player/?channel=teledunet_tv'),('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36')]
-                    getUrl('http://teledunet.tv:8888/crossdomain.xml',getCookieJar(),referer='http://www.teledunet.com/mobile/http_player/?channel=attassia_tv')
+                    ur="http://www.teledunet.com/rtmp_player/?channel=%s"%channelId
+                    urhtml=getUrl(ur,getCookieJar(),referer='http://www.teledunet.com/')
+                    liveLink=re.findall('src: "(.*?)"',urhtml)[0]+'|X-Requested-With: ShockwaveFlash/21.0.0.182&Referer=http://www.teledunet.com/rtmp_player/?channel=teledunet_tv&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'
+                    vheaders=[('X-Requested-With','ShockwaveFlash/21.0.0.182'),('Referer','http://www.teledunet.com/rtmp_player/?channel=teledunet_tv'),('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36')]
+                    getUrl('http://teledunet.tv:8888/crossdomain.xml',getCookieJar(),referer='http://www.teledunet.com/rtmp_player/?channel=attassia_tv')
                 except: traceback.print_exc(file=sys.stdout)
             name+='-Teledunet'
             print 'liveLink',liveLink
