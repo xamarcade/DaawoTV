@@ -99,6 +99,6 @@
        	   <setting label="32084"  type="bool" id="stopAutoUpdate" default="False"/>
 
 					
-      <setting label="32058" type="bool" id="addToFavMode" default="false"/>
+      <!--<setting label="32058" type="bool" id="addToFavMode" default="false"/>-->
 		 </category>
 </settings>
