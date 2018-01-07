@@ -1446,14 +1446,6 @@
 </channel>	
 
 <channel>
-	<cname>Bein Sport</cname>
-	<imageurl>http://www.greatdreambox.com/wp-content/uploads/2014/08/Al_Jazeera_Sport_Logo6.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-<channel>
 	<cname>Bein Sport 01</cname>
 	<imageurl>http://2.bp.blogspot.com/-_9n3VyRowoY/U443tJywR-I/AAAAAAAAAVY/WoX-vW1-bv8/s200/bein+sport+1HD.png</imageurl>
 	<enabled>True</enabled>
