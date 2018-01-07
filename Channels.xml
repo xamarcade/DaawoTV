@@ -1623,15 +1623,14 @@
 		<category>sports</category>
 	</assignedcategory>
 </channel>
-
 <channel>
-	<cname>Bein Sport News</cname>
-	<imageurl>https://d.top4top.net/p_472xfb0d1.png</imageurl>
+	<cname>Bein Sport MAX 10</cname>
+	<imageurl>http://www.telesatellite.com/images/actu/b/beinsportsmax10.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>sports</category>
+		<category>sports</category>
 	</assignedcategory>
-</channel>	
+</channel>
 
 <channel>
 	<cname>Dubai Racing</cname>
@@ -2252,8 +2251,26 @@
 </channel>
 
 <channel>
+	<cname>OSN Cinema 1</cname>
+	<imageurl>http://www.shoofeetv.com/images/2013/09/20130910194611_channelsbig.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
+<channel>
 	<cname>OSN Cinema 2</cname>
 	<imageurl>https://static.elcinema.com/images/channels/160px/1151.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>OSN Safwa</cname>
+	<imageurl>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2zh4h4XQBonZwVIurnqvfyK54rTLrLnJgPM_5nIfCSOOUYkIc</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2457,14 +2474,7 @@
 
 
 <!--
-<channel>
-	<cname>OSN Cinema 1</cname>
-	<imageurl>http://www.shoofeetv.com/images/2013/09/20130910194611_channelsbig.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>OSN First Comedy</cname>
 	<imageurl>http://content.osn.com/logo/channel/500x300/OCO.jpg</imageurl>

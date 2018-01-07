@@ -95,6 +95,13 @@
 <streaminginfo>
 <cname>MBC Drama plusHD</cname>
 <item>
+<title>High 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2387.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>MBC Drama plusHD</cname>
+<item>
 <title>High</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2273.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
@@ -132,7 +139,7 @@
 <cname>Africa TV4</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/3660.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/996.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -274,7 +281,7 @@
 	<cname>Seevii Shamiya</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/3905.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2367.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
@@ -296,28 +303,77 @@
 	<cname>OSN Box Offiece 3</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/1947.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2417.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Cinema 1</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2384.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Cinema 2</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/255.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2385.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 <streaminginfo>
-	<cname>OSN Movies Drama HD</cname>
+	<cname>OSN Safwa</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2399.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2374.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Action HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2375.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Festival</cname>
 	<item>
 	<title>High 2</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/2246.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2424.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Festival</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2390.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Action Plus 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2378.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Movies Comedy HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2372.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OSN Movies Drama HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/2250.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2426.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -325,7 +381,7 @@
 	<cname>OSN Movies Premiere HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/2245.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2405.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -334,6 +390,20 @@
 	<item>
 	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?url=http://best4u.tn:8000/live/dmy2101/9764681/2278.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Yahala Cinema HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2391.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN Yahala HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2420.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
