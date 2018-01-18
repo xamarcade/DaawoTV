@@ -134,7 +134,7 @@
 <!-- MBC Channels End -->
 
 <!-- Somalia Channels Start -->
-
+<!--
 <streaminginfo>
 <cname>Africa TV4</cname>
 <item>
@@ -147,7 +147,7 @@
 	<cname>Kalsan Tv</cname>
 	<item>
     <title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/1374.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/966.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -222,7 +222,7 @@
 	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/3811.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
    </item>	
 </streaminginfo>
-
+-->
 <!-- Somalia Channels End -->
 
 <!-- OSN Channels Start -->
@@ -374,6 +374,13 @@
 	<item>
 	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2426.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>OSN On Demand HD Extra</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/2369.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
