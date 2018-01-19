@@ -3,22 +3,6 @@
 
 <!-- Somalian Channels Start -->
 
--<channel>
-	<cname>Africa TV4</cname>
-	<imageurl>https://yt3.ggpht.com/-TeC82wbT0vw/AAAAAAAAAAI/AAAAAAAAAAA/nx8pmBhv_2A/s900-c-k-no/photo.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Djibouti</cname>
-	<imageurl>http://universaltvlive.net/wp-content/uploads/2016/02/images.jpeg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>
 <channel>
      <cname>SNTV</cname>
      <imageurl>http://allssc.com/wp-content/uploads/2011/05/SNtv-somalia.jpg</imageurl>
@@ -107,15 +91,6 @@
 	</assignedcategory>
 </channel>
 
-
--<channel>
-	<cname>ESTV</cname>
-	<imageurl>http://www.islambox.com/images/products/channels/web/estv-boxee.png</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
 -<channel>
 	<cname>SLNTV</cname>
 	<imageurl>http://i.imgur.com/LPTRMeR.jpg</imageurl>
@@ -403,15 +378,6 @@
 </channel>
 
 <channel>
-	<cname>TV 4 Komedi</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/7/74/TV4_Komedi.svg/825px-TV4_Komedi.svg.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>TV 4 Fakta</cname>
 	<imageurl>https://s-media-cache-ak0.pinimg.com/236x/b3/1d/08/b31d089aa60e7a1cfbbaf9e9e59bf95e.jpg</imageurl>
 	<enabled>True</enabled>
@@ -419,7 +385,7 @@
 	<category>Scandinavian</category>
 	</assignedcategory>
 </channel>
-<!--
+
 <channel>
 	<cname>TV 4 Film</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/TV4_Film.svg/576px-TV4_Film.svg.png</imageurl>
@@ -483,23 +449,6 @@
 <channel>
 	<cname>C More Live 4</cname>
 	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_live_4.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>C More Emotion</cname>
-	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_emotion.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>C more Tennis</cname>
-	<imageurl>http://www.allatvkanaler.se/imagestv/cmore_tennis.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -579,8 +528,23 @@
 	<category>Scandinavian</category>
 	</assignedcategory>
 </channel>
+<channel>
+	<cname>Animal planet</cname>
+	<imageurl>https://cdn1.thr.com/sites/default/files/2013/01/animal_planet_logo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Scandinavian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>ID</cname>
+	<imageurl>https://mitvstatic.com/channels/co_discovery-id-hd_m.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Scandinavian</category>
+	</assignedcategory>
+</channel>
 
--->
 <channel>
 	<cname>TV 5</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Kanal_5_Scandinavian.svg/1024px-Kanal_5_Scandinavian.svg.png</imageurl>
@@ -621,14 +585,7 @@
 	<category>Scandinavian</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>TV 10</cname>
-	<imageurl>https://aom99.files.wordpress.com/2011/03/bild71.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>TV 11</cname>
 	<imageurl>http://www.resume.se/contentassets/cd972759631c47749779129ed9b40f89/logo.jpg</imageurl>
@@ -646,14 +603,7 @@
 	<category>Scandinavian</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Nat Geo Wild</cname>
-	<imageurl>https://s-media-cache-ak0.pinimg.com/236x/71/45/56/7145568da8969eb8ea38295b2f1c662b.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>TLC</cname>
 	<imageurl>http://2.bp.blogspot.com/-VMpC1jUrJh0/Tzk2_guRXpI/AAAAAAAAA5Q/nLGuAei2bAU/w1200-h630-p-k-no-nu/Nat%252BGeo%252Bwild%252Bnew.JPG</imageurl>
@@ -731,8 +681,57 @@
 	</assignedcategory>
 </channel>
 <channel>
+	<cname>C More Hockey</cname>
+	<imageurl>https://new.static.tv.nu/16556383</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Scandinavian</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>C more Live</cname>
 	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_live_1.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Scandinavian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C more Live 2</cname>
+	<imageurl>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_live_2.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Scandinavian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C more Live 3</cname>
+	<imageurl>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_live_3.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Scandinavian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>C more Live 4</cname>
+	<imageurl>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_live_4.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Scandinavian</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Eurosport</cname>
+	<imageurl>https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Scandinavian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Eurosport 2</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -798,6 +797,14 @@
 </channel>
 
 <channel>
+	<cname>Viasat Sport Premium HD</cname>
+	<imageurl>https://www.viasat.fi/sites/viasat.fi/files/styles/promo_1_of_2/public/images/promos/viasatpremiumhd.jpg?itok=M4UJ9VJR</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Scandinavian</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>Viasat Fotboll</cname>
 	<imageurl>http://vignette2.wikia.nocookie.net/logopedia/images/3/36/Viasat_Fotboll_2008.png/revision/latest?cb=20100122153127</imageurl>
 	<enabled>True</enabled>
@@ -818,14 +825,6 @@
 <channel>
 	<cname>TV3 Sport 1</cname>
 	<imageurl>http://tvarena.ru/images/info/tv31.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>TV3 Sport 2</cname>
-	<imageurl>http://www.inniagotu.org/wp-content/uploads/2015/07/tv3sport2.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -864,14 +863,7 @@
 	<category>Scandinavian</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Disney Junior</cname>
-	<imageurl>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv238ZhjUGz38ifo-X5NzjioFo5nLUwrPR_BkDhOpB5ADMybRw</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
+
 
 <!-- Scandinavian Channels End -->
 
@@ -919,6 +911,14 @@
 <channel>
 	<cname>Kanal 2 NO</cname>
 	<imageurl>http://4.bp.blogspot.com/-wxJ8bnfQ0P8/UPchNCJ8IPI/AAAAAAAAVwU/zq31z7JLSdc/s1600/TV+2+logo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Scandinavian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TV 3 NO</cname>
+	<imageurl>https://pbs.twimg.com/profile_images/378800000322693435/7d2d7dad8cc8a30c9a902cc72a8ce6df_400x400.jpeg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -997,6 +997,14 @@
 	</assignedcategory>
 </channel>
 
+<channel>
+	<cname>B4U Plus</cname>
+	<imageurl>http://www.lyngsat-logo.com/hires/bb/b4u_plus_ae.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
 -->
 
 <channel>
@@ -1011,15 +1019,6 @@
 <channel>
 	<cname>B4U Movies</cname>
 	<imageurl>http://vignette3.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>B4U Plus</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/bb/b4u_plus_ae.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
@@ -1071,7 +1070,6 @@
 </channel>
 
 
-<!--
 <channel>
 	<cname>Star Plus (UK)</cname>
 	<imageurl>http://4.bp.blogspot.com/-EzFDqknayl8/Uuiq-sL6SkI/AAAAAAAAAXw/M5NtQeEXoZs/s1600/star_plus+new.jpg</imageurl>
@@ -1210,7 +1208,7 @@
 	</assignedcategory>
 </channel>
 
--->
+
 
 
 <channel>
