@@ -6,7 +6,7 @@
 	<cname>Rai 1</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/1068.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/693.ts</link>
 	</item>
 </streaminginfo>
 
@@ -14,7 +14,7 @@
 	<cname>Rai 2</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/1069.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/692.ts</link>
 	</item>
 </streaminginfo>
 
@@ -22,7 +22,7 @@
 	<cname>Rai 3</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/1070.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/691.ts</link>
 	</item>
 </streaminginfo>
 
@@ -30,7 +30,7 @@
 	<cname>Rai 4</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/1495.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/690.ts</link>
 	</item>
 </streaminginfo>
 
@@ -38,7 +38,7 @@
 	<cname>Rai 5</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2529.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/563.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -52,6 +52,13 @@
 <streaminginfo>
 	<cname>Rai Movie</cname>
 	<item>
+	<title>High 2</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/584.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Rai Movie</cname>
+	<item>
 	<title>High</title>
 	<link>http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8</link>
 	</item>
@@ -60,16 +67,16 @@
 <streaminginfo>
 	<cname>Rai Sport 2</cname>
 	<item>
-	<title>f4mTester: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/1769.ts</link>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/560.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Rai Sport 1</cname>
 	<item>
-	<title>Fratelli: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/1768.ts</link>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/639.ts</link>
 	</item>
 </streaminginfo>
 
@@ -77,7 +84,7 @@
 	<cname>Canale 5</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/1493.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/686.ts</link>
 	</item>
 </streaminginfo>
 
@@ -85,7 +92,7 @@
 	<cname>Italia 1</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/1494.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/685.ts</link>
 	</item>
 </streaminginfo>
 
@@ -93,7 +100,7 @@
 	<cname>Rete 4</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/1996.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1848.ts</link>
 	</item>
 </streaminginfo>
 
@@ -105,7 +112,7 @@
 	<cname>SVT 1</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2520.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1118.ts</link>
 	</item>
 </streaminginfo>
 
@@ -113,7 +120,7 @@
 	<cname>SVT 2</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2522.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1114.ts</link>
 	</item>
 </streaminginfo>
 
@@ -121,7 +128,7 @@
 	<cname>TV 3</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2416.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1074.ts</link>
 	</item>
 </streaminginfo>
 
@@ -129,22 +136,23 @@
 	<cname>TV 4</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/1272.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1096.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>TV 4 Komedi</cname>
+	<cname>TV 4 Film</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2546.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1112.ts</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>TV 4 Guld</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2544.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1097.ts</link>
 	</item>
 </streaminginfo>
 
@@ -152,7 +160,7 @@
 	<cname>TV 4 Fakta</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2545.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1086.ts</link>
 	</item>
 </streaminginfo>
 
@@ -160,7 +168,7 @@
 	<cname>TV 4 Sport</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2543.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1115.ts</link>
 	</item>
 </streaminginfo>
 
@@ -168,7 +176,7 @@
 	<cname>TV 5</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2549.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1100.ts</link>
 	</item>
 </streaminginfo>
 
@@ -176,7 +184,7 @@
 	<cname>TV 6</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2541.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1130.ts</link>
 	</item>
 </streaminginfo>
 
@@ -184,28 +192,21 @@
 	<cname>TV 7</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2542.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1103.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 8</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2550.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1098.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 9</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2551.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TV 10</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2446.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1119.ts</link>
 	</item>
 </streaminginfo>
 
@@ -213,7 +214,7 @@
 	<cname>TV 10 SV</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2410.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1087.ts</link>
 	</item>
 </streaminginfo>
 
@@ -221,29 +222,58 @@
 	<cname>TV 11</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2688.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1099.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
+	<cname>TV 12</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1095.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Kunskapskanalen</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1104.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>TLC</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1084.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>TNT</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1075.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>FOX</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1078.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>Discovery Channel</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2807.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1083.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>National Geographic</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2477.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Nat Geo Wild</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2478.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1079.ts</link>
 	</item>
 </streaminginfo>
 
@@ -251,14 +281,7 @@
 	<cname>SF-Kanalen</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/3585.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>FOX</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2517.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1073.ts</link>
 	</item>
 </streaminginfo>
 
@@ -266,7 +289,7 @@
 	<cname>Comedy Central</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2464.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1082.ts</link>
 	</item>
 </streaminginfo>
 
@@ -274,7 +297,7 @@
 	<cname>C more Hits</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2805.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1107.ts</link>
 	</item>
 </streaminginfo>
 
@@ -282,7 +305,7 @@
 	<cname>C more First</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2449.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1108.ts</link>
 	</item>
 </streaminginfo>
 
@@ -290,7 +313,7 @@
 	<cname>C more Stars HD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2546.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1136.ts</link>
 	</item>
 </streaminginfo>
 
@@ -298,23 +321,7 @@
 	<cname>C more Series</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2451.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>C more Emotion</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2548.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>C more Tennis</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2564.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1111.ts</link>
 	</item>
 </streaminginfo>
 
@@ -322,14 +329,14 @@
 	<cname>C More Fotboll</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2454.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1090.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>C More Golf</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2565.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1116.ts</link>
 	</item>
 </streaminginfo>
 
@@ -337,7 +344,14 @@
 	<cname>C more Sport</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2452.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1093.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>C More Hockey</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1091.ts</link>
 	</item>
 </streaminginfo>
 
@@ -345,7 +359,42 @@
 	<cname>C more Live</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2481.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1106.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>C more Live 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1163.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>C more Live 3</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1164.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>C more Live 4</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1165.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Eurosport</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1159.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Eurosport 2</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1160.ts</link>
 	</item>
 </streaminginfo>
 
@@ -353,29 +402,29 @@
 	<cname>Viasat Hits</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2418.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1094.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat History</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2523.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1102.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Viasat E!</cname>
 	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2518.ts</link>
+	<title>High2</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1080.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat E!</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2448.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1131.ts</link>
 	</item>
 </streaminginfo>
 
@@ -383,21 +432,21 @@
 	<cname>Viasat Film Premiere</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2470.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1121.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Action</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2524.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1092.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Series</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2418.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1123.ts</link>
 	</item>
 </streaminginfo>
 
@@ -405,14 +454,14 @@
 	<cname>Viasat Nature</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2411.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1133.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Family</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2417.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1125.ts</link>
 	</item>
 </streaminginfo>
 
@@ -420,78 +469,114 @@
 	<cname>Viasat Sport</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2411.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1126.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Viasat Sport Premium HD</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1117.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Fotboll</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2415.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1124.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Motor</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/m2et002/m2et002/2428.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1129.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Hockey</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.com:8000/live/19618936575612/19618936575612/1128.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1128.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Viasat Golf</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2453.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1132.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV3 Sport 1</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/3701.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>TV3 Sport 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/3700.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1237.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
+	<cname>Barn Kanalen</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1113.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nickelodeon</cname>
+	<item>
+	<title>High2</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1161.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Nickelodeon</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1127.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Cartoon  Network</cname>
+	<item>
+	<title>High 2</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1101.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>Cartoon  Network</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2469.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1162.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Disney XD</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/3584.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1109.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Disney</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.tn:8000/live/dmy2101/9764681/2475.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1088.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Animal planet</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1134.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Disney Junior</cname>
+	<cname>ID</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2527.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1105.ts</link>
 	</item>
 </streaminginfo>
 
@@ -503,14 +588,14 @@
 	<cname>NRK1</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/3632.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1194.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>NRK2</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/3631.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1193.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -524,7 +609,14 @@
 	<cname>TV2 Zebra</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/3630.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1081.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>TV 3 NO</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1144.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -538,21 +630,28 @@
 	<cname>Kanal 2 NO</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2816.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1143.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>DR1 DK</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2810.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1150.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>DR2 DK</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/2809.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1151.ts</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>DR3 DK</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1152.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
