@@ -521,14 +521,6 @@
 </channel>
 
 <channel>
-	<cname>Boomerang</cname>
-	<imageurl>http://store2.up-00.com/2016-02/145617876092671.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
 	<cname>Animal planet</cname>
 	<imageurl>https://cdn1.thr.com/sites/default/files/2013/01/animal_planet_logo.jpg</imageurl>
 	<enabled>True</enabled>
@@ -585,6 +577,22 @@
 	<category>Scandinavian</category>
 	</assignedcategory>
 </channel>
+<channel>
+	<cname>Kanal 10</cname>
+	<imageurl>https://new.static.tv.nu/105</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Scandinavian</category>
+	</assignedcategory>
+</channel>
+<channel>
+		<cname>TV 10 SV</cname>
+	<imageurl>https://aom99.files.wordpress.com/2011/03/bild71.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Scandinavian</category>
+	</assignedcategory>
+</channel>
 
 <channel>
 	<cname>TV 11</cname>
@@ -606,7 +614,7 @@
 
 <channel>
 	<cname>TLC</cname>
-	<imageurl>http://2.bp.blogspot.com/-VMpC1jUrJh0/Tzk2_guRXpI/AAAAAAAAA5Q/nLGuAei2bAU/w1200-h630-p-k-no-nu/Nat%252BGeo%252Bwild%252Bnew.JPG</imageurl>
+	<imageurl>https://logos-download.com/wp-content/uploads/2016/12/TLC_logo_small.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -696,30 +704,7 @@
 	<category>Scandinavian</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>C more Live 2</cname>
-	<imageurl>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_live_2.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>C more Live 3</cname>
-	<imageurl>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_live_3.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>C more Live 4</cname>
-	<imageurl>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_live_4.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
+
 
 <channel>
 	<cname>Eurosport</cname>
@@ -884,24 +869,9 @@
 	<category>Scandinavian</category>
 	</assignedcategory>
 </channel>
+
 <channel>
-	<cname>NRK2</cname>
-	<imageurl>https://nrkbeta.no/wp-content/uploads/2007/09/nrk3-logo.gif</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>TV2 Zebra</cname>
-	<imageurl>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgLjPzgUHnd8tKIVtBB_uHsWwpNuqHglc94zV6rlrTSKt1NRa</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Kanal 6 NO</cname>
+	<cname>Kanal 6 DK</cname>
 	<imageurl>http://discoverynetworks.dk/efteraar2016/sites/default/files/K6_RGB_72dpi.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -941,6 +911,14 @@
 	</assignedcategory>
 </channel>
 <channel>
+	<cname>DR3 DK</cname>
+	<imageurl>http://digitalt.tv/pics/kanalloger/dr3logo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Scandinavian</category>
+	</assignedcategory>
+</channel>
+<channel>
 	<cname>Kanal3 DK</cname>
 	<imageurl>http://www.chillglobal.com/images/channels/tv3-1432658280.jpg</imageurl>
 	<enabled>True</enabled>
@@ -959,6 +937,14 @@
 <channel>
 	<cname>Kanal2 News DK</cname>
 	<imageurl>https://images.indiegogo.com/file_attachments/987540/files/20141105002340-TV_2_News_logo_2013.jpg?1415175820</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Scandinavian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>TVB DK</cname>
+	<imageurl>http://nyheder.tv2.dk/sites/tv2.dk/files/tv2b-logo_sort.svg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
