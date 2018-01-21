@@ -65,22 +65,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Rai Sport 2</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/560.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Rai Sport 1</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/639.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>Canale 5</cname>
 	<item>
 	<title>High</title>
@@ -514,13 +498,6 @@
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1132.ts</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>TV3 Sport 1</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1237.ts</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>Barn Kanalen</cname>
@@ -620,13 +597,7 @@
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1145.ts</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Kanal 2 NO</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1143.ts</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>DR1 DK</cname>
 	<item>

@@ -292,23 +292,7 @@
 </channel>
 <channel>
 	<cname>Rai Movie</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RAI_Movie_2010_Logo.svg/1280px-RAI_Movie_2010_Logo.svg.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Italy</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Rai Sport 1</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Logo_Rai_Sport_1_2010.svg/570px-Logo_Rai_Sport_1_2010.svg.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Italy</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Rai Sport 2</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/RAI_Sport_2_2010_neu_Logo.svg/1024px-RAI_Sport_2_2010_neu_Logo.svg.png</imageurl>
+	<imageurl>http://www.ilsussidiario.net/img/_THUMBWEB/rai_movie_logo_thumb660x453.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Italy</category>
@@ -362,7 +346,7 @@
 </channel>
 <channel>
 	<cname>TV 3</cname>
-	<imageurl>http://bdtv.se/wordpress/BDTV_2/wp-content/gallery/basutbud/05.jpg</imageurl>
+	<imageurl>https://www.hembiobutiken.se/images/artiklar/blogg/2143-tv3-hd-i-mars-2011-3232.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -370,7 +354,7 @@
 </channel>
 <channel>
 	<cname>TV 4</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TV4Scandinavian_logo.svg/512px-TV4Scandinavian_logo.svg.png</imageurl>
+	<imageurl>https://ng.se/sites/default/files/images/blurbs/articles/319917/tv4.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -413,15 +397,6 @@
 </channel>
 
 <channel>
-	<cname>TCM</cname>
-	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/c/c2/TCM_2009.jpg/revision/latest?cb=20111006202159</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>TNT</cname>
 	<imageurl>http://www.tvweek.com/wp-content/uploads/2014/07/tnt-LOGO.png</imageurl>
 	<enabled>True</enabled>
@@ -440,7 +415,7 @@
 </channel>
 <channel>
 	<cname>C More Live 3</cname>
-	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_live_3.jpg</imageurl>
+	<imageurl>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_live_3.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -448,7 +423,7 @@
 </channel>
 <channel>
 	<cname>C More Live 4</cname>
-	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_live_4.jpg</imageurl>
+	<imageurl>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_live_4.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -495,14 +470,7 @@
 	<category>Scandinavian</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Oppna Kanalen</cname>
-	<imageurl>http://live-sport.me/wp-content/uploads/2015/05/%C3%96ppna-Kanalen-Stockholm.gif</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Kunskapskanalen</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/en/c/c7/Kunskapskanalen.png</imageurl>
@@ -539,7 +507,7 @@
 
 <channel>
 	<cname>TV 5</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Kanal_5_Scandinavian.svg/1024px-Kanal_5_Scandinavian.svg.png</imageurl>
+	<imageurl>http://www.chillglobal.com/images/channels/kanal-5-1432658250.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -547,7 +515,7 @@
 </channel>
 <channel>
 	<cname>TV 6</cname>
-	<imageurl>http://bdtv.se/wordpress/BDTV_2/wp-content/gallery/basutbud/08.jpg</imageurl>
+	<imageurl>http://www.chillglobal.com/images/channels/tv6-1432658301.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -555,7 +523,7 @@
 </channel>
 <channel>
 	<cname>TV 7</cname>
-	<imageurl>http://store1.up-00.com/2016-02/145609485983021.png</imageurl>
+	<imageurl>http://www.chillglobal.com/images/channels/sjuan-logo-rsz2-1448300080.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -563,7 +531,7 @@
 </channel>
 <channel>
 	<cname>TV 8</cname>
-	<imageurl>http://store2.up-00.com/2016-02/145617123311351.png</imageurl>
+	<imageurl>https://aom99.files.wordpress.com/2011/09/tv8.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -571,7 +539,7 @@
 </channel>
 <channel>
 	<cname>TV 9</cname>
-	<imageurl>http://www.scandinaviantvsolutions.com/images/channels/Scandinavian-kanal9.png</imageurl>
+	<imageurl>https://www.boxer.se/siteassets/tv/tv-kanaler/channel-thumbnails/channel_logo_thumbnail_kanal9.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -586,7 +554,7 @@
 	</assignedcategory>
 </channel>
 <channel>
-		<cname>TV 10 SV</cname>
+	<cname>TV 10 SV</cname>
 	<imageurl>https://aom99.files.wordpress.com/2011/03/bild71.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -623,7 +591,7 @@
 
 <channel>
 	<cname>SF-Kanalen</cname>
-	<imageurl>http://www.elektronikkbransjen.no/var/ezflow_site/storage/images/media/images/2009-7/ny-svensk-filmkanal/0/113816-1-nno-NO/image_huge_image.jpg</imageurl>
+	<imageurl>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_xrHES6jdY_zv8dkrCwCYS03uHsIOF_-TOzyvgXUysJGt9KBv</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -631,7 +599,7 @@
 </channel>
 <channel>
 	<cname>FOX</cname>
-	<imageurl>http://www.birtvizle.com/wp-content/uploads/2015/01/fox-tv-izle.jpg</imageurl>
+	<imageurl>https://upload.wikimedia.org/wikipedia/commons/0/08/FOX_Logo.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -682,7 +650,7 @@
 
 <channel>
 	<cname>C More Sport</cname>
-	<imageurl>http://tv.moviesntvlive.com/wp-content/uploads/2015/11/C-More-Sport.jpg</imageurl>
+	<imageurl>http://www.c-sam.se/wp-content/uploads/c-more-sport.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -690,7 +658,7 @@
 </channel>
 <channel>
 	<cname>C More Hockey</cname>
-	<imageurl>https://new.static.tv.nu/16556383</imageurl>
+	<imageurl>https://www.allatvkanaler.se/imagestv/cmore_hockey.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -698,7 +666,7 @@
 </channel>
 <channel>
 	<cname>C more Live</cname>
-	<imageurl>http://www.alcom.ax/images/bilder/kanaler/tillaggskanaler/cmore/c_more_live_1.jpg</imageurl>
+	<imageurl>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_live_1.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -725,7 +693,7 @@
 
 <channel>
 	<cname>Viasat E!</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Viasat_explore.png/100px-Viasat_explore.png</imageurl>
+	<imageurl>https://upload.wikimedia.org/wikipedia/commons/f/f2/Viasat_Explore_Logo.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -800,16 +768,7 @@
 
 <channel>
 	<cname>Viasat Golf</cname>
-	<imageurl>http://www.soderhamnnara.se/images/18.45dad9ca13d891e21421cc1/1384397418916/ViasatGolf_web.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>TV3 Sport 1</cname>
-	<imageurl>http://tvarena.ru/images/info/tv31.png</imageurl>
+	<imageurl>http://gemigfiber.nu/media/modules/services/SNF/2015/11/24/13/golf.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -878,14 +837,7 @@
 	<category>Scandinavian</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Kanal 2 NO</cname>
-	<imageurl>http://4.bp.blogspot.com/-wxJ8bnfQ0P8/UPchNCJ8IPI/AAAAAAAAVwU/zq31z7JLSdc/s1600/TV+2+logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>TV 3 NO</cname>
 	<imageurl>https://pbs.twimg.com/profile_images/378800000322693435/7d2d7dad8cc8a30c9a902cc72a8ce6df_400x400.jpeg</imageurl>
@@ -896,7 +848,7 @@
 </channel>
 <channel>
 	<cname>DR1 DK</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/commons/8/88/DR1_logo_2013.svg</imageurl>
+	<imageurl>http://digitalt.tv/wp-content/uploads/2017/10/dr1logo.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -944,7 +896,7 @@
 </channel>
 <channel>
 	<cname>TVB DK</cname>
-	<imageurl>http://nyheder.tv2.dk/sites/tv2.dk/files/tv2b-logo_sort.svg</imageurl>
+	<imageurl>https://b.top4top.net/p_751xqwtl1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
