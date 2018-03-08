@@ -55,16 +55,6 @@
 	</assignedcategory>
 </channel>
 
-
--<channel>
-	<cname>Star TV</cname>
-	<imageurl>http://somaliiptv.com/wp-content/uploads/2015/03/somali-star-tv-300x225.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
-
 <channel>
 	<cname>Som News TV</cname>
 	<imageurl>https://yt3.ggpht.com/-rpPOZfAQwxU/AAAAAAAAAAI/AAAAAAAAAAA/hLE4tx04oXM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
@@ -81,7 +71,14 @@
 	<category>somalia</category>
 	</assignedcategory>
 </channel>
-
+-<channel>
+	<cname>JBTV</cname>
+	<imageurl>https://pbs.twimg.com/profile_images/901781536143544320/IUEbyJxJ_400x400.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
 <channel>
 	<cname>PLTV</cname>
 	<imageurl>http://www.sat-address.com/f/pics/logotipi/Puntland-TV_o.jpg</imageurl>
@@ -100,6 +97,15 @@
 	</assignedcategory>
 </channel>
 <!--
+
+-<channel>
+	<cname>Star TV</cname>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2015/03/somali-star-tv-300x225.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
 <channel>
 	<cname>Som news TV</cname>
 	<imageurl>http://www.sahalsoftware.com/wp-content/uploads/2015/09/SomNews-Sahalsoftware.jpg</imageurl>
