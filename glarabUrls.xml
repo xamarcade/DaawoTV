@@ -11,7 +11,7 @@
 	<cname>SNTV</cname>
 	<item>
 	<title>Low</title>
-	<link>http://$GL-IPLOW$:4500/SNTV.m3u8?session=$GL-Sesession$</link>
+	<link>http://$GL-IPLOW$:4500/Aden_LR.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
