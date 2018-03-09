@@ -330,9 +330,10 @@
 	<cname>Aden</cname>
 	<item>
 	<title>Low</title>
-	<link>http://38.99.146.71:7777/Aden_Med/Aden_Med.m3u8?user=tyty&amp;session=eba554b75291ae774b5e37cb8825502e6003887936835e1dfcd089724e588708&amp;hlsid=HTTP_ID_87973932&amp;group_id=-1&amp;starttime=20171206T171824.080078</link>
+	<link>http://$GL-IPLOW$:7777/Aden_Med.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
+
 
 <streaminginfo>
 	<cname>RushdTV</cname>
