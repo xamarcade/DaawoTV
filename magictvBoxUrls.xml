@@ -74,43 +74,45 @@
 </streaminginfo>
 
 <streaminginfo>
-    <cname>Zee Anmol</cname>
-	<item>
-	<title>IUD: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1813.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Zee Aflam</cname>
-	<item>
-	<title>IUD: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1779.ts</link>
-	</item>
+        <cname>Zee Anmol</cname>
+		<item>
+		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1813.ts</link>
+		</item>
 </streaminginfo>
 
 <streaminginfo>
-    <cname>Zee Action</cname>
-	<item>
-	<title>IUD: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/2966.ts</link>
-	</item>
+        <cname>Zee Aflam</cname>
+		<item>
+		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1779.ts</link>
+		</item>
 </streaminginfo>
 
 <streaminginfo>
-    <cname>Zee Alwan</cname>
-	<item>
-	<title>IUD: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1778.ts</link>
-	</item>
+        <cname>Zee Action</cname>
+		<item>
+		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/2966.ts</link>
+		</item>
 </streaminginfo>
 
 <streaminginfo>
-    <cname>Zee Bangla</cname>
-	<item>
-	<title>IUD: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1784.ts</link>
-	</item>
+        <cname>Zee Alwan</cname>
+		<item>
+		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1778.ts</link>
+		</item>
 </streaminginfo>
+
+<streaminginfo>
+        <cname>Zee Bangla</cname>
+		<item>
+		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1784.ts</link>
+		</item>
+</streaminginfo>
+
 
 <streaminginfo>
     <cname>Zee Cinema HD</cname>
@@ -165,6 +167,14 @@
 </streaminginfo>
 
 <streaminginfo>
+        <cname>Zee TV (UK)</cname>
+		<item>
+		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/3051.ts</link>
+		</item>
+</streaminginfo>
+
+<streaminginfo>
         <cname>ZEE Studio HD</cname>
 		<item>
 		<title>High</title>
@@ -177,13 +187,8 @@
 		<title>High 2</title>
 		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1781.ts</link>
 		</item>
-		<streaminginfo>
-        <cname>Zee TV (UK)</cname>
-		<item>
-		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/3051.ts</link>
-		</item>
-</streaminginfo>
+<streaminginfo>
+
 
 <!-- Indian Channels End -->
 
