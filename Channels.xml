@@ -927,15 +927,6 @@
 </channel>
 
 <channel>
-	<cname>&amp;TV</cname>
-	<imageurl>http://3.bp.blogspot.com/-pMqF_NVXOfI/VTIyMa5Bq1I/AAAAAAAABqA/HSuCDWfc2k8/s1600/%26tv(Andtv)%2Btv%2Bchannel%2Blogo%2Bimages.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>B4U Plus</cname>
 	<imageurl>http://www.lyngsat-logo.com/hires/bb/b4u_plus_ae.png</imageurl>
 	<enabled>True</enabled>
@@ -944,6 +935,30 @@
 	</assignedcategory>
 </channel>
 -->
+<channel>
+	<cname>&amp;TV HD</cname>
+	<imageurl>http://akamai.vidz.zeecdn.com/esselnewsletter/images/artical-3-5b742c9674b3868.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>&amp;TV</cname>
+	<imageurl>http://3.bp.blogspot.com/-pMqF_NVXOfI/VTIyMa5Bq1I/AAAAAAAABqA/HSuCDWfc2k8/s1600/%26tv(Andtv)%2Btv%2Bchannel%2Blogo%2Bimages.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>&amp;TV APAC</cname>
+	<imageurl>http://3.bp.blogspot.com/-pMqF_NVXOfI/VTIyMa5Bq1I/AAAAAAAABqA/HSuCDWfc2k8/s1600/%26tv(Andtv)%2Btv%2Bchannel%2Blogo%2Bimages.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
 
 <channel>
 	<cname>B4U Aflam</cname>
@@ -964,25 +979,32 @@
 </channel>
 
 <channel>
-	<cname>Colors AUD</cname>
+	<cname>Colors UK</cname>
 	<imageurl>http://apne.tv/db_imgs/T6QH91X8YBZKU3VG5C7S1309997914.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-
 <channel>
-	<cname>Imagines Movies</cname>
-	<imageurl>http://www.imaginemovies.ae/wp-content/themes/imagine/images/logo.png</imageurl>
+	<cname>Colors US</cname>
+	<imageurl>http://apne.tv/db_imgs/T6QH91X8YBZKU3VG5C7S1309997914.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>Life OK</cname>
-	<imageurl>http://2.bp.blogspot.com/-pGh5g602DVw/TwPCs5peSZI/AAAAAAAADo0/x4nNTexDIuA/s1600/LifeOK+logo+2011.jpg</imageurl>
+	<cname>Colors Bangla</cname>
+	<imageurl>http://apne.tv/db_imgs/T6QH91X8YBZKU3VG5C7S1309997914.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Colors ME</cname>
+	<imageurl>http://apne.tv/db_imgs/T6QH91X8YBZKU3VG5C7S1309997914.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
@@ -1011,14 +1033,6 @@
 <channel>
 	<cname>Star Plus (UK)</cname>
 	<imageurl>http://4.bp.blogspot.com/-EzFDqknayl8/Uuiq-sL6SkI/AAAAAAAAAXw/M5NtQeEXoZs/s1600/star_plus+new.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>&amp;TV HD</cname>
-	<imageurl>http://akamai.vidz.zeecdn.com/esselnewsletter/images/artical-3-5b742c9674b3868.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
@@ -1094,15 +1108,6 @@
 </channel>
 
 <channel>
-	<cname>Star Gold HD</cname>
-	<imageurl>http://tvimages.burrp.com/images/channels2/movies/stargoldHD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Zee Action</cname>
 	<imageurl>http://2.bp.blogspot.com/-oFP6knKuAy0/UuAVD1j0hJI/AAAAAAAAAfo/MOofR3xmZtU/s1600/zee-action.png</imageurl>
 	<enabled>True</enabled>
@@ -1110,54 +1115,6 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Zee Anmol</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/6/66/Zee_Anmol_logo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Zee Bollywood</cname>
-	<imageurl>http://res.cloudinary.com/idiso/image/upload/h_200/v1411274844/jtnweomk62fk66zo8pun.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Zee Kannada</cname>
-	<imageurl>http://akamai.vidz.zeecdn.com/zeedigital/Zee%20Kannada/domain-data/logo/zee-kannada-logo-1416896410.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Zee Lamhe</cname>
-	<imageurl>http://s3.amazonaws.com/zeelwebsite/zeeinternational/images/content/hires-lamh-8be58f716f065a3.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-
-
-
-<channel>
-	<cname>Star Gold</cname>
-	<imageurl>http://tvimages.burrp.com/images/channels2/movies/stargold.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
 <channel>
 	<cname>Zee Aflam</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/zeeflm_zps8b1bbbb9.png</imageurl>
@@ -1175,10 +1132,52 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>	
+<channel>
+	<cname>Zee Anmol</cname>
+	<imageurl>https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/97/c8/60/97c86026d7b2333af5a5325035f82b05.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>	
 
 <channel>
-	<cname>Zee Cinema (US)</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/8/81/Zee_Cinema_2011_logo.png</imageurl>
+	<cname>Zee Bangla</cname>
+	<imageurl>https://pbs.twimg.com/profile_images/919588837562527744/jOXunQ_w.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Zee TV Canada</cname>
+	<imageurl>http://d3n8a8pro7vhmx.cloudfront.net/vibc/pages/257/meta_images/original/ZEETVHD_CANADA.jpg?1432567052</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Zee Cinema HD</cname>
+	<imageurl>https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Zee-Cinema-HD-300x248.jpg/revision/latest?cb=20171104164822</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Zee Cinema HD (ME)</cname>
+	<imageurl>https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Zee-Cinema-HD-300x248.jpg/revision/latest?cb=20171104164822</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Zee Cinema HD (UK)</cname>
+	<imageurl>https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Zee-Cinema-HD-300x248.jpg/revision/latest?cb=20171104164822</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
@@ -1187,7 +1186,23 @@
 
 <channel>
 	<cname>Zee Classic</cname>
-	<imageurl>http://tvimages.burrp.com/images/channels2/movies/zee-classic.png</imageurl>
+	<imageurl>https://upload.wikimedia.org/wikipedia/commons/b/bf/Zee_Classic_2017_Logo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Zee Kannada</cname>
+	<imageurl>https://yt3.ggpht.com/-G0Xv_xY8Bq0/AAAAAAAAAAI/AAAAAAAAAAA/zUUnjOKZyrc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Zee Punjab</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/commons/1/1c/Zee_Punjabi_2017_Logo.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
@@ -1195,8 +1210,16 @@
 </channel>
 
 <channel>
-	<cname>Zee TV (UK)</cname>
-	<imageurl>http://tvimages.burrp.com/images/channels2/entertainment/Zee-TV-HD.png</imageurl>
+	<cname>Zee TV</cname>
+	<imageurl>https://qph.ec.quoracdn.net/main-qimg-704a2c1fedc5fe9396b2d927666a631d</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Zee TV HD (US)</cname>
+	<imageurl>https://qph.ec.quoracdn.net/main-qimg-704a2c1fedc5fe9396b2d927666a631d</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
@@ -1222,26 +1245,8 @@
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>Zee TV Canada</cname>
-	<imageurl>http://d3n8a8pro7vhmx.cloudfront.net/vibc/pages/257/meta_images/original/ZEETVHD_CANADA.jpg?1432567052</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Zee Cinema (Hindi)</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/8/81/Zee_Cinema_2011_logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Zee Cinema (UK)</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/8/81/Zee_Cinema_2011_logo.png</imageurl>
+	<cname>Star Gold HD</cname>
+	<imageurl>http://tvimages.burrp.com/images/channels2/movies/stargoldHD.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
