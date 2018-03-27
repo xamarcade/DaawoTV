@@ -55,6 +55,16 @@
 	</assignedcategory>
 </channel>
 
+
+-<channel>
+	<cname>Star TV</cname>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2015/03/somali-star-tv-300x225.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
+
 <channel>
 	<cname>Som News TV</cname>
 	<imageurl>https://yt3.ggpht.com/-rpPOZfAQwxU/AAAAAAAAAAI/AAAAAAAAAAA/hLE4tx04oXM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
@@ -71,14 +81,7 @@
 	<category>somalia</category>
 	</assignedcategory>
 </channel>
--<channel>
-	<cname>JLTV</cname>
-	<imageurl>https://pbs.twimg.com/profile_images/901781536143544320/IUEbyJxJ_400x400.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>PLTV</cname>
 	<imageurl>http://www.sat-address.com/f/pics/logotipi/Puntland-TV_o.jpg</imageurl>
@@ -97,15 +100,6 @@
 	</assignedcategory>
 </channel>
 <!--
-
--<channel>
-	<cname>Star TV</cname>
-	<imageurl>http://somaliiptv.com/wp-content/uploads/2015/03/somali-star-tv-300x225.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
 <channel>
 	<cname>Som news TV</cname>
 	<imageurl>http://www.sahalsoftware.com/wp-content/uploads/2015/09/SomNews-Sahalsoftware.jpg</imageurl>
@@ -147,6 +141,13 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
+
+-->
+
+<!-- Somalian Channels End -->
+
+<!-- Yemen Channels Start -->
+
 <channel>
 	<cname>Aden</cname>
 	<imageurl>http://www.worldakhbar.com/wp-content/uploads/%D9%82%D9%86%D8%A7%D8%A9-%D8%B9%D8%AF%D9%86-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9.jpg</imageurl>
@@ -155,29 +156,6 @@
 	<category>yemen</category>
 	</assignedcategory>
 </channel>
-
-<channel>
-     <cname>Al-Ghad Al-Mushreq</cname>
-     <imageurl>https://pbs.twimg.com/profile_images/733015347159273473/Rsl0JrOc.jpg</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>yemen</category>
-     </assignedcategory>
-</channel>
-
-<channel>
-	<cname>AL sahat</cname>
-	<imageurl>http://store2.up-00.com/2016-12/1482793360871.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>yemen</category>
-	</assignedcategory>
-</channel>
--->
-
-<!-- Somalian Channels End -->
-
-<!-- Yemen Channels Start -->
 
 <channel>
 	<cname>Masira</cname>
@@ -238,6 +216,24 @@
 	<enabled>True</enabled>
 	<assignedcategory>
 		<category>yemen</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+     <cname>Al-Ghad Al-Mushreq</cname>
+     <imageurl>https://pbs.twimg.com/profile_images/733015347159273473/Rsl0JrOc.jpg</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>yemen</category>
+     </assignedcategory>
+</channel>
+
+<channel>
+	<cname>AL sahat</cname>
+	<imageurl>http://store2.up-00.com/2016-12/1482793360871.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>yemen</category>
 	</assignedcategory>
 </channel>
 
@@ -1085,6 +1081,14 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
+<channel>
+	<cname>Imagines Movies</cname>
+	<imageurl>http://www.imaginemovies.ae/wp-content/themes/imagine/images/logo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
 
 <channel>
 	<cname>Sony TV</cname>
@@ -1181,48 +1185,8 @@
 </channel>
 
 <channel>
-<<<<<<< HEAD
 	<cname>Zee Classic</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/commons/b/bf/Zee_Classic_2017_Logo.jpg</imageurl>
-=======
-	<cname>Zee Bangla</cname>
-	<imageurl>https://cdn.bongobd.com/upload/channels/landscape/j6nIdklOX39.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>	
-
-<channel>
-	<cname>Zee Cinema HD</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/8/81/Zee_Cinema_2011_logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Zee Cinema LU HD</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/8/81/Zee_Cinema_2011_logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Zee Cinema UK</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/8/81/Zee_Cinema_2011_logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Zee Cinema ME</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/8/81/Zee_Cinema_2011_logo.png</imageurl>
->>>>>>> origin/master
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
@@ -1237,38 +1201,8 @@
 	</assignedcategory>
 </channel>
 <channel>
-<<<<<<< HEAD
 	<cname>Zee Punjab</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/commons/1/1c/Zee_Punjabi_2017_Logo.jpg</imageurl>
-=======
-	<cname>Zee Canada</cname>
-	<imageurl>https://www.bellmts.ca/file_source/mts/assets/img/vod/Zee_TV_Canada.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Zee Tamil</cname>
-	<imageurl>http://bestmediainfo.com/wp-content/uploads/2017/10/Zee-Tamil_10.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>ZEE Studio HD</cname>
-	<imageurl>http://tvimages.burrp.com/images/channels2/entertainment/Zee-TV-HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Zee TV (UK)</cname>
-	<imageurl>http://tvimages.burrp.com/images/channels2/entertainment/Zee-TV-HD.png</imageurl>
->>>>>>> origin/master
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
