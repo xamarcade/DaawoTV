@@ -11,7 +11,7 @@
 	<cname>SNTV</cname>
 	<item>
 	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/SNTV.m3u8?session=$GL-Sesession$</link>
+	<link>http://$GL-IPLOW$:4500/Aden_LR.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -63,12 +63,18 @@
 	<link>http://$GL-IPLOW$:7777/ADSport.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
-
+<streaminginfo>
+<cname>Aden</cname> 
+<item>
+ <title>Proxy HD</title> 
+ <link>http://$GLProxyIP$:4500/channel.flv?server=$GL-IPHD$&amp;channel=Aden_Med&amp;port=2077&amp;user=$GL-User$&amp;session=$GL-Sesession$</link>
+ </item>
+ </streaminginfo>
 <streaminginfo>
 	<cname>Aden</cname>
 	<item>
 	<title>Low</title>
-	<link>http://$GL-IPLOW$:7777/Aden.m3u8?session=$GL-Sesession$</link>
+	<link>http://$GL-IPLOW$:7777/Aden_Med.m3u8?session=$GL-Sesession$</link>
 	</item>
 </streaminginfo>
 <streaminginfo>

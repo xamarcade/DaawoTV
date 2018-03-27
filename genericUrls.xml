@@ -40,6 +40,13 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>Djibouti</cname>
+	<item>
+    <title>Low</title>
+    <link>http://www.axadledirect.com:1936/19/stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>SBC</cname>
@@ -97,40 +104,8 @@
 	</regex>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Somali  Channel</cname>
-	<item>
-	<title>Med</title>
-	<link>http://cdn01.iqbroadcast.tv:8081/g1/schb9new/chunks.m3u8</link>
-    </item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Star TV</cname>
-	<item>
-	<title>Low</title>		
-	<link>http://cdn01.iqbroadcast.tv:8081/startv/hb9wp/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 
 
-<streaminginfo>
-	<cname>HCTV</cname>
-	<item>
-	<title>Med 2</title>		
-<link>rtmp://www.axadledirect.com/axadledirect_video/17 app=axadledirect_video/17 playpath=stream conn=S:17 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
-<regex>
-<name>userid</name>
-<expres>userId: "(.*?)"</expres>
-<page>http://www.axadledirect.com/channel/view/hctv-17</page>
-</regex>
-<regex>
-<name>uniqid</name>
-<expres>uniqId: "(.*?)"</expres>
-<page>http://www.axadledirect.com/channel/view/hctv-17</page>
-</regex>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>HCTV</cname>
 	<item>
@@ -139,8 +114,39 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>JLTV</cname>
+	<item>
+	<title>Med</title>
+	<link>http://wowzaprodhd48-lh.akamaihd.net/i/12ba64e7_1@60802/master.m3u8</link>
+	</item>
+</streaminginfo>
 
 
+<streaminginfo>
+	<cname>SNTV</cname>
+	<item>
+	<title>Axadledirect - Low</title>
+	<link>http://www.axadledirect.com:1936/13/stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Universal Somali</cname>
+	<item>
+	<title>Med</title>		
+	<link>https://5928f90056f31.streamlock.net/universal-live/universal-live/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<!--
+<streaminginfo>
+	<cname>Star TV</cname>
+	<item>
+	<title>Low</title>		
+	<link>http://cdn01.iqbroadcast.tv:8081/startv/hb9wp/playlist.m3u8</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>SNTV</cname>
 	<item>
@@ -159,23 +165,22 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>SNTV</cname>
+	<cname>HCTV</cname>
 	<item>
-	<title>Axadledirect - Low</title>
-	<link>http://www.axadledirect.com:1936/13/stream/playlist.m3u8</link>
+	<title>Med 2</title>		
+<link>rtmp://www.axadledirect.com/axadledirect_video/17 app=axadledirect_video/17 playpath=stream conn=S:17 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com live=1 timeout=15</link>
+<regex>
+<name>userid</name>
+<expres>userId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/hctv-17</page>
+</regex>
+<regex>
+<name>uniqid</name>
+<expres>uniqId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/hctv-17</page>
+</regex>
 	</item>
 </streaminginfo>
-
-<streaminginfo>
-	<cname>Universal Somali</cname>
-	<item>
-	<title>Med</title>		
-	<link>https://5928f90056f31.streamlock.net/universal-live/universal-live/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<!--
-
 <streaminginfo>
 	<cname>SLNTV</cname>
 	<item>
@@ -193,13 +198,7 @@
 </regex>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>SLNTV</cname>
-	<item>
-	<title>Axadledirect - Low</title>
-	<link>http://www.axadledirect.com:1936/16/stream/playlist.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Djibouti</cname>
 	<item>
@@ -217,13 +216,7 @@
 </regex>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Djibouti</cname>
-	<item>
-    <title>Low</title>
-    <link>http://www.axadledirect.com:1936/19/stream/playlist.m3u8</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
 	<cname>Royal TV Somalia</cname>
@@ -334,6 +327,7 @@
 	<link>http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8</link>
 	</item>
 </streaminginfo>
+
 
 <streaminginfo>
 	<cname>RushdTV</cname>
