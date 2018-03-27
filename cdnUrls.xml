@@ -319,68 +319,6 @@
 
 
 <streaminginfo>
-	<cname>Alkass Online</cname>
-	<item>
-	<title>High</title>
-	<link>http://alkass-i.akamaihd.net/hls/live/205534/online/live_3s.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo> 
-<cname>Alkass One</cname>
-<item>
-<title>Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/3913.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-
-	<streaminginfo>
-		<cname>Alkass One</cname>
-		<item>
-			<title>High</title>
-			<link>http://alkass-i.akamaihd.net/hls/live/205534/k1/live_5s.m3u8</link>
-		</item>
-	</streaminginfo>	
-
-<streaminginfo> 
-<cname>Alkass Two</cname>
-<item>
-<title>Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/3914.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-		<cname>Alkass Two</cname>
-		<item>
-			<title>High</title>
-			<link>http://alkass-i.akamaihd.net/hls/live/205534/k2/live_20s.m3u8</link>
-		</item>
-	</streaminginfo>
-	
-<streaminginfo> 
-<cname>Alkass Four</cname>
-<item>
-<title>Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/3915.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-		<cname>Alkass Four</cname>
-		<item>
-			<title>High</title>
-			<link>http://89.211.63.16:1935/HR04/HR04.stream/chunklist_w211392877.m3u8?v=1525040486</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Alkass Five</cname>
-		<item>
-			<title>High</title>
-			<link>http://alkass-i.akamaihd.net/hls/live/205534/5/live_4s.m3u8</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
 	<cname>Abu Dhabi Sports 1</cname>
 	<item>
 	<title>Elahmad</title>
@@ -390,15 +328,8 @@
 <streaminginfo>
 	<cname>Abu Dhabi Sports 1</cname>
 	<item>
-	<title>High 3</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/3896.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Sports 1</cname>
-	<item>
 	<title>High 2</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/103.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190j6g9zg2n77d97/190j6g9zg2n77d97/2434.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -419,15 +350,8 @@
 <streaminginfo>
 	<cname>Abu Dhabi Sports 2</cname>
 	<item>
-	<title>High 3</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/3895.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Sports 2</cname>
-	<item>
 	<title>High 2</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/104.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190j6g9zg2n77d97/190j6g9zg2n77d97/2433.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -439,36 +363,56 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Abu Dhabi Sports 4</cname>
+	<cname>Alkass Online</cname>
 	<item>
-	<title>High 2</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/3893.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<title>High</title>
+	<link>http://alkass-i.akamaihd.net/hls/live/205534/onlineA/live_Os4.m3u8</link>
 	</item>
 </streaminginfo>
 
+	<streaminginfo>
+		<cname>Alkass One</cname>
+		<item>
+			<title>High</title>
+			<link>http://alkass-i.akamaihd.net/hls/live/205534/kass1A/live_1s20.m3u8</link>
+		</item>
+	</streaminginfo>	
 
 <streaminginfo>
-	<cname>Abu Dhabi Sports 5</cname>
-	<item>
-	<title>High 2</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/3892.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
+		<cname>Alkass Two</cname>
+		<item>
+			<title>High</title>
+			<link>http://alkass-i.akamaihd.net/hls/live/205534/kass2A/live_20s20.m3u8</link>
+		</item>
+	</streaminginfo>
 
-
+<streaminginfo>
+		<cname>Alkass Four</cname>
+		<item>
+			<title>High</title>
+			<link>http://89.211.63.16:1935/HR04/HR04.stream/chunklist_w1077520053.m3u8?1409264780</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Alkass Five</cname>
+		<item>
+			<title>High</title>
+			<link>http://alkass-i.akamaihd.net/hls/live/205534/kass5A/live_5s4.m3u8</link>
+		</item>
+	</streaminginfo>
 
 <streaminginfo>
 <cname>Alriadia Sport</cname>
 <item>
 <title>High</title>
-<link>http://bl.movcast.tv:1935/icoolkora/maghribia3_360p/playlist.m3u8</link>
+<link>http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-video=1500000-audio_AACL_qad_130400_110=130400.m3u8</link>
 </item>
 </streaminginfo>
 <streaminginfo> 
 <cname>Alriadia Sport</cname>
 <item>
 <title>Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/1533.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190j6g9zg2n77d97/190j6g9zg2n77d97/32.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -484,26 +428,25 @@
 	<cname>Dubai Sport 1</cname>
 <item>
 <title>Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/127.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190j6g9zg2n77d97/190j6g9zg2n77d97/70.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
-
 <streaminginfo>
-	<cname>Dubai Sport 3</cname>
-	<item>
-	<title>Elahmad 2</title>
-	<link>http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3</link>
-	</item>
+	<cname>Dubai Sport 1</cname>
+<item>
+<title>Local</title>
+<link>http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8?stime=20170409212614&amp;etime=20170416172934&amp;token=05b981e96aef9bf683307</link>
+</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Dubai Sport 3</cname>
+	<cname>Dubai Sport 1</cname>
 	<item>
 	<title>Elahmad</title>
 	<link>http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>Dubai Sport 3</cname>
+	<cname>Dubai Sport 1</cname>
 	<item>
 	<title>Mango</title>
 	<link>http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8</link>
@@ -514,21 +457,28 @@
 	<cname>Dubai Racing</cname>
 	<item>
 	<title>Mango</title>
-	<link>http://dmivll.mangomolo.com/events/smil:events.smil/playlist.m3u8</link>
+	<link>http://dmithrvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Dubai Racing 2</cname>
 	<item>
 	<title>Mango</title>
-	<link>http://dmi.mangomolo.com:1935/events/smil:events.smil/chunklist_w774894673_b1200000.m3u8</link>
+	<link>http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
+<cname>Jordan Sport</cname>
+<item>
+<title>Local</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190j6g9zg2n77d97/190j6g9zg2n77d97/153.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo>
     <cname>Jordan Sport</cname>
 	<item>
-	<title>Med</title>
+	<title>Med 2</title>
 	<link>http://stream.joinvisions.net:1935/Jordantv/Jordan_Sport/gmswf.m3u8?DVR</link>
 	</item>
 </streaminginfo>
@@ -555,12 +505,19 @@
 	<link>http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv4</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+<cname>KTV Sport Plus</cname>
+<item>
+<title>Local</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190j6g9zg2n77d97/190j6g9zg2n77d97/2237.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
 
 <streaminginfo>
 <cname>MBC PRO SP1</cname>
 <item>
 <title>Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/168.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190j6g9zg2n77d97/190j6g9zg2n77d97/2435.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -568,7 +525,7 @@
 <cname>MBC PRO SP2</cname>
 <item>
 <title>Local</title>
-<link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/dmy2101/9764681/169.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/190j6g9zg2n77d97/190j6g9zg2n77d97/2436.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -580,6 +537,28 @@
 </item>
 </streaminginfo>
 
+	<streaminginfo>		
+		<cname>NBC Golf</cname>
+		<item>
+			<title>480p SD</title>
+			<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>NBC Golf</cname>
+		<item>
+			<title>720p HD</title>
+			<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>NBC Golf</cname>
+		<item>
+			<title>1080p HD</title>
+			<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+		</item>
+	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Nile Sport</cname>
 		<item>
@@ -733,27 +712,7 @@
 	</item>
 </streaminginfo>
 
-	<streaminginfo>		
-		<cname>NBC Golf</cname>
-		<item>
-			<title>480p SD</title>
-			<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>		
-		<cname>NBC Golf</cname>
-		<item>
-			<title>720p HD</title>
-			<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>		
-		<cname>NBC Golf</cname>
-		<item>
-			<title>1080p HD</title>
-			<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
-		</item>
-	</streaminginfo>
+
 
 <!-- Sport Channels End -->
 
