@@ -176,7 +176,7 @@ def get_params():
 
 def Addtypes():
 	addDir('Live TV' ,'CCats' ,14,addonArt+'/Network-1-icon.png')
-	addDir('Download Files' ,'cRefresh' ,17,addonArt+'/download-icon.png',isItFolder=False)
+	addDir('Update Files' ,'cRefresh' ,17,addonArt+'/download-icon.png',isItFolder=False)
 	#addDir('Settings' ,'Settings' ,8,addonArt+'/setting.png',isItFolder=False) 
 	return
 
