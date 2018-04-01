@@ -91,6 +91,14 @@
 	</assignedcategory>
 </channel>
 
+<channel>
+	<cname>JLTV</cname>
+	<imageurl>http://www.sahalsoftware.com/wp-content/uploads/2015/09/SomNews-Sahalsoftware.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
 -<channel>
 	<cname>SLNTV</cname>
 	<imageurl>http://i.imgur.com/LPTRMeR.jpg</imageurl>
@@ -100,14 +108,7 @@
 	</assignedcategory>
 </channel>
 <!--
-<channel>
-	<cname>Som news TV</cname>
-	<imageurl>http://www.sahalsoftware.com/wp-content/uploads/2015/09/SomNews-Sahalsoftware.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>STN</cname>
 	<imageurl>http://store6.up-00.com/2017-01/14854734394361.jpg</imageurl>
@@ -1697,40 +1698,48 @@
 </channel>
 
 <channel>
-	<cname>Sky Sports 1</cname>
-	<imageurl>https://a.top4top.net/p_472n8zrr1.jpg</imageurl>
+	<cname>Sky Sport Box Office</cname>
+	<imageurl>http://www.worldboxingnews.net/images/Promoter-Body-LOGOS/sky-sports-box-office.JPG</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>Sky Sports 2</cname>
-	<imageurl>http://frocus.net/images/logotv/original/sky-sport-2-hd-de.jpg</imageurl>
+	<cname>Sky Sport Action</cname>
+	<imageurl>https://ulango.tv/uploads/channels/3782194/logo_sky%20sport%20action.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>Sky Sports 3</cname>
-	<imageurl>http://www.liveonlinetv247.info/images/skysports3.png</imageurl>
+	<cname>Sky Sport Premier League</cname>
+	<imageurl>http://sportsnewsireland.com/wp-content/uploads/2017/10/Sky-Sports.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
 	</assignedcategory>
 </channel>		
 <channel>
-	<cname>Sky Sports 4</cname>
-	<imageurl>http://www.liveonlinetv247.info/images/skysports4.png</imageurl>
+	<cname>Sky Sport Premier Main Event</cname>
+	<imageurl>http://a.up-00.com/2018/03/15225179276371.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
 	</assignedcategory>
 </channel>	
 <channel>
-	<cname>Sky Sports 5</cname>
-	<imageurl>http://foot-live-stream.com/wp-content/uploads/2016/10/SKY-SPORTS-5.jpeg</imageurl>
+	<cname>Sky Sport Arena</cname>
+	<imageurl>https://ulango.tv/uploads/channels/3782272/logo_sky%20sport%20arena.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Sky Sport Football</cname>
+	<imageurl>https://media.info/i/lf/0/1507600241/6752.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
