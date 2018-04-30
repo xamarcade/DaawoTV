@@ -20,14 +20,7 @@
 	<category>somalia</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>HCTV</cname>
-	<imageurl>https://pbs.twimg.com/profile_images/2204802170/logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Universal Somali</cname>
 	<imageurl>http://img.new.livestream.com/accounts/00000000001f6a4f/5ba7db77-d17d-476d-86a5-b9cba35e9773_170x170.jpg</imageurl>
@@ -99,6 +92,25 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
+
+<channel>
+	<cname>SBS</cname>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2017/09/sbs-somali-tv-1.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
+
+<!--
+<channel>
+	<cname>HCTV</cname>
+	<imageurl>https://pbs.twimg.com/profile_images/2204802170/logo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>somalia</category>
+	</assignedcategory>
+</channel>
 -<channel>
 	<cname>SLNTV</cname>
 	<imageurl>http://i.imgur.com/LPTRMeR.jpg</imageurl>
@@ -107,8 +119,6 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
-<!--
-
 <channel>
 	<cname>STN</cname>
 	<imageurl>http://store6.up-00.com/2017-01/14854734394361.jpg</imageurl>

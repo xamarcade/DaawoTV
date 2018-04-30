@@ -105,15 +105,6 @@
 	</item>
 </streaminginfo>
 
-
-<streaminginfo>
-	<cname>HCTV</cname>
-	<item>
-	<title>Med</title>
-	<link>http://www.axadledirect.com:1936/17/stream/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
 <streaminginfo>
 	<cname>JLTV</cname>
 	<item>
@@ -122,6 +113,13 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>SBS</cname>
+	<item>
+	<title>Med</title>
+	<link>http://cdn01.iqbroadcast.tv:8081/sbstv/sbstvweb/playlist.m3u8</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>SNTV</cname>
@@ -216,6 +214,7 @@
 </regex>
 	</item>
 </streaminginfo>
+
 
 
 <streaminginfo>
