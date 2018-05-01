@@ -58,14 +58,7 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Som News TV</cname>
-	<imageurl>https://yt3.ggpht.com/-rpPOZfAQwxU/AAAAAAAAAAI/AAAAAAAAAAA/hLE4tx04oXM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Eryal TV</cname>
 	<imageurl>http://somaliiptv.com/wp-content/uploads/2017/10/eryal.png</imageurl>
@@ -86,7 +79,7 @@
 
 <channel>
 	<cname>JLTV</cname>
-	<imageurl>http://www.sahalsoftware.com/wp-content/uploads/2015/09/SomNews-Sahalsoftware.jpg</imageurl>
+	<imageurl>https://yt3.ggpht.com/a-/AJLlDp3ImKJW_FGbZR6CrbA9jw4fIAXfJvr32UZhAw=s900-mo-c-c0xffffffff-rj-k-no</imageurl>
 	<enabled>True</enabled>
 -	<assignedcategory>
 		<category>somalia</category>
@@ -103,6 +96,14 @@
 </channel>
 
 <!--
+<channel>
+	<cname>Som News TV</cname>
+	<imageurl>https://yt3.ggpht.com/-rpPOZfAQwxU/AAAAAAAAAAI/AAAAAAAAAAA/hLE4tx04oXM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>somalia</category>
+	</assignedcategory>
+</channel>
 <channel>
 	<cname>HCTV</cname>
 	<imageurl>https://pbs.twimg.com/profile_images/2204802170/logo.png</imageurl>

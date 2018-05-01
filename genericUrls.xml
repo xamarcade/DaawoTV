@@ -112,6 +112,13 @@
 	<link>http://wowzaprodhd48-lh.akamaihd.net/i/12ba64e7_1@60802/master.m3u8</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Kalsan Tv</cname>
+	<item>
+	<title>Med</title>
+	<link>http://kalsan.zecast.net/kalsan-live/kalsanzecast/chunklist_w490001446.m3u8?nimblesessionid=40215887</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>SBS</cname>
