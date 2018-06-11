@@ -149,14 +149,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>TV 4 Sport</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1115.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>TV 5</cname>
 	<item>
 	<title>High</title>
@@ -191,13 +183,6 @@
 	<item>
 	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1119.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Kanal 10</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1101.ts</link>
 	</item>
 </streaminginfo>
 
@@ -407,13 +392,6 @@
 <streaminginfo>
 	<cname>Viasat E!</cname>
 	<item>
-	<title>High2</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1080.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Viasat E!</cname>
-	<item>
 	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1131.ts</link>
 	</item>
@@ -521,6 +499,13 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>Cartoon  Network</cname>
+	<item>
+	<title>High 2</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1101.ts</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Cartoon  Network</cname>
 	<item>
@@ -641,6 +626,5 @@
 	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/1156.ts</link>
 	</item>
 </streaminginfo>
-
 
 </streamingInfos>
