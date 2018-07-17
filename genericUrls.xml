@@ -143,14 +143,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>SLNTV</cname>
-	<item>
-	<title>Med</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/942.ts</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>SNTV</cname>
 	<item>
 	<title>Axadledirect - Low</title>

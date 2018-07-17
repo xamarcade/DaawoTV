@@ -83,14 +83,6 @@
 	<category>somalia</category>
 	</assignedcategory>
 </channel>
--<channel>
-	<cname>SLNTV</cname>
-	<imageurl>http://i.imgur.com/LPTRMeR.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
 
 <!--
 
