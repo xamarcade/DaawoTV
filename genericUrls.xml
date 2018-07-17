@@ -115,14 +115,14 @@
 	<cname>JLTV</cname>
 	<item>
 	<title>Med</title>
-	<link>http://wowzaprodhd48-lh.akamaihd.net/i/12ba64e7_1@60802/master.m3u8</link>
+	<link>http://cdn02.iqbroadcast.tv/1345/iqb/3748782c336460247a0ea0b592d4130c.sdp/tracks-v1a1/index.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Kalsan Tv</cname>
 	<item>
 	<title>Med</title>
-	<link>http://kalsan.zecast.net/kalsan-live/kalsanzecast/chunklist_w490001446.m3u8?nimblesessionid=40215887</link>
+	<link>http://kalsan.zecast.net/kalsan-live/kalsanzecast/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 
@@ -131,6 +131,22 @@
 	<item>
 	<title>Med</title>
 	<link>http://cdn01.iqbroadcast.tv:8081/sbstv/sbstvweb/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>HCTV</cname>
+	<item>
+	<title>Med</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/3228.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>SLNTV</cname>
+	<item>
+	<title>Med</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/942.ts</link>
 	</item>
 </streaminginfo>
 

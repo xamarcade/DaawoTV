@@ -39,15 +39,6 @@
 	</assignedcategory>
 </channel>	
 
--<channel>
-	<cname>Somali Cable</cname>
-	<imageurl>https://yt3.ggpht.com/-HxJ9JIhKtQg/AAAAAAAAAAI/AAAAAAAAAAA/cLwV6iXtY3w/s900-c-k-no/photo.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
-
 <channel>
 	<cname>Eryal TV</cname>
 	<imageurl>http://somaliiptv.com/wp-content/uploads/2017/10/eryal.png</imageurl>
@@ -84,23 +75,6 @@
 	</assignedcategory>
 </channel>
 
-<!--
--<channel>
-	<cname>Star TV</cname>
-	<imageurl>http://somaliiptv.com/wp-content/uploads/2015/03/somali-star-tv-300x225.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Som News TV</cname>
-	<imageurl>https://yt3.ggpht.com/-rpPOZfAQwxU/AAAAAAAAAAI/AAAAAAAAAAA/hLE4tx04oXM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>
 <channel>
 	<cname>HCTV</cname>
 	<imageurl>https://pbs.twimg.com/profile_images/2204802170/logo.png</imageurl>
@@ -117,6 +91,34 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
+
+<!--
+
+-<channel>
+	<cname>Somali Cable</cname>
+	<imageurl>https://yt3.ggpht.com/-HxJ9JIhKtQg/AAAAAAAAAAI/AAAAAAAAAAA/cLwV6iXtY3w/s900-c-k-no/photo.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
+-<channel>
+	<cname>Star TV</cname>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2015/03/somali-star-tv-300x225.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Som News TV</cname>
+	<imageurl>https://yt3.ggpht.com/-rpPOZfAQwxU/AAAAAAAAAAI/AAAAAAAAAAA/hLE4tx04oXM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>somalia</category>
+	</assignedcategory>
+</channel>
+
 <channel>
 	<cname>STN</cname>
 	<imageurl>http://store6.up-00.com/2017-01/14854734394361.jpg</imageurl>
