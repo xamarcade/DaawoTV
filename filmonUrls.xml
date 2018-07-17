@@ -9,12 +9,6 @@
 	<cname>Universal Somali</cname>
 	<url>3731</url>
 </streaminginfo>
--->	
-<streaminginfo>
-	<cname>HCTV</cname>
-	<url>3740</url>
-</streaminginfo>
-
 <streaminginfo>
 	<cname>ESTV</cname>
 	<url>3743</url>
@@ -24,10 +18,15 @@
 	<cname>Kalsan Tv</cname>
 	<url>4202</url>
 </streaminginfo>
+-->	
+<streaminginfo>
+	<cname>PLTV</cname>
+	<url>5879</url>
+</streaminginfo>
 
 <streaminginfo>
-	<cname>SLNTV</cname>
-	<url>4208</url>
+	<cname>SBC</cname>
+	<url>5873</url>
 </streaminginfo>	
 	
 
