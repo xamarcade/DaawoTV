@@ -98,6 +98,22 @@
 </streaminginfo>
 
 <streaminginfo>
+	<cname>Somali Cable</cname>
+	<item>
+	<title>Med</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/3228.ts</link>
+	</item>
+</streaminginfo>
+	
+<streaminginfo>
+	<cname>Somali Cable</cname>
+	<item>
+	<title>Med</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/3199.ts</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
 	<cname>PLTV</cname>
 	<item>
 	<title>Official</title>
@@ -108,6 +124,22 @@
 	<page>http://www.puntlandtvradio.net/</page>
 	<agent>Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</agent>
 	</regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Badacas24</cname>
+	<item>
+	<title>Med</title>
+	<link>http://tv.smartal.net:25461/live/kqsnXVtX8d/dOEya36Jkw/8623.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Galmudug</cname>
+	<item>
+	<title>Med</title>
+	<link>http://cdn02.iqbroadcast.tv/iqb/ccdd4aaff5c7e4ab95efd09c91d57bbf.sdp/index.m3u8</link>
 	</item>
 </streaminginfo>
 
@@ -131,14 +163,6 @@
 	<item>
 	<title>Med</title>
 	<link>http://cdn01.iqbroadcast.tv:8081/sbstv/sbstvweb/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>HCTV</cname>
-	<item>
-	<title>Med</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/3228.ts</link>
 	</item>
 </streaminginfo>
 
