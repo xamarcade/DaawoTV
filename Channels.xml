@@ -84,6 +84,24 @@
 	</assignedcategory>
 </channel>
 
+<channel>
+	<cname>Badacas24</cname>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2018/07/badacas24-250x190.png</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+	<category>somalia</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Galmudug</cname>
+	<imageurl>http://radioshabelle.com/wp-content/uploads/2018/06/Galmudug-Tv.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+	<category>somalia</category>
+	</assignedcategory>
+</channel>	
+
 -<channel>
 	<cname>Somali Cable</cname>
 	<imageurl>https://yt3.ggpht.com/-HxJ9JIhKtQg/AAAAAAAAAAI/AAAAAAAAAAA/cLwV6iXtY3w/s900-c-k-no/photo.jpg</imageurl>
@@ -112,23 +130,6 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Badacas24</cname>
-	<imageurl>http://somaliiptv.com/wp-content/uploads/2018/07/badacas24-250x190.png</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Galmudug</cname>
-	<imageurl>http://radioshabelle.com/wp-content/uploads/2018/06/Galmudug-Tv.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>
 
 <channel>
 	<cname>STN</cname>
