@@ -166,11 +166,12 @@
 	</item>
 </streaminginfo>
 
+	
 <streaminginfo>
 	<cname>SNTV</cname>
 	<item>
-	<title>Axadledirect - Low</title>
-	<link>http://www.axadledirect.com:1936/13/stream/playlist.m3u8</link>
+	<title>Extra</title>
+	<link>http://ipsatpro.biz:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/3200.m3u8</link>
 	</item>
 </streaminginfo>
 
@@ -183,6 +184,13 @@
 </streaminginfo>
 
 	
+<streaminginfo>
+	<cname>SNTV</cname>
+	<item>
+	<title>Axadledirect - Low</title>
+	<link>http://www.axadledirect.com:1936/13/stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
 	
 <streaminginfo>
 <cname>Universal Somali</cname>
