@@ -171,14 +171,14 @@
 	<cname>SNTV</cname>
 	<item>
 	<title>High HD</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/3200.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.biz:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/3200.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>SNTV</cname>
 	<item>
-	<title>SomaliipTv</title>
+	<title>Med</title>
 	<link>http://cdn02.iqbroadcast.tv/1345/iqb/bbcd5b23023905c21249ce2272c42463.sdp/tracks-v1a1/index.m3u8</link>
 	</item>
 </streaminginfo>
@@ -187,7 +187,7 @@
 <streaminginfo>
 	<cname>SNTV</cname>
 	<item>
-	<title>Axadledirect - Low</title>
+	<title>Low</title>
 	<link>http://www.axadledirect.com:1936/13/stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>
