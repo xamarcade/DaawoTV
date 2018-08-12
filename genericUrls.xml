@@ -175,6 +175,16 @@
 </streaminginfo>
 
 <streaminginfo>
+	<cname>SNTV</cname>
+	<item>
+	<title>SomaliipTv</title>
+	<link>http://cdn02.iqbroadcast.tv/1345/iqb/bbcd5b23023905c21249ce2272c42463.sdp/tracks-v1a1/index.m3u8</link>
+	</item>
+</streaminginfo>
+
+	
+	
+<streaminginfo>
 <cname>Universal Somali</cname>
 <item>
 <title>High HD</title>
