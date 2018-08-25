@@ -443,7 +443,15 @@
 	</item>
 </streaminginfo>
 
-
+<streaminginfo>
+	<cname>Yemen</cname>
+	<item>
+	<title>Low</title>
+	<link>http://stream.starmenacdn.com:8080/hls/yemenshabab.m3u8</link>
+	</item>
+</streaminginfo>
+	
+<!--	
 <streaminginfo>
 	<cname>Yemen Shabab</cname>
 	<item>
@@ -452,7 +460,7 @@
 </item>
 </streaminginfo>
 
-<!--
+
 <streaminginfo>
 	<cname>Suhail TV</cname>
 	<item>
