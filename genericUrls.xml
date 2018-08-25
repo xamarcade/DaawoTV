@@ -446,6 +446,20 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>alsaeedah-tv</cname>
+	<item>
+	<title>Ustream: Low</title>
+	<link>$doregex[get-link]</link>
+	<regex>
+	<name>get-link</name>
+	<expres>$pyFunction:get_ustream('http://uhs-akamai.ustream.tv/fra02/fra02-uhs-beta02/live/10270300/1534940324101/plain/uhs/2/index.m3u8')</expres>
+	<page></page>
+	</regex>
+	</item>
+</streaminginfo>
+	
+	
 	
 <!--
 
