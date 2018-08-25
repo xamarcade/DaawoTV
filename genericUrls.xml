@@ -11,7 +11,7 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>SNTV</cname>
+	<cname>STN</cname>
 	<item>
 	<title>Ustream</title>
 		<link>$doregex[get-url]</link>
