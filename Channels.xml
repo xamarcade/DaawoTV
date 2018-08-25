@@ -234,15 +234,6 @@
 </channel>
 
 <channel>
-	<cname>Suhail TV</cname>
-	<imageurl>http://www.suhail.net/userimages/suhail_final_new_05.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-		<category>yemen</category>
-	</assignedcategory>
-</channel>
-
-<channel>
      <cname>Al-Ghad Al-Mushreq</cname>
      <imageurl>https://pbs.twimg.com/profile_images/733015347159273473/Rsl0JrOc.jpg</imageurl>
      <enabled>True</enabled>
@@ -268,6 +259,19 @@
 	<category>yemen</category>
 	</assignedcategory>
 </channel>
+	
+	
+	
+<!--
+<channel>
+	<cname>Suhail TV</cname>
+	<imageurl>http://www.suhail.net/userimages/suhail_final_new_05.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>yemen</category>
+	</assignedcategory>
+</channel>
+--!>
 
 <!-- Yemen Channels End -->
 
