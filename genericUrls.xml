@@ -357,7 +357,12 @@
 
 <!-- Yemen Channels Start -->
 
-<streaminginfo><cname>AL sahat</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ewViM8XS5e4</link></item></streaminginfo>
+<streaminginfo>
+	<cname>AL sahat</cname>
+	<item>
+	<title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ewViM8XS5e4</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>AL shareyyah</cname>
