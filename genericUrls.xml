@@ -11,7 +11,7 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>STN</cname>
+	<cname>SNTV</cname>
 	<item>
 	<title>Ustream</title>
 	<link>$doregex[get-url]</link>
@@ -379,15 +379,15 @@
 	<item>
 	<title>Low</title>
 	<link>http://livestream-f.akamaihd.net/i/4818613_6145209_lsie3f5ublmnhrz79m5_1@378888/index_446_av-b.m3u8?sd=10&amp;dw=100&amp;rebase=on&amp;hdntl=exp=1495999837~acl=%2fi%2f4818613_6145209_lsie3f5ublmnhrz79m5_1%40378888%2f*~data=hdntl~hmac=0d5f40a84af190fa813e6c1e7277fe57bced11a3d26f570d31ebb67ff8caf720</link>
-</item>
+	</item>
 </streaminginfo>
 
 <streaminginfo>
-<cname>Belqees</cname>
-  <item>
-  <title>You need Youtube Addon</title>
-  <link>plugin://plugin.video.youtube/play/?video_id=XH3TzDwKkOU</link>
-   </item>
+	<cname>Belqees</cname>
+	<item>
+	<title>You need Youtube Addon</title>
+	<link>plugin://plugin.video.youtube/play/?video_id=XH3TzDwKkOU</link>
+	</item>
 </streaminginfo>
 
 <streaminginfo>
@@ -446,7 +446,7 @@
 	</item>
 </streaminginfo>
 	
-	
+
 	
 <!--
 <streaminginfo>
