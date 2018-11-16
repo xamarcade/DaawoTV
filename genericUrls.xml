@@ -191,27 +191,11 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-<cname>Universal Somali</cname>
-<item>
-<title>High</title>
-<link>https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8</link>
-</item>
-</streaminginfo>
-
 	
 <streaminginfo>
 	<cname>Universal Somali</cname>
 	<item>
-	<title>Med</title>		
-	<link>http://www.axadledirect.com:1936/15/stream/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Universal Somali</cname>
-	<item>
-	<title>Med</title>		
+	<title>High</title>		
 	<link>https://5928f90056f31.streamlock.net/universal-live/universal-live/playlist.m3u8</link>
 	</item>
 </streaminginfo>
@@ -350,7 +334,13 @@
 	</item>
 </streaminginfo>
 
-
+<streaminginfo>
+	<cname>Universal Somali</cname>
+	<item>
+	<title>Med</title>		
+	<link>http://www.axadledirect.com:1936/15/stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
 -->
 
 <!-- Somalian Channels End -->
