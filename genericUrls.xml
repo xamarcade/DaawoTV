@@ -200,11 +200,20 @@
 	<link>https://5928f90056f31.streamlock.net/universal-live/universal-live/playlist.m3u8</link>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 <cname>Universal Somali</cname>
 <item>
 <title>High HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/3196.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Universal Somali</cname>
+<item>
+<title>High</title>
+<link>https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8</link>
 </item>
 </streaminginfo>
 
