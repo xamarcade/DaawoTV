@@ -116,7 +116,7 @@
 	<cname>Saab TV</cname>
 	<item>
 	<title>Med1</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn01.iqbroadcast.tv:8081/g1/saabtv/l_1253134_417102323_24463.ts?nimblesessionid=564328639</link>
+	<link>http://cdn01.iqbroadcast.tv:8081/g1/saabtv/chunks.m3u8?nimblesessionid=564328639</link>
 	</item>
 </streaminginfo>
 	
