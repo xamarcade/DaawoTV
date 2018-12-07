@@ -51,7 +51,7 @@
 	<cname>SBC</cname>
 	<item>
 	<title>SBC Livestream</title>
-	<link>http://cdn01.iqbroadcast.tv:8081/g1/sbscvt1206/chunks.m3u8</link>
+	<link>http://62.210.251.188:1935/live/sbctv.stream/chunklist_w184667786.m3u8</link>
 	</item>	
 </streaminginfo>
 <streaminginfo>
@@ -59,13 +59,6 @@
 	<item>
 	<title>Med</title>
 	<link>http://cdn01.iqbroadcast.tv:8081/g1/snews15/playlist.m3u8</link>
-	</item>	
-</streaminginfo>
-<streaminginfo>
-	<cname>Eryal TV</cname>
-	<item>
-	<title>Med</title>
-	<link>http://eryal.zecast.net/eryal-live/eryaltv/playlist.m3u8</link>
 	</item>	
 </streaminginfo>
 
@@ -97,18 +90,10 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Somali Cable</cname>
-	<item>
-	<title>Med</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/3228.ts</link>
-	</item>
-</streaminginfo>
-	
-<streaminginfo>
 	<cname>HCTV</cname>
 	<item>
 	<title>Med</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/3199.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/3197.ts</link>
 	</item>
 </streaminginfo>
 
@@ -116,7 +101,7 @@
 	<cname>Saab TV</cname>
 	<item>
 	<title>Med1</title>
-	<link>http://cdn01.iqbroadcast.tv:8081/g1/saabtv/chunks.m3u8?nimblesessionid=564328639</link>
+	<link>http://cdn01.iqbroadcast.tv:8081/g1/saabtv/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 	
@@ -132,14 +117,6 @@
 	<page>http://www.puntlandtvradio.net/</page>
 	<agent>Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</agent>
 	</regex>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Badacas24</cname>
-	<item>
-	<title>Med</title>
-	<link>http://tv.smartal.net:25461/live/kqsnXVtX8d/dOEya36Jkw/8623.m3u8</link>
 	</item>
 </streaminginfo>
 
@@ -167,35 +144,9 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>SBS</cname>
-	<item>
-	<title>Med</title>
-	<link>http://cdn01.iqbroadcast.tv:8081/sbstv/sbstvweb/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-	
-<streaminginfo>
-	<cname>SNTV</cname>
-	<item>
-	<title>High HD</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.biz:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/3200.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>SNTV</cname>
 	<item>
 	<title>Med</title>
-	<link>http://cdn02.iqbroadcast.tv/1345/iqb/bbcd5b23023905c21249ce2272c42463.sdp/tracks-v1a1/index.m3u8</link>
-	</item>
-</streaminginfo>
-
-	
-<streaminginfo>
-	<cname>SNTV</cname>
-	<item>
-	<title>Low</title>
 	<link>http://www.axadledirect.com:1936/13/stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>

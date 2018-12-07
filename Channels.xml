@@ -21,8 +21,6 @@
      </assignedcategory>
 </channel>	
 
-	
-	
 <channel>
 	<cname>SBC</cname>
 	<imageurl>http://allsbc.com/sbcon/wp-content/themes/sbc-2015/images/sbc-logo-blue-lg.png</imageurl>
@@ -51,15 +49,6 @@
 </channel>	
 
 <channel>
-	<cname>Eryal TV</cname>
-	<imageurl>http://somaliiptv.com/wp-content/uploads/2017/10/eryal.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>PLTV</cname>
 	<imageurl>http://www.sat-address.com/f/pics/logotipi/Puntland-TV_o.jpg</imageurl>
 	<enabled>True</enabled>
@@ -78,28 +67,10 @@
 </channel>
 
 <channel>
-	<cname>SBS</cname>
-	<imageurl>http://somaliiptv.com/wp-content/uploads/2017/09/sbs-somali-tv-1.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>HCTV</cname>
 	<imageurl>https://pbs.twimg.com/profile_images/2204802170/logo.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Badacas24</cname>
-	<imageurl>http://somaliiptv.com/wp-content/uploads/2018/07/badacas24-250x190.png</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
 	<category>somalia</category>
 	</assignedcategory>
 </channel>
