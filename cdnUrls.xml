@@ -39,7 +39,7 @@
 	<title>HD</title>
     	<!--<link>http://flussonic3.royaliptvhd.com/BEINSP2/mpegts?token=6Tj3ldeBG1</link> -->
 	<!--<link>plugin://plugin.video.f4mTester/?url=http://ultraiptv.online:8000/live/Extream!Online/FvUZV7rkzP/2805.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link> -->
-	<link>rtmp://$OPT:rtmp-raw=rtmp://50.7.28.194/flash playpath=18412 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/U3OTM2NDA2NTIwYzE1MDQzNmU5YzphY2M1MTk4OTI1ZjY4MThmYmQ5MmU0MWIzMTI3MjBkNA__/YjYxZDJlMzVjNjYxOjljNjE2NzYyNjU2OTZlMzE6ZmJlMjJjZTMxNTQzNWM2Mzg5Yj live=1 timeout=20</link>
+	<link>rtmp://50.7.28.194/flash playpath=18412 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/U3OTM2NDA2NTIwYzE1MDQzNmU5YzphY2M1MTk4OTI1ZjY4MThmYmQ5MmU0MWIzMTI3MjBkNA__/YjYxZDJlMzVjNjYxOjljNjE2NzYyNjU2OTZlMzE6ZmJlMjJjZTMxNTQzNWM2Mzg5Yj live=1 timeout=20</link>
 	</item>
 </streaminginfo>
 	
