@@ -3,7 +3,7 @@
 	<streaminginfo>
 	<cname>Bein Sport 01</cname>
 	<item>
-	<title>High</title>
+	<title>HD</title>
     <link>http://flussonic3.royaliptvhd.com/BEINSP1/mpegts?token=6Tj3ldeBG1</link>
 	</item>
 </streaminginfo>
@@ -30,6 +30,16 @@
 	</item>
 </streaminginfo>
 -->
+	
+<streaminginfo>
+	<cname>Bein Sport 02</cname>
+	<item>
+	<title>HD</title>
+    <link>http://flussonic3.royaliptvhd.com/BEINSP2/mpegts?token=6Tj3ldeBG1</link>
+	</item>
+</streaminginfo>
+	
+	<!--
 <streaminginfo>
 	<cname>Bein Sport 02</cname>
 	<item>
@@ -51,7 +61,17 @@
     <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/168.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
+	-->
 
+<streaminginfo>
+	<cname>Bein Sport 03</cname>
+	<item>
+	<title>HD</title>
+    <link>http://flussonic3.royaliptvhd.com/BEINSP3/mpegts?token=6Tj3ldeBG1</link>
+	</item>
+</streaminginfo>
+	
+	<!--
 <streaminginfo>
 	<cname>Bein Sport 03</cname>
 	<item>
@@ -73,7 +93,7 @@
     <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/167.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
-
+-->
 <streaminginfo>
 	<cname>Bein Sport 04</cname>
 	<item>
