@@ -1,141 +1,104 @@
 <streamingInfos>
 <!-- SportChannels Start -->
-
-<streaminginfo>
-	<cname>Bein Sport 01</cname>
-	<item>
-	<title>HD</title>
-    	<link>http://flussonic3.royaliptvhd.com/BEINSP1/mpegts?token=6Tj3ldeBG1</link>
-	</item>
-</streaminginfo>
-	
-	<!--
+<!--
 <streaminginfo>
 	<cname>Bein Sport 01</cname>
 	<item>
 	<title>Low</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2472.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 01</cname>
-	<item>
-	<title>Med</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2456.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 01</cname>
-	<item>
-	<title>High</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/169.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2472.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 -->
-	
 <streaminginfo>
-	<cname>Bein Sport 02</cname>
+	<cname>Bein Sport 01</cname>
 	<item>
-	<title>HD</title>
-    	<!--<link>http://flussonic3.royaliptvhd.com/BEINSP2/mpegts?token=6Tj3ldeBG1</link> -->
-	<!--<link>plugin://plugin.video.f4mTester/?url=http://ultraiptv.online:8000/live/Extream!Online/FvUZV7rkzP/2805.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link> -->
-	<link>rtmp://50.7.28.194/flash playpath=18412 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/U3OTM2NDA2NTIwYzE1MDQzNmU5YzphY2M1MTk4OTI1ZjY4MThmYmQ5MmU0MWIzMTI3MjBkNA__/YjYxZDJlMzVjNjYxOjljNjE2NzYyNjU2OTZlMzE6ZmJlMjJjZTMxNTQzNWM2Mzg5Yj live=1 timeout=20</link>
+	<title>Med</title>
+    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21443.m3u8</link>
 	</item>
 </streaminginfo>
-	
+<streaminginfo>
+	<cname>Bein Sport 01</cname>
+	<item>
+	<title>High</title>
+    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21457.m3u8</link>
+	</item>
+</streaminginfo>
+
 	<!--
 <streaminginfo>
 	<cname>Bein Sport 02</cname>
 	<item>
 	<title>Low</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2473.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 02</cname>
-	<item>
-	<title>Med</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2457.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 02</cname>
-	<item>
-	<title>High</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/168.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2473.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 	-->
 
 <streaminginfo>
-	<cname>Bein Sport 03</cname>
+	<cname>Bein Sport 02</cname>
 	<item>
-	<title>HD</title>
-    	<link>http://flussonic3.royaliptvhd.com/BEINSP3/mpegts?token=6Tj3ldeBG1</link>
+	<title>Med</title>
+    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21442.m3u8</link>
 	</item>
 </streaminginfo>
-	
-	<!--
+<streaminginfo>
+	<cname>Bein Sport 02</cname>
+	<item>
+	<title>High</title>
+    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21456.m3u8</link>
+	</item>
+</streaminginfo>
+		
+<!--
 <streaminginfo>
 	<cname>Bein Sport 03</cname>
 	<item>
 	<title>Low</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2481.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2481.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
+-->
+	
 <streaminginfo>
 	<cname>Bein Sport 03</cname>
 	<item>
 	<title>Med</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2458.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21441.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 03</cname>
 	<item>
 	<title>High</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/167.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
--->
-<streaminginfo>
-	<cname>Bein Sport 04</cname>
-	<item>
-	<title>HD</title>
-    	<link>http://flussonic3.royaliptvhd.com/BEINSP4/mpegts?token=6Tj3ldeBG1</link>
+    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21455.m3u8</link>
 	</item>
 </streaminginfo>
 	
-	<!--
+<!--
 <streaminginfo>
 	<cname>Bein Sport 04</cname>
 	<item>
 	<title>Low</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2474.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2474.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
+-->
+	
 <streaminginfo>
 	<cname>Bein Sport 04</cname>
 	<item>
 	<title>Med</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2459.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21440.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 04</cname>
 	<item>
 	<title>High</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/166.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21454.m3u8</link>
 	</item>
 </streaminginfo>
--->
-<streaminginfo>
-	<cname>Bein Sport 05</cname>
-	<item>
-	<title>HD</title>
-    	<link>http://flussonic3.royaliptvhd.com/BEINSP5/mpegts?token=6Tj3ldeBG1</link>
-	</item>
-</streaminginfo>
+
 <!--
 <streaminginfo>
 	<cname>Bein Sport 05</cname>
@@ -144,30 +107,24 @@
     <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2475.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
+-->
+
 <streaminginfo>
 	<cname>Bein Sport 05</cname>
 	<item>
 	<title>Med</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2460.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21439.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 05</cname>
 	<item>
 	<title>High</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/165.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21453.m3u8</link>
 	</item>
 </streaminginfo>
--->
-<streaminginfo>
-	<cname>Bein Sport 06</cname>
-	<item>
-	<title>HD</title>
-    	<link>http://flussonic3.royaliptvhd.com/BEINSP6/mpegts?token=6Tj3ldeBG1</link>
-	</item>
-</streaminginfo>
-	
-	<!--
+
+<!--
 <streaminginfo>
 	<cname>Bein Sport 06</cname>
 	<item>
@@ -175,30 +132,23 @@
     <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2476.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
+-->
 <streaminginfo>
 	<cname>Bein Sport 06</cname>
 	<item>
 	<title>Med</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2461.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21438.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport 06</cname>
 	<item>
 	<title>High</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/164.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21452.m3u8</link>
 	</item>
 </streaminginfo>
--->
-<streaminginfo>
-	<cname>Bein Sport 07</cname>
-	<item>
-	<title>HD</title>
-    	<link>http://flussonic3.royaliptvhd.com/BEINSP7/mpegts?token=6Tj3ldeBG1</link>
-	</item>
-</streaminginfo>
-	
-	<!--
+
+<!--
 <streaminginfo>
 	<cname>Bein Sport 07</cname>
 	<item>
