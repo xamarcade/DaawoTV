@@ -83,8 +83,6 @@
     	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2474.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
--->
-
 <streaminginfo>
 	<cname>Bein Sport 04</cname>
 	<item>
@@ -92,14 +90,14 @@
     	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21440.m3u8</link>
 	</item>
 </streaminginfo>
+-->	
 <streaminginfo>
 	<cname>Bein Sport 04</cname>
 	<item>
 	<title>High</title>
-    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21454.m3u8</link>
+    	<link>http://wygatv.com:4646/live/WyGaTv1537541616/5ba505f0d7bf2/1035.m3u8</link>
 	</item>
 </streaminginfo>
-
 <!--
 <streaminginfo>
 	<cname>Bein Sport 05</cname>
@@ -108,8 +106,6 @@
     <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2475.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
--->
-
 <streaminginfo>
 	<cname>Bein Sport 05</cname>
 	<item>
@@ -117,14 +113,14 @@
     	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21439.m3u8</link>
 	</item>
 </streaminginfo>
+	-->
 <streaminginfo>
 	<cname>Bein Sport 05</cname>
 	<item>
 	<title>High</title>
-    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21453.m3u8</link>
+    	<link>http://wygatv.com:4646/live/WyGaTv1537541616/5ba505f0d7bf2/1036.m3u8</link>
 	</item>
 </streaminginfo>
-
 <!--
 <streaminginfo>
 	<cname>Bein Sport 06</cname>
@@ -133,7 +129,6 @@
     <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2476.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
--->
 <streaminginfo>
 	<cname>Bein Sport 06</cname>
 	<item>
@@ -141,14 +136,14 @@
     	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21438.m3u8</link>
 	</item>
 </streaminginfo>
+	-->
 <streaminginfo>
 	<cname>Bein Sport 06</cname>
 	<item>
 	<title>High</title>
-    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21452.m3u8</link>
+    	<link>http://wygatv.com:4646/live/WyGaTv1537541616/5ba505f0d7bf2/1037.m3u8</link>
 	</item>
 </streaminginfo>
-
 <!--
 <streaminginfo>
 	<cname>Bein Sport 07</cname>
@@ -157,7 +152,6 @@
     <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2477.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
--->
 <streaminginfo>
 	<cname>Bein Sport 07</cname>
 	<item>
@@ -165,22 +159,14 @@
     	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21437.m3u8</link>
 	</item>
 </streaminginfo>
+	-->
 <streaminginfo>
 	<cname>Bein Sport 07</cname>
 	<item>
 	<title>High</title>
-    	<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21451.m3u8</link>
+    	<link>http://wygatv.com:4646/live/WyGaTv1537541616/5ba505f0d7bf2/1038.m3u8</link>
 	</item>
 </streaminginfo>
-
-<streaminginfo>
-	<cname>Bein Sport 08</cname>
-	<item>
-	<title>HD</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2478.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-	
 	<!--
 <streaminginfo>
 	<cname>Bein Sport 08</cname>
@@ -196,14 +182,14 @@
     <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/2463.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
+-->
 <streaminginfo>
 	<cname>Bein Sport 08</cname>
 	<item>
 	<title>High</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/162.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>http://wygatv.com:4646/live/WyGaTv1537541616/5ba505f0d7bf2/1039.m3u8</link>
 	</item>
 </streaminginfo>
--->
 
 <streaminginfo>
 	<cname>Bein Sport 09</cname>
