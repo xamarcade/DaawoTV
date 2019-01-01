@@ -9,7 +9,7 @@
 	<link>http://africatv.live.net.sa:1935/live/africatv4/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-
+<!--
 <streaminginfo>
 	<cname>STN</cname>
 	<item>
@@ -39,7 +39,15 @@
 	</regex>
 	</item>
 </streaminginfo>
-
+-->
+<streaminginfo>
+	<cname>STN</cname>
+	<item>
+    	<title>High</title>
+    	<link>http://199.167.151.237:1935/live/sp15_19.stream/gmswf.m3u8</link>
+	</item>
+</streaminginfo>
+	
 <streaminginfo>
 	<cname>Djibouti</cname>
 	<item>
