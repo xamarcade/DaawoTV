@@ -37,8 +37,7 @@
 	<cname>Bein Sport 02</cname>
 	<item>
 	<title>Med</title>
-    	<!--<link>http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21442.m3u8</link>-->
-	<link>plugin://plugin.video.f4mTester/?url=http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21442.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+     	<link>plugin://plugin.video.f4mTester/?url=http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/21442.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 	-->
