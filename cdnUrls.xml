@@ -19,9 +19,8 @@
 <streaminginfo>
 	<cname>Bein Sport 01</cname>
 	<item>
-	<title>HD</title>
-   	<!--<link>http://wygatv.com:4646/live/WyGaTv1537541616/5ba505f0d7bf2/1032.m3u8</link>-->
-	<link>plugin://plugin.video.f4mTester/?url=http://ip.avov4.us:8000/ahmet54/54ahmet/4553.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9022.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -32,7 +31,6 @@
 	<link>plugin://plugin.video.f4mTester/?url=http://wygatv.com:4646/live/WyGaTv1537541616/5ba505f0d7bf2/1032.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
-
 	<!--
 <streaminginfo>
 	<cname>Bein Sport 02</cname>
@@ -57,7 +55,13 @@
 	<link>plugin://plugin.video.f4mTester/?url=http://wygatv.com:4646/live/WyGaTv1537541616/5ba505f0d7bf2/1033.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
-		
+<streaminginfo>
+	<cname>Bein Sport 02</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9021.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>		
 <!--
 <streaminginfo>
 	<cname>Bein Sport 03</cname>
@@ -83,7 +87,13 @@
 	<link>plugin://plugin.video.f4mTester/?url=http://hadethsat.dyndns.tv:2086/live/petra_6MCYeW/urB6J62J/2144.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
-	
+<streaminginfo>
+	<cname>Bein Sport 03</cname>
+	<item>
+	<title>High</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9020.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>	
 <!--
 <streaminginfo>
 	<cname>Bein Sport 04</cname>
@@ -276,6 +286,7 @@
 	</item>
 </streaminginfo>
 
+	<!--
 <streaminginfo> 
 <cname>Bein 1 FR</cname>
 <item>
@@ -295,6 +306,31 @@
 <item>
 <title>Local</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/364.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+
+-->
+
+	
+<streaminginfo> 
+<cname>Bein Sport MAX 1</cname>
+<item>
+<title>High</title>
+<link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/7048.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo> 
+<cname>Bein Sport MAX 2</cname>
+<item>
+<title>High</title>
+<link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/7049.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo> 
+<cname>Bein Sport MAX 3</cname>
+<item>
+<title>High</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/190zih8du18vsyyf/190zih8du18vsyyf/397.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
