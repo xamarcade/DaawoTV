@@ -1250,14 +1250,7 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Bein Sport 13</cname>
-	<imageurl>https://lh6.googleusercontent.com/-P6stOyqEDZ4/U443rYNa7iI/AAAAAAAAAVo/bWb1b5s1EkY/w140-h140-p/bein%2Bsport%2B13HD.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
+
 <channel>
 	<cname>Abu Dhabi Sports 3</cname>
 	<imageurl>https://4.bp.blogspot.com/-LnIpWdgW-ZU/WSh5gAH7FmI/AAAAAAAAD78/bbT0z_rwPwgjgpLcKf7JKYDI81Xbvn-yQCLcB/s400/%25D8%25A7%25D8%25A8%25D9%2588%2B%25D8%25B8%25D8%25A8%25D9%258A%2B%25D8%25A7%25D9%2584%25D8%25B1%25D9%258A%25D8%25A7%25D8%25B6%25D8%25A9%2BHD3%2B%25D8%25A8%25D8%25AB%2B%25D9%2585%25D8%25A8%25D8%25A7%25D8%25B4%25D8%25B1.jpg</imageurl>
@@ -1479,7 +1472,16 @@
 	<category>sports</category>
 	</assignedcategory>
 </channel>	
-
+<channel>
+	<cname>Bein Sport 13</cname>
+	<imageurl>https://lh6.googleusercontent.com/-P6stOyqEDZ4/U443rYNa7iI/AAAAAAAAAVo/bWb1b5s1EkY/w140-h140-p/bein%2Bsport%2B13HD.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>
+	
+<!--
 <channel>
 	<cname>Bein 1 FR</cname>
 	<imageurl>http://www.futbolenlatv.com/fotos/20140113121534-bein-1-hd-fr.png</imageurl>
@@ -1504,7 +1506,31 @@
 		<category>sports</category>
 	</assignedcategory>
 </channel>
-
+-->
+<channel>
+	<cname>Bein Sport MAX 1</cname>
+	<imageurl>http://mshreqnews.net/img/w660/JYToo.png/revision/latest?cb=20140414165810</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein Sport MAX 2</cname>
+	<imageurl>http://mytv-online.com/wp-content/uploads/2017/01/bein-sport-max-2.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>sports</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein Sport MAX 3</cname>
+	<imageurl>http://2.bp.blogspot.com/-ZCit6IPhgyg/VjEnUtqJguI/AAAAAAAAARo/q2HhBbkUeyI/s1600/Bein-sports-max-3_1v5w0eus6ylho1rv2zxzeozee9-1-.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+		<category>sports</category>
+	</assignedcategory>
+</channel>
 <channel>
 	<cname>Bein Sport MAX 4</cname>
 	<imageurl>http://vignette2.wikia.nocookie.net/logopedia/images/d/d0/Logo-bein-sports-max-4-hd_1ut2dcsfzw7zj1204z6hz3qkhp-1-.jpg/revision/latest?cb=20140414165810</imageurl>
