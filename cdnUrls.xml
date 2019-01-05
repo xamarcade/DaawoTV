@@ -21,7 +21,7 @@
 	<item>
 	<title>HD</title>
    	<!--<link>http://wygatv.com:4646/live/WyGaTv1537541616/5ba505f0d7bf2/1032.m3u8</link>-->
-	<link>plugin://plugin.video.f4mTester/?url=http://linux-app.tv:6204/0049/0049/7048.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://ip.avov4.us:8000/ahmet54/54ahmet/4553.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
