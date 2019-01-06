@@ -321,6 +321,13 @@
 <streaminginfo> 
 <cname>Bein Sport MAX 1</cname>
 <item>
+<title>High 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvpro.watch-vision.net:8789/tinchi/Y6qMiEC7Ec/14122&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo> 
+<cname>Bein Sport MAX 1</cname>
+<item>
 <title>High 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/alaa/ismail/7048&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
@@ -336,6 +343,13 @@
 <cname>Bein Sport MAX 2</cname>
 <item>
 <title>High</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvpro.watch-vision.net:8789/tinchi/Y6qMiEC7Ec/2770&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+<streaminginfo> 
+<cname>Bein Sport MAX 2</cname>
+<item>
+<title>High 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/7049&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
