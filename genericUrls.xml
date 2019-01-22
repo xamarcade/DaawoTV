@@ -168,7 +168,7 @@
 	<cname>SLNTV</cname>
 	<item>
 	<title>Med</title>		
-<link>rtmp://hooyo.axadlehost.com/axadledirect_video/13 app=axadledirect_video/16 playpath=stream conn=S:16 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com/channel/view/sntv-13 live=1 timeout=15</link>
+<link>rtmp://hooyo.axadlehost.com/axadledirect_video/13 app=axadledirect_video/13 playpath=stream conn=S:13 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com/channel/view/sntv-13 live=1 timeout=15</link>
 <regex>
 <name>userid</name>
 <expres>userId: "(.*?)"</expres>
