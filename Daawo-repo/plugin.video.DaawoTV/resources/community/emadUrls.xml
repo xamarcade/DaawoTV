@@ -1,0 +1,230 @@
+<streamingInfos>
+
+    <streaminginfo>
+        <cname>Al Fayhaa</cname>
+        <item>
+            <title>Al Fayhaa</title>
+            <link>mms://77.67.107.89/al-fayhaa</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Dafra</cname>
+        <item>
+            <title>Al Dafra</title>
+            <link>rtmp://live.aldafrah.tv:1935/live/aldafrah1 timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al-hurra Iraq</cname>
+        <item>
+            <title>Al-hurra Iraq link1</title>
+            <link>rtmp://110.164.253.197:1935/live?_fcs_vhost=cp51007.live.edgefcs.net&amp;akmfv=1.8/Alhurra_Iraq_Flash@7095 timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Aljazeera Doc</cname>
+        <item>
+            <title>Aljazeera Doc</title>
+            <link>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>BBC Arabic</cname>
+        <item>
+            <title>BBC Arabic link1</title>
+            <link>mms://livewmstream-ws.bbc.co.uk.edgestreams.net/reflector:43117?.wma</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>BBC Arabic</cname>
+        <item>
+            <title>BBC Arabic link2</title>
+            <link>http://www.bbc.co.uk/arabic/meta/tx/live/atv_live_bb.asx</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>DW Arabic</cname>
+        <item>
+            <title>DW Arabic</title>
+            <link>http://www.metafilegenerator.de/DWelle/tv-arabia/wmv/tv_mb_m.asx</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Noursat</cname>
+        <item>
+            <title>Noursat</title>
+            <link>rtmp://fl1.viastreaming.net/noursat/livestream timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Orient News</cname>
+        <item>
+            <title>Orient News</title>
+            <link>rtmp://67.228.219.186/live/live3 timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Wesal Tv</cname>
+        <item>
+            <title>Wesal Tv</title>
+            <link>rtmp://live.noorlive.com:1935/wesal/wesal1 timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Csat_Christian</cname>
+        <item>
+            <title>Csat_Christian</title>
+            <link>rtmp://154.obj.netromedia.net/Copticsat/Copticsat timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Alamia</cname>
+        <item>
+            <title>Al Alamia</title>
+            <link>rtmp://ns8.indexforce.com/alalamia/alalamia timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al-hurra Iraq</cname>
+        <item>
+            <title>Al-hurra Iraq link2</title>
+            <link>rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15 timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Imam Hussein 2</cname>
+        <item>
+            <title>Imam Hussein 2</title>
+            <link>rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>CNA</cname>
+        <item>
+            <title>CNA</title>
+            <link>rtmp://str81.creacast.com:80/cna/live.sdp timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Waad</cname>
+        <item>
+            <title>Al Waad</title>
+            <link>rtmp://streaming.stimme-der-hoffnung.de/hcname2/livestreamhcname timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Aljazeera</cname>
+        <item>
+            <title>Aljazeera</title>
+            <link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_misr_low timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Maaref</cname>
+        <item>
+            <title>Al Maaref</title>
+            <link>rtmp://144.76.45.226/live/1 timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Russia Alyaum</cname>
+        <item>
+            <title>Russia Alyaum</title>
+            <link>http://media4.lsops.net/live/smil:rustoday_ar.smil/playlist.m3u8</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Sharqiya News</cname>
+        <item>
+            <title>Al Sharqiya News</title>
+            <link>rtmp://ns9.indexforce.com/home/mystream timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Alamia</cname>
+        <item>
+            <title>Al Alamia</title>
+            <link>rtmp://ns8.indexforce.com/alalamia/alalamia timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>BBC Arabic</cname>
+        <item>
+            <title>BBC Arabic</title>
+            <link>http://www.bbc.co.uk/arabic/meta/tx/bb/atv_live_16x9_bb.asx</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Forat</cname>
+        <item>
+            <title>Al Forat</title>
+            <link>rtmp://alforatlive.nanocdn.com/live/alforat256 timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Ahlulbayt</cname>
+        <item>
+            <title>Ahlulbayt</title>
+            <link>rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt256 timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Alam</cname>
+        <item>
+            <title>Al Alam</title>
+            <link>rtmp://31.14.40.251/live/alalam1 timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Fayhaa</cname>
+        <item>
+            <title>Al Fayhaa</title>
+            <link>mms://77.67.107.89/al-fayhaa</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>iFilm Arabic</cname>
+        <item>
+            <title>Low Quality</title>
+            <link>rtmp://mtv.fms-01.visionip.tv/live/mtv-ifilm-ifilm_arabic-live-4x3-SDq timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>iFilm Arabic</cname>
+        <item>
+            <title>Med Quality</title>
+            <link>rtmp://mtv.fms-01.visionip.tv/live/mtv-ifilm-ifilm_arabic-live-4x3-SDh timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>iFilm Arabic</cname>
+        <item>
+            <title>High Quality</title>
+            <link>rtmp://mtv.fms-01.visionip.tv/live/mtv-ifilm-ifilm_arabic-live-4x3-SD timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>iFilm English</cname>
+        <item>
+            <title>Low Quality</title>
+            <link>rtmp://mtv.fms-01.visionip.tv/live/mtv-ifilm-ifilm-live-16x9-SDq timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>iFilm English</cname>
+        <item>
+            <title>Med Quality</title>
+            <link>rtmp://mtv.fms-01.visionip.tv/live/mtv-ifilm-ifilm-live-16x9-SDh timeout=20</link>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>iFilm English</cname>
+        <item>
+            <title>High Quality</title>
+            <link>rtmp://mtv.fms-01.visionip.tv/live/mtv-ifilm-ifilm-live-16x9-SD timeout=20</link>
+        </item>
+    </streaminginfo>
+
+
+
+</streamingInfos>
