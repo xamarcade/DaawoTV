@@ -162,14 +162,26 @@
 	<link>http://cdn01.iqbroadcast.tv:8081/g1/sntvweb/chunks.m3u8</link>
 	</item>
 </streaminginfo>
+	
 
 <streaminginfo>
-	<cname>SNTV</cname>
+	<cname>SLNTV</cname>
 	<item>
-	<title>Med</title>	
-	<link>rtmp://hooyo.axadlehost.com/axadledirect_video/13 playpath=stream swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com/channel/view/sntv-13 live=1 timeout=15</link>
+	<title>Med</title>		
+<link>rtmp://hooyo.axadlehost.com/axadledirect_video/13 app=axadledirect_video/16 playpath=stream conn=S:16 conn=S:N/A conn=S:$doregex[userid] conn=S:viewer conn=S:$doregex[userid] conn=S:0 conn=S:false conn=S:$doregex[uniqid] swfUrl=http://www.axadledirect.com/viewer.swf pageUrl=http://www.axadledirect.com/channel/view/sntv-13 live=1 timeout=15</link>
+<regex>
+<name>userid</name>
+<expres>userId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/sntv-13</page>
+</regex>
+<regex>
+<name>uniqid</name>
+<expres>uniqId: "(.*?)"</expres>
+<page>http://www.axadledirect.com/channel/view/sntv-13</page>
+</regex>
 	</item>
 </streaminginfo>
+
 	
 	
 <streaminginfo>
