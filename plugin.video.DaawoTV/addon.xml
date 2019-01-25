@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.DaawoTV"
-       name="DaawoTV"
+       name="Daawo TV"
        version="1.3.0"
-       provider-name="DaawoTV">
+       provider-name="Daawo TV">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.beautifulsoup" version="3.0.8"/>
+    <import addon="plugin.video.youtube" version="2.9.2"/>
+	<import addon="script.module.elementtree" version="1.2.8"/>
+	<import addon="script.common.plugin.cache" version="0.9.1"/>
+    <!--<import addon="script.video.F4mProxy" version="1.0.8"/>--->
 
   </requires>
   <extension point="xbmc.python.pluginsource"
