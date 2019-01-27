@@ -156,10 +156,7 @@
 	<cname>SNTV</cname>
 	<item>
 	<title>High</title>
-	<!--
-		<link>http://www.axadledirect.com:1936/13/stream/playlist.m3u8</link>
-	-->
-	<link>http://cdn01.iqbroadcast.tv:8081/g1/sntvweb/chunks.m3u8</link>
+	<link>http://cdn01.iqbroadcast.tv:8081/g1/sntvweb/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 
