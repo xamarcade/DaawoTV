@@ -26,18 +26,16 @@
 	
 	
 	
-<addon id="plugin.video.DaawoTV"
-       name="Daawo TV"
-       version="1.3.0"
-       provider-name="Daawo TV">
+<addon id="plugin.video.DaawoTV" name="Daawo TV" version="1.3.0" provider-name="Daawo TV">
 	<requires>
 		<import addon="xbmc.python" version="2.20.0"/>
 		<import addon="script.module.urlresolver" version="1.0.0"/>
 		<import addon="plugin.video.youtube" version="2.9.2"/>
+		<import addon="script.module.elementtree" version="1.2.8"/>
+    	<import addon="script.common.plugin.cache" version="0.9.1"/>		
 	</requires>
   
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
+  <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
   </extension>
   
@@ -46,7 +44,6 @@
 		<description>Watch dramasonline.com on your XBMC. This plugin fetches the video sources from dramasonline.com and play on XBMC compatible plateforms</description>
 		<platform>all</platform>
   </extension>
-  
 </addon>
 
 
