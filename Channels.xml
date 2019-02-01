@@ -11,6 +11,15 @@
      <category>somalia</category>
      </assignedcategory>
 </channel>
+
+<channel>
+     <cname>DACWATV</cname>
+     <imageurl>http://d.up-00.com/2019/02/154905012872641.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>somalia</category>
+     </assignedcategory>
+</channel>	
 	
 <channel>
      <cname>Saab TV</cname>
