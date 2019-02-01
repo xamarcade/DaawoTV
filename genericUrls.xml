@@ -101,7 +101,7 @@
 	<cname>HCTV</cname>
 	<item>
 	<title>Med</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/3197.ts</link>
+	<link>http://cdn.mediavisionuae.com:1935/live/hctvlive.stream/chunklist_w698188858.m3u8</link>
 	</item>
 </streaminginfo>
 
