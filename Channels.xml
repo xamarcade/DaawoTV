@@ -10,15 +10,6 @@
      <category>somalia</category>
      </assignedcategory>
 </channel>
-
-<channel>
-     <cname>DACWATV</cname>
-     <imageurl>http://d.up-00.com/2019/02/154905012872641.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>somalia</category>
-     </assignedcategory>
-</channel>	
 	
 <channel>
      <cname>Saab TV</cname>
@@ -57,6 +48,24 @@
 </channel>	
 
 <channel>
+	<cname>RTN TV</cname>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2018/08/rtn-somali-tv-1-300x225.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
+
+<channel>
+	<cname>Bulsho TV</cname>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2018/08/bulshotv-250x190.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
+
+<channel>
 	<cname>PLTV</cname>
 	<imageurl>http://www.sat-address.com/f/pics/logotipi/Puntland-TV_o.jpg</imageurl>
 	<enabled>True</enabled>
@@ -67,7 +76,7 @@
 
 <channel>
 	<cname>JLTV</cname>
-	<imageurl>https://yt3.ggpht.com/a-/AJLlDp3ImKJW_FGbZR6CrbA9jw4fIAXfJvr32UZhAw=s900-mo-c-c0xffffffff-rj-k-no</imageurl>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2018/08/jubaland-250x190.jpg</imageurl>
 	<enabled>True</enabled>
 -	<assignedcategory>
 		<category>somalia</category>
@@ -171,25 +180,8 @@
 </channel>
 
 <channel>
-	<cname>Masira</cname>
-	<imageurl>http://s3.postimg.org/u842usskz/almasira.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>yemen</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>RushdTV</cname>
-	<imageurl>http://yemen-press.com/newsgfx/yp15-03-2014-776785.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-		<category>yemen</category>
-	</assignedcategory>
-</channel>
-
-<channel>
      <cname>Belqees</cname>
-     <imageurl>http://s11.postimg.org/w8lnlxrtr/bel.jpg</imageurl>
+     <imageurl>https://pbs.twimg.com/profile_images/830442077641179137/txf1TwTr.jpg</imageurl>
      <enabled>True</enabled>
      <assignedcategory>
 	 <category>yemen</category>
@@ -215,30 +207,12 @@
 </channel>
 
 <channel>
-	<cname>Sanaa</cname>
-	<imageurl>http://s30.postimg.org/905ghuuip/Sana_Sat_Channel_o.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>yemen</category>
-	</assignedcategory>
-</channel>
-
-<channel>
      <cname>Al-Ghad Al-Mushreq</cname>
-     <imageurl>https://pbs.twimg.com/profile_images/733015347159273473/Rsl0JrOc.jpg</imageurl>
+     <imageurl>https://pbs.twimg.com/profile_images/1031842504969216000/7EziMSMD_400x400.jpg</imageurl>
      <enabled>True</enabled>
      <assignedcategory>
      <category>yemen</category>
      </assignedcategory>
-</channel>
-
-<channel>
-	<cname>AL sahat</cname>
-	<imageurl>http://store2.up-00.com/2016-12/1482793360871.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>yemen</category>
-	</assignedcategory>
 </channel>
 
 <channel>
