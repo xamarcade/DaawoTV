@@ -49,6 +49,23 @@
 	</regex>
 	</item>
 </streaminginfo>
+
+<streaminginfo>
+	<cname>Djibouti</cname>
+	<item>
+    <title>Low</title>
+    <link>http://www.axadledirect.com:1936/19/stream/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Kalsan Tv</cname>
+	<item>
+	<title>Med</title>
+	<link>hhttp://kalsan.zecast.net/kalsan-live/kalsan/chunklist_w1097805821.m3u8</link>
+	</item>
+</streaminginfo>
+
 -->
 <streaminginfo>
 	<cname>STN</cname>
@@ -58,13 +75,7 @@
 	</item>
 </streaminginfo>
 	
-<streaminginfo>
-	<cname>Djibouti</cname>
-	<item>
-    <title>Low</title>
-    <link>http://www.axadledirect.com:1936/19/stream/playlist.m3u8</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>SBC</cname>
 	<item>
@@ -162,13 +173,6 @@
 	<item>
 	<title>Med</title>
 	<link>http://cdn02.iqbroadcast.tv/1345/iqb/3748782c336460247a0ea0b592d4130c.sdp/tracks-v1a1/index.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Kalsan Tv</cname>
-	<item>
-	<title>Med</title>
-	<link>hhttp://kalsan.zecast.net/kalsan-live/kalsan/chunklist_w1097805821.m3u8</link>
 	</item>
 </streaminginfo>
 
