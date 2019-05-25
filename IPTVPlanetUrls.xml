@@ -125,13 +125,7 @@
             <link>alnahardrama</link>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>Alriadia Sport</cname>
-        <item>
-            <title>High</title>
-            <link>Hi_Arriadia</link>
-        </item>
-    </streaminginfo>
+
     <streaminginfo>
         <cname>Art Aflam 1</cname>
         <item>
@@ -245,7 +239,7 @@
         </item>
     </streaminginfo>
     <streaminginfo>
-        <cname>Dream</cname>
+        <cname>Dream 2</cname>
         <item>
             <title>High</title>
             <link>drama2</link>
@@ -279,6 +273,7 @@
             <link>lbc</link>
         </item>
     </streaminginfo>
+<!--
     <streaminginfo>
         <cname>MBC 1</cname>
         <item>
@@ -335,6 +330,14 @@
             <link>Hi_mbcmax</link>
         </item>
     </streaminginfo>
+	    <streaminginfo>
+        <cname>Alriadia Sport</cname>
+        <item>
+            <title>High</title>
+            <link>Hi_Arriadia</link>
+        </item>
+    </streaminginfo>
+-->
     <streaminginfo>
         <cname>Mehwar 2</cname>
         <item>
