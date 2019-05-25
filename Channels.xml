@@ -3,6 +3,24 @@
 <!-- Somalian Channels Start -->
 
 <channel>
+     <cname>SRTV</cname>
+     <imageurl>https://1.top4top.net/p_12403jwj91.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>somalia</category>
+     </assignedcategory>
+</channel>
+
+-<channel>
+	<cname>Djibouti</cname>
+	<imageurl>https://5.top4top.net/p_1240ducvp1.jpg</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
+
+<channel>
      <cname>SNTV</cname>
      <imageurl>http://allssc.com/wp-content/uploads/2011/05/SNtv-somalia.jpg</imageurl>
      <enabled>True</enabled>
@@ -154,14 +172,7 @@
 	</assignedcategory>
 </channel>
 
--<channel>
-	<cname>SBTV</cname>
-	<imageurl>http://static-cdn1.ustream.tv/i/channel/picture/1/8/6/2/18624946/18624946,66x66,r:9.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
+
 
 -->
 
@@ -1281,39 +1292,14 @@
 </channel>
 
 <channel>
-	<cname>Abu Dhabi Sports 4</cname>
-	<imageurl>https://static.livetvhd.net/thumbs/abu_dhabi_sports_4.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
- 	<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Abu Dhabi Sports 5</cname>
-	<imageurl>http://arabtvz.com/video-elements/files/2009/10/abus5.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
- 	<category>sports</category>
-	</assignedcategory>
-</channel>
-
-
-<channel>
 	<cname>Alkass Online</cname>
-	<imageurl>http://www.qatarbroadcast.qa/images/kas.png</imageurl>
+	<imageurl>https://live-tv-channels.in/pt-data/uploads/logo/qa-al-kass-online.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Alkass One</cname>
-	<imageurl>https://e.top4top.net/p_471la8e71.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Alkass Two</cname>
 	<imageurl>http://speedtv.ps/img/posters/alkass-two.png</imageurl>
@@ -1332,7 +1318,7 @@
 </channel>
 <channel>
 	<cname>Alkass Five</cname>
-	<imageurl>https://tvwires.com/video-elements/files/2009/10/Al_Kass5.jpg</imageurl>
+	<imageurl>https://3.bp.blogspot.com/-Ke34lpz7i5c/WvMauIcBTvI/AAAAAAAAO48/FtriW7jrvwkY4Ycb82WelRcZTs2Q2SUXACLcBGAs/s1600/alkass5.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1454,15 +1440,15 @@
 	</assignedcategory>
 </channel>	
 <channel>
-	<cname>Bein Sport 13</cname>
-	<imageurl>https://lh6.googleusercontent.com/-P6stOyqEDZ4/U443rYNa7iI/AAAAAAAAAVo/bWb1b5s1EkY/w140-h140-p/bein%2Bsport%2B13HD.png</imageurl>
+	<cname>Bein Sport</cname>
+	<imageurl>http://www.blog-rct.com/wp-content/uploads/1346673212_BeInSport-sur-le-multi-y-cran-de-Numericable_grand.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
 	</assignedcategory>
 </channel>
 	
-<!--
+
 <channel>
 	<cname>Bein 1 FR</cname>
 	<imageurl>http://www.futbolenlatv.com/fotos/20140113121534-bein-1-hd-fr.png</imageurl>
@@ -1487,31 +1473,7 @@
 		<category>sports</category>
 	</assignedcategory>
 </channel>
--->
-<channel>
-	<cname>Bein Sport MAX 1</cname>
-	<imageurl>http://mshreqnews.net/img/w660/JYToo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-		<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Bein Sport MAX 2</cname>
-	<imageurl>http://mytv-online.com/wp-content/uploads/2017/01/bein-sport-max-2.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-		<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Bein Sport MAX 3</cname>
-	<imageurl>http://2.bp.blogspot.com/-ZCit6IPhgyg/VjEnUtqJguI/AAAAAAAAARo/q2HhBbkUeyI/s1600/Bein-sports-max-3_1v5w0eus6ylho1rv2zxzeozee9-1-.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-		<category>sports</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Bein Sport MAX 4</cname>
 	<imageurl>http://vignette2.wikia.nocookie.net/logopedia/images/d/d0/Logo-bein-sports-max-4-hd_1ut2dcsfzw7zj1204z6hz3qkhp-1-.jpg/revision/latest?cb=20140414165810</imageurl>
@@ -1530,7 +1492,7 @@
 </channel>
 <channel>
 	<cname>Bein Sport MAX 6</cname>
-	<imageurl>http://sabonner.beinsports.com/wp-content/uploads/2015/07/max-6-300x105.jpg</imageurl>
+	<imageurl>https://1.top4top.net/p_1240xxdyk1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 		<category>sports</category>
@@ -1538,7 +1500,7 @@
 </channel>
 <channel>
 	<cname>Bein Sport MAX 7</cname>
-	<imageurl>http://sabonner.beinsports.com/wp-content/uploads/2015/07/max-7-300x105.jpg</imageurl>
+	<imageurl>http://images.performgroup.com/di/library/bein/a0/88/bein-sports-max-7_1hakvi6phqufx13r9fwkrd8r4r.jpg?t=1207620203</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 		<category>sports</category>
@@ -2099,7 +2061,7 @@
 </channel>	
 <channel>
 	<cname>MBC 2</cname>
-	<imageurl>http://s19.postimg.org/g87g8524j/mbc_2.png</imageurl>
+	<imageurl>https://staticmbc-a.akamaihd.net/image/upload/v1539507962/2018/10/14/yhsefdgtx2ea2vcwm66g.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2107,7 +2069,7 @@
 </channel>
 <channel>
 	<cname>MBC 4</cname>
-	<imageurl>http://s19.postimg.org/yfphpze9v/mbc4.png</imageurl>
+	<imageurl>http://www.speedtv.ps/img/posters/mbc4.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2131,7 +2093,7 @@
 </channel>
 <channel>
 	<cname>MBC Drama</cname>
-	<imageurl>http://s19.postimg.org/6h5y09ipv/mbcdrama.png</imageurl>
+	<imageurl>https://arb4host.net/news/wp-content/uploads/2019/01/undnamed.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2139,7 +2101,7 @@
 </channel>
 <channel>
 	<cname>MBC Drama plusHD</cname>
-	<imageurl>https://c.top4top.net/p_4699bxjr1.png</imageurl>
+	<imageurl>https://staticmbc-a.akamaihd.net/image/upload/v1537099080/2018/09/16/jputkas0t6csdnjejidi.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2155,7 +2117,15 @@
 </channel>	
 <channel>
 	<cname>MBC Masr 2</cname>
-	<imageurl>http://s14.postimg.org/w7mn2vxup/MBC_Masr2.jpg</imageurl>
+	<imageurl>https://pbs.twimg.com/profile_images/531362651599687680/1Y4VkRed_400x400.jpeg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>MBC Iraq</cname>
+	<imageurl>http://arabadonline.com/mediafiles/articles/img-1548670528-5915-crop409.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2163,7 +2133,15 @@
 </channel>
 <channel>
 	<cname>MBC Max</cname>
-	<imageurl>http://s19.postimg.org/o8hkepy4j/mbcmax.png</imageurl>
+	<imageurl>https://staticmbc-a.akamaihd.net/image/upload/c_fill,g_auto,q_auto,f_auto,dpr_2.625,w_107,ar_27:40/v1539087931/2018/10/09/axdvruqk6uatlbfdh1yy.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>MBC Variety HD</cname>
+	<imageurl>https://1.top4top.net/p_1240a7l711.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2180,7 +2158,7 @@
 </channel>
 <channel>
 	<cname>OSN Box Offiece 2</cname>
-	<imageurl>http://www.cne-eg.com/UploadFolder/logos/246%5EBO2.jpg</imageurl>
+	<imageurl>http://ulango.tv/uploads/channels/63174/logo_osn%20box%20office%203.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2197,7 +2175,7 @@
 
 <channel>
 	<cname>OSN Cinema 1</cname>
-	<imageurl>http://www.shoofeetv.com/images/2013/09/20130910194611_channelsbig.png</imageurl>
+	<imageurl>https://5.top4top.net/p_12406nffl1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2206,7 +2184,7 @@
 
 <channel>
 	<cname>OSN Cinema 2</cname>
-	<imageurl>https://static.elcinema.com/images/channels/160px/1151.png</imageurl>
+	<imageurl>https://5.top4top.net/p_1240yiqe31.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2214,8 +2192,8 @@
 </channel>
 
 <channel>
-	<cname>OSN Safwa</cname>
-	<imageurl>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2zh4h4XQBonZwVIurnqvfyK54rTLrLnJgPM_5nIfCSOOUYkIc</imageurl>
+	<cname>OSN Movies HD +2h</cname>
+	<imageurl>https://2.top4top.net/p_1240i3r3b1.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2223,48 +2201,32 @@
 </channel>
 
 <channel>
-	<cname>OSN Movies HD</cname>
-	<imageurl>http://content.osn.com/bob/500x300/OM1.jpg</imageurl>
+	<cname>OSN Action</cname>
+	<imageurl>http://content.osn.com/bob/745x419/osnaction.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>OSN Movies HD Plus 2</cname>
-	<imageurl>http://www.sat-address.com/f/pics/logotipi/OSN-Movies-HD-Plus2_o.jpg</imageurl>
+	<cname>OSN Comedy HD</cname>
+	<imageurl>https://4.top4top.net/p_1240jdn6x1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>OSN Movies Action HD</cname>
-	<imageurl>http://content.osn.com/logo/channel/500x300/AHD.jpg</imageurl>
+	<cname>Osn Enigma HD</cname>
+	<imageurl>https://1.top4top.net/p_1240auxg21.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>OSN Movies Action Plus 2</cname>
-	<imageurl>http://content.osn.com/bob//500x300/OMA.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>OSN Movies Comedy HD</cname>
-	<imageurl>http://www.sat-address.com/f/pics/logotipi/OSN-Movies-Comedy-HD_o.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>OSN Movies Drama HD</cname>
-	<imageurl>http://content.osn.com/logo/channel/500x300/OCM.jpg</imageurl>
+	<cname>OSN Movies First HD</cname>
+	<imageurl>https://4.top4top.net/p_1240oxro41.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2278,38 +2240,17 @@
 	<category>ent</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>OSN Movies Premiere HD</cname>
-	<imageurl>http://content.osn.com/bob//500x300/OPR.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>OSN Movies Premiere HD Plus 2</cname>
-	<imageurl>http://content.osn.com/bob//500x300/OPX.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
+
+
 <channel>
 	<cname>OSN Star Movies HD</cname>
-	<imageurl>http://store1.up-00.com/2016-07/1469743294891.png</imageurl>
+	<imageurl>https://3.top4top.net/p_1240qwqbr1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>OSN On Demand HD</cname>
-	<imageurl>http://www.sat-address.com/f/pics/logotipi/OSN-on-Demand-HD_o.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>OSN On Demand HD Extra</cname>
 	<imageurl>http://www.sat-address.com/f/pics/logotipi/OSN-on-Demand-Extra-HD_o.jpg</imageurl>
@@ -2318,25 +2259,18 @@
 	<category>ent</category>
 	</assignedcategory>
 </channel>
+	
 <channel>
-	<cname>OSN Ya Hala Shabab HD</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_ya_hala_shabab_hd.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>	
-<channel>
-	<cname>OSN Yahala Cinema HD</cname>
-	<imageurl>http://content.osn.com/logo/channel/500x300/OYC.jpg</imageurl>
+	<cname>Osn Yahla Al Oula HD</cname>
+	<imageurl>http://adencable.com/en/wp-content/uploads/2018/10/11.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>OSN Yahala Drama HD</cname>
-	<imageurl>http://store1.up-00.com/2016-07/1469741950171.png</imageurl>
+	<cname>OSN Yahala Cinema HD</cname>
+	<imageurl>https://3.bp.blogspot.com/-Zuf7j-xAHbI/V8LWZs3zjPI/AAAAAAAABBw/1czPWN_9nOo_ulcUQBMzcJBPnqnhMYomgCLcB/s1600/osn%2Bya%2Bhala.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2344,7 +2278,7 @@
 </channel>
 <channel>
 	<cname>OSN Yahala HD</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/oo/osn_ya_hala_hd.png</imageurl>
+	<imageurl>https://1.bp.blogspot.com/-D5RbQgS7npI/XJaJtF593aI/AAAAAAAAMCs/6h43An-oSTA4hTLbZrAmayIjvSGXyxp3gCLcBGAs/s1600/OSN-Yahala-HD.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2353,7 +2287,7 @@
 
 <channel>
 	<cname>Bein Moveis 1 HD</cname>
-	<imageurl>http://store1.up-00.com/2016-07/1469979288562.png</imageurl>
+	<imageurl>https://vignette.wikia.nocookie.net/logopedia/images/6/6a/MoviesHD1.svg/revision/latest/scale-to-width-down/250?cb=20170302194622</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2361,7 +2295,7 @@
 </channel>
 <channel>
 	<cname>Bein Moveis 2 HD</cname>
-	<imageurl>http://store1.up-00.com/2016-07/1469979288683.png</imageurl>
+	<imageurl>https://vignette.wikia.nocookie.net/logopedia/images/7/70/MoviesHD2.svg/revision/latest/scale-to-width-down/250?cb=20170302195726</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2369,7 +2303,7 @@
 </channel>
 <channel>
 	<cname>Bein Moveis 3 HD</cname>
-	<imageurl>http://store1.up-00.com/2016-07/1469979288814.png</imageurl>
+	<imageurl>https://vignette.wikia.nocookie.net/logopedia/images/5/5f/MoviesHD3.svg/revision/latest/scale-to-width-down/250?cb=20170302195740</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
@@ -2377,45 +2311,21 @@
 </channel>
 <channel>
 	<cname>Bein Moveis 4 HD</cname>
-	<imageurl>http://store1.up-00.com/2016-07/1469979288481.png</imageurl>
+	<imageurl>https://vignette.wikia.nocookie.net/logopedia/images/0/0f/MoviesHD4.svg/revision/latest/scale-to-width-down/250?cb=20170302200322</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Bein Drama HD</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/ar/thumb/a/a1/Beindrama.jpg/220px-Beindrama.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>ent</category>
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>Seevii Al-oula</cname>
-	<imageurl>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjMzO18545OZDO5WZAr90ovbZAGfPHtNWbAzXhV5-rByKKgeJ</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Seevii Beelink</cname>
-	<imageurl>http://www9.0zz0.com/2017/09/30/23/375964279.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Seevii Drama</cname>
-	<imageurl>http://www13.0zz0.com/2017/09/30/23/298600461.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Seevii Shamiya</cname>
-	<imageurl>http://www14.0zz0.com/2017/09/30/23/810193028.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>ent</category>
-	</assignedcategory>
-</channel>
 
 
 <!--
@@ -4333,3 +4243,4 @@
 <!-- Kids Channels End -->
 
 </channels>
+
