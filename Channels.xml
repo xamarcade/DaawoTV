@@ -377,24 +377,6 @@
 </channel>
 
 <channel>
-	<cname>TV 4 Sport</cname>
-	<imageurl>http://www.spvm.se/uploads/news/id403/TV4Sport_logotyp_RGB.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>TNT</cname>
-	<imageurl>http://www.tvweek.com/wp-content/uploads/2014/07/tnt-LOGO.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>C more Live 2</cname>
 	<imageurl>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_live_2.jpg</imageurl>
 	<enabled>True</enabled>
@@ -435,14 +417,7 @@
 	<category>Scandinavian</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Viasat Hockey</cname>
-	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/d/de/Viasat_Hockey_logo.png/revision/latest?cb=20100318124513</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Viasat Nature</cname>
 	<imageurl>http://vignette4.wikia.nocookie.net/logopedia/images/5/51/Viasat_Nature_2014.png/revision/latest?cb=20140512144610</imageurl>
@@ -453,7 +428,7 @@
 </channel>
 <channel>
 	<cname>TV 12</cname>
-	<imageurl>https://www.viasat.se/sites/viasat.se/files/styles/promo_channel_logo/public/tv12_logo_lightgray_orange_rgb2.png?itok=xIQbzqC4</imageurl>
+	<imageurl>http://ulango.tv/uploads/channels/3782053/logo_discovery%20id.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -487,7 +462,7 @@
 </channel>
 <channel>
 	<cname>ID</cname>
-	<imageurl>https://mitvstatic.com/channels/co_discovery-id-hd_m.png</imageurl>
+	<imageurl>http://ulango.tv/uploads/channels/3782053/logo_discovery%20id.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -528,7 +503,7 @@
 </channel>
 <channel>
 	<cname>TV 9</cname>
-	<imageurl>https://www.boxer.se/siteassets/tv/tv-kanaler/channel-thumbnails/channel_logo_thumbnail_kanal9.png</imageurl>
+	<imageurl>https://6.top4top.net/p_12411uz2x1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -537,14 +512,6 @@
 <channel>
 	<cname>Kanal 10</cname>
 	<imageurl>https://new.static.tv.nu/105</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>TV 10 SV</cname>
-	<imageurl>https://aom99.files.wordpress.com/2011/03/bild71.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -563,15 +530,6 @@
 <channel>
 	<cname>Discovery Channel</cname>
 	<imageurl>http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024x768.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>TLC</cname>
-	<imageurl>https://logos-download.com/wp-content/uploads/2016/12/TLC_logo_small.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -606,7 +564,7 @@
 
 <channel>
 	<cname>C more First</cname>
-	<imageurl>https://www.boxer.se/siteassets/tv/tv-kanaler/channel-thumbnails/channel_logo_thumbnail_cmore_first.png</imageurl>
+	<imageurl>https://5.top4top.net/p_1241m3sur1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -622,7 +580,7 @@
 </channel>
 <channel>
 	<cname>C more Series</cname>
-	<imageurl>https://www.boxer.se/siteassets/tv/tv-kanaler/channel-thumbnails/channel_logo_thumbnail_cmore_series.png</imageurl>
+	<imageurl>https://1.top4top.net/p_1241h54943.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -630,7 +588,7 @@
 </channel>
 <channel>
 	<cname>C more Hits</cname>
-	<imageurl>https://www.boxer.se/siteassets/tv/tv-kanaler/channel-thumbnails/channel_logo_thumbnail_cmore_hits_hd.png</imageurl>
+	<imageurl>https://6.top4top.net/p_1241ydwer2.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -706,7 +664,7 @@
 </channel>
 <channel>
 	<cname>Viasat Action</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/5/52/Viasat_film_action.jpg</imageurl>
+	<imageurl>https://2.top4top.net/p_1241r3qts3.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -714,7 +672,7 @@
 </channel>
 <channel>
 	<cname>Viasat Family</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/a/a4/Viasat_film_family.jpg</imageurl>
+	<imageurl>https://1.top4top.net/p_1241bgiwc2.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Scandinavian</category>
@@ -800,97 +758,6 @@
 
 <!-- Scandinavian Channels End -->
 
-
-<channel>
-	<cname>NRK1</cname>
-	<imageurl>http://www.ljungby-energi.se/wp-content/uploads/2014/11/kanaler_alacarte_nrk1.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>NRK2</cname>
-	<imageurl>http://www.ljungby-energi.se/wp-content/uploads/2014/11/kanaler_alacarte_nrk2.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Kanal 6 DK</cname>
-	<imageurl>http://discoverynetworks.dk/efteraar2016/sites/default/files/K6_RGB_72dpi.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>TV 3 NO</cname>
-	<imageurl>https://pbs.twimg.com/profile_images/378800000322693435/7d2d7dad8cc8a30c9a902cc72a8ce6df_400x400.jpeg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>DR1 DK</cname>
-	<imageurl>http://digitalt.tv/wp-content/uploads/2017/10/dr1logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>DR2 DK</cname>
-	<imageurl>https://www.dr.dk/images/other/2016/02/09/92cb3060-ad16-4428-b10c-dfc865e01312_logo_dr2.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>DR3 DK</cname>
-	<imageurl>http://digitalt.tv/pics/kanalloger/dr3logo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Kanal3 DK</cname>
-	<imageurl>http://www.chillglobal.com/images/channels/tv3-1432658280.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Kanal2 DK</cname>
-	<imageurl>http://shared.tv2.dk/sites/all/themes/t2/img/apple-touch-icon-precomposed.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Kanal2 News DK</cname>
-	<imageurl>https://images.indiegogo.com/file_attachments/987540/files/20141105002340-TV_2_News_logo_2013.jpg?1415175820</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>TVB DK</cname>
-	<imageurl>https://b.top4top.net/p_751xqwtl1.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Scandinavian</category>
-	</assignedcategory>
-</channel>
 
 
 
@@ -1533,7 +1400,7 @@
 
 <channel>
 	<cname>Dubai Racing</cname>
-	<imageurl>https://pbs.twimg.com/profile_images/845171004305424384/i6ry9PuY.jpg</imageurl>
+	<imageurl>https://pbs.twimg.com/profile_images/993899145990729730/wifDLmuI_400x400.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1541,7 +1408,7 @@
 </channel>
 <channel>
 	<cname>Dubai Racing 2</cname>
-	<imageurl>https://pbs.twimg.com/profile_images/845171004305424384/i6ry9PuY.jpg</imageurl>
+	<imageurl>https://1.top4top.net/p_12416uk2k1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1549,7 +1416,15 @@
 </channel>	 
 <channel>
 	<cname>Dubai Sport 1</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/dubai_zps8de42d6d.png</imageurl>
+	<imageurl>https://4.bp.blogspot.com/-jUtM4K6sJWE/WGfJLNceZOI/AAAAAAAADDI/KEAMowWWzJkMmVnQrCJO6HCtY4ShQ8D5gCLcB/w680/download.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>sports</category>
+	</assignedcategory>
+</channel>	
+<channel>
+	<cname>Dubai Sport 2</cname>
+	<imageurl>https://4.bp.blogspot.com/-jUtM4K6sJWE/WGfJLNceZOI/AAAAAAAADDI/KEAMowWWzJkMmVnQrCJO6HCtY4ShQ8D5gCLcB/w680/download.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1557,7 +1432,7 @@
 </channel>	
   <channel>
 	<cname>Dubai Sport 3</cname>
-	<imageurl>http://s30.postimg.org/yi4m0r6a9/Dubai_sport_3.png</imageurl>
+	<imageurl>https://www.omnesmedia.com/cache/0569844001513776682-250x250.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1575,56 +1450,12 @@
 
 <channel>
 	<cname>KTV SPORT</cname>
-	<imageurl>https://pbs.twimg.com/profile_images/598168758159454208/mlpw7msW.jpg</imageurl>
+	<imageurl>http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
 	</assignedcategory>
 </channel>	
-
-<channel>
-	<cname>KTV Sport Plus</cname>
-	<imageurl>https://f.top4top.net/p_472zq9j81.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>MBC PRO SP1</cname>
-	<imageurl>http://2.bp.blogspot.com/-xjL-llxwi2Y/U-GB2_5QqWI/AAAAAAAAC4g/iv1HWDBUOAE/s1600/MBC+Pro+SP1+EF.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>MBC PRO SP2</cname>
-	<imageurl>http://4.bp.blogspot.com/-_2AeR_zTeQQ/U-GBhLkIgOI/AAAAAAAAC4Y/s0t01dwIgmY/s70-p/MBC+Pro+SP2+EF.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>MBC PRO SP3</cname>
-	<imageurl>http://1.bp.blogspot.com/-q5DyrQNSHFE/U-GBDaRryGI/AAAAAAAAC4Q/WkS5OOyttWA/s70-p/MBC+Pro+SP3+EF.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-
-
-<channel>
-      <cname>NBC Golf</cname>
-      <imageurl>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzjFf0-GG5z9V-K3U7mZipgZFHIy0kgZD-Ur9S9_eMYOl-QsD-Ew</imageurl>
-      <enabled>True</enabled>
-      <assignedcategory>
-      <category>sports</category>
-      </assignedcategory>
-</channel>
 
 <channel>
 	<cname>Nile Sport</cname>
@@ -1637,7 +1468,7 @@
 
 <channel>
 	<cname>Oman Sport</cname>
-	<imageurl>https://pbs.twimg.com/profile_images/683079854661746688/Yv7vhuSj.png</imageurl>
+	<imageurl>http://ik.imagekit.io/ulangotv/image/upload/14642_logo_oman_sport_tv.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1646,7 +1477,7 @@
 
 <channel>
 	<cname>Saudia Sport</cname>
-	<imageurl>http://4.bp.blogspot.com/-2-sHy7Fn6uw/UB1BdM_oz9I/AAAAAAAAAOU/y6K_ZZxjfsc/s1600/rsz_1983.jpg</imageurl>
+	<imageurl>http://www.goalzz.com/images/0safi/2018/ksasport.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sports</category>
@@ -1663,54 +1494,6 @@
 </channel>
 
 <channel>
-	<cname>Sky Sport Box Office</cname>
-	<imageurl>http://www.worldboxingnews.net/images/Promoter-Body-LOGOS/sky-sports-box-office.JPG</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Sky Sport Action</cname>
-	<imageurl>https://ulango.tv/uploads/channels/3782194/logo_sky%20sport%20action.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Sky Sport Premier League</cname>
-	<imageurl>http://sportsnewsireland.com/wp-content/uploads/2017/10/Sky-Sports.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>		
-<channel>
-	<cname>Sky Sport Premier Main Event</cname>
-	<imageurl>http://a.up-00.com/2018/03/15225179276371.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>	
-<channel>
-	<cname>Sky Sport Arena</cname>
-	<imageurl>https://ulango.tv/uploads/channels/3782272/logo_sky%20sport%20arena.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Sky Sport Football</cname>
-	<imageurl>https://media.info/i/lf/0/1507600241/6752.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sports</category>
-	</assignedcategory>
-</channel>
-<channel>
 	<cname>WWE</cname>
 	<imageurl>https://pbs.twimg.com/profile_images/783388139591270400/zsOyJO_c_400x400.jpg</imageurl>
 	<enabled>True</enabled>
@@ -1722,7 +1505,7 @@
 
 <!-- Sport Channels End -->
 
-<!-- Nes Channels Start -->
+<!-- News Channels Start -->
 
 <channel>
 	<cname>Al Eqtisadiyah</cname>
@@ -1987,8 +1770,8 @@
 <!-- Doc Channels Start -->
 
 <channel>
-	<cname>Al Thakafiyah</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_thakafiyah_tv.png</imageurl>
+	<cname>SBC</cname>
+	<imageurl>https://1.top4top.net/p_12418xpkr1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>doc</category>
@@ -1997,7 +1780,7 @@
 
 <channel>
 	<cname>Aljazeera Doc</cname>
-	<imageurl>http://s19.postimg.org/g59ua5ygv/aljazeeradoc.png</imageurl>
+	<imageurl>https://4.top4top.net/p_12418x6jn1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>doc</category>
@@ -2006,7 +1789,7 @@
 
 <channel>
 	<cname>KTV ARABE</cname>
-	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_arabe_new.png</imageurl>
+	<imageurl>http://f12.data4web.com/u/1001/3662/3392/blog/58d14af0d2c29.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>doc</category>
@@ -2014,7 +1797,7 @@
 </channel>	
 <channel>
 	<cname>KTV ETRAA</cname>
-	<imageurl>http://www.media.gov.kw/tvradio/Portal/images/new/kwtv_ethraa_new.png</imageurl>
+	<imageurl>https://www.nmisr.com/wp-content/uploads/2018/08/f30eb3650-1.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>doc</category>
@@ -2023,7 +1806,7 @@
 
 <channel>
 	<cname>National Geo Ad</cname>
-	<imageurl>http://s19.postimg.org/5smhg6dxf/natgeoad.png</imageurl>
+	<imageurl>https://2.top4top.net/p_1241hp51h1.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>doc</category>
