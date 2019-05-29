@@ -1,5 +1,6 @@
 <streamingInfos>
-    <streaminginfo>
+<!--
+	<streaminginfo>
         <cname>Dzair tv</cname>
         <item>
             <title>High</title>
@@ -273,7 +274,7 @@
             <link>lbc</link>
         </item>
     </streaminginfo>
-<!--
+
     <streaminginfo>
         <cname>MBC 1</cname>
         <item>
@@ -337,7 +338,7 @@
             <link>Hi_Arriadia</link>
         </item>
     </streaminginfo>
--->
+
     <streaminginfo>
         <cname>Mehwar 2</cname>
         <item>
@@ -485,4 +486,5 @@
             <link>Hi_zeeaflem</link>
         </item>
     </streaminginfo>
+-->
 </streamingInfos>
