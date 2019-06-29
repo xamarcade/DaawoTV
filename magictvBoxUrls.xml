@@ -3,39 +3,40 @@
 <!-- Indian Channels Start -->
 
 <streaminginfo>
-        <cname>&amp;TV APAC</cname>
-		<item>
-		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1802.ts</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
         <cname>&amp;TV</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1754.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/1796</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
         <cname>&amp;TV HD</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1816.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/1826</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
         <cname>B4U Aflam</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1791.ts</link>
+		<link>http://livecdnh3.tvanywhere.ae/hls/b4uaflam/03.m3u8</link>
 		</item>
+</streaminginfo>
+
+<streaminginfo>
+   <cname>B4U Aflam</cname>
+	<item>
+	<title>Box</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/1791</link>
+	</item>
 </streaminginfo>
 
 <streaminginfo>
     <cname>B4U Movies</cname>
 	<item>
 	<title>Box</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1792.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/19094117sf129se5/19094117sf129se5/1792.ts</link>
 	</item>
 </streaminginfo>
 
@@ -43,28 +44,28 @@
         <cname>Colors UK</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/3049.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/19094117sf129se5/19094117sf129se5/3049.ts</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
         <cname>Colors US</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1830.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/19094117sf129se5/19094117sf129se5/1830.ts</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
         <cname>Colors Bangla</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/2946.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/19094117sf129se5/19094117sf129se5/2946.ts</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
         <cname>Colors ME</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1824.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/19094117sf129se5/19094117sf129se5/1824.ts</link>
 		</item>
 </streaminginfo>
 
@@ -72,7 +73,7 @@
         <cname>Imagines Movies</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/852.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/2195</link>
 		</item>
 </streaminginfo>
 
@@ -80,7 +81,49 @@
         <cname>Sony Max HD</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://best4u.biz:8000/live/dmy2101/9764681/1345.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/2959</link>
+		</item>
+</streaminginfo> 
+<streaminginfo>
+        <cname>Sony Max AUD</cname>
+		<item>
+		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/2951</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+       	<cname>Sony Max 2</cname>
+		<item>
+		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/2982</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Sony Sab</cname>
+		<item>
+		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/2962</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+	    <cname>Sony Pal</cname>
+		<item>
+		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/1794</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Sony TV</cname>
+		<item>
+		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/2964</link>
+		</item>
+</streaminginfo>
+<streaminginfo>
+        <cname>Sony TV (Hindi)</cname>
+		<item>
+		<title>High</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/2987</link>
 		</item>
 </streaminginfo>
 
@@ -88,14 +131,14 @@
     <cname>Star Plus (UK)</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1753.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/19094117sf129se5/19094117sf129se5/1753.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
     <cname>Star Plus (Hindi)</cname>
 	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1803.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/19094117sf129se5/19094117sf129se5/1803.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -110,14 +153,14 @@
     <cname>Zee Action</cname>
 	<item>
 	<title>Hamada: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/2966.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/19094117sf129se5/19094117sf129se5/2966.ts</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
     <cname>Zee Aflam</cname>
 	<item>
 	<title>Hamada: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1779.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/19094117sf129se5/19094117sf129se5/1779.ts</link>
 	</item>
 </streaminginfo>
 
@@ -125,29 +168,15 @@
     <cname>Zee Alwan</cname>
 	<item>
 	<title>Hamada: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1778.ts</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Zee Anmol</cname>
-	<item>
-	<title>Hamada: High</title>
-	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1813.ts</link>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/19094117sf129se5/19094117sf129se5/1778.ts</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
         <cname>Zee Bangla</cname>
 		<item>
-		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1784.ts</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Zee TV Canada</cname>
-		<item>
-		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1760.ts</link>
+		<title>High HD</title>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/19094117sf129se5/19094117sf129se5/1784.ts</link>
 		</item>
 </streaminginfo>
 
@@ -155,58 +184,22 @@
         <cname>Zee Cinema HD</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1750.ts</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Zee Cinema HD (ME)</cname>
-		<item>
-		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1782.ts</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Zee Cinema HD (UK)</cname>
-		<item>
-		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1780.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/1763</link>
 		</item>
 </streaminginfo>
 
-<streaminginfo>
-        <cname>Zee Classic</cname>
-		<item>
-		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1752.ts</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>Zee Kannada</cname>
-		<item>
-		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/2968.ts</link>
-		</item>
-</streaminginfo>
-<streaminginfo>
-        <cname>Zee Punjab</cname>
-		<item>
-		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/3051.ts</link>
-		</item>
-</streaminginfo>
 <streaminginfo>
         <cname>Zee TV</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1815.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/19094117sf129se5/19094117sf129se5/1815.ts</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
         <cname>Zee TV HD (US)</cname>
 		<item>
 		<title>High</title>
-		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/190zih8du18vsyyf/190zih8du18vsyyf/1781.ts</link>
+		<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipsatpro.info:8080/live/19094117sf129se5/19094117sf129se5/1781.ts</link>
 		</item>
 </streaminginfo>
 
