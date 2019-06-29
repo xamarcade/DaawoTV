@@ -670,6 +670,7 @@
 	<category>Scandinavian</category>
 	</assignedcategory>
 </channel>
+
 <channel>
 	<cname>Viasat Family</cname>
 	<imageurl>https://1.top4top.net/p_1241bgiwc2.png</imageurl>
@@ -782,14 +783,6 @@
 	</assignedcategory>
 </channel>
 
-<channel>
-	<cname>B4U Plus</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/bb/b4u_plus_ae.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
 -->
 <channel>
 	<cname>&amp;TV HD</cname>
@@ -807,18 +800,10 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>&amp;TV APAC</cname>
-	<imageurl>http://3.bp.blogspot.com/-pMqF_NVXOfI/VTIyMa5Bq1I/AAAAAAAABqA/HSuCDWfc2k8/s1600/%26tv(Andtv)%2Btv%2Bchannel%2Blogo%2Bimages.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
 
 <channel>
 	<cname>B4U Aflam</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/bb/b4u_aflam_ae.png</imageurl>
+	<imageurl>https://plsadaptive.s3.amazonaws.com/eco/images/partners/7DIoUsmRKd0XVgHEYUF5R1bUmaeSo9JGT3tBAXZh.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
@@ -896,14 +881,6 @@
 </channel>
 
 <channel>
-	<cname>9 XM</cname>
-	<imageurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/94d3d7ac-3b81-4193-aad3-ec2cb2ec878f?imageType=ws_icon_large</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-<channel>
 	<cname>Rishtey</cname>
 	<imageurl>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFvcWSrCp4mOZEXHha3YRypb-CSQJP7EP0c_tNJKWAyAQvysJ-</imageurl>
 	<enabled>True</enabled>
@@ -922,7 +899,7 @@
 </channel>
 
 <channel>
-	<cname>Sony Max India</cname>
+    <cname>Sony Max AUD</cname>
 	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/851px-Sony_MAX.svg.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -930,8 +907,8 @@
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>Sony Max UK</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/851px-Sony_MAX.svg.png</imageurl>
+	<cname>Sony Max 2</cname>
+	<imageurl>https://yt3.ggpht.com/a/AGF-l79pHkomuu3UToseNkduTq9eq1dXN0jkDbf3GQ=s900-mo-c-c0xffffffff-rj-k-no</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
@@ -947,16 +924,24 @@
 </channel>
 
 <channel>
-	<cname>Sony TV</cname>
-	<imageurl>http://1.bp.blogspot.com/-5jWtLOrE2t8/VUhmR2vYF2I/AAAAAAAACIA/315S-8RB-Xk/s1600/Zinda%2BSerial%2Bon%2BSony%2BTV%2B-%2BStory,%2BTimings%2B%26%2BFull%2BStar%2BCast,%2BPromos.png</imageurl>
+	<cname>Sony Pal</cname>
+	<imageurl>http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/05/30/tv%20gec%20priority3.jpg?itok=EktG1vo5</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>Sony TV (Hindi)</cname>
-	<imageurl>http://1.bp.blogspot.com/-5jWtLOrE2t8/VUhmR2vYF2I/AAAAAAAACIA/315S-8RB-Xk/s1600/Zinda%2BSerial%2Bon%2BSony%2BTV%2B-%2BStory,%2BTimings%2B%26%2BFull%2BStar%2BCast,%2BPromos.png</imageurl>
+	<cname>Sony TV</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>Indian</category>
+	</assignedcategory>
+</channel>
+<channel>
+    <cname>Sony TV (Hindi)</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
@@ -988,27 +973,10 @@
 	<category>Indian</category>
 	</assignedcategory>
 </channel>	
-<channel>
-	<cname>Zee Anmol</cname>
-	<imageurl>https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/97/c8/60/97c86026d7b2333af5a5325035f82b05.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>	
 
 <channel>
 	<cname>Zee Bangla</cname>
-	<imageurl>https://pbs.twimg.com/profile_images/919588837562527744/jOXunQ_w.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Zee TV Canada</cname>
-	<imageurl>http://d3n8a8pro7vhmx.cloudfront.net/vibc/pages/257/meta_images/original/ZEETVHD_CANADA.jpg?1432567052</imageurl>
+	<imageurl>https://1.bp.blogspot.com/-kl0vPk-o2f4/XI9aqDQeMFI/AAAAAAAAAHY/ST7pVcIWq_k9vrnSiTLYhu2-3E4FANoeQCLcBGAs/s1600/ZBangla.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
@@ -1018,47 +986,6 @@
 <channel>
 	<cname>Zee Cinema HD</cname>
 	<imageurl>https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Zee-Cinema-HD-300x248.jpg/revision/latest?cb=20171104164822</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Zee Cinema HD (ME)</cname>
-	<imageurl>https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Zee-Cinema-HD-300x248.jpg/revision/latest?cb=20171104164822</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Zee Cinema HD (UK)</cname>
-	<imageurl>https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Zee-Cinema-HD-300x248.jpg/revision/latest?cb=20171104164822</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Zee Classic</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/commons/b/bf/Zee_Classic_2017_Logo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Zee Kannada</cname>
-	<imageurl>https://yt3.ggpht.com/-G0Xv_xY8Bq0/AAAAAAAAAAI/AAAAAAAAAAA/zUUnjOKZyrc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>Indian</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Zee Punjab</cname>
-	<imageurl>https://upload.wikimedia.org/wikipedia/commons/1/1c/Zee_Punjabi_2017_Logo.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>Indian</category>
@@ -2880,24 +2807,6 @@
 <!-- Sham Channels Start -->
 
 <channel>
-	<cname>7Stars</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/num/7_stars_tv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Al Haqeeqa</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_haqeeqah_al_dawliyah.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Al Ordonia</cname>
 	<imageurl>http://www.arabicnadwah.com/tv/tv-logo-new.jpg</imageurl>
 	<enabled>True</enabled>
@@ -2908,16 +2817,7 @@
 
 <channel>
 	<cname>Alaqsa</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/aa/al_aqsa.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>ALFALASTINIAH</cname>
-	<imageurl>http://panorama-pvs.com/files/image/Clients/Al-Falestinay.jpg</imageurl>
+	<imageurl>https://pbs.twimg.com/profile_images/1127460779878428672/rKGK-CRv.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
@@ -2926,7 +2826,7 @@
 
 <channel>
 	<cname>Aljadeed</cname>
-	<imageurl>http://s19.postimg.org/audoa667z/aljadeed.png</imageurl>
+	<imageurl>https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
@@ -2943,17 +2843,8 @@
 </channel>	
 
 <channel>
-	<cname>Fatafeat</cname>
-	<imageurl>http://s19.postimg.org/pq7786nsz/fetafettv.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-
-<channel>
 	<cname>Future TV</cname>
-	<imageurl>http://s19.postimg.org/mif2qpedf/futuretv.png</imageurl>
+	<imageurl>https://www.channelsfrequency.com/public_html/wp-content/uploads/2017/01/%D9%A1-42.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
@@ -2962,16 +2853,7 @@
 
 <channel>
 	<cname>Halab Today</cname>
-	<imageurl>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/t1.0-1/p160x160/12480_635471726507246_1498485639_n.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Jordan</cname>
-	<imageurl>http://www.jrtv.jo/App_Themes/ar/images/logo.png</imageurl>
+	<imageurl>https://yt3.ggpht.com/a/AGF-l7-FWKOQJN9xUELsTWXa-BjSvXCG9D7tQp7AbQ=s900-mo-c-c0xffffffff-rj-k-no</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
@@ -2980,15 +2862,15 @@
 
 <channel>
 	<cname>LBC</cname>
-	<imageurl>http://s19.postimg.org/bmz6bpkw3/lbcsat.png</imageurl>
+	<imageurl>http://www.wataan.com/uploads/12122017-103513PM.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
 	</assignedcategory>
 </channel>	
 <channel>
-	<cname>Lbc Europe</cname>
-	<imageurl>http://s19.postimg.org/v29y4te6b/lbceurope.png</imageurl>
+	<cname>LBC Int</cname>
+	<imageurl>https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
@@ -2997,7 +2879,7 @@
 
 <channel>
      <cname>LDC</cname>
-     <imageurl>http://www.lyngsat-logo.com/hires/ll/ldc_lb.png</imageurl>
+     <imageurl>https://pbs.twimg.com/profile_images/554613831402397697/EItrJSAs.png</imageurl>
      <enabled>True</enabled>
      <assignedcategory>
      <category>sham</category>
@@ -3015,7 +2897,7 @@
 
 <channel>
 	<cname>OTV Lebanon</cname>
-	<imageurl>http://s19.postimg.org/df5gsgrgf/otv.png</imageurl>
+	<imageurl>https://pbs.twimg.com/profile_images/1025280141277241345/wTK39dns_400x400.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
@@ -3032,15 +2914,15 @@
 </channel>	
 <channel>
 	<cname>Palestine AlYawm</cname>
-	<imageurl>http://www.lyngsat-logo.com/hires/pp/palestine_al_yawm.png</imageurl>
+	<imageurl>https://paltoday.tv/img/lBG54.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
 	</assignedcategory>
 </channel>
 <channel>
-	<cname>Palestine Live</cname>
-	<imageurl>http://s2.postimg.org/w9oo11iix/Palites.jpg</imageurl>
+	<cname>Palestiney</cname>
+	<imageurl>https://5.top4top.net/p_1247rbdv71.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
@@ -3049,7 +2931,7 @@
 
 <channel>
 	<cname>Roya</cname>
-	<imageurl>http://s19.postimg.org/ub3ftt7nn/roya.png</imageurl>
+	<imageurl>https://pbs.twimg.com/profile_images/1068969809084329987/a8cNRWNy_400x400.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
@@ -3058,7 +2940,7 @@
 
 <channel>
 	<cname>Sama Syria</cname>
-	<imageurl>http://s19.postimg.org/fbw69n1fn/samatv.png</imageurl>
+	<imageurl>https://i0.wp.com/mexawy.site/wp-content/uploads/2019/01/%D8%B3%D9%85%D8%A7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.jpg?fit=300%2C279</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
@@ -3066,49 +2948,16 @@
 </channel>
 <channel>
 	<cname>Syria</cname>
-	<imageurl>http://live.rtv.gov.sy/images/sat.jpg</imageurl>
+	<imageurl>https://pbs.twimg.com/profile_images/926011190056247296/gU9CfRj0_400x400.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
 	</assignedcategory>
 </channel>	
-<channel>
-	<cname>Syria Aloula</cname>
-	<imageurl>http://live.rtv.gov.sy/images/Aloula.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
+
 <channel>
 	<cname>Syria Sedu</cname>
-	<imageurl>http://live.rtv.gov.sy/images/sedu.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Syria Talaqie</cname>
-	<imageurl>http://live.rtv.gov.sy/images/talaqie.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-
-<channel>
-	<cname>Tele Liban</cname>
-	<imageurl>http://s19.postimg.org/67xr96zur/teleliban.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>sham</category>
-	</assignedcategory>
-</channel>
-
-	  <channel>
-	<cname>Zweina Bladna</cname>
-	<imageurl>http://www.lyngsat-logo.com/logo/tv/zz/zweina_baladna.png</imageurl>
+	<imageurl>https://yt3.ggpht.com/a/AGF-l7_GC-Qp4OCWBF2mck8cyXCpbFZ1_6HcH-huJw=s900-mo-c-c0xffffffff-rj-k-no</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>sham</category>
