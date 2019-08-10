@@ -906,16 +906,6 @@
 	<link>mms://50.22.223.13/radio</link>
 	</item>
 </streaminginfo>
-
-<streaminginfo><cname>Quran TV ksa</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ep9eRC979iA</link></item></streaminginfo>
-<streaminginfo>
-    <cname>Quran TV ksa</cname>
-	<item>
-	<title>High</title>
-	<link>http://m.live.net.sa:1935/live/quran/chunklist_w2091946084.m3u8</link>
-	</item>
-</streaminginfo>
-
 <streaminginfo>
     <cname>Selah</cname>
 	<item>
@@ -923,21 +913,33 @@
 	<link>plugin://plugin.video.f4mTester/?url=http://streamer11.elementssys.com:8080/selah/archive/1415734692/now/manifest.f4m</link>
 	</item>
 </streaminginfo>
-
-
-<streaminginfo><cname>sunnah TV</cname><item><title>You need Youtube Addon</title><link>plugin://plugin.video.youtube/play/?video_id=ZYEKFOPUsmg</link></item></streaminginfo>
+	
+<streaminginfo>
+	<cname>Quran TV ksa</cname>
+	<item>
+		<title>Youtube</title>
+		<link>plugin://plugin.video.youtube/play/?video_id=ep9eRC979iA</link>
+	</item>
+	</streaminginfo>
+<streaminginfo>
+    <cname>Quran TV ksa</cname>
+	<item>
+	<title>High</title>
+	<link>http://m.live.net.sa:1935/live/quran/chunklist_w2091946084.m3u8</link>
+	</item>
+</streaminginfo>	
 <streaminginfo>
 	<cname>sunnah TV</cname>
 	<item>
 	<title>Med</title>
-	<link>http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8?v=1525040486</link>
+	<link>http://m.live.net.sa:1935/live/sunnah/chunklist_w615236773.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>sunnah TV</cname>
 	<item>
 	<title>Elahmad</title>
-	<link>http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=sunnatv</link>
+	<link>http://www.elahmad.com/tv/youtube.php?id=SaudiSunnahTv</link>
 	</item>
 </streaminginfo> 
 
