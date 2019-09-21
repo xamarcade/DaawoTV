@@ -49,24 +49,25 @@
 	</regex>
 	</item>
 </streaminginfo>
+-->
 
+	
 <streaminginfo>
 	<cname>Djibouti</cname>
 	<item>
     <title>Low</title>
     <link>http://www.axadledirect.com:1936/19/stream/playlist.m3u8</link>
 	</item>
-</streaminginfo>
-
+</streaminginfo>	
+	
 <streaminginfo>
 	<cname>Kalsan Tv</cname>
 	<item>
 	<title>Med</title>
-	<link>hhttp://kalsan.zecast.net/kalsan-live/kalsan/chunklist_w1097805821.m3u8</link>
+	<link>http://kalsan.zecast.net/kalsan-live/kalsan/chunklist_w1097805821.m3u8</link>
 	</item>
-</streaminginfo>
-
--->
+</streaminginfo>	
+	
 <streaminginfo>
 	<cname>STN</cname>
 	<item>
@@ -148,7 +149,7 @@
 	<cname>Bulsho TV</cname>
 	<item>
 	<title>Med</title>
-	<link>http://cdn.mediavisionuae.com:1935/live/bulshotv.stream/playlist.m3u8</link>
+	<link>https://ap01.iqplay.tv:81/iqb8002/bu1sho41.m3u8</link>
 	</item>
 </streaminginfo>
 
@@ -156,7 +157,7 @@
 	<cname>PLTV</cname>
 	<item>
 	<title>Med</title>
-	<link>http://cdn01.iqbroadcast.tv:8081/g1/punt56ds/chunks.m3u8</link>
+	<link>https://ap01.iqplay.tv:81/iqb8002/p2t25.m3u8</link>
 	</item>
 </streaminginfo>
 
