@@ -138,17 +138,41 @@
 <!-- Somalia Channels Start -->
 
 <streaminginfo>
-	<cname>Kalsan Tv</cname>
+	<cname>Saafi TV 1</cname>
 	<item>
-    <title>High 2</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/966&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <title>High 1</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/3213&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Saafi TV 2</cname>
+	<item>
+    <title>High 1</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/951&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>CNA TV</cname>
+	<item>
+    <title>High 1</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/3238&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Dalsan TV</cname>
+	<item>
+    <title>High 1</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/3240&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+</item>
+</streaminginfo>
+
 <streaminginfo>
 	<cname>Kalsan Tv</cname>
 	<item>
     <title>High 1</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/3193&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/966&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -169,18 +193,10 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>SBC</cname>
+	<cname>SBC Somali</cname>
 	<item>
 	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/3195&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-    </item>	
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Somali Cable</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/3192&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
     </item>	
 </streaminginfo>
 
@@ -209,21 +225,6 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Saab TV</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/965&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-   </item>	
-</streaminginfo>
-
-<streaminginfo>
-	<cname>SNTV</cname>
-	<item>
-	<title>High 2</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/942&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-   </item>	
-</streaminginfo>
-<streaminginfo>
 	<cname>SNTV</cname>
 	<item>
 	<title>High 1</title>
@@ -238,7 +239,6 @@
 	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/3196&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
    </item>	
 </streaminginfo>
-
 
 <!--
 
@@ -260,7 +260,7 @@
 
 -->
 <!-- Somalia Channels End -->
-
+	
 <!-- OSN Channels Start -->
 
 <streaminginfo>
