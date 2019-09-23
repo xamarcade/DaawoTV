@@ -1,5 +1,4 @@
 <channels>
-
 <!-- Somalian Channels Start -->
 
 <channel>
@@ -30,8 +29,8 @@
 </channel>
 	
 <channel>
-     <cname>Saab TV</cname>
-     <imageurl>https://lh3.googleusercontent.com/KczL3SPP8PPGx4_G8EDAPrJ6CaJZ-ouHvdgC4ppatDQIdxWM7ggSpicp-RHXVsM5GDG_</imageurl>
+     <cname>Horyaal Tv</cname>
+     <imageurl>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpuvMscjL9G3ivW5ZNlf9Sc3XX4Ijssy-byA40vQAbYqvCyCa9</imageurl>
      <enabled>True</enabled>
      <assignedcategory>
      <category>somalia</category>
@@ -39,7 +38,51 @@
 </channel>	
 
 <channel>
-	<cname>SBC</cname>
+     <cname>Dalka TV</cname>
+     <imageurl>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWLFmW7iGrqrfVnQ3Oon_wLa9OaFFqSqpTHPvLD8ewducnhOS7</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>somalia</category>
+     </assignedcategory>
+</channel>	
+
+<channel>
+     <cname>Dalsan TV</cname>
+     <imageurl>https://yt3.ggpht.com/a/AGF-l79vlY65pkgNn-zTrNX944uIfdCby_YWORoAQQ=s900-c-k-c0xffffffff-no-rj-mo</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>somalia</category>
+     </assignedcategory>
+</channel>	
+
+<channel>
+     <cname>CNA TV</cname>
+     <imageurl>https://yt3.ggpht.com/a/AGF-l7__BCgmb6pF3fR6QNWQHa7JcRfgvcLfhNPX=s900-c-k-c0xffffffff-no-rj-mo</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>somalia</category>
+     </assignedcategory>
+</channel>	
+
+<channel>
+     <cname>Saafi TV 1</cname>
+     <imageurl>https://www.saafifilms.com/wp-content/uploads/2016/02/Saafi-Logo-1.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>somalia</category>
+     </assignedcategory>
+</channel>	
+<channel>
+     <cname>Saafi TV 2</cname>
+     <imageurl>https://www.saafifilms.com/wp-content/uploads/2016/02/Saafi-Logo-1.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>somalia</category>
+     </assignedcategory>
+</channel>	
+
+<channel>
+	<cname>SBC Somali</cname>
 	<imageurl>http://allsbc.com/sbcon/wp-content/themes/sbc-2015/images/sbc-logo-blue-lg.png</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
@@ -119,6 +162,14 @@
 	</assignedcategory>
 </channel>
 	
+<channel>
+	<cname>Som News TV</cname>
+	<imageurl>https://yt3.ggpht.com/-rpPOZfAQwxU/AAAAAAAAAAI/AAAAAAAAAAA/hLE4tx04oXM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>somalia</category>
+	</assignedcategory>
+</channel>	
 <!--
 -<channel>
 	<cname>Star TV</cname>
@@ -128,14 +179,7 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>Som News TV</cname>
-	<imageurl>https://yt3.ggpht.com/-rpPOZfAQwxU/AAAAAAAAAAI/AAAAAAAAAAA/hLE4tx04oXM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>
+
 
 <channel>
 	<cname>Galmudug</cname>
