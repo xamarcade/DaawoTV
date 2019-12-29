@@ -72,6 +72,15 @@
 </item>
 </streaminginfo>
 
+
+<streaminginfo>
+<cname>MBC Drama plusHD</cname>
+<item>
+<title>High</title>
+<link>http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8</link>
+</item>
+</streaminginfo>		
+
 <streaminginfo>
 <cname>MBC Masr</cname>
 <item>
