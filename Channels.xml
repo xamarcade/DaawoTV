@@ -1828,6 +1828,16 @@
 	<category>ent</category>
 	</assignedcategory>
 </channel>
+	
+<channel>
+	<cname>MBC 5</cname>
+	<imageurl>https://cdn.sahafahn.net/img-0-360/czoxMDQ6Imh0dHBzOi8vYXJiNGhvc3QuY29tL25ld3Mvd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDkvNzA1Mzc4MzZfMjUxMDUwOTQ2OTAyNjkxNl82NzM5MDY1Nzg3ODAzMjM4NDAwX24uanBnIjs=.jpeg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>ent</category>
+	</assignedcategory>
+</channel>
+	
 <channel>
 	<cname>MBC Action</cname>
 	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/mbcction_zpsd8efdff9.png</imageurl>
