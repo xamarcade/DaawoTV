@@ -4,250 +4,96 @@
 <streaminginfo>
 	<cname>Bein Sport 01</cname>
 	<item>
-	<title>Low</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2472.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 01</cname>
-	<item>
-	<title>Med</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2456.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 01</cname>
-	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/169.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/27099&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 02</cname>
 	<item>
-	<title>Low</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2473.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 02</cname>
-	<item>
-	<title>Med</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2457.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 02</cname>
-	<item>
 	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/168.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/27098&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
-
 
 <streaminginfo>
 	<cname>Bein Sport 03</cname>
 	<item>
-	<title>Low</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2481.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 03</cname>
-	<item>
-	<title>Med</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2458.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 03</cname>
-	<item>
 	<title>High</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/167.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/27097&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 04</cname>
 	<item>
-	<title>Low</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2474.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 04</cname>
-	<item>
-	<title>Med</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2459.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 04</cname>
-	<item>
 	<title>High</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/166.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/27096&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 05</cname>
 	<item>
-	<title>Low</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2475.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 05</cname>
-	<item>
-	<title>Med</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2460.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 05</cname>
-	<item>
 	<title>High</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/165.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/27095&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 06</cname>
 	<item>
-	<title>Low</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2476.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 06</cname>
-	<item>
-	<title>Med</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2461.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 06</cname>
-	<item>
 	<title>High</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/164.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/27094&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 07</cname>
 	<item>
-	<title>Low</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2477.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 07</cname>
-	<item>
-	<title>Med</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2462.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 07</cname>
-	<item>
 	<title>High</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/163.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/27093&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 08</cname>
 	<item>
-	<title>Low</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2478.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 08</cname>
-	<item>
-	<title>Med</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2463.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 08</cname>
-	<item>
 	<title>High</title>
-    	<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/162.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    	<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/27092&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 09</cname>
 	<item>
-	<title>Low</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2479.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 09</cname>
-	<item>
-	<title>Med</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2464.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 09</cname>
-	<item>
 	<title>High</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/161.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/27091&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Bein Sport 10</cname>
 	<item>
-	<title>Low</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2480.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 10</cname>
-	<item>
-	<title>Med</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2465.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 10</cname>
-	<item>
 	<title>High</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/160.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/27090&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
-
-<streaminginfo>
-	<cname>Bein Sport 11</cname>
-	<item>
-	<title>Med</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2466.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
+	
 <streaminginfo>
 	<cname>Bein Sport 11</cname>
 	<item>
 	<title>High</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/159.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/27101&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 12</cname>
-	<item>
-	<title>Med</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2467.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
+
 <streaminginfo>
 	<cname>Bein Sport 12</cname>
 	<item>
 	<title>High</title>
-    <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/170.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+    <link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/27100&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
