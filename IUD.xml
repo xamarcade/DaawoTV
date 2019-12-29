@@ -68,16 +68,7 @@
 <cname>MBC Drama plusHD</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/12879&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-
-
-<streaminginfo>
-<cname>MBC Drama plusHD</cname>
-<item>
-<title>High</title>
-<link>http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8</link>
+<link>http://95.170.215.118/hls/m3u8/MBC-DRAMA-SS.m3u8</link>
 </item>
 </streaminginfo>		
 
