@@ -5,14 +5,7 @@
 <cname>MBC 1</cname>
 <item>
 <title>High HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.biz:8080/19094117sf129se5/19094117sf129se5/2274&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>MBC 1</cname>
-<item>
-<title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/50.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/12875&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -20,22 +13,14 @@
 <cname>MBC 2</cname>
 <item>
 <title>High HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2272.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/12874&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
-<streaminginfo>
-<cname>MBC 2</cname>
-<item>
-<title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/49.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-
 <streaminginfo>
 <cname>MBC 3</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/48.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/12873&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -43,22 +28,23 @@
 <cname>MBC 4</cname>
 <item>
 <title>High HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2271.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/12872&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
+	
 <streaminginfo>
-<cname>MBC 4</cname>
+<cname>MBC 5</cname>
 <item>
-<title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/47.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>High HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/42199&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
-</streaminginfo>
+</streaminginfo>	
 
 <streaminginfo>
 <cname>MBC Action</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/44.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/12881&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -66,22 +52,15 @@
 <cname>MBC Bollywood</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/41.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/12880&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
 <streaminginfo>
 <cname>MBC Drama</cname>
 <item>
-<title>High 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2273.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>MBC Drama</cname>
-<item>
-<title>High 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/42.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>High</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/12878&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -89,7 +68,7 @@
 <cname>MBC Drama plusHD</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2387.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/12879&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -97,7 +76,7 @@
 <cname>MBC Masr</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/46.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/42221&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -105,7 +84,7 @@
 <cname>MBC Masr 2</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/45.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/42222&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -113,7 +92,7 @@
 <cname>MBC Iraq</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2276.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/42219&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -121,7 +100,7 @@
 <cname>MBC Max</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/43.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/12877&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
@@ -129,7 +108,7 @@
 <cname>MBC Variety HD</cname>
 <item>
 <title>High</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/19094117sf129se5/19094117sf129se5/2397.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/12876&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 </item>
 </streaminginfo>
 
