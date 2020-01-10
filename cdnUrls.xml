@@ -2,20 +2,19 @@
 <!-- SportChannels Start -->
 
 <streaminginfo>
-	<cname>Bein Sport 01</cname>
-	<item>
-	<title>High</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/27099&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
 	<cname>Bein Sport 02</cname>
 	<item>
 	<title>High</title>
 	<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/27098&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 02</cname>
+	<item>
+	<title>High SD</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://tv.datoo.cc:8080/19094117sf129se5/19094117sf129se5/27073&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+	</item>
+</streaminginfo>	
 
 <streaminginfo>
 	<cname>Bein Sport 03</cname>
