@@ -9,8 +9,6 @@
 	<link>http://africatv.live.net.sa:1935/live/africatv4/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-
-
 	
 <!--
 <streaminginfo>
@@ -152,7 +150,7 @@
 	<cname>Bulsho TV</cname>
 	<item>
 	<title>Med</title>
-	<link>https://ap01.iqplay.tv:81/iqb8002/bu1sho41.m3u8</link>
+	<link>https://ap02.iqplay.tv:8082/iqb8002/bu1sho41/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 
@@ -160,7 +158,7 @@
 	<cname>PLTV</cname>
 	<item>
 	<title>Med</title>
-	<link>https://ap01.iqplay.tv:81/iqb8002/p2t25.m3u8</link>
+	<link>https://ap02.iqplay.tv:8082/iqb8002/p2t25/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 
