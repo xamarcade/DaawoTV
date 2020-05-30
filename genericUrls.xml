@@ -49,14 +49,6 @@
     <link>http://www.axadledirect.com:1936/19/stream/playlist.m3u8</link>
 	</item>
 </streaminginfo>	
-	
-<streaminginfo>
-	<cname>Kalsan Tv</cname>
-	<item>
-	<title>Med</title>
-	<link>http://cdn.mediavisionuae.com:1935/live/kalsantv.stream/playlist.m3u8?v=1409262811</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>Kalsan Tv</cname>
