@@ -131,7 +131,7 @@
 	<cname>HCTV</cname>
 	<item>
 	<title>Med</title>
-	<link>http://cdn.mediavisionuae.com:1935/live/hctvlive.stream/chunklist_w698188858.m3u8</link>
+	<link>http://cdn.mediavisionuae.com:1935/live/hctvlive.stream/playlist.m3u8?v=1409262811</link>
 	</item>
 </streaminginfo>
 
