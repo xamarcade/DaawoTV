@@ -79,7 +79,14 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
-	
+<channel>
+	<cname>Horyaal Tv</cname>
+	<imageurl>https://www.somaliland.com/wp-content/uploads/2019/09/cropped-HORYAAL-24-TV.png</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+	<category>somalia</category>
+	</assignedcategory>
+</channel>	
 <channel>
 	<cname>Som News TV</cname>
 	<imageurl>https://yt3.ggpht.com/-rpPOZfAQwxU/AAAAAAAAAAI/AAAAAAAAAAA/hLE4tx04oXM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</imageurl>
@@ -97,16 +104,7 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
-
-
-<channel>
-	<cname>Galmudug</cname>
-	<imageurl>http://radioshabelle.com/wp-content/uploads/2018/06/Galmudug-Tv.jpg</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>	
+	
 
 <channel>
 	<cname>STN</cname>
