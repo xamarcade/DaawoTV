@@ -56,7 +56,23 @@
 	<title>Med</title>
 	<link>http://cdn.mediavisionuae.com:1935/live/kalsantv.stream/playlist.m3u8?v=1409262811</link>
 	</item>
-</streaminginfo>	
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Kalsan Tv</cname>
+	<item>
+	<title>Med</title>
+	<link>http://cdn.mediavisionuae.com:1935/live/kalsantv.stream/playlist.m3u8?v=1409262811</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Kalsan Tv</cname>
+	<item>
+	<title>Med</title>
+	<link>http://cdn.mediavisionuae.com:1935/live/kalsantv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDIwIDg6NTk6NTEgUE0maGFzaF92YWx1ZT1XTEgwclpIdzA2WUx1RHdRd0dsdXRBPT0mdmFsaWRtaW51dGVzPTI4ODA=</link>
+	</item>
+</streaminginfo>
 	
 <streaminginfo>
 	<cname>STN</cname>
@@ -116,7 +132,7 @@
 	<cname>Somali Cable</cname>
 	<item>
 	<title>Med</title>
-	<link>https://ap01.iqplay.tv:81/iqb8002/somc131.m3u8</link>
+	<link>https://ap02.iqplay.tv:8082/iqb8002/somc131/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -131,11 +147,17 @@
 	<cname>Saab TV</cname>
 	<item>
 	<title>Med1</title>
-	<link>http://cdn01.iqbroadcast.tv:8081/g1/saabtv/playlist.m3u8</link>
+	<link>https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 
-
+<streaminginfo>
+	<cname>Dacwa Tv</cname>
+	<item>
+	<title>Med1</title>
+	<link>https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8</link>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>RTN TV</cname>
