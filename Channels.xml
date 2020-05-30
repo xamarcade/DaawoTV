@@ -9,7 +9,15 @@
      <category>somalia</category>
      </assignedcategory>
 </channel>
-	
+
+<channel>
+	<cname>Dacwa Tv</cname>
+	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/smli_zps93a6c01a.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>somalia</category>
+	</assignedcategory>
+</channel>
 
 <channel>
 	<cname>Universal Somali</cname>
@@ -22,7 +30,7 @@
 
 <channel>
 	<cname>Kalsan Tv</cname>
-	<imageurl>https://yt3.ggpht.com/a-/ACSszfETG0DllMW2VALn8X3WMiWIir9oQz2jIhp0kQ=s900-mo-c-c0xffffffff-rj-k-no</imageurl>
+	<imageurl>https://xogdoonnews.net/wp-content/uploads/2017/11/kalsan-tv.jpg</imageurl>
 	<enabled>True</enabled>
 	<assignedcategory>
 	<category>somalia</category>
@@ -40,7 +48,7 @@
 
 <channel>
 	<cname>PLTV</cname>
-	<imageurl>http://www.sat-address.com/f/pics/logotipi/Puntland-TV_o.jpg</imageurl>
+	<imageurl>https://allssc.com/wp-content/uploads/2015/07/NNNNNNNNNN.png</imageurl>
 	<enabled>True</enabled>
 -	<assignedcategory>
 		<category>somalia</category>
@@ -55,7 +63,14 @@
 	<category>somalia</category>
 	</assignedcategory>
 </channel>
-
+<channel>
+	<cname>SaabTV</cname>
+	<imageurl>http://somaliiptv.com/wp-content/uploads/2017/03/saab-tv-300x225.png</imageurl>
+	<enabled>True</enabled>
+-	<assignedcategory>
+		<category>somalia</category>
+	</assignedcategory>
+</channel>
 -<channel>
 	<cname>Somali Cable</cname>
 	<imageurl>https://yt3.ggpht.com/-HxJ9JIhKtQg/AAAAAAAAAAI/AAAAAAAAAAA/cLwV6iXtY3w/s900-c-k-no/photo.jpg</imageurl>
@@ -101,22 +116,8 @@
 		<category>somalia</category>
 	</assignedcategory>
 </channel>
-<channel>
-	<cname>SaabTV</cname>
-	<imageurl>http://somaliiptv.com/wp-content/uploads/2017/03/saab-tv-300x225.png</imageurl>
-	<enabled>True</enabled>
--	<assignedcategory>
-		<category>somalia</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Somali  Channel</cname>
-	<imageurl>http://i1064.photobucket.com/albums/u379/zombiB/smli_zps93a6c01a.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>somalia</category>
-	</assignedcategory>
-</channel>
+
+
 
 
 
