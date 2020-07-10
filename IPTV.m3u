@@ -30,3 +30,365 @@ http://cdn.mediavisionuae.com:1935/live/horyaaltv.stream/playlist.m3u8
 http://cdn.mediavisionuae.com:1935/live/stv.stream/playlist.m3u8?v=1409262811
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SBCTV" tvg-logo="" group-title="Live: African",VIP SO: SBCTV
 http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== ENTERTAINMENT =====" tvg-logo="" group-title="Live: Iceland",===== ENTERTAINMENT =====
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC1 FHD" tvg-logo="" group-title="Live: entertainment",VIP AR: MBC1 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/41072
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: MBC2 FHD" tvg-logo="" group-title="Live: entertainment",VIP AR: MBC2 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/41073
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC3 HD" tvg-logo="" group-title="Live: entertainment",VIP AR: MBC3 HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/4072
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: MBC4 FHD" tvg-logo="" group-title="Live: entertainment",VIP AR: MBC4 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/41074
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: MBC5 FHD" tvg-logo="" group-title="Live: entertainment",VIP AR: MBC5 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/41071
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: MBC Action FHD" tvg-logo="" group-title="Live: entertainment",VIP AR: MBC Action FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/41075
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC MAX HD" tvg-logo="" group-title="Live: entertainment",VIP AR: MBC MAX HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/4075
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: MBC Masr HD" tvg-logo="" group-title="Live: entertainment",VIP AR: MBC Masr HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/41069
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: MBC Masr 2 HD" tvg-logo="" group-title="Live: entertainment",VIP AR: MBC Masr 2 HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/41070
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Drama HD" tvg-logo="" group-title="Live: entertainment",VIP AR: MBC Drama HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/4076
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC+ Drama HD" tvg-logo="" group-title="Live: entertainment",VIP AR: MBC+ Drama HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7542
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC+ Variety HD" tvg-logo="[" group-title="Live: entertainment",VIP AR: MBC+ Variety HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/4655
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Bollywood HD" tvg-logo="" group-title="Live: entertainment",VIP AR: MBC Bollywood HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/14538
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC IRAQ HD" tvg-logo="" group-title="Live: entertainment",VIP AR: MBC IRAQ HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/14674
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: FOX Rewayat HD" tvg-logo="" group-title="Live: entertainment",VIP AR: FOX Rewayat HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/16971
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: FOX Crime HD" tvg-logo="" group-title="Live: entertainment",VIP AR: FOX Crime HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/16973
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: ART Aflam 1" tvg-logo="" group-title="Live: entertainment",VIP AR: ART Aflam 1
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/141
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: ART Aflam 2" tvg-logo="[" group-title="Live: entertainment",VIP AR: ART Aflam 2
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/140
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: ART Hekayat 1" tvg-logo="" group-title="Live: entertainment",VIP AR: ART Hekayat 1
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/138
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: ART Hekayat 2" tvg-logo="[""]" group-title="Live: entertainment",VIP AR: ART Hekayat 2
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/137
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Rotana Masriah HD" tvg-logo="" group-title="Live: entertainment",VIP AR: Rotana Masriah HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5421
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Rotana Classic HD" tvg-logo="[" group-title="Live: entertainment",VIP AR: Rotana Classic HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5423
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Rotana Cinema HD" tvg-logo="[""]" group-title="Live: entertainment",VIP AR: Rotana Cinema HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5424
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Rotana Aflam HD" tvg-logo="" group-title="Live: entertainment",VIP AR: Rotana Aflam HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5425
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Al Yawm  HEVC" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Al Yawm  HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23005
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Cinema 1 HEVC" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Cinema 1 HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23006
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: OSN Cinema 2 HEVC" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Cinema 2 HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23007
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: OSN Musalsalat HD HEVC" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Musalsalat HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23009
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Paramount HD HEVC" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Paramount HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22993
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Star Movies HD HEVC" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Star Movies HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23002
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Star World HD HEVC" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Star World HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23003
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN First Movies HD HEVC" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN First Movies HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22987
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN First Movies 2 HD HEVC" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN First Movies 2 HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22986
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: OSN Movies HD HEVC" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Movies HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22992
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Movies Action HD HEVC" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Movies Action HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22990
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: OSN Movies Enigma HD HEVC" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Movies Enigma HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22989
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: OSN Movies Bingi HD HEVC" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Movies Bingi HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22988
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Movies Comedy HD HEVC" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Movies Comedy HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22991
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: OSN Yahala HD" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Yahala HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12541
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: OSN Yahala First HD" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Yahala First HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12540
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: OSN Yahala Cinema HD" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Yahala Cinema HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12549
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Movies Action HD" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Movies Action HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12544
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Comedy HD" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Comedy HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/3687
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Movies Comedy HD" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Movies Comedy HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/3695
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Kids HD" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Kids HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5467
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Star Movies HD" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Star Movies HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7460
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Star World HD" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Star World HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/3688
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: OSN Box Office 2" tvg-logo="" group-title="Live: entertainment",VIP AR: OSN Box Office 2
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5383
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: My Cinema HD" tvg-logo="" group-title="Live: entertainment",VIP AR: My Cinema HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12255
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: NETFLIX ACTION FHD" tvg-logo="" group-title="Live: entertainment",VIP AR: NETFLIX ACTION FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40282
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: NETFLIX BOLLYWOOD HD" tvg-logo="" group-title="Live: entertainment",VIP AR: NETFLIX BOLLYWOOD HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40284
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX BOX OFFICE" tvg-logo="" group-title="Live: entertainment",VIP AR: NETFLIX BOX OFFICE
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40285
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX COMEDY FHD" tvg-logo="" group-title="Live: entertainment",VIP AR: NETFLIX COMEDY FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40287
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: NETFLIX DRAMA FHD" tvg-logo="" group-title="Live: entertainment",VIP AR: NETFLIX DRAMA FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40288
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: NETFLIX HORROR FHD" tvg-logo="" group-title="Live: entertainment",VIP AR: NETFLIX HORROR FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40289
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: NETFLIX KIDS FHD" tvg-logo="" group-title="Live: entertainment",VIP AR: NETFLIX KIDS FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40290
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: NETFLIX THRILLER FHD" tvg-logo="" group-title="Live: entertainment",VIP AR: NETFLIX THRILLER FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40294
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Movies 1FHD" tvg-logo="" group-title="Live: entertainment",VIP AR: BeIN Movies 1FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34543
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Movies 2FHD" tvg-logo="" group-title="Live: entertainment",VIP AR: BeIN Movies 2FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34544
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Movies 3FHD" tvg-logo="" group-title="Live: entertainment",VIP AR: BeIN Movies 3FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34545
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Movies 4FHD" tvg-logo="" group-title="Live: entertainment",VIP AR: BeIN Movies 4FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34546
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Movies 4HD" tvg-logo="[" group-title="Live: entertainment",VIP AR: BeIN Movies 4HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/4019
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeoutQ Movies HD" tvg-logo="" group-title="Live: entertainment",VIP AR: BeoutQ Movies HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23488
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeoutQ Movies 2HD" tvg-logo="" group-title="Live: entertainment",VIP AR: BeoutQ Movies 2HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23487
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeoutQ Action HD" tvg-logo="" group-title="Live: entertainment",VIP AR: BeoutQ Action HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23490
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeoutQ Action 2HD" tvg-logo="" group-title="Live: entertainment",VIP AR: BeoutQ Action 2HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23489
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeoutQ Kids HD" tvg-logo="" group-title="Live: entertainment",VIP AR: BeoutQ Kids HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23486
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== SPORT =====" tvg-logo="" group-title="Live: Iceland",===== SPORT =====
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: KSA Sports 1 FHD" tvg-logo="" group-title="Live: Sport",VIP AR: KSA Sports 1 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/19100
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: KSA Sports 2 FHD" tvg-logo="" group-title="Live: Sport",VIP AR: KSA Sports 2 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/19101
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: KSA Sports 3 FHD" tvg-logo="" group-title="Live: Sport",VIP AR: KSA Sports 3 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/20356
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: KSA Sports 4 FHD" tvg-logo="" group-title="Live: Sport",VIP AR: KSA Sports 4 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/20357
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Time Sports" tvg-logo="" group-title="Live: Sport",VIP AR: Time Sports
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/27929
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN WWE HD HEVC" tvg-logo="" group-title="Live: Sport",VIP AR: OSN WWE HD HEVC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23001
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== Bein Group =====" tvg-logo="" group-title="Live: Iceland",===== Bein Group =====
+#EXTINF:-1 tvg-ID="VIPARBeinSportHD" tvg-name="VIP AR: Bein Sport HD" tvg-logo="[""]" group-title="Live: Bein Media",VIP AR: Bein Sport HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/2744
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport News HD" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport News HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/285
+#EXTINF:-1 tvg-ID="beIN Sports 1 ARB" tvg-name="VIP AR: Bein Sport HD1 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD1 1080P
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/13800
+#EXTINF:-1 tvg-ID="beIN Sports 2 ARB" tvg-name="VIP AR: Bein Sport HD2 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD2 1080P
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/13799
+#EXTINF:-1 tvg-ID="beIN Sports 3 ARB" tvg-name="VIP AR: Bein Sport HD3 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD3 1080P
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/13798
+#EXTINF:-1 tvg-ID="beIN Sports 4 ARB" tvg-name="VIP AR: Bein Sport HD4 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD4 1080P
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/13797
+#EXTINF:-1 tvg-ID="beIN Sports 5 ARB" tvg-name="VIP AR: Bein Sport HD5 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD5 1080P
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/13796
+#EXTINF:-1 tvg-ID="beIN Sports 6 ARB" tvg-name="VIP AR: Bein Sport HD6 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD6 1080P
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/13795
+#EXTINF:-1 tvg-ID="beIN Sports 7 ARB" tvg-name="VIP AR: Bein Sport HD7 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD7 1080P
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/13794
+#EXTINF:-1 tvg-ID="beIN Sports 8 ARB" tvg-name="VIP AR: Bein Sport HD8 H265" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD8 H265
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/15588
+#EXTINF:-1 tvg-ID="beIN Sports 9 ARB" tvg-name="VIP AR: Bein Sport HD9 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD9 1080P
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/13792
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport FHD10" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD10
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/25956
+#EXTINF:-1 tvg-ID="beIN Sports 11 HD ARB" tvg-name="VIP AR: Bein Sport HD11 1080P" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD11 1080P
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/13660
+#EXTINF:-1 tvg-ID="beIN Sports 12 HD ARB" tvg-name="VIP AR: Bein Sport HD12 1080P" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport HD12 1080P
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/13661
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport HD13 H265" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport HD13 H265
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/26465
+
+#EXTINF:-1 tvg-ID="" tvg-name="===== VIP INDIA =====" tvg-logo="" group-title="Live: Iceland",===== VIP INDIA =====
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: & PICTURE HD" tvg-logo="" group-title="Live: India",VIP IN: & PICTURE HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8130
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: &tv HD india" tvg-logo="" group-title="Live: India",VIP IN: &tv HD india
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8131
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: AAPKA COLORS HD" tvg-logo="" group-title="Live: India",VIP IN: AAPKA COLORS HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8101
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: AND FLIX" tvg-logo="" group-title="Live: India",VIP IN: AND FLIX
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34525
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: AND FLIX HD" tvg-logo="" group-title="Live: India",VIP IN: AND FLIX HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34503
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: AND PICTURES" tvg-logo="" group-title="Live: India",VIP IN: AND PICTURES
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34118
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: AND PICTURES HD" tvg-logo="" group-title="Live: India",VIP IN: AND PICTURES HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34477
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: AND PRIVE HD" tvg-logo="" group-title="Live: India",VIP IN: AND PRIVE HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34478
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: AND TV" tvg-logo="" group-title="Live: India",VIP IN: AND TV
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34089
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: AND TV UK" tvg-logo="" group-title="Live: India",VIP IN: AND TV UK
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34119
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: AXN HD" tvg-logo="[""]" group-title="Live: India",VIP IN: AXN HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/26070
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: BIG MAGIC" tvg-logo="" group-title="Live: India",VIP IN: BIG MAGIC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34182
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: Cine PLEX HD" tvg-logo="" group-title="Live: India",VIP IN: Cine PLEX HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/16089
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: CINEMA TV" tvg-logo="" group-title="Live: India",VIP IN: CINEMA TV
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34185
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: Colors Cineplex HD" tvg-logo="[" group-title="Live: India",VIP IN: Colors Cineplex HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/26068
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: Colors GUJRATI HD" tvg-logo="[" group-title="Live: India",VIP IN: Colors GUJRATI HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/26066
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: COLORS HD" tvg-logo="[" group-title="Live: India",VIP IN: COLORS HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8104
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: COLORS ME" tvg-logo="" group-title="Live: India",VIP IN: COLORS ME
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34507
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: COLORS TV" tvg-logo="" group-title="Live: India",VIP IN: COLORS TV
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34122
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: COLORS TV UK" tvg-logo="" group-title="Live: India",VIP IN: COLORS TV UK
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34123
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: DABANG TV" tvg-logo="" group-title="Live: India",VIP IN: DABANG TV
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34189
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: DANGAAL TV" tvg-logo="" group-title="Live: India",VIP IN: DANGAAL TV
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34190
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: DD BHARATI" tvg-logo="" group-title="Live: India",VIP IN: DD BHARATI
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34093
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: DD INDIA" tvg-logo="" group-title="Live: India",VIP IN: DD INDIA
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34124
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: DD NATIONAL" tvg-logo="" group-title="Live: India",VIP IN: DD NATIONAL
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34125
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: DILLAGI TV" tvg-logo="" group-title="Live: India",VIP IN: DILLAGI TV
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34195
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: ENTER 10" tvg-logo="" group-title="Live: India",VIP IN: ENTER 10
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34128
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: HBO HD" tvg-logo="" group-title="Live: India",VIP IN: HBO HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8103
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: JAYA Movies HD" tvg-logo="" group-title="Live: India",VIP IN: JAYA Movies HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/26056
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: Ktv HD" tvg-logo="" group-title="Live: India",VIP IN: Ktv HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8134
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: MANORANGAN MOVIES" tvg-logo="" group-title="Live: India",VIP IN: MANORANGAN MOVIES
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34200
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: RISHTAY ASIA" tvg-logo="" group-title="Live: India",VIP IN: RISHTAY ASIA
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34141
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: RISHTEY CINEPLEX UK" tvg-logo="" group-title="Live: India",VIP IN: RISHTEY CINEPLEX UK
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34142
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: SONY HD" tvg-logo="" group-title="Live: India",VIP IN: SONY HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8106
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY MAX 2" tvg-logo="" group-title="Live: India",VIP IN: SONY MAX 2
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34145
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: SONY MAX HD" tvg-logo="" group-title="Live: India",VIP IN: SONY MAX HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8107
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY PAL" tvg-logo="" group-title="Live: India",VIP IN: SONY PAL
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34147
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: SONY PIX HD" tvg-logo="" group-title="Live: India",VIP IN: SONY PIX HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/15570
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: SONY SAB HD" tvg-logo="" group-title="Live: India",VIP IN: SONY SAB HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/15568
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY SAB TV" tvg-logo="" group-title="Live: India",VIP IN: SONY SAB TV
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34148
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY SAB UK" tvg-logo="" group-title="Live: India",VIP IN: SONY SAB UK
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34149
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY SETMAX" tvg-logo="" group-title="Live: India",VIP IN: SONY SETMAX
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34150
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY SETMAX HD" tvg-logo="" group-title="Live: India",VIP IN: SONY SETMAX HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34489
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY SETMAX UK" tvg-logo="" group-title="Live: India",VIP IN: SONY SETMAX UK
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34151
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY SIX" tvg-logo="" group-title="Live: India",VIP IN: SONY SIX
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34105
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: Sony six HD" tvg-logo="" group-title="Live: India",VIP IN: Sony six HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8108
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY TV" tvg-logo="" group-title="Live: India",VIP IN: SONY TV
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34152
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY TV HD" tvg-logo="" group-title="Live: India",VIP IN: SONY TV HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34492
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: SONY TV HD UK" tvg-logo="" group-title="Live: India",VIP IN: SONY TV HD UK
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34493
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: STAR BHARAT APAC" tvg-logo="" group-title="Live: India",VIP IN: STAR BHARAT APAC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34510
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: STAR GOLD SELECT HD" tvg-logo="[" group-title="Live: India",VIP IN: STAR GOLD SELECT HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8111
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: STAR GOLD UK" tvg-logo="" group-title="Live: India",VIP IN: STAR GOLD UK
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34157
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: STAR PLUS" tvg-logo="" group-title="Live: India",VIP IN: STAR PLUS
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34158
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: STAR PLUS HD" tvg-logo="" group-title="Live: India",VIP IN: STAR PLUS HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8113
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: STAR PLUS ME" tvg-logo="" group-title="Live: India",VIP IN: STAR PLUS ME
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34159
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: SUN LIFE HD" tvg-logo="" group-title="Live: India",VIP IN: SUN LIFE HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/26052
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: Sun tv HD" tvg-logo="" group-title="Live: India",VIP IN: Sun tv HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8119
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: WOW CINEMA" tvg-logo="" group-title="Live: India",VIP IN: WOW CINEMA
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34504
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: ZEE ACTION" tvg-logo="" group-title="Live: India",VIP IN: ZEE ACTION
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34110
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: ZEE ANMOL" tvg-logo="" group-title="Live: India",VIP IN: ZEE ANMOL
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34162
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: ZEE ANMOL CINEMA" tvg-logo="" group-title="Live: India",VIP IN: ZEE ANMOL CINEMA
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34163
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: ZEE BOLLYWOOD HD" tvg-logo="" group-title="Live: India",VIP IN: ZEE BOLLYWOOD HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8133
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: ZEE CINEMA" tvg-logo="" group-title="Live: India",VIP IN: ZEE CINEMA
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34165
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: ZEE CINEMA APAC" tvg-logo="" group-title="Live: India",VIP IN: ZEE CINEMA APAC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34514
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: Zee Cinema HD" tvg-logo="" group-title="Live: India",VIP IN: Zee Cinema HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8120
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: ZEE CINEMA UK" tvg-logo="" group-title="Live: India",VIP IN: ZEE CINEMA UK
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34166
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: ZEE CINEMA USA" tvg-logo="" group-title="Live: India",VIP IN: ZEE CINEMA USA
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34508
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: ZEE ETC BOLLYWOOD" tvg-logo="" group-title="Live: India",VIP IN: ZEE ETC BOLLYWOOD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34168
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: ZEE MUNDO" tvg-logo="" group-title="Live: India",VIP IN: ZEE MUNDO
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34199
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: ZEE TV" tvg-logo="" group-title="Live: India",VIP IN: ZEE TV
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34170
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: ZEE TV APAC" tvg-logo="" group-title="Live: India",VIP IN: ZEE TV APAC
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34515
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: ZEE TV ME" tvg-logo="" group-title="Live: India",VIP IN: ZEE TV ME
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34171
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: Zee TV-HD" tvg-logo="" group-title="Live: India",IN: Zee TV-HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/181
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE ETC HD" tvg-logo="[""]" group-title="Live: India",IN: ZEE ETC HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/180
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: Zee Cinema" tvg-logo="[" group-title="Live: India",IN: Zee Cinema
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/189
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Cafe" tvg-logo="" group-title="Live: India",IN: Zee Cafe
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/182
+#EXTINF:-1 tvg-ID="" tvg-name="IN: SUN TV HD" tvg-logo="" group-title="Live: India",IN: SUN TV HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/161
+#EXTINF:-1 tvg-ID="" tvg-name="IN: STAR PLUS HD" tvg-logo="" group-title="Live: India",IN: STAR PLUS HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/191
+#EXTINF:-1 tvg-ID="" tvg-name="IN: GEMINI Movies" tvg-logo="" group-title="Live: India",IN: GEMINI Movies
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/3422
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: B4U MOVIES" tvg-logo="" group-title="Live: India",IN: B4U MOVIES
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/201
+#EXTINF:-1 tvg-ID="" tvg-name="IN: B4U PLUS" tvg-logo="" group-title="Live: India",IN: B4U PLUS
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/199
