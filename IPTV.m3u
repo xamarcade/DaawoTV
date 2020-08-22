@@ -526,3 +526,24 @@ http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/14184
 http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/2940
 #EXTINF:-1 tvg-ID="kanal10.se" tvg-name="SE: Kanal 10 SV" tvg-logo="" group-title="Live: Sweden",SE: Kanal 10 SV
 http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7860
+
+#EXTINF:-1 tvg-ID="" tvg-name="===== VIP SKY IT ======" tvg-logo="" group-title="Live: Iceland",===== VIP SKY IT ======
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5679
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 1 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 1 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50162
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 2 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 2 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50163
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 3 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 3 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50164
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 4 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 4 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50165
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 5 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 5 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50166
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Italia 1 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Italia 1 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50169
+#EXTINF:-1 tvg-ID="italia2.it" tvg-name="VIP IT: Italia 2 HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Italia 2 HD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/18716
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Rete 4 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rete 4 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50167
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Canale 5 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Canale 5 FHD
+http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50168
