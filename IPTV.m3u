@@ -2,16 +2,14 @@
 #EXTINF:-1 tvg-ID="" tvg-name="===== VIP Somalia =====" tvg-logo="" group-title="Live: Iceland",===== Somalia =====
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: BULSHO TV" tvg-logo="" group-title="Live: Somalia",VIP SO: BULSHO TV
 https://ap02.iqplay.tv:8082/iqb8002/bu1sho41/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SO: DALSAN TV" tvg-logo="" group-title="Live: Somalia",VIP SO: DALSAN TV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/33386
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SRTV" tvg-logo="" group-title="Live: Somalia",VIP SO: SRTV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/33388
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Dalka TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Dalka TV
+https://ap02.iqplay.tv:8082/iqb8002/d11k1web/chunks.m3u8?nimblesessionid=148591380
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Somali Cable TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Somali Cable TV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/33564
+https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8?nimblesessionid=148552903
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Puntland TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Puntland TV
 https://ap02.iqplay.tv:8082/iqb8002/p2t25/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SAAB TV" tvg-logo="" group-title="Live: Somalia",VIP SO: SAAB TV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/33567
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8?nimblesessionid=148555013
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SHABEELE TV" tvg-logo="" group-title="Live: Somalia",VIP SO: SHABEELE TV
 http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/33396
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SNTV" tvg-logo="" group-title="Live: Somalia",VIP SO: SNTV
@@ -19,7 +17,7 @@ https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SLNTV" tvg-logo="" group-title="Live: Somalia",VIP SO: SLNTV
 http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/33399
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SO: UNIVERSAL TV" tvg-logo="" group-title="Live: Somalia",VIP SO: UNIVERSAL TV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/33382
+https://classical.boxcast.com/strauss/mrrtsi8uxsqlclcpblyf/480p-byteranges-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jbGFzc2ljYWwuYm94Y2FzdC5jb20vc3RyYXVzcy9tcnJ0c2k4dXhzcWxjbGNwYmx5Zi80ODBwLWJ5dGVyYW5nZXMtZXh0Lm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MDM5MzAwNTN9fX1dfQ__&Signature=xXwU7FvvFUX18ws~muaf5eJQOKCawSgCwkRrnk3Gv4EPZazBQE6Atgx8BHUIOBSBVpfDOrmgYsQ1pr9LAXrR28TQiVBrDquT5jCyNLnSFSJ-zvXwsjqvcN6TXKJY4A4m40sYUtUcz6l5wJ242jwaCsuw-RQ6IOQ9Ic70fC-Xrey1Qkq8oiOuc1pPj8KBrErFuLHVTsG~mHUUspuy4z024aiQi6j1n2nV3FfIkeqkJ7esINPL5Qjq7bh0IJJ6zNxDGjIrxfZtcpN7NtYgxRIQ882TyAGbWQ6Sh9pZCyO-uq806B~0OuH0UnH6DPANfGvqb6m0EyNG6aSVTSjYIKwBrw__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Dacwa TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Dacwa TV
 https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: HCTV" tvg-logo="" group-title="Live: Somalia",VIP SO: HCTV
