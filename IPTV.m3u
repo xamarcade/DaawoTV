@@ -58,6 +58,18 @@ http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/4655
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC IRAQ HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC IRAQ HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Dubai HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Dubai HD
+https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sama dubai HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Sama dubai HD
+https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Dubai Zaman HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Dubai Zaman HD
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Dubai One HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Dubai One HD
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Noor Dubai HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Noor Dubai HD
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: FOX Rewayat HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: FOX Rewayat HD
 http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/16971
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: FOX Crime HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: FOX Crime HD
