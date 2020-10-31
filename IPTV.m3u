@@ -16,8 +16,6 @@ http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/33396
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SLNTV" tvg-logo="" group-title="Live: Somalia",VIP SO: SLNTV
 http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/33399
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SO: UNIVERSAL TV" tvg-logo="" group-title="Live: Somalia",VIP SO: UNIVERSAL TV
-https://classical.boxcast.com/strauss/mrrtsi8uxsqlclcpblyf/480p-byteranges-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jbGFzc2ljYWwuYm94Y2FzdC5jb20vc3RyYXVzcy9tcnJ0c2k4dXhzcWxjbGNwYmx5Zi80ODBwLWJ5dGVyYW5nZXMtZXh0Lm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MDM5MzAwNTN9fX1dfQ__&Signature=xXwU7FvvFUX18ws~muaf5eJQOKCawSgCwkRrnk3Gv4EPZazBQE6Atgx8BHUIOBSBVpfDOrmgYsQ1pr9LAXrR28TQiVBrDquT5jCyNLnSFSJ-zvXwsjqvcN6TXKJY4A4m40sYUtUcz6l5wJ242jwaCsuw-RQ6IOQ9Ic70fC-Xrey1Qkq8oiOuc1pPj8KBrErFuLHVTsG~mHUUspuy4z024aiQi6j1n2nV3FfIkeqkJ7esINPL5Qjq7bh0IJJ6zNxDGjIrxfZtcpN7NtYgxRIQ882TyAGbWQ6Sh9pZCyO-uq806B~0OuH0UnH6DPANfGvqb6m0EyNG6aSVTSjYIKwBrw__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Dacwa TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Dacwa TV
 https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: HCTV" tvg-logo="" group-title="Live: Somalia",VIP SO: HCTV
@@ -57,9 +55,9 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC+ Variety HD" tvg-logo="[" group-title="Live: Entertainment",VIP AR: MBC+ Variety HD
 http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/4655
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Bollywood HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Bollywood HD
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC IRAQ HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC IRAQ HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC IRAQ HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC IRAQ HD
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: FOX Rewayat HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: FOX Rewayat HD
 http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/16971
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: FOX Crime HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: FOX Crime HD
@@ -92,8 +90,7 @@ http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23007
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AR: OSN Musalsalat HD HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Musalsalat HD HEVC
 http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23009
 
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Paramount HD HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Paramount HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22993
+
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Star Movies HD HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Star Movies HD HEVC
 http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23002
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Star World HD HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Star World HD HEVC
