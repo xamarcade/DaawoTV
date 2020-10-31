@@ -70,6 +70,26 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Noor Dubai HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Noor Dubai HD
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
 
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Abu dhabi HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Abu dhabi HD
+https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Emarat HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Emarat HD
+https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Abu dhabi Drama HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Abu dhabi Drama HD
+https://admdn5ta.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Ajman" tvg-logo="" group-title="Live: Entertainment",VIP AR: Ajman HD
+http://192.34.153.37:7777/Ajman_HD/Ajman_HD.m3u8?user=sgls540839&session=43be954e4bc7932638ba956dcbf164cf2556c6049a84b7e76e1e97cf1d62367c79dad3d6b43fbae9&hlsid=HTTP_ID_1&starttime=20200717T070353.805890
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sharja TV" tvg-logo="" group-title="Live: Entertainment",VIP AR: Sharja TV
+https://svs.itworkscdn.net/smc1live/smc1.smil//playlist_1080p.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sharja TV 2" tvg-logo="" group-title="Live: Entertainment",VIP AR: Sharja TV 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2tv_chunks.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sharqiyah TV" tvg-logo="" group-title="Live: Entertainment",VIP AR: Sharqiyah TV
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Alwusta Tv" tvg-logo="" group-title="Live: Entertainment",VIP AR: Alwusta Tv
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
+
+
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: FOX Rewayat HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: FOX Rewayat HD
 http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/16971
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: FOX Crime HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: FOX Crime HD
