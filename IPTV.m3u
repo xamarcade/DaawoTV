@@ -10,12 +10,8 @@ https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/p2t25/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SAAB TV" tvg-logo="" group-title="Live: Somalia",VIP SO: SAAB TV
 https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SHABEELE TV" tvg-logo="" group-title="Live: Somalia",VIP SO: SHABEELE TV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/33396
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SNTV" tvg-logo="" group-title="Live: Somalia",VIP SO: SNTV
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SLNTV" tvg-logo="" group-title="Live: Somalia",VIP SO: SLNTV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/33399
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Dacwa TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Dacwa TV
 https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: HCTV" tvg-logo="" group-title="Live: Somalia",VIP SO: HCTV
@@ -52,43 +48,72 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC+ Drama HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ Drama HD
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC+ Variety HD" tvg-logo="[" group-title="Live: Entertainment",VIP AR: MBC+ Variety HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/4655
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Bollywood HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Bollywood HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC IRAQ HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC IRAQ HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Dubai HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Dubai HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== UAE =====" tvg-logo="" group-title="Live: Iceland",===== UAE =====
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Dubai HD" tvg-logo="" group-title="Live: UAE",VIP AR: Dubai HD
 https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sama dubai HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Sama dubai HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sama dubai HD" tvg-logo="" group-title="Live: UAE",VIP AR: Sama dubai HD
 https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Dubai Zaman HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Dubai Zaman HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Dubai Zaman HD" tvg-logo="" group-title="Live: UAE",VIP AR: Dubai Zaman HD
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Dubai One HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Dubai One HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Dubai One HD" tvg-logo="" group-title="Live: UAE",VIP AR: Dubai One HD
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Noor Dubai HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Noor Dubai HD
-https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Abu dhabi HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Abu dhabi HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Abu dhabi HD" tvg-logo="" group-title="Live: UAE",VIP AR: Abu dhabi HD
 https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Emarat HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Emarat HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Emarat HD" tvg-logo="" group-title="Live: UAE",VIP AR: Emarat HD
 https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Abu dhabi Drama HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Abu dhabi Drama HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Abu dhabi Drama HD" tvg-logo="" group-title="Live: UAE",VIP AR: Abu dhabi Drama HD
 https://admdn5ta.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Al Dafrah Tv" tvg-logo="" group-title="Live: UAE",VIP AR: Al Dafrah Tv
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_3_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Ajman" tvg-logo="" group-title="Live: Entertainment",VIP AR: Ajman HD
-http://192.34.153.37:7777/Ajman_HD/Ajman_HD.m3u8?user=sgls540839&session=43be954e4bc7932638ba956dcbf164cf2556c6049a84b7e76e1e97cf1d62367c79dad3d6b43fbae9&hlsid=HTTP_ID_1&starttime=20200717T070353.805890
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Ajman" tvg-logo="" group-title="Live: UAE",VIP AR: Ajman
+http://192.34.153.37:7777/Ajman_HD/Ajman_HD.m3u8?user=sgls540839&session=c80e767d58a80b5150a2a8b574262eda2556c6049a84b7e76e1e97cf1d62367c79dad3d6b43fbae9&hlsid
 
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sharja TV" tvg-logo="" group-title="Live: Entertainment",VIP AR: Sharja TV
-https://svs.itworkscdn.net/smc1live/smc1.smil//playlist_1080p.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sharja TV 2" tvg-logo="" group-title="Live: Entertainment",VIP AR: Sharja TV 2
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sharja TV" tvg-logo="" group-title="Live: UAE",VIP AR: Sharja TV
+https://svs.itworkscdn.net/smc1live/smc1.smil//smc1tv_chunks.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sharja TV 2" tvg-logo="" group-title="Live: UAE",VIP AR: Sharja TV 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2tv_chunks.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sharqiyah TV" tvg-logo="" group-title="Live: Entertainment",VIP AR: Sharqiyah TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sharqiyah TV" tvg-logo="" group-title="Live: UAE",VIP AR: Sharqiyah TV
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Alwusta Tv" tvg-logo="" group-title="Live: Entertainment",VIP AR: Alwusta Tv
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Alwusta Tv" tvg-logo="" group-title="Live: UAE",VIP AR: Alwusta Tv
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
 
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== SAUDI =====" tvg-logo="" group-title="Live: Iceland",===== SAUDI=====
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Cinema" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Cinema
+https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/ecc61c3c-0520-4524-bc8c-c506c82546e2:BRU/variant/dfc6039d38a55bfe85d872d0dc3bde4a/bandwidth/1591135.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Khalij" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Khalij
+https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/8cf9a7b7-3c89-4c66-968b-6018ba9f5d77:GRQ/variant/498d983fd378dfabcdf82a1de0ef6f24/bandwidth/1558134.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Comedy" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Comedy
+https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_1080p/chunks.m3u8?nimblesessionid=23658509
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Drama" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Drama
+https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_1080p/chunks.m3u8?nimblesessionid=23662405
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Classic" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Classic
+https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_1080p/chunks.m3u8?nimblesessionid=23665500
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Kids" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Kids
+https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_1080p/chunks.m3u8?nimblesessionid=23676871
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Saudi 1 Tv" tvg-logo="" group-title="Live: Saudi",VIP AR: Saudi 1
+https://cllive.itworkscdn.net/ksa1live/token=nva=1608761995~dirs=1~hash=035009f238420e12a4e31/ksa1.smil/ksa1_chunks.m3u8
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SBC Tv" tvg-logo="" group-title="Live: Saudi",VIP AR: SBC Tv
+https://cllive.itworkscdn.net/sbclive/token=nva=1608761407~dirs=1~hash=01917f76872e19ccbd262/sbc.smil/sbc_chunks.m3u8
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Thikrayat Tv" tvg-logo="" group-title="Live: Saudi",VIP AR: Thikrayat Tv
+https://cllive.itworkscdn.net/zikrayatlive/token=nva=1608761762~dirs=1~hash=02c3d39f2df834a1e1fac/zikrayat.smil/zikrayat_chunks.m3u8
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Al Khalij Tv" tvg-logo="" group-title="Live: Saudi",VIP AR: Al Khalij Tv
+https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Al sahraa Tv" tvg-logo="" group-title="Live: Saudi",VIP AR: Al sahraa Tv
+http://192.34.153.37:7777/AlSahraa_HD/AlSahraa_HD.m3u8?user=sgls540839&session=ad011e7352ce8de5da7fb40e820a8f291f0bcc34e3ea0e050e0b1001df9ab124140b148cb6ec0d91&hlsid=HTTP_ID_4
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: FOX Rewayat HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: FOX Rewayat HD
 http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/16971
@@ -209,6 +234,44 @@ http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23490
 http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23489
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeoutQ Kids HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: BeoutQ Kids HD
 http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23486
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== ISLAM =====" tvg-logo="" group-title="Live: Iceland",===== ISLAM =====
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Saudi Quran" tvg-logo="" group-title="Live: Islam",VIP AR: Saudi Quran
+http://m.live.net.sa:1935/live/quran/chunklist_w114407812.m3u8?v=1525040486
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Saudi Sunnah" tvg-logo="" group-title="Live: Islam",VIP AR: Saudi Sunnah
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_97200=2.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Makkah" tvg-logo="" group-title="Live: Islam",VIP AR: Makkah
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w825588614.m3u8?v=1525040486
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Iqraa" tvg-logo="" group-title="Live: Islam",VIP AR: Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Iqraa Europe/Africa" tvg-logo="" group-title="Live: Islam",VIP AR: Iqraa Europe/Africa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Al Risala" tvg-logo="" group-title="Live: Islam",VIP AR: Al Risala
+https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_480p/chunks.m3u8?nimblesessionid=23669717
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Noor Dubai HD" tvg-logo="" group-title="Live: Islam",VIP AR: Noor Dubai HD
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Al Majd Quran Tv" tvg-logo="" group-title="Live: Islam",VIP AR: Al Majd Quran Tv
+https://se25-ott.iptvcdn.tv/hls/p/10.100.1.139:4041/23200_0_101_eaad7d09e3/vs_0/playlist.m3u8?h=EhG8m70ghBDEIaljW_5HhQ&e=1608831901&ident=55449baaf084e&s=23200&t=0&p=101_eaad7d09e3&strid=d29f38f9a9&host=SE25-OTT.iptvcdn.tv%3A443
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Al Majd Bassma Tv" tvg-logo="" group-title="Live: Islam",VIP AR: Al Majd Bassma Tv
+https://se25-ott.iptvcdn.tv/hls/p/10.100.1.133:4041/23208_0_101_eaad7d09e3/vs_0/playlist.m3u8?h=AO_MvKQxRkIU2lCwE9PO1w&e=1608832053&ident=55449baaf084e&s=23208&t=0&p=101_eaad7d09e3&strid=682af0eeeb&host=SE25-OTT.iptvcdn.tv%3A443
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Al Majd Doc Tv" tvg-logo="" group-title="Live: Islam",VIP AR: Al Majd Doc Tv
+https://se25-ott.iptvcdn.tv/hls/p/10.100.1.148:4041/23204_0_101_eaad7d09e3/vs_0/playlist.m3u8?h=PN9ZGTM2uJuTiO1fQW-EAQ&e=1608832124&ident=55449baaf084e&s=23204&t=0&p=101_eaad7d09e3&strid=93a9f5327e&host=SE25-OTT.iptvcdn.tv%3A443
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Al Majd Hadith Tv" tvg-logo="" group-title="Live: Islam",VIP AR: Al Majd Hadith Tv
+https://se25-ott.iptvcdn.tv/hls/p/10.100.1.144:4041/23201_0_101_eaad7d09e3/vs_0/playlist.m3u8?h=EEw_boLfOUmD7fjtDSeyzQ&e=1608832192&ident=55449baaf084e&s=23201&t=0&p=101_eaad7d09e3&strid=73b9e98595&host=SE25-OTT.iptvcdn.tv%3A443
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Al Majd Scientific Tv" tvg-logo="" group-title="Live: Islam",VIP AR: Al Majd Scientific Tv
+https://se25-ott.iptvcdn.tv/hls/p/10.100.1.144:4041/23202_0_101_eaad7d09e3/vs_0/playlist.m3u8?h=NqME11ZQJlzjhRsYln8tFA&e=1608832246&ident=55449baaf084e&s=23202&t=0&p=101_eaad7d09e3&strid=1e16b40b3d&host=SE25-OTT.iptvcdn.tv%3A443
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Al Majd Kids Tv" tvg-logo="" group-title="Live: Islam",VIP AR: Al Majd Kids Tv
+https://se25-ott.iptvcdn.tv/hls/p/10.100.1.143:4041/23207_0_101_eaad7d09e3/vs_0/playlist.m3u8?h=RT6lPieaCb_m7ws-KgixWw&e=1608832324&ident=55449baaf084e&s=23207&t=0&p=101_eaad7d09e3&strid=d2350592ba&host=SE25-OTT.iptvcdn.tv%3A443
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Al Majd Rawda Tv" tvg-logo="" group-title="Live: Islam",VIP AR: Al Majd Rawda Tv
+https://se25-ott.iptvcdn.tv/hls/p/10.100.1.111:4041/23209_0_101_eaad7d09e3/vs_0/playlist.m3u8?h=PMDc3iSTyewADKyZw4k87g&e=1608832697&ident=55449baaf084e&s=23209&t=0&p=101_eaad7d09e3&strid=b335ad3cce&host=SE25-OTT.iptvcdn.tv%3A443
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Wesal Tv" tvg-logo="" group-title="Live: Islam",VIP AR: Wesal Tv
+http://live.noorlive.com:1935/wesal/wesal1/chunklist_w554768671.m3u8?v=1525040486
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Noble Tv" tvg-logo="" group-title="Live: Islam",VIP AR: Noble Tv
+https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w1846560353.m3u8?v=1525040486
+
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="===== SPORT =====" tvg-logo="" group-title="Live: Iceland",===== SPORT =====
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: KSA Sports 1 FHD" tvg-logo="" group-title="Live: Sport",VIP AR: KSA Sports 1 FHD
