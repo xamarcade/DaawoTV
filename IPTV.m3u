@@ -12,6 +12,12 @@ https://ap02.iqplay.tv:8082/iqb8002/p2t25/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SNTV" tvg-logo="" group-title="Live: Somalia",VIP SO: SNTV
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SN2TV" tvg-logo="" group-title="Live: Somalia",VIP SO: SN2TV
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/169532
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SLNTV" tvg-logo="" group-title="Live: Somalia",VIP SO: SLNTV
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/169535
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SHABEELE TV" tvg-logo="" group-title="Live: Somalia",VIP SO: SHABEELE TV
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/169680
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Dacwa TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Dacwa TV
 https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: HCTV" tvg-logo="" group-title="Live: Somalia",VIP SO: HCTV
@@ -593,20 +599,36 @@ http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7860
 #EXTINF:-1 tvg-ID="" tvg-name="===== VIP SKY IT ======" tvg-logo="" group-title="Live: Iceland",===== Italy ======
 
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 1 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 1 FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50162
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181042
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 2 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 2 FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50163
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181045
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 3 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 3 FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50164
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181048
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 4 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 4 FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50165
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181051
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 5 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 5 FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50166
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181053
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai Movie FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai Movie FHD
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181083
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai Premium FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai Premium FHD
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181054
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Italia 1 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Italia 1 FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50169
-#EXTINF:-1 tvg-ID="italia2.it" tvg-name="VIP IT: Italia 2 HD" tvg-logo="[" group-title="Live: Italy",VIP IT: Italia 2 HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/18716
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181062
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Rete 4 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rete 4 FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50167
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181056
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Canale 5 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Canale 5 FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/50168
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181059
+
+#EXTINF:-1 tvg-ID="" tvg-name="===== VIP KIDS ======" tvg-logo="" group-title="Live: Iceland",===== KIDS ======
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: SHAUN THE SHEEP" tvg-logo="" group-title="Live: KIDS",VIP KID: SHAUN THE SHEEP
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/152934
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: TOM & JERRY" tvg-logo="" group-title="Live: KIDS",VIP KID: TOM & JERRY
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/152933
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: POKEMON HD" tvg-logo="" group-title="Live: KIDS",VIP KID: POKEMON HD
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/152860
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: CONAN HD" tvg-logo="" group-title="Live: KIDS",VIP KID: CONAN HD
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/152858
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: TELETABBIES" tvg-logo="" group-title="Live: KIDS",VIP KID: TELETABBIES
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/152927
+
