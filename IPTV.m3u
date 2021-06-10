@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="===== VIP Somalia =====" tvg-logo="" group-title="Live: Iceland",===== Somalia =====
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: BULSHO TV" tvg-logo="" group-title="Live: Somalia",VIP SO: BULSHO TV
-https://ap02.iqplay.tv:8082/iqb8002/bu1sho41/playlist.m3u8
+http://cdn.mediavisionuae.com:1935/live/bullshotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Universal TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Universal TV
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/169706
+http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/169706
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Somali Cable TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Somali Cable TV
 https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Puntland TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Puntland TV
