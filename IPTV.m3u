@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: BULSHO TV" tvg-logo="" group-title="Live: Somalia",VIP SO: BULSHO TV
 http://cdn.mediavisionuae.com:1935/live/bullshotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Universal TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Universal TV
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/169706
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/169706
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Somali Cable TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Somali Cable TV
 https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Puntland TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Puntland TV
@@ -13,11 +13,11 @@ https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SNTV" tvg-logo="" group-title="Live: Somalia",VIP SO: SNTV
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SN2TV" tvg-logo="" group-title="Live: Somalia",VIP SO: SN2TV
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/169532
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/169532
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SLNTV" tvg-logo="" group-title="Live: Somalia",VIP SO: SLNTV
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/169535
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/169535
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: SHABEELE TV" tvg-logo="" group-title="Live: Somalia",VIP SO: SHABEELE TV
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/169680
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/169680
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Dacwa TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Dacwa TV
 https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: HCTV" tvg-logo="" group-title="Live: Somalia",VIP SO: HCTV
@@ -270,44 +270,44 @@ http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23001
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="===== Bein Group =====" tvg-logo="" group-title="Live: Iceland",===== Bein Group =====
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport News HD" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport News HD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27113
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27113
 #EXTINF:-1 tvg-ID="beIN Sports ARB" tvg-name="VIP AR: Bein Sport" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/29834
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/29834
 #EXTINF:-1 tvg-ID="beIN Sports 1 ARB" tvg-name="VIP AR: Bein Sport FHD1" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD1
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27060
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27060
 #EXTINF:-1 tvg-ID="beIN Sports 2 ARB" tvg-name="VIP AR: Bein Sport FHD2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD2
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27095
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27095
 #EXTINF:-1 tvg-ID="beIN Sports 3 ARB" tvg-name="VIP AR: Bein Sport FHD3" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD3
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27094
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27094
 #EXTINF:-1 tvg-ID="beIN Sports 4 ARB" tvg-name="VIP AR: Bein Sport FHD4" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD4
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27093
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27093
 #EXTINF:-1 tvg-ID="beIN Sports 5 ARB" tvg-name="VIP AR: Bein Sport FHD5" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD5
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27092
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27092
 #EXTINF:-1 tvg-ID="beIN Sports 6 ARB" tvg-name="VIP AR: Bein Sport FHD6" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD6
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27091
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27091
 #EXTINF:-1 tvg-ID="beIN Sports 7 ARB" tvg-name="VIP AR: Bein Sport FHD7" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD7
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27090
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27090
 
 #EXTINF:-1 tvg-ID="beIN Sports Premium 1 ARB" tvg-name="VIP AR: Bein Sports Premium 1" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sports Premium 1
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27111
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27111
 #EXTINF:-1 tvg-ID="beIN Sports Premium 2 ARB" tvg-name="VIP AR: Bein Sports Premium 2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sports Premium 2
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27110
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27110
 #EXTINF:-1 tvg-ID="beIN Sports Premium 3 ARB" tvg-name="VIP AR: Bein Sports Premium 3" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sports Premium 3
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/24423
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/24423
 
 
 #EXTINF:-1 tvg-ID="beIN Sports Max 1 ARB" tvg-name="VIP AR: Bein Sport Max 1" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Max 1
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/222557
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/222557
 #EXTINF:-1 tvg-ID="beIN Sports Max 2 ARB" tvg-name="VIP AR: Bein Sport Max 2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Max 2
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/222558
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/222558
 #EXTINF:-1 tvg-ID="beIN Sports Max 3 ARB" tvg-name="VIP AR: Bein Sport Max 3" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Max 3
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/222559
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/222559
 #EXTINF:-1 tvg-ID="beIN Sports Max 4 ARB" tvg-name="VIP AR: Bein Sport Max 4" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Max 4
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/222560
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/222560
 #EXTINF:-1 tvg-ID="beIN Sports Max 5 ARB" tvg-name="VIP AR: Bein Sport Max 5" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Max 5
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/222561
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/222561
 #EXTINF:-1 tvg-ID="beIN Sports Max 6 ARB" tvg-name="VIP AR: Bein Sport Max 6" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Max 6
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/222562
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/222562
 
 #EXTINF:-1 tvg-ID="" tvg-name="===== VIP INDIA =====" tvg-logo="" group-title="Live: Iceland",===== VIP INDIA =====
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IN: & PICTURE HD" tvg-logo="" group-title="Live: India",VIP IN: & PICTURE HD
@@ -608,36 +608,36 @@ http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7860
 #EXTINF:-1 tvg-ID="" tvg-name="===== VIP SKY IT ======" tvg-logo="" group-title="Live: Iceland",===== Italy ======
 
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 1 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 1 FHD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181042
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181042
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 2 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 2 FHD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181045
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181045
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 3 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 3 FHD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181048
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181048
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 4 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 4 FHD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181051
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181051
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai 5 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 5 FHD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181053
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181053
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai Movie FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai Movie FHD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181083
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181083
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Rai Premium FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai Premium FHD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181054
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181054
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Italia 1 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Italia 1 FHD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181062
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181062
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Rete 4 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rete 4 FHD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181056
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181056
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Canale 5 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Canale 5 FHD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/181059
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181059
 
 #EXTINF:-1 tvg-ID="" tvg-name="===== VIP KIDS ======" tvg-logo="" group-title="Live: Iceland",===== KIDS ======
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: SHAUN THE SHEEP" tvg-logo="" group-title="Live: KIDS",VIP KID: SHAUN THE SHEEP
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/152934
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/152934
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: TOM & JERRY" tvg-logo="" group-title="Live: KIDS",VIP KID: TOM & JERRY
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/152933
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/152933
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: POKEMON HD" tvg-logo="" group-title="Live: KIDS",VIP KID: POKEMON HD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/152860
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/152860
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: CONAN HD" tvg-logo="" group-title="Live: KIDS",VIP KID: CONAN HD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/152858
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/152858
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: TELETABBIES" tvg-logo="" group-title="Live: KIDS",VIP KID: TELETABBIES
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/152927
+http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/152927
 
