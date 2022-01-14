@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: BULSHO TV" tvg-logo="" group-title="Live: Somalia",VIP SO: BULSHO TV
 http://cdn.mediavisionuae.com:1935/live/bullshotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Universal TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Universal TV
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/169706
+https://ingest4-7825.boxcast.com/cheerful-thread/srykhnu2ciz1fg4xco07/480p-byteranges-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbmdlc3Q0LTc4MjUuYm94Y2FzdC5jb20vY2hlZXJmdWwtdGhyZWFkL3NyeWtobnUyY2l6MWZnNHhjbzA3LzQ4MHAtYnl0ZXJhbmdlcy1leHQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY0MjI5MTcyMn19fV19&Signature=mohR~d4S9v1U~F7EDzCdLA92DJwlOo60Csa2ZqX9-9Fee-usj4O1nfRs8AX6u9Ybqxm~OrxBD0a-B6kqcFW00~vve5-sQ1ExwZZL~~FGWwYdDrYX-ucFeM2DvRb~TerpPQcoPiYetUDqJf7rWZlv7dc1Rqbish5W1MtffBIvaZpwEmMB38OteFMRF~Izhi9sTW90xgA147VAjoSFunaJLruNPkVmu3zIR4UKCDYSup6rttPZwZsL6R5IdNVfqInrpK7jd9cpFuqxddpP7PMfMl6IIkMiIqeWLqjo6Go6ALQ6s88um8jc3Bq1BELAaTS5g6PpZuNSdETgWfwUJsGvWQ__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Somali Cable TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Somali Cable TV
 https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP SO: Puntland TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Puntland TV
@@ -33,19 +33,19 @@ http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="===== ENTERTAINMENT =====" tvg-logo="" group-title="Live: Iceland",===== ENTERTAINMENT =====
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC1 FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC1 FHD
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AR: MBC2 FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC2 FHD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+http://telearabica.teledunet.com:8080/live/tdn/1133.3790793/1133.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC3 HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC3 HD
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AR: MBC4 FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC4 FHD
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+http://telearabica.teledunet.com:8080/live/tdn/10092.3799752/10092.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AR: MBC5 FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC5 FHD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AR: MBC Action FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Action FHD
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+http://telearabica.teledunet.com:8080/live/tdn/10093.3799753/10093.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC MAX HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC MAX HD
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+http://telearabica.teledunet.com:8080/live/tdn/10098.3799758/10098.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AR: MBC Masr HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Masr HD
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AR: MBC Masr 2 HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Masr 2 HD
@@ -55,9 +55,11 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC+ Drama HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ Drama HD
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Bollywood HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Bollywood HD
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+http://telearabica.teledunet.com:8080/live/tdn/10094.3799754/10094.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC IRAQ HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC IRAQ HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Variety HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Variety HD
+http://telearabica.teledunet.com:8080/live/tdn/50355.3840015/50355.m3u8
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="===== UAE =====" tvg-logo="" group-title="Live: Iceland",===== UAE =====
 
