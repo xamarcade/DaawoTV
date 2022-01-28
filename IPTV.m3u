@@ -284,560 +284,266 @@ http://line.uhd-ott.com:80/5D5610/76875C/523624
 #EXTINF:-1 tvg-ID="NULL"tvg-name="VIP AR: BOX OFFICE 100 HD" tvg-logo="" group-title="Live: BOX OFFICE",VIP AR: BOX OFFICE 100 HD
 http://line.uhd-ott.com:80/5D5610/76875C/523625
 
-#EXTINF:-1 tvg-ID="NULL" tvg-name="===== SAUDI =====" tvg-logo="" group-title="Live: Iceland",===== SAUDI=====
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Cinema" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Cinema
-https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Khalij" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Khalij
-https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Comedy" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Comedy
-https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_1080p/chunks.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Drama" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Drama
-https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_1080p/chunks.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Classic" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Classic
-https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_1080p/chunks.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Kids" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Kids
-https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_1080p/chunks.m3u8
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Saudi 1 Tv" tvg-logo="" group-title="Live: Saudi",VIP AR: Saudi 1
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv-avc1_600000=4-mp4a_97200=2.m3u8
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Al Khalij Tv" tvg-logo="" group-title="Live: Saudi",VIP AR: Al Khalij Tv
-https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: FOX Rewayat HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: FOX Rewayat HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/16971
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: FOX Crime HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: FOX Crime HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/16973
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: ART Aflam 1" tvg-logo="" group-title="Live: Entertainment",VIP AR: ART Aflam 1
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/141
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: ART Aflam 2" tvg-logo="[" group-title="Live: Entertainment",VIP AR: ART Aflam 2
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/140
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: ART Hekayat 1" tvg-logo="" group-title="Live: Entertainment",VIP AR: ART Hekayat 1
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/138
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: ART Hekayat 2" tvg-logo="[""]" group-title="Live: Entertainment",VIP AR: ART Hekayat 2
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/137
-
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: Rotana Masriah HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Rotana Masriah HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5421
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Rotana Classic HD" tvg-logo="[" group-title="Live: Entertainment",VIP AR: Rotana Classic HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5423
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: Rotana Cinema HD" tvg-logo="[""]" group-title="Live: Entertainment",VIP AR: Rotana Cinema HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5424
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: Rotana Aflam HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: Rotana Aflam HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5425
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Al Yawm  HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Al Yawm  HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23005
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Cinema 1 HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Cinema 1 HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23006
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: OSN Cinema 2 HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Cinema 2 HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23007
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: OSN Musalsalat HD HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Musalsalat HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23009
-
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Star Movies HD HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Star Movies HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23002
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Star World HD HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Star World HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23003
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN First Movies HD HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN First Movies HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22987
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN First Movies 2 HD HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN First Movies 2 HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22986
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: OSN Movies HD HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Movies HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22992
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Movies Action HD HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Movies Action HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22990
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: OSN Movies Enigma HD HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Movies Enigma HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22989
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: OSN Movies Bingi HD HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Movies Bingi HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22988
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Movies Comedy HD HEVC" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Movies Comedy HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22991
-
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: OSN Yahala HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Yahala HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12541
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: OSN Yahala First HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Yahala First HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12540
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: OSN Yahala Cinema HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Yahala Cinema HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12549
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Movies Action HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Movies Action HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12544
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Comedy HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Comedy HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/3687
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Movies Comedy HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Movies Comedy HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/3695
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Kids HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Kids HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5467
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Star Movies HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Star Movies HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7460
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Star World HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Star World HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/3688
-
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: OSN Box Office 2" tvg-logo="" group-title="Live: Entertainment",VIP AR: OSN Box Office 2
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/5383
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: My Cinema HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: My Cinema HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/12255
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: NETFLIX ACTION FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: NETFLIX ACTION FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40282
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: NETFLIX BOLLYWOOD HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: NETFLIX BOLLYWOOD HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40284
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX BOX OFFICE" tvg-logo="" group-title="Live: Entertainment",VIP AR: NETFLIX BOX OFFICE
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40285
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX COMEDY FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: NETFLIX COMEDY FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40287
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: NETFLIX DRAMA FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: NETFLIX DRAMA FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40288
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: NETFLIX HORROR FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: NETFLIX HORROR FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40289
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: NETFLIX KIDS FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: NETFLIX KIDS FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40290
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: NETFLIX THRILLER FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: NETFLIX THRILLER FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/40294
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Movies 1FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: BeIN Movies 1FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34543
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Movies 2FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: BeIN Movies 2FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34544
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Movies 3FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: BeIN Movies 3FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34545
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Movies 4FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: BeIN Movies 4FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34546
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Movies 4HD" tvg-logo="[" group-title="Live: Entertainment",VIP AR: BeIN Movies 4HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/4019
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeoutQ Movies HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: BeoutQ Movies HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23488
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeoutQ Movies 2HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: BeoutQ Movies 2HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23487
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeoutQ Action HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: BeoutQ Action HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23490
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeoutQ Action 2HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: BeoutQ Action 2HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23489
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeoutQ Kids HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: BeoutQ Kids HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23486
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="===== ISLAM =====" tvg-logo="" group-title="Live: Iceland",===== ISLAM =====
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Saudi Quran" tvg-logo="" group-title="Live: Islam",VIP AR: Saudi Quran
-http://m.live.net.sa:1935/live/quran/chunklist_w114407812.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Saudi Sunnah" tvg-logo="" group-title="Live: Islam",VIP AR: Saudi Sunnah
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_97200=2.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Makkah" tvg-logo="" group-title="Live: Islam",VIP AR: Makkah
-https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w825588614.m3u8?v=1525040486
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Iqraa" tvg-logo="" group-title="Live: Islam",VIP AR: Iqraa
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Iqraa Europe/Africa" tvg-logo="" group-title="Live: Islam",VIP AR: Iqraa Europe/Africa
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Al Risala" tvg-logo="" group-title="Live: Islam",VIP AR: Al Risala
-https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/risala_480p/chunks.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Noor Dubai HD" tvg-logo="" group-title="Live: Islam",VIP AR: Noor Dubai HD
-https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Wesal Tv" tvg-logo="" group-title="Live: Islam",VIP AR: Wesal Tv
-http://live.noorlive.com:1935/wesal/wesal1/chunklist_w554768671.m3u8?v=1525040486
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Noble Tv" tvg-logo="" group-title="Live: Islam",VIP AR: Noble Tv
-https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w1846560353.m3u8?v=1525040486
-
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="===== SPORT =====" tvg-logo="" group-title="Live: Iceland",===== SPORT =====
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: KSA Sports 1 FHD" tvg-logo="" group-title="Live: Sport",VIP AR: KSA Sports 1 FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/19100
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: KSA Sports 2 FHD" tvg-logo="" group-title="Live: Sport",VIP AR: KSA Sports 2 FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/19101
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: KSA Sports 3 FHD" tvg-logo="" group-title="Live: Sport",VIP AR: KSA Sports 3 FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/20356
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: KSA Sports 4 FHD" tvg-logo="" group-title="Live: Sport",VIP AR: KSA Sports 4 FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/20357
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Time Sports" tvg-logo="" group-title="Live: Sport",VIP AR: Time Sports
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/27929
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN WWE HD HEVC" tvg-logo="" group-title="Live: Sport",VIP AR: OSN WWE HD HEVC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/23001
-
 #EXTINF:-1 tvg-ID="NULL" tvg-name="===== Bein Group =====" tvg-logo="" group-title="Live: Iceland",===== Bein Group =====
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport News HD" tvg-logo="[" group-title="Live: Bein Media",VIP AR: Bein Sport News HD
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27113
-#EXTINF:-1 tvg-ID="beIN Sports ARB" tvg-name="VIP AR: Bein Sport" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/29834
-#EXTINF:-1 tvg-ID="beIN Sports 1 ARB" tvg-name="VIP AR: Bein Sport FHD1" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD1
-<<<<<<< HEAD
-http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27060
-=======
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27060
->>>>>>> 0309074277c29de9097d75af688e5f73bb6df74d
-#EXTINF:-1 tvg-ID="beIN Sports 2 ARB" tvg-name="VIP AR: Bein Sport FHD2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD2
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27095
-#EXTINF:-1 tvg-ID="beIN Sports 3 ARB" tvg-name="VIP AR: Bein Sport FHD3" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD3
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27094
-#EXTINF:-1 tvg-ID="beIN Sports 4 ARB" tvg-name="VIP AR: Bein Sport FHD4" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD4
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27093
-#EXTINF:-1 tvg-ID="beIN Sports 5 ARB" tvg-name="VIP AR: Bein Sport FHD5" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD5
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27092
-#EXTINF:-1 tvg-ID="beIN Sports 6 ARB" tvg-name="VIP AR: Bein Sport FHD6" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD6
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27091
-#EXTINF:-1 tvg-ID="beIN Sports 7 ARB" tvg-name="VIP AR: Bein Sport FHD7" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport FHD7
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27090
-
-#EXTINF:-1 tvg-ID="beIN Sports Premium 1 ARB" tvg-name="VIP AR: Bein Sports Premium 1" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sports Premium 1
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27111
-#EXTINF:-1 tvg-ID="beIN Sports Premium 2 ARB" tvg-name="VIP AR: Bein Sports Premium 2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sports Premium 2
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/27110
-#EXTINF:-1 tvg-ID="beIN Sports Premium 3 ARB" tvg-name="VIP AR: Bein Sports Premium 3" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sports Premium 3
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/24423
-
-
-#EXTINF:-1 tvg-ID="beIN Sports Max 1 ARB" tvg-name="VIP AR: Bein Sport Max 1" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Max 1
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/222557
-#EXTINF:-1 tvg-ID="beIN Sports Max 2 ARB" tvg-name="VIP AR: Bein Sport Max 2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Max 2
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/222558
-#EXTINF:-1 tvg-ID="beIN Sports Max 3 ARB" tvg-name="VIP AR: Bein Sport Max 3" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Max 3
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/222559
-#EXTINF:-1 tvg-ID="beIN Sports Max 4 ARB" tvg-name="VIP AR: Bein Sport Max 4" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Max 4
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/222560
-#EXTINF:-1 tvg-ID="beIN Sports Max 5 ARB" tvg-name="VIP AR: Bein Sport Max 5" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Max 5
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/222561
-#EXTINF:-1 tvg-ID="beIN Sports Max 6 ARB" tvg-name="VIP AR: Bein Sport Max 6" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport Max 6
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/222562
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name===== VIP INDIA =====" tvg-logo="" group-title="Live: Iceland",===== VIP INDIA =====
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: & PICTURE HD" tvg-logo="" group-title="Live: India",VIP IN: & PICTURE HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8130
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: &tv HD india" tvg-logo="" group-title="Live: India",VIP IN: &tv HD india
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8131
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: AAPKA COLORS HD" tvg-logo="" group-title="Live: India",VIP IN: AAPKA COLORS HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8101
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: AND FLIX" tvg-logo="" group-title="Live: India",VIP IN: AND FLIX
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34525
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: AND FLIX HD" tvg-logo="" group-title="Live: India",VIP IN: AND FLIX HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34503
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: AND PICTURES" tvg-logo="" group-title="Live: India",VIP IN: AND PICTURES
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34118
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: AND PICTURES HD" tvg-logo="" group-title="Live: India",VIP IN: AND PICTURES HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34477
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: AND PRIVE HD" tvg-logo="" group-title="Live: India",VIP IN: AND PRIVE HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34478
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: AND TV" tvg-logo="" group-title="Live: India",VIP IN: AND TV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34089
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: AND TV UK" tvg-logo="" group-title="Live: India",VIP IN: AND TV UK
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34119
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: AXN HD" tvg-logo="[""]" group-title="Live: India",VIP IN: AXN HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/26070
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: BIG MAGIC" tvg-logo="" group-title="Live: India",VIP IN: BIG MAGIC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34182
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: Cine PLEX HD" tvg-logo="" group-title="Live: India",VIP IN: Cine PLEX HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/16089
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: CINEMA TV" tvg-logo="" group-title="Live: India",VIP IN: CINEMA TV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34185
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: Colors Cineplex HD" tvg-logo="[" group-title="Live: India",VIP IN: Colors Cineplex HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/26068
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: Colors GUJRATI HD" tvg-logo="[" group-title="Live: India",VIP IN: Colors GUJRATI HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/26066
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: COLORS HD" tvg-logo="[" group-title="Live: India",VIP IN: COLORS HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8104
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: COLORS ME" tvg-logo="" group-title="Live: India",VIP IN: COLORS ME
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34507
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: COLORS TV" tvg-logo="" group-title="Live: India",VIP IN: COLORS TV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34122
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: COLORS TV UK" tvg-logo="" group-title="Live: India",VIP IN: COLORS TV UK
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34123
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: DABANG TV" tvg-logo="" group-title="Live: India",VIP IN: DABANG TV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34189
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: DANGAAL TV" tvg-logo="" group-title="Live: India",VIP IN: DANGAAL TV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34190
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: DD BHARATI" tvg-logo="" group-title="Live: India",VIP IN: DD BHARATI
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34093
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: DD INDIA" tvg-logo="" group-title="Live: India",VIP IN: DD INDIA
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34124
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: DD NATIONAL" tvg-logo="" group-title="Live: India",VIP IN: DD NATIONAL
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34125
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: DILLAGI TV" tvg-logo="" group-title="Live: India",VIP IN: DILLAGI TV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34195
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ENTER 10" tvg-logo="" group-title="Live: India",VIP IN: ENTER 10
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34128
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: HBO HD" tvg-logo="" group-title="Live: India",VIP IN: HBO HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8103
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: JAYA Movies HD" tvg-logo="" group-title="Live: India",VIP IN: JAYA Movies HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/26056
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: Ktv HD" tvg-logo="" group-title="Live: India",VIP IN: Ktv HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8134
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: MANORANGAN MOVIES" tvg-logo="" group-title="Live: India",VIP IN: MANORANGAN MOVIES
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34200
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: RISHTAY ASIA" tvg-logo="" group-title="Live: India",VIP IN: RISHTAY ASIA
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34141
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: RISHTEY CINEPLEX UK" tvg-logo="" group-title="Live: India",VIP IN: RISHTEY CINEPLEX UK
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34142
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: SONY HD" tvg-logo="" group-title="Live: India",VIP IN: SONY HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8106
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: SONY MAX 2" tvg-logo="" group-title="Live: India",VIP IN: SONY MAX 2
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34145
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: SONY MAX HD" tvg-logo="" group-title="Live: India",VIP IN: SONY MAX HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8107
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: SONY PAL" tvg-logo="" group-title="Live: India",VIP IN: SONY PAL
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34147
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: SONY PIX HD" tvg-logo="" group-title="Live: India",VIP IN: SONY PIX HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/15570
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: SONY SAB HD" tvg-logo="" group-title="Live: India",VIP IN: SONY SAB HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/15568
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: SONY SAB TV" tvg-logo="" group-title="Live: India",VIP IN: SONY SAB TV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34148
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: SONY SAB UK" tvg-logo="" group-title="Live: India",VIP IN: SONY SAB UK
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34149
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: SONY SETMAX" tvg-logo="" group-title="Live: India",VIP IN: SONY SETMAX
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34150
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: SONY SETMAX HD" tvg-logo="" group-title="Live: India",VIP IN: SONY SETMAX HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34489
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: SONY SETMAX UK" tvg-logo="" group-title="Live: India",VIP IN: SONY SETMAX UK
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34151
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: SONY SIX" tvg-logo="" group-title="Live: India",VIP IN: SONY SIX
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34105
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: Sony six HD" tvg-logo="" group-title="Live: India",VIP IN: Sony six HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8108
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: SONY TV" tvg-logo="" group-title="Live: India",VIP IN: SONY TV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34152
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: SONY TV HD" tvg-logo="" group-title="Live: India",VIP IN: SONY TV HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34492
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: SONY TV HD UK" tvg-logo="" group-title="Live: India",VIP IN: SONY TV HD UK
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34493
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: STAR BHARAT APAC" tvg-logo="" group-title="Live: India",VIP IN: STAR BHARAT APAC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34510
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: STAR GOLD SELECT HD" tvg-logo="[" group-title="Live: India",VIP IN: STAR GOLD SELECT HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8111
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: STAR GOLD UK" tvg-logo="" group-title="Live: India",VIP IN: STAR GOLD UK
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34157
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: STAR PLUS" tvg-logo="" group-title="Live: India",VIP IN: STAR PLUS
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34158
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: STAR PLUS HD" tvg-logo="" group-title="Live: India",VIP IN: STAR PLUS HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8113
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: STAR PLUS ME" tvg-logo="" group-title="Live: India",VIP IN: STAR PLUS ME
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34159
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: SUN LIFE HD" tvg-logo="" group-title="Live: India",VIP IN: SUN LIFE HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/26052
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: Sun tv HD" tvg-logo="" group-title="Live: India",VIP IN: Sun tv HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8119
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: WOW CINEMA" tvg-logo="" group-title="Live: India",VIP IN: WOW CINEMA
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34504
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE ACTION" tvg-logo="" group-title="Live: India",VIP IN: ZEE ACTION
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34110
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE ANMOL" tvg-logo="" group-title="Live: India",VIP IN: ZEE ANMOL
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34162
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE ANMOL CINEMA" tvg-logo="" group-title="Live: India",VIP IN: ZEE ANMOL CINEMA
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34163
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE BOLLYWOOD HD" tvg-logo="" group-title="Live: India",VIP IN: ZEE BOLLYWOOD HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8133
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE CINEMA" tvg-logo="" group-title="Live: India",VIP IN: ZEE CINEMA
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34165
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE CINEMA APAC" tvg-logo="" group-title="Live: India",VIP IN: ZEE CINEMA APAC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34514
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IN: Zee Cinema HD" tvg-logo="" group-title="Live: India",VIP IN: Zee Cinema HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8120
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE CINEMA UK" tvg-logo="" group-title="Live: India",VIP IN: ZEE CINEMA UK
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34166
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE CINEMA USA" tvg-logo="" group-title="Live: India",VIP IN: ZEE CINEMA USA
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34508
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE ETC BOLLYWOOD" tvg-logo="" group-title="Live: India",VIP IN: ZEE ETC BOLLYWOOD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34168
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE MUNDO" tvg-logo="" group-title="Live: India",VIP IN: ZEE MUNDO
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34199
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE TV" tvg-logo="" group-title="Live: India",VIP IN: ZEE TV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34170
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE TV APAC" tvg-logo="" group-title="Live: India",VIP IN: ZEE TV APAC
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34515
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE TV ME" tvg-logo="" group-title="Live: India",VIP IN: ZEE TV ME
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/34171
-#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: Zee TV-HD" tvg-logo="" group-title="Live: India",IN: Zee TV-HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/181
-#EXTINF:-1 tvg-ID="NULL" tvg-nameIN: ZEE ETC HD" tvg-logo="[""]" group-title="Live: India",IN: ZEE ETC HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/180
-#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: Zee Cinema" tvg-logo="[" group-title="Live: India",IN: Zee Cinema
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/189
-#EXTINF:-1 tvg-ID="NULL" tvg-nameIN: Zee Cafe" tvg-logo="" group-title="Live: India",IN: Zee Cafe
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/182
-#EXTINF:-1 tvg-ID="NULL" tvg-nameIN: SUN TV HD" tvg-logo="" group-title="Live: India",IN: SUN TV HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/161
-#EXTINF:-1 tvg-ID="NULL" tvg-nameIN: STAR PLUS HD" tvg-logo="" group-title="Live: India",IN: STAR PLUS HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/191
-#EXTINF:-1 tvg-ID="NULL" tvg-nameIN: GEMINI Movies" tvg-logo="" group-title="Live: India",IN: GEMINI Movies
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/3422
-#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: B4U MOVIES" tvg-logo="" group-title="Live: India",IN: B4U MOVIES
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/201
-#EXTINF:-1 tvg-ID="NULL" tvg-nameIN: B4U PLUS" tvg-logo="" group-title="Live: India",IN: B4U PLUS
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/199
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BEIN SPORTS MAX 1 HD" tvg-logo="" group-title="[AR] BEIN SPORTS",[AR] [4K] BEIN SPORTS MAX 1 HD
+http://line.uhd-ott.com:80/5D5610/76875C/543534
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BEIN SPORTS MAX 2 HD" tvg-logo="" group-title="[AR] BEIN SPORTS",[AR] [4K] BEIN SPORTS MAX 2 HD
+http://line.uhd-ott.com:80/5D5610/76875C/543533
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BEIN PREMIUM 1 4K" tvg-logo="" group-title="[AR] BEIN SPORTS",[AR] [4K] BEIN PREMIUM 1 4K
+http://line.uhd-ott.com:80/5D5610/76875C/347279
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BEIN PREMIUM 2 4K" tvg-logo="" group-title="[AR] BEIN SPORTS",[AR] [4K] BEIN PREMIUM 2 4K
+http://line.uhd-ott.com:80/5D5610/76875C/347280
+#EXTINF:-1 tvg-ID="NULL" tvg-name="[AR] [4K] BEIN PREMIUM 3 4K" tvg-logo="" group-title="[AR] BEIN SPORTS",[AR] [4K] BEIN PREMIUM 3 4K
+http://line.uhd-ott.com:80/5D5610/76875C/347281
+#EXTINF:-1 tvg-ID="NULL" tvg-name="[AR] [4K] BEIN SPORTS 1 4K" tvg-logo="" group-title="[AR] BEIN SPORTS",[AR] [4K] BEIN SPORTS 1 4K
+http://line.uhd-ott.com:80/5D5610/76875C/347282
+#EXTINF:-1 tvg-ID="NULL" tvg-name="[AR] [4K] BEIN SPORTS 2 4K" tvg-logo="" group-title="[AR] BEIN SPORTS",[AR] [4K] BEIN SPORTS 2 4K
+http://line.uhd-ott.com:80/5D5610/76875C/347283
+#EXTINF:-1 tvg-ID="NULL" tvg-name="[AR] [4K] BEIN SPORTS 3 4K" tvg-logo="" group-title="[AR] BEIN SPORTS",[AR] [4K] BEIN SPORTS 3 4K
+http://line.uhd-ott.com:80/5D5610/76875C/347284
+#EXTINF:-1 tvg-ID="NULL" tvg-name="[AR] [4K] BEIN SPORTS 4 4K" tvg-logo="" group-title="[AR] BEIN SPORTS",[AR] [4K] BEIN SPORTS 4 4K
+http://line.uhd-ott.com:80/5D5610/76875C/347285
+#EXTINF:-1 tvg-ID="NULL" tvg-name="[AR] [4K] BEIN SPORTS 5 4K" tvg-logo="" group-title="[AR] BEIN SPORTS",[AR] [4K] BEIN SPORTS 5 4K
+http://line.uhd-ott.com:80/5D5610/76875C/347286
+#EXTINF:-1 tvg-ID="NULL" tvg-name="[AR] [4K] BEIN SPORTS 6 4K" tvg-logo="" group-title="[AR] BEIN SPORTS",[AR] [4K] BEIN SPORTS 6 4K
+http://line.uhd-ott.com:80/5D5610/76875C/347287
+#EXTINF:-1 tvg-ID="NULL" tvg-name="[AR] [4K] BEIN SPORTS 7 4K" tvg-logo="" group-title="[AR] BEIN SPORTS",[AR] [4K] BEIN SPORTS 7 4K
+http://line.uhd-ott.com:80/5D5610/76875C/347288
+#EXTINF:-1 tvg-ID="NULL" tvg-name="[AR] [4K] BEIN SPORTS XTRA 1 UHD " tvg-logo="" group-title="[AR] BEIN SPORTS",[AR] [8K] BEIN SPORTS XTRA 1 UHD 
+http://line.uhd-ott.com:80/5D5610/76875C/107147
+#EXTINF:-1 tvg-ID="NULL" tvg-name="[AR] [4K] BEIN SPORTS XTRA 2 UHD" tvg-logo="" group-title="[AR] BEIN SPORTS",[AR] [8K] BEIN SPORTS XTRA 2 UHD
+http://line.uhd-ott.com:80/5D5610/76875C/107148
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name===== VIP Sweden =====" tvg-logo="" group-title="Live: Iceland",===== VIP Sweden =====
-#EXTINF:-1 tvg-ID="svt1.se" tvg-name="VIP SE: SVT 1HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: SVT 1HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/4278
-#EXTINF:-1 tvg-ID="svt2.se" tvg-name="VIP SE: SVT 2HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: SVT 2HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/6885
-#EXTINF:-1 tvg-ID="svt24.se" tvg-name="VIP SE: Svt 24/B HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: Svt 24/B HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/2661
-#EXTINF:-1 tvg-ID="tv3.se" tvg-name="VIP SE: TV3 Sweden HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: TV3 Sweden HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/9020
-#EXTINF:-1 tvg-ID="tv4.se" tvg-name="VIP SE: TV4 Sweden FHD" tvg-logo="" group-title="Live: Sweden",VIP SE: TV4 Sweden FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/15346
-#EXTINF:-1 tvg-ID="tv4guld.se" tvg-name="SE: TV4 Guld" tvg-logo="[""]" group-title="Live: Sweden",SE: TV4 Guld
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/1122
-#EXTINF:-1 tvg-ID="tv4fakta.se" tvg-name="SE: TV4 Fakta" tvg-logo="[""]" group-title="Live: Sweden",SE: TV4 Fakta
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/1110
-#EXTINF:-1 tvg-ID="kanal5.se" tvg-name="VIP SE: Kanal 5 FHD" tvg-logo="[" group-title="Live: Sweden",VIP SE: Kanal 5 FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/15344
-#EXTINF:-1 tvg-ID="tv6.se" tvg-name="VIP SE: TV6 Sweden FHD" tvg-logo="" group-title="Live: Sweden",VIP SE: TV6 Sweden FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/15345
-#EXTINF:-1 tvg-ID="sjuan.se" tvg-name="VIP SE: Sjuan 7 HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: Sjuan 7 HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/20236
-#EXTINF:-1 tvg-ID="tv8.se" tvg-name="VIP SE: TV8 Sweden HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: TV8 Sweden HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22223
-#EXTINF:-1 tvg-ID="kanal9.se" tvg-name="VIP SE: Kanal 9 FHD" tvg-logo="[" group-title="Live: Sweden",VIP SE: Kanal 9 FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22222
-#EXTINF:-1 tvg-ID="tv10.se" tvg-name="VIP SE: TV 10 HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: TV 10 HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22549
-#EXTINF:-1 tvg-ID="kanal11.se" tvg-name="VIP SE: Kanal 11 FHD" tvg-logo="[" group-title="Live: Sweden",VIP SE: Kanal 11 FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22548
-#EXTINF:-1 tvg-ID="tv12.se" tvg-name="VIP SE: TV12 Sweden FHD" tvg-logo="" group-title="Live: Sweden",VIP SE: TV12 Sweden FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22597
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SE: HBO HD" tvg-logo="[""]" group-title="Live: Sweden",VIP SE: HBO HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/27992
-#EXTINF:-1 tvg-ID="viasatfilmpremiere.se" tvg-name="VIP SE: V Film Premiere HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: V Film Premiere HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7289
-#EXTINF:-1 tvg-ID="viasatfilmaction.se" tvg-name="VIP SE: V Film Action HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: V Film Action HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/8393
-#EXTINF:-1 tvg-ID="viasatfilmfamily.se" tvg-name="VIP SE: V Film Family HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: V Film Family HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/26552
-#EXTINF:-1 tvg-ID="viasatfilmhits.se" tvg-name="VIP SE: V Film Hits HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: V Film Hits HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/822
-#EXTINF:-1 tvg-ID="viasatseries.se" tvg-name="VIP SE: V Series HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: V Series HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/828
-#EXTINF:-1 tvg-ID="cmorefirst.se" tvg-name="VIP SE: C More First FHD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/c-more-first.jpg" group-title="Live: Sweden",VIP SE: C More First FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/15330
-#EXTINF:-1 tvg-ID="cmorehits.se" tvg-name="VIP SE: C More Hits HD" tvg-logo="[""]" group-title="Live: Sweden",VIP SE: C More Hits HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/9023
-#EXTINF:-1 tvg-ID="cmoreseries.se" tvg-name="VIP SE: C More Series HD" tvg-logo="[""]" group-title="Live: Sweden",VIP SE: C More Series HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/9022
-#EXTINF:-1 tvg-ID="cmorestars.se" tvg-name="VIP SE: C More Stars HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: C More Stars HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/9024
-#EXTINF:-1 tvg-ID="cmorelive5.se" tvg-name="VIP SE: C More Sport HD" tvg-logo="[""]" group-title="Live: Sweden",VIP SE: C More Sport HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7288
-#EXTINF:-1 tvg-ID="cmorefotboll.se" tvg-name="VIP SE: C More Fotboll HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: C More Fotboll HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/4282
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SE: C More Fotboll HD (B)" tvg-logo="[""]" group-title="Live: Sweden",VIP SE: C More Fotboll HD (B)
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/27930
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SE: C More Live FHD" tvg-logo="[" group-title="Live: Sweden",VIP SE: C More Live FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/29631
-#EXTINF:-1 tvg-ID="cmorelive.se" tvg-name="VIP SE: C More Live HD" tvg-logo="[""]" group-title="Live: Sweden",VIP SE: C More Live HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7292
-#EXTINF:-1 tvg-ID="cmorelive2.se" tvg-name="VIP SE: C More Live 2 HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: C More Live 2 HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/2941
-#EXTINF:-1 tvg-ID="cmorelive3.se" tvg-name="VIP SE: C More Live 3 HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: C More Live 3 HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/2942
-#EXTINF:-1 tvg-ID="cmorelive4.se" tvg-name="VIP SE: C More Live 4 HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: C More Live 4 HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/2943
-#EXTINF:-1 tvg-ID="cmorelive5.se" tvg-name="VIP SE: C More Live 5 HD" tvg-logo="[""]" group-title="Live: Sweden",VIP SE: C More Live 5 HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/19394
-#EXTINF:-1 tvg-ID="eurosport.se" tvg-name="VIP SE: EUROSPORT 1HD" tvg-logo="[""]" group-title="Live: Sweden",VIP SE: EUROSPORT 1HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7290
-#EXTINF:-1 tvg-ID="eurosport2.se" tvg-name="VIP SE: EUROSPORT 2HD" tvg-logo="[""]" group-title="Live: Sweden",VIP SE: EUROSPORT 2HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7291
-#EXTINF:-1 tvg-ID="viasatsportpremium.se" tvg-name="VIP SE: V Sport Premium FHD" tvg-logo="" group-title="Live: Sweden",VIP SE: V Sport Premium FHD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/28993
-#EXTINF:-1 tvg-ID="viasatfotboll.se" tvg-name="VIP SE: V Fotboll HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: V Fotboll HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/4103
-#EXTINF:-1 tvg-ID="viasatsport.se" tvg-name="VIP SE: V Sport 1 HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: V Sport 1 HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/4102
-#EXTINF:-1 tvg-ID="tv3sport.se" tvg-name="VIP SE: V Sport Extra HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: V Sport Extra HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7365
-#EXTINF:-1 tvg-ID="sportkanalen.se" tvg-name="VIP SE: Sportkanalen HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: Sportkanalen HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/16803
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SE: Strive Sport HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: Strive Sport HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/25914
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SE: Dplay Sport 1 HD [Live During Events Only]" tvg-logo="" group-title="Live: Sweden",VIP SE: Dplay Sport 1 HD [Live During Events Only]
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/35696
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SE: Dplay Sport 2 HD [Live During Events Only]" tvg-logo="" group-title="Live: Sweden",VIP SE: Dplay Sport 2 HD [Live During Events Only]
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/35697
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SE: Dplay Sport 3 HD [Live During Events Only]" tvg-logo="" group-title="Live: Sweden",VIP SE: Dplay Sport 3 HD [Live During Events Only]
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/42762
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SE: Dplay Sport 4 HD [Live During Events Only]" tvg-logo="" group-title="Live: Sweden",VIP SE: Dplay Sport 4 HD [Live During Events Only]
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/42763
-#EXTINF:-1 tvg-ID="axesstv.se" tvg-name="VIP SE: Axess TV" tvg-logo="[""]" group-title="Live: Sweden",VIP SE: Axess TV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/28996
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SE: Godare" tvg-logo="[" group-title="Live: Sweden",VIP SE: Godare
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/29085
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SE: TV Malmo" tvg-logo="" group-title="Live: Sweden",VIP SE: TV Malmo
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/22546
-#EXTINF:-1 tvg-ID="tv4film.se" tvg-name="SE: TV4 Film" tvg-logo="http://www.camdserver.com/sb_data/files/logo/tv4-film.jpg" group-title="Live: Sweden",SE: TV4 Film
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/509
-#EXTINF:-1 tvg-ID="sfkanalen.se" tvg-name="SE: SF Kanalen" tvg-logo="[]" group-title="Live: Sweden",SE: SF Kanalen
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7099
-#EXTINF:-1 tvg-ID="kunskapskanalen.se" tvg-name="SE: Kunskapskanalen HD" tvg-logo="[" group-title="Live: Sweden",SE: Kunskapskanalen HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/1120
-#EXTINF:-1 tvg-ID="fox.se" tvg-name="SE: FOX" tvg-logo="[""]" group-title="Live: Sweden",SE: FOX
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/2931
-#EXTINF:-1 tvg-ID="TCM SE" tvg-name="SE: TCM" tvg-logo="[]" group-title="Live: Sweden",SE: TCM
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/9016
-#EXTINF:-1 tvg-ID="tlc.se" tvg-name="SE: TLC HD" tvg-logo="[""]" group-title="Live: Sweden",SE: TLC HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/1124
-#EXTINF:-1 tvg-ID="discoverychannel.se" tvg-name="SE: Discovery Channel HD" tvg-logo="[""]" group-title="Live: Sweden",SE: Discovery Channel HD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/6888
-#EXTINF:-1 tvg-ID="disneychannel.se" tvg-name="SE: Disney Channel" tvg-logo="[""]" group-title="Live: Sweden",SE: Disney Channel
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7103
-#EXTINF:-1 tvg-ID="disneyxd.se" tvg-name="SE: Disney XD" tvg-logo="[""]" group-title="Live: Sweden",SE: Disney XD
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7101
-#EXTINF:-1 tvg-ID="disneyjunior.se" tvg-name="SE: Disney Junior" tvg-logo="[""]" group-title="Live: Sweden",SE: Disney Junior
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7102
-#EXTINF:-1 tvg-ID="boomerang.se" tvg-name="SE: Boomerang" tvg-logo="[""]" group-title="Live: Sweden",SE: Boomerang
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7105
-#EXTINF:-1 tvg-ID="cartoonnetwork.se" tvg-name="SE: Cartoon Network" tvg-logo="[""]" group-title="Live: Sweden",SE: Cartoon Network
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/504
-#EXTINF:-1 tvg-ID="nickelodeon.se" tvg-name="SE: Nickelodeon" tvg-logo="[""]" group-title="Live: Sweden",SE: Nickelodeon
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/3563
-#EXTINF:-1 tvg-ID="nicktoons.se" tvg-name="SE: Nicktoons Toons" tvg-logo="[" group-title="Live: Sweden",SE: Nicktoons Toons
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/14184
-#EXTINF:-1 tvg-ID="nickjr.se" tvg-name="SE: Nick Jr" tvg-logo="[""]" group-title="Live: Sweden",SE: Nick Jr
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/2940
-#EXTINF:-1 tvg-ID="kanal10.se" tvg-name="SE: Kanal 10 SV" tvg-logo="" group-title="Live: Sweden",SE: Kanal 10 SV
-http://livego.club:8080/jWBwcPp6s5/8Uxww4RgYk/7860
+#EXTINF:-1 tvg-ID="svt1.se" tvg-name="[SE] SVT 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/SVT1.png" group-title="SWEDEN",[SE] SVT 1 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77427
+#EXTINF:-1 tvg-ID="svt2.se" tvg-name="[SE] SVT 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/SVT2.png" group-title="SWEDEN",[SE] SVT 2 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77426
+#EXTINF:-1 tvg-ID="tv3.se" tvg-name="[SE] TV3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV3.png" group-title="SWEDEN",[SE] TV3 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77409
+#EXTINF:-1 tvg-ID="tv4.se" tvg-name="[SE] TV4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV4.png" group-title="SWEDEN",[SE] TV4 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77407
+#EXTINF:-1 tvg-ID="kanal5.se" tvg-name="[SE] KANAL 5 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/KANAL5.png" group-title="SWEDEN",[SE] KANAL 5 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77436
+#EXTINF:-1 tvg-ID="tv6.se" tvg-name="[SE] TV 6 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV6.png" group-title="SWEDEN",[SE] TV 6 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77410
+#EXTINF:-1 tvg-ID="sjuan.se" tvg-name="[SE] SJUAN HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/SJUAN.png" group-title="SWEDEN",[SE] SJUAN HD
+http://line.uhd-ott.com:80/5D5610/76875C/77428
+#EXTINF:-1 tvg-ID="tv8.se" tvg-name="[SE] TV8 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV8.png" group-title="SWEDEN",[SE] TV8 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77406
+#EXTINF:-1 tvg-ID="kanal9.se" tvg-name="[SE] KANAL 9 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/KANAL9.png" group-title="SWEDEN",[SE] KANAL 9 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77435
+#EXTINF:-1 tvg-ID="tv10.se" tvg-name="[SE] TV 10 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV10.png" group-title="SWEDEN",[SE] TV 10 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77423
+#EXTINF:-1 tvg-ID="kanal11.se" tvg-name="[SE] KANAL 11 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/KANAL11.png" group-title="SWEDEN",[SE] KANAL 11 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77415
+#EXTINF:-1 tvg-ID="tv12.se" tvg-name="[SE] TV 12 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV12.png" group-title="SWEDEN",[SE] TV 12 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77422
+#EXTINF:-1 tvg-ID="tv4fakta.se" tvg-name="[SE] TV4 FAKTA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV4FAKTA.png" group-title="SWEDEN",[SE] TV4 FAKTA HD
+http://line.uhd-ott.com:80/5D5610/76875C/77408
+#EXTINF:-1 tvg-ID="tv4guld.se" tvg-name="[SE] TV 4 GULD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV4GULD.png" group-title="SWEDEN",[SE] TV 4 GULD HD
+http://line.uhd-ott.com:80/5D5610/76875C/77419
+#EXTINF:-1 tvg-ID="tv4film.se" tvg-name="[SE] TV 4 FILM HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV4FILM.png" group-title="SWEDEN",[SE] TV 4 FILM HD
+http://line.uhd-ott.com:80/5D5610/76875C/77420
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] BARNEKANALEN HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/BARNEKANALEN.png" group-title="SWEDEN",[SE] BARNEKANALEN HD
+http://line.uhd-ott.com:80/5D5610/76875C/77451
+#EXTINF:-1 tvg-ID="h2.se" tvg-name="[SE] H2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/H2.png" group-title="SWEDEN",[SE] H2 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77417
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] SVT KUNSKAPSKANALEN HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/SVTKUNSKAPSKANALEN.png" group-title="SWEDEN",[SE] SVT KUNSKAPSKANALEN HD
+http://line.uhd-ott.com:80/5D5610/76875C/77412
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] GODARE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/GODARE.png" group-title="SWEDEN",[SE] GODARE HD
+http://line.uhd-ott.com:80/5D5610/76875C/223867
+#EXTINF:-1 tvg-ID="tlc.se" tvg-name="[SE] TLC HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TLC.png" group-title="SWEDEN",[SE] TLC HD
+http://line.uhd-ott.com:80/5D5610/76875C/77424
+#EXTINF:-1 tvg-ID="atglive.se" tvg-name="[SE] ATG LIVE" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/ATGLIVE.png" group-title="SWEDEN",[SE] ATG LIVE
+http://line.uhd-ott.com:80/5D5610/76875C/77452
+#EXTINF:-1 tvg-ID="comedycentral.se" tvg-name="[SE] PARAMOUNT NETWORK" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/PARAMOUNTNETWORK.png" group-title="SWEDEN",[SE] PARAMOUNT NETWORK
+http://line.uhd-ott.com:80/5D5610/76875C/77447
+#EXTINF:-1 tvg-ID="sfkanalen.se" tvg-name="[SE] SF-KANALEN [MULTI-SUB]" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/SFKANALEN.png" group-title="SWEDEN",[SE] SF-KANALEN [MULTI-SUB]
+http://line.uhd-ott.com:80/5D5610/76875C/77413
+#EXTINF:-1 tvg-ID="svt24.se" tvg-name="[SE] SVT24/B HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/SVT24B.png" group-title="SWEDEN",[SE] SVT24/B HD
+http://line.uhd-ott.com:80/5D5610/76875C/77425
+#EXTINF:-1 tvg-ID="viasatexplorer.se" tvg-name="[SE] VIASAT EXPLORER HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATEXPLORER.png" group-title="SWEDEN",[SE] VIASAT EXPLORER HD
+http://line.uhd-ott.com:80/5D5610/76875C/77391
+#EXTINF:-1 tvg-ID="bbcbrit.se" tvg-name="[SE] BBC BRIT HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/BBCBRIT.png" group-title="SWEDEN",[SE] BBC BRIT HD
+http://line.uhd-ott.com:80/5D5610/76875C/77400
+#EXTINF:-1 tvg-ID="bbcearth.se" tvg-name="[SE] BBC EARTH HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/BBCEARTH.png" group-title="SWEDEN",[SE] BBC EARTH HD
+http://line.uhd-ott.com:80/5D5610/76875C/77450
+#EXTINF:-1 tvg-ID="discoverychannel.se" tvg-name="[SE] DISCOVERY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/DISCOVERY.png" group-title="SWEDEN",[SE] DISCOVERY HD
+http://line.uhd-ott.com:80/5D5610/76875C/77446
+#EXTINF:-1 tvg-ID="discoveryscience.se" tvg-name="[SE] DISCOVERY SCIENCE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/DISCOVERYSCIENCE.png" group-title="SWEDEN",[SE] DISCOVERY SCIENCE HD
+http://line.uhd-ott.com:80/5D5610/76875C/77445
+#EXTINF:-1 tvg-ID="natgeo.se" tvg-name="[SE] NAT GEO HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/NATGEO.png" group-title="SWEDEN",[SE] NAT GEO HD
+http://line.uhd-ott.com:80/5D5610/76875C/77432
+#EXTINF:-1 tvg-ID="natgeowild.se" tvg-name="[SE] NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/NATIONALGEOGRAPHICWILD.png" group-title="SWEDEN",[SE] NATIONAL GEOGRAPHIC WILD HD
+http://line.uhd-ott.com:80/5D5610/76875C/77414
+#EXTINF:-1 tvg-ID="viasatnature.se" tvg-name="[SE] VIASAT NATURE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATNATURE.png" group-title="SWEDEN",[SE] VIASAT NATURE HD
+http://line.uhd-ott.com:80/5D5610/76875C/77387
+#EXTINF:-1 tvg-ID="viasathistory.se" tvg-name="[SE] VIASAT HISTORY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATHISTORY.png" group-title="SWEDEN",[SE] VIASAT HISTORY HD
+http://line.uhd-ott.com:80/5D5610/76875C/77405
+#EXTINF:-1 tvg-ID="investigationdiscovery.se" tvg-name="[SE] INVESTIGATION DISCOVERY" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/INVESTIGATIONDISCOVERY.png" group-title="SWEDEN",[SE] INVESTIGATION DISCOVERY
+http://line.uhd-ott.com:80/5D5610/76875C/77437
+#EXTINF:-1 tvg-ID="history.se" tvg-name="[SE] HISTORY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/HISTORY.png" group-title="SWEDEN",[SE] HISTORY HD
+http://line.uhd-ott.com:80/5D5610/76875C/77416
+#EXTINF:-1 tvg-ID="animalplanet.se" tvg-name="[SE] ANIMAL PLANET HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/ANIMALPLANET.png" group-title="SWEDEN",[SE] ANIMAL PLANET HD
+http://line.uhd-ott.com:80/5D5610/76875C/77401
+#EXTINF:-1 tvg-ID="disneychannel.se" tvg-name="[SE] DISNEY CHANNEL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/DISNEYCHANNEL.png" group-title="SWEDEN",[SE] DISNEY CHANNEL HD
+http://line.uhd-ott.com:80/5D5610/76875C/77443
+#EXTINF:-1 tvg-ID="disneyjunior.se" tvg-name="[SE] DISNEY JUNIOR HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/DISNEYJUNIOR.png" group-title="SWEDEN",[SE] DISNEY JUNIOR HD
+http://line.uhd-ott.com:80/5D5610/76875C/77442
+#EXTINF:-1 tvg-ID="boomerang.se" tvg-name="[SE] BOOMERANG" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/BOOMERANG.png" group-title="SWEDEN",[SE] BOOMERANG
+http://line.uhd-ott.com:80/5D5610/76875C/77449
+#EXTINF:-1 tvg-ID="nicktoons.se" tvg-name="[SE] NICK TOONS" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/NICKTOONS.png" group-title="SWEDEN",[SE] NICK TOONS
+http://line.uhd-ott.com:80/5D5610/76875C/77430
+#EXTINF:-1 tvg-ID="nickjr.se" tvg-name="[SE] NICK JR HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/NICKJR.png" group-title="SWEDEN",[SE] NICK JR HD
+http://line.uhd-ott.com:80/5D5610/76875C/77431
+#EXTINF:-1 tvg-ID="nickelodeon.se" tvg-name="[SE] NICKELODEON HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/NICKELODEON.png" group-title="SWEDEN",[SE] NICKELODEON HD
+http://line.uhd-ott.com:80/5D5610/76875C/77429
+#EXTINF:-1 tvg-ID="cartoonnetwork.se" tvg-name="[SE] CARTOON NETWORK" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CARTOONNETWORK.png" group-title="SWEDEN",[SE] CARTOON NETWORK
+http://line.uhd-ott.com:80/5D5610/76875C/77448
+#EXTINF:-1 tvg-ID="viasatfilmaction.se" tvg-name="[SE] VIASAT FILM ACTION HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATFILMFAMILLY.png" group-title="SWEDEN",[SE] VIASAT FILM ACTION HD
+http://line.uhd-ott.com:80/5D5610/76875C/77386
+#EXTINF:-1 tvg-ID="viasatfilmfamily.se" tvg-name="[SE] VIASAT FILM FAMILLY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATFILMFAMILLY.png" group-title="SWEDEN",[SE] VIASAT FILM FAMILLY HD
+http://line.uhd-ott.com:80/5D5610/76875C/77385
+#EXTINF:-1 tvg-ID="viasatfilmhits.se" tvg-name="[SE] VIASAT FILM HITS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATFILMHITS.png" group-title="SWEDEN",[SE] VIASAT FILM HITS HD
+http://line.uhd-ott.com:80/5D5610/76875C/77384
+#EXTINF:-1 tvg-ID="viasatfilmpremiere.se" tvg-name="[SE] VIASAT PREMIERA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATPREMIERAHD.png" group-title="SWEDEN",[SE] VIASAT PREMIERA HD
+http://line.uhd-ott.com:80/5D5610/76875C/77383
+#EXTINF:-1 tvg-ID="viasatseries.se" tvg-name="[SE]  VIASAT SERIES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATSERIES.png" group-title="SWEDEN",[SE]  VIASAT SERIES HD
+http://line.uhd-ott.com:80/5D5610/76875C/77382
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] C MORE FIRST HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMOREFIRST.png" group-title="SWEDEN",[SE] C MORE FIRST HD
+http://line.uhd-ott.com:80/5D5610/76875C/103853
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] C MORE HITS HD " tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMOREHITS.png" group-title="SWEDEN",[SE] C MORE HITS HD 
+http://line.uhd-ott.com:80/5D5610/76875C/103854
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] C MORE SERIES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMORESERIES.png" group-title="SWEDEN",[SE] C MORE SERIES HD
+http://line.uhd-ott.com:80/5D5610/76875C/103855
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] C MORE STARS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMORESTARS.png" group-title="SWEDEN",[SE] C MORE STARS HD
+http://line.uhd-ott.com:80/5D5610/76875C/103856
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] TV 4 FILM HD " tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV4FILM.png" group-title="SWEDEN",[SE] TV 4 FILM HD 
+http://line.uhd-ott.com:80/5D5610/76875C/223864
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] SNAP TIME 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/DENMARK/SNAPTIME.png" group-title="SWEDEN",[SE] SNAP TIME 1 HD
+http://line.uhd-ott.com:80/5D5610/76875C/500780
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] SNAP TIME 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/DENMARK/SNAPTIME.png" group-title="SWEDEN",[SE] SNAP TIME 2 HD
+http://line.uhd-ott.com:80/5D5610/76875C/500781
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] SNAP TIME 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/DENMARK/SNAPTIME.png" group-title="SWEDEN",[SE] SNAP TIME 3 HD
+http://line.uhd-ott.com:80/5D5610/76875C/500782
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] SNAP TIME 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/DENMARK/SNAPTIME.png" group-title="SWEDEN",[SE] SNAP TIME 4 HD
+http://line.uhd-ott.com:80/5D5610/76875C/500783
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] SNAP TIME 5 HD" tvg-logo="http://logourl.net/4KOTTLOGO/DENMARK/SNAPTIME.png" group-title="SWEDEN",[SE] SNAP TIME 5 HD
+http://line.uhd-ott.com:80/5D5610/76875C/500784
+#EXTINF:-1 tvg-ID="mtv.se" tvg-name="[SE] MTV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/MTV.png" group-title="SWEDEN",[SE] MTV HD
+http://line.uhd-ott.com:80/5D5610/76875C/77433
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] C MORE FOTBOLL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMOREFOTBOLL.png" group-title="SWEDEN",[SE] C MORE FOTBOLL HD
+http://line.uhd-ott.com:80/5D5610/76875C/103129
+#EXTINF:-1 tvg-ID="cmoregolf.se" tvg-name="[SE] C MORE MIX HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMOREGOLF.png" group-title="SWEDEN",[SE] C MORE MIX HD
+http://line.uhd-ott.com:80/5D5610/76875C/77398
+#EXTINF:-1 tvg-ID="cmorehockey.se" tvg-name="[SE] C MORE HOCKEY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMOREHOCKEY.png" group-title="SWEDEN",[SE] C MORE HOCKEY HD
+http://line.uhd-ott.com:80/5D5610/76875C/77397
+#EXTINF:-1 tvg-ID="cmorelive.se" tvg-name="[SE] C MORE LIVE HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMORELIVE.png" group-title="SWEDEN",[SE] C MORE LIVE HD
+http://line.uhd-ott.com:80/5D5610/76875C/77392
+#EXTINF:-1 tvg-ID="cmorelive2.se" tvg-name="[SE] C MORE LIVE 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMORELIVE2.png" group-title="SWEDEN",[SE] C MORE LIVE 2 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77396
+#EXTINF:-1 tvg-ID="cmorelive3.se" tvg-name="[SE] C MORE LIVE 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMORELIVE3.png" group-title="SWEDEN",[SE] C MORE LIVE 3 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77395
+#EXTINF:-1 tvg-ID="cmorelive4.se" tvg-name="[SE] C MORE LIVE 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMORELIVE4.png" group-title="SWEDEN",[SE] C MORE LIVE 4 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77394
+#EXTINF:-1 tvg-ID="cmorelive5.se" tvg-name="[SE] C MORE LIVE 5 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMORELIVE5.png" group-title="SWEDEN",[SE] C MORE LIVE 5 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77393
+#EXTINF:-1 tvg-ID="eurosport.se" tvg-name="[SE] EUROSPORT 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/EUROSPORT1.png" group-title="SWEDEN",[SE] EUROSPORT 1 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77440
+#EXTINF:-1 tvg-ID="eurosport2.se" tvg-name="[SE] EUROSPORT 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/EUROSPORT2.png" group-title="SWEDEN",[SE] EUROSPORT 2 HD
+http://line.uhd-ott.com:80/5D5610/76875C/77439
+#EXTINF:-1 tvg-ID="tv3sport.se" tvg-name="[SE] VIASAT SPORT EXTRA HD" tvg-logo="http://logourl.net/4KOTTLOGO/NORDICLOGOS/vsportEXTRA.png" group-title="SWEDEN",[SE] VIASAT SPORT EXTRA HD
+http://line.uhd-ott.com:80/5D5610/76875C/77421
+#EXTINF:-1 tvg-ID="viasatfotboll.se" tvg-name="[SE] VIASAT FOTBOLL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATFOTBOLL.png" group-title="SWEDEN",[SE] VIASAT FOTBOLL HD
+http://line.uhd-ott.com:80/5D5610/76875C/77404
+#EXTINF:-1 tvg-ID="viasatgolf.se" tvg-name="[SE] VIASAT GOLF HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATGOLF.png" group-title="SWEDEN",[SE] VIASAT GOLF HD
+http://line.uhd-ott.com:80/5D5610/76875C/77390
+#EXTINF:-1 tvg-ID="viasathockey.se" tvg-name="[SE] VIASAT SPORT VINTER HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATHOCKEY.png" group-title="SWEDEN",[SE] VIASAT SPORT VINTER HD
+http://line.uhd-ott.com:80/5D5610/76875C/77389
+#EXTINF:-1 tvg-ID="viasatmotor.se" tvg-name="[SE] VIASAT MOTOR HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATMOTOR.png" group-title="SWEDEN",[SE] VIASAT MOTOR HD
+http://line.uhd-ott.com:80/5D5610/76875C/77388
+#EXTINF:-1 tvg-ID="viasatsport.se" tvg-name="[SE] VIASAT SPORT HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VSPORT.png" group-title="SWEDEN",[SE] VIASAT SPORT HD
+http://line.uhd-ott.com:80/5D5610/76875C/77403
+#EXTINF:-1 tvg-ID="viasatsportpremium.se" tvg-name="[SE]  VIASAT SPORT PREMIUM HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATSPORTPREMIUM.png" group-title="SWEDEN",[SE]  VIASAT SPORT PREMIUM HD
+http://line.uhd-ott.com:80/5D5610/76875C/77402
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] VIASAT SPORT ULTRA HD" tvg-logo="" group-title="SWEDEN",[SE] VIASAT SPORT ULTRA HD
+http://line.uhd-ott.com:80/5D5610/76875C/542821
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] TV3 SPORT HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV3SPORT.png" group-title="SWEDEN",[SE] TV3 SPORT HD
+http://line.uhd-ott.com:80/5D5610/76875C/223871
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] STRIVE SPORT 1 FHD [Live During Events Only]" tvg-logo="http://logourl.net/4KOTTLOGO/SWE/STRIVESPORT.png" group-title="SWEDEN",[SE] STRIVE SPORT 1 FHD [Live During Events Only]
+http://line.uhd-ott.com:80/5D5610/76875C/419096
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] SPORTKANALEN HD " tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/SPORTKANALEN.png" group-title="SWEDEN",[SE] SPORTKANALEN HD 
+http://line.uhd-ott.com:80/5D5610/76875C/223881
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name===== VIP SKY IT ======" tvg-logo="" group-title="Live: Iceland",===== Italy ======
 
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IT: Rai 1 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 1 FHD
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181042
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IT: Rai 2 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 2 FHD
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181045
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IT: Rai 3 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 3 FHD
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181048
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IT: Rai 4 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 4 FHD
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181051
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IT: Rai 5 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai 5 FHD
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181053
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IT: Rai Movie FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai Movie FHD
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181083
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IT: Rai Premium FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rai Premium FHD
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181054
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Italia 1 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Italia 1 FHD
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181062
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Rete 4 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Rete 4 FHD
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181056
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP IT: Canale 5 FHD" tvg-logo="" group-title="Live: Italy",VIP IT: Canale 5 FHD
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/181059
+#EXTINF:-1 tvg-ID="raiuno.it" tvg-name="[IT] [HD] RAI 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAI1.png" group-title="[IT] GENERALE",[IT] [HD] RAI 1 HD
+http://line.uhd-ott.com:80/5D5610/76875C/105934
+#EXTINF:-1 tvg-ID="raidue.it" tvg-name="[IT] [HD] RAI 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAI2.png" group-title="[IT] GENERALE",[IT] [HD] RAI 2 HD
+http://line.uhd-ott.com:80/5D5610/76875C/105935
+#EXTINF:-1 tvg-ID="raitre.it" tvg-name="[IT] [HD] RAI 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAI3.png" group-title="[IT] GENERALE",[IT] [HD] RAI 3 HD
+http://line.uhd-ott.com:80/5D5610/76875C/105936
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RAI 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAI4HD.png" group-title="[IT] GENERALE",[IT] [HD] RAI 4 HD
+http://line.uhd-ott.com:80/5D5610/76875C/316154
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RAI 5 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAI5HD.png" group-title="[IT] GENERALE",[IT] [HD] RAI 5 HD
+http://line.uhd-ott.com:80/5D5610/76875C/316155
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RAI MOVIE HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAIMOVIE.png" group-title="[IT] GENERALE",[IT] [HD] RAI MOVIE HD
+http://line.uhd-ott.com:80/5D5610/76875C/105942
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RAI SCUOLA HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAISCUOLAHD.png" group-title="[IT] GENERALE",[IT] [HD] RAI SCUOLA HD
+http://line.uhd-ott.com:80/5D5610/76875C/105981
+#EXTINF:-1 tvg-ID="italia1.it" tvg-name="[IT] [HD] ITALIA 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/ITALIA1.png" group-title="[IT] GENERALE",[IT] [HD] ITALIA 1 HD
+http://line.uhd-ott.com:80/5D5610/76875C/105939
+#EXTINF:-1 tvg-ID="tgcom.it" tvg-name="[IT] [SD] TGCOM24" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/TGCOM24.png" group-title="[IT] GENERALE",[IT] [SD] TGCOM24
+http://line.uhd-ott.com:80/5D5610/76875C/105925
+#EXTINF:-1 tvg-ID="tgnorba24.it" tvg-name="[IT] [SD] TG NORBA 24" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/TGNORBA24.png" group-title="[IT] GENERALE",[IT] [SD] TG NORBA 24
+http://line.uhd-ott.com:80/5D5610/76875C/105927
+#EXTINF:-1 tvg-ID="skytg24.it" tvg-name="[IT] [HD] SKY TG 24" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/SKYTG24.png" group-title="[IT] GENERALE",[IT] [HD] SKY TG 24
+http://line.uhd-ott.com:80/5D5610/76875C/233588
+#EXTINF:-1 tvg-ID="retequattro.it" tvg-name="[IT] [HD] RETE 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RETE4.png" group-title="[IT] GENERALE",[IT] [HD] RETE 4 HD
+http://line.uhd-ott.com:80/5D5610/76875C/105937
+#EXTINF:-1 tvg-ID="canale5.it" tvg-name="[IT] [HD] CANALE 5 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/CANALE5.png" group-title="[IT] GENERALE",[IT] [HD] CANALE 5 HD
+http://line.uhd-ott.com:80/5D5610/76875C/105938
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] 20 MEDIASET HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/20MEDIASETHD.png" group-title="[IT] GENERALE",[IT] [HD] 20 MEDIASET HD
+http://line.uhd-ott.com:80/5D5610/76875C/316156
+#EXTINF:-1 tvg-ID="mediasetextra.it" tvg-name="[IT] [SD] MEDIASET EXTRA" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/MEDIASETEXTRA.png" group-title="[IT] GENERALE",[IT] [SD] MEDIASET EXTRA
+http://line.uhd-ott.com:80/5D5610/76875C/105792
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] REAL TIME HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/REALTIME1HD.png" group-title="[IT] GENERALE",[IT] [HD] REAL TIME HD
+http://line.uhd-ott.com:80/5D5610/76875C/316157
+#EXTINF:-1 tvg-ID="la5.it" tvg-name="[IT] [SD] LA 5" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/LA5.png" group-title="[IT] GENERALE",[IT] [SD] LA 5
+http://line.uhd-ott.com:80/5D5610/76875C/105790
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] LA 7 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/LA7.png" group-title="[IT] GENERALE",[IT] [HD] LA 7 HD
+http://line.uhd-ott.com:80/5D5610/76875C/316146
+#EXTINF:-1 tvg-ID="la7d.it" tvg-name="[IT] [SD] LA 7D" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/LA7D.png" group-title="[IT] GENERALE",[IT] [SD] LA 7D
+http://line.uhd-ott.com:80/5D5610/76875C/105799
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] TV 8 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/TV8.png" group-title="[IT] GENERALE",[IT] [HD] TV 8 HD
+http://line.uhd-ott.com:80/5D5610/76875C/316147
+#EXTINF:-1 tvg-ID="iris.it" tvg-name="[IT] [SD] IRIS" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/IRIS.png" group-title="[IT] GENERALE",[IT] [SD] IRIS
+http://line.uhd-ott.com:80/5D5610/76875C/105769
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] CIELO HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/CIELO.png" group-title="[IT] GENERALE",[IT] [HD] CIELO HD
+http://line.uhd-ott.com:80/5D5610/76875C/316149
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RSI LA 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RSILA1.png" group-title="[IT] GENERALE",[IT] [HD] RSI LA 1 HD
+http://line.uhd-ott.com:80/5D5610/76875C/105940
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RSI LA 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RSILA2.png" group-title="[IT] GENERALE",[IT] [HD] RSI LA 2 HD
+http://line.uhd-ott.com:80/5D5610/76875C/105941
+#EXTINF:-1 tvg-ID="tv2000.it" tvg-name="[IT] [HD] TV2000 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/TV2000HD.png" group-title="[IT] GENERALE",[IT] [HD] TV2000 HD
+http://line.uhd-ott.com:80/5D5610/76875C/105800
+#EXTINF:-1 tvg-ID="alice.it" tvg-name="[IT] [HD] ALICE HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/ALICEHD.png" group-title="[IT] GENERALE",[IT] [HD] ALICE HD
+http://line.uhd-ott.com:80/5D5610/76875C/105871
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [SD] VIDEOLINA" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/VIDEOLINA.png" group-title="[IT] GENERALE",[IT] [SD] VIDEOLINA
+http://line.uhd-ott.com:80/5D5610/76875C/106096
+
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name===== VIP KIDS ======" tvg-logo="" group-title="Live: Iceland",===== KIDS ======
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: SHAUN THE SHEEP" tvg-logo="" group-title="Live: KIDS",VIP KID: SHAUN THE SHEEP
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/152934
+http://line.uhd-ott.com:80/5D5610/76875C/209685
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: TOM & JERRY" tvg-logo="" group-title="Live: KIDS",VIP KID: TOM & JERRY
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/152933
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: POKEMON HD" tvg-logo="" group-title="Live: KIDS",VIP KID: POKEMON HD
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/152860
+http://line.uhd-ott.com:80/5D5610/76875C/209678
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: CONAN HD" tvg-logo="" group-title="Live: KIDS",VIP KID: CONAN HD
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/152858
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: TELETABBIES" tvg-logo="" group-title="Live: KIDS",VIP KID: TELETABBIES
-http://subtv.premuimservers.com/190ph3q4q863kvk5/190ph3q4q863kvk5/152927
+http://line.uhd-ott.com:80/5D5610/76875C/536112
+#EXTINF:-1 tvg-ID="" tvg-name=" [AR] [HD] FLIX KIDS Mawkley" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[AR] KIDS", [AR] [HD] FLIX KIDS Mawkley
+http://line.uhd-ott.com:80/5D5610/76875C/160565
+#EXTINF:-1 tvg-ID="" tvg-name=" [AR] [HD] FLIX KIDS Mr Bean" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[AR] KIDS", [AR] [HD] FLIX KIDS Mr Bean
+http://line.uhd-ott.com:80/5D5610/76875C/209677
 
