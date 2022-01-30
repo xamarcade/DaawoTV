@@ -542,8 +542,8 @@ http://line.uhd-ott.com:80/5D5610/76875C/209685
 http://line.uhd-ott.com:80/5D5610/76875C/209678
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: CONAN HD" tvg-logo="" group-title="Live: KIDS",VIP KID: CONAN HD
 http://line.uhd-ott.com:80/5D5610/76875C/536112
-#EXTINF:-1 tvg-ID="" tvg-name=" [AR] [HD] FLIX KIDS Mawkley" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[AR] KIDS", [AR] [HD] FLIX KIDS Mawkley
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: CONAN HD" tvg-logo="" group-title="Live: KIDS",VIP KID: Mawkley
 http://line.uhd-ott.com:80/5D5610/76875C/160565
-#EXTINF:-1 tvg-ID="" tvg-name=" [AR] [HD] FLIX KIDS Mr Bean" tvg-logo="http://logourl.net/4KFLIX.png" group-title="[AR] KIDS", [AR] [HD] FLIX KIDS Mr Bean
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP KID: CONAN HD" tvg-logo="" group-title="Live: KIDS",VIP KID: MR Bean
 http://line.uhd-ott.com:80/5D5610/76875C/209677
 
