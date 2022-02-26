@@ -83,7 +83,6 @@ http://line.uhd-ott.com:80/5D5610/76875C/528052
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="----- NETFLIX HD -----" tvg-logo="" group-title="[AR] NETFLIX",----- NETFLIX HD -----
-http://line.uhd-ott.com:80/5D5610/76875C/523968
 #EXTINF:-1 tvg-ID="" tvg-name="[AR] [4K] NETFLIX MOVIES 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/4K-OTT/NETFLIX.png" group-title="[AR] NETFLIX",[AR] [4K] NETFLIX MOVIES 1 HD
 http://line.uhd-ott.com:80/5D5610/76875C/523969
 #EXTINF:-1 tvg-ID="" tvg-name="[AR] [4K] NETFLIX MOVIES 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/4K-OTT/NETFLIX.png" group-title="[AR] NETFLIX",[AR] [4K] NETFLIX MOVIES 2 HD
@@ -105,7 +104,6 @@ http://line.uhd-ott.com:80/5D5610/76875C/523977
 #EXTINF:-1 tvg-ID="" tvg-name="[AR] [4K] NETFLIX MOVIES 10 HD" tvg-logo="http://logourl.net/4KOTTLOGO/4K-OTT/NETFLIX.png" group-title="[AR] NETFLIX",[AR] [4K] NETFLIX MOVIES 10 HD
 http://line.uhd-ott.com:80/5D5610/76875C/523978
 #EXTINF:-1 tvg-ID="" tvg-name="[AR] [4K] NETFLIX KIDS 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/4K-OTT/NETFLIX.png" group-title="[AR] NETFLIX",[AR] [4K] NETFLIX KIDS 1 HD
-http://line.uhd-ott.com:80/5D5610/76875C/523979
 #EXTINF:-1 tvg-ID="" tvg-name="----- [AR] BEIN MOVIES [8K] -----" tvg-logo="" group-title="[AR] BEIN ENTERTAINMENT",----- [AR] BEIN MOVIES [8K] -----
 http://line.uhd-ott.com:80/5D5610/76875C/524001
 #EXTINF:-1 tvg-ID="" tvg-name="[AR] [8K] BEIN MOVIES 1 ULTRA 4K" tvg-logo="" group-title="[AR] BEIN ENTERTAINMENT",[AR] [8K] BEIN MOVIES 1 ULTRA 4K
@@ -139,26 +137,6 @@ http://line.uhd-ott.com:80/5D5610/76875C/445677
 http://line.uhd-ott.com:80/5D5610/76875C/116103
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: FLIX MOVIES WAR HD" tvg-logo="" group-title="Live: FLIX MOVIE",VIP AR: FLIX MOVIES WAR HD
 http://line.uhd-ott.com:80/5D5610/76875C/445678
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR:FLIX MOVIES JASON STATHAM" tvg-logo="" group-title="Live: FLIX MOVIE",VIP AR: FLIX MOVIES JASON STATHAM
-http://line.uhd-ott.com:80/5D5610/76875C/168227
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR:FLIX MOVIES JACKIE CHAN" tvg-logo="" group-title="Live: FLIX MOVIE",VIP AR: FLIX MOVIES JACKIE CHAN
-http://line.uhd-ott.com:80/5D5610/76875C/119819
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR:FLIX MOVIES VIN DIESEL" tvg-logo="" group-title="Live: FLIX MOVIE",VIP AR: FLIX MOVIES VIN DIESEL
-http://line.uhd-ott.com:80/5D5610/76875C/248174
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR:FLIX MOVIES JET LI HD" tvg-logo="" group-title="Live: FLIX MOVIE",VIP AR: FLIX MOVIES JET LI HD
-http://line.uhd-ott.com:80/5D5610/76875C/188546
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR:FLIX MOVIES BRUCE WILLIS HD" tvg-logo="" group-title="Live: FLIX MOVIE",VIP AR: FLIX MOVIES BRUCE WILLIS HD
-http://line.uhd-ott.com:80/5D5610/76875C/177560
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR:FLIX MOVIES NICOLAS CAGE" tvg-logo="" group-title="Live: FLIX MOVIE",VIP AR: FLIX MOVIES NICOLAS CAGE
-http://line.uhd-ott.com:80/5D5610/76875C/204490
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR:FLIX MOVIES DENZEL WASHINGTON" tvg-logo="" group-title="Live: FLIX MOVIE",VIP AR: FLIX MOVIES DENZEL WASHINGTON
-http://line.uhd-ott.com:80/5D5610/76875C/270445
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR:FLIX MOVIES SYLVESTER STALLONE" tvg-logo="" group-title="Live: FLIX MOVIE",VIP AR: FLIX MOVIES SYLVESTER STALLONE
-http://line.uhd-ott.com:80/5D5610/76875C/122305
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR:FLIX MOVIES TOM CRUISE" tvg-logo="" group-title="Live: FLIX MOVIE",VIP AR: FLIX MOVIES TOM CRUISE
-http://line.uhd-ott.com:80/5D5610/76875C/234720
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR:FLIX MOVIES MATT DAMON" tvg-logo="" group-title="Live: FLIX MOVIE",VIP AR: FLIX MOVIES MATT DAMON
-http://line.uhd-ott.com:80/5D5610/76875C/237858
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="===== Bein Group =====" tvg-logo="" group-title="Live: Iceland",===== Bein Group =====
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BEIN SPORTS MAX 1 HD" tvg-logo="" group-title="[AR] BEIN SPORTS",VIP AR: BEIN SPORTS MAX 1 HD
@@ -215,12 +193,42 @@ http://line.uhd-ott.com:80/5D5610/76875C/77423
 http://line.uhd-ott.com:80/5D5610/76875C/77415
 #EXTINF:-1 tvg-ID="tv12.se" tvg-name="[SE] TV 12 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV12.png" group-title="SWEDEN",[SE] TV 12 HD
 http://line.uhd-ott.com:80/5D5610/76875C/77422
-#EXTINF:-1 tvg-ID="tv4fakta.se" tvg-name="[SE] TV4 FAKTA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV4FAKTA.png" group-title="SWEDEN",[SE] TV4 FAKTA HD
-http://line.uhd-ott.com:80/5D5610/76875C/77408
+#EXTINF:-1 tvg-ID="viasatfilmaction.se" tvg-name="[SE] VIASAT FILM ACTION HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATFILMFAMILLY.png" group-title="SWEDEN",[SE] VIASAT FILM ACTION HD
+http://line.uhd-ott.com:80/5D5610/76875C/77386
+#EXTINF:-1 tvg-ID="viasatfilmfamily.se" tvg-name="[SE] VIASAT FILM FAMILLY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATFILMFAMILLY.png" group-title="SWEDEN",[SE] VIASAT FILM FAMILLY HD
+http://line.uhd-ott.com:80/5D5610/76875C/77385
+#EXTINF:-1 tvg-ID="viasatfilmhits.se" tvg-name="[SE] VIASAT FILM HITS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATFILMHITS.png" group-title="SWEDEN",[SE] VIASAT FILM HITS HD
+http://line.uhd-ott.com:80/5D5610/76875C/77384
+#EXTINF:-1 tvg-ID="viasatfilmpremiere.se" tvg-name="[SE] VIASAT PREMIERA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATPREMIERAHD.png" group-title="SWEDEN",[SE] VIASAT PREMIERA HD
+http://line.uhd-ott.com:80/5D5610/76875C/77383
+#EXTINF:-1 tvg-ID="viasatseries.se" tvg-name="[SE]  VIASAT SERIES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATSERIES.png" group-title="SWEDEN",[SE]  VIASAT SERIES HD
+http://line.uhd-ott.com:80/5D5610/76875C/77382
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] C MORE FIRST HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMOREFIRST.png" group-title="SWEDEN",[SE] C MORE FIRST HD
+http://line.uhd-ott.com:80/5D5610/76875C/103853
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] C MORE HITS HD " tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMOREHITS.png" group-title="SWEDEN",[SE] C MORE HITS HD 
+http://line.uhd-ott.com:80/5D5610/76875C/103854
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] C MORE SERIES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMORESERIES.png" group-title="SWEDEN",[SE] C MORE SERIES HD
+http://line.uhd-ott.com:80/5D5610/76875C/103855
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] C MORE STARS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMORESTARS.png" group-title="SWEDEN",[SE] C MORE STARS HD
+http://line.uhd-ott.com:80/5D5610/76875C/103856
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] SNAP TIME 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/DENMARK/SNAPTIME.png" group-title="SWEDEN",[SE] SNAP TIME 1 HD
+http://line.uhd-ott.com:80/5D5610/76875C/500780
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] SNAP TIME 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/DENMARK/SNAPTIME.png" group-title="SWEDEN",[SE] SNAP TIME 2 HD
+http://line.uhd-ott.com:80/5D5610/76875C/500781
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] SNAP TIME 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/DENMARK/SNAPTIME.png" group-title="SWEDEN",[SE] SNAP TIME 3 HD
+http://line.uhd-ott.com:80/5D5610/76875C/500782
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] SNAP TIME 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/DENMARK/SNAPTIME.png" group-title="SWEDEN",[SE] SNAP TIME 4 HD
+http://line.uhd-ott.com:80/5D5610/76875C/500783
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] SNAP TIME 5 HD" tvg-logo="http://logourl.net/4KOTTLOGO/DENMARK/SNAPTIME.png" group-title="SWEDEN",[SE] SNAP TIME 5 HD
+http://line.uhd-ott.com:80/5D5610/76875C/500784
+#EXTINF:-1 tvg-ID="" tvg-name="[SE] TV 4 FILM HD " tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV4FILM.png" group-title="SWEDEN",[SE] TV 4 FILM HD 
+http://line.uhd-ott.com:80/5D5610/76875C/223864
 #EXTINF:-1 tvg-ID="tv4guld.se" tvg-name="[SE] TV 4 GULD HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV4GULD.png" group-title="SWEDEN",[SE] TV 4 GULD HD
 http://line.uhd-ott.com:80/5D5610/76875C/77419
 #EXTINF:-1 tvg-ID="tv4film.se" tvg-name="[SE] TV 4 FILM HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV4FILM.png" group-title="SWEDEN",[SE] TV 4 FILM HD
 http://line.uhd-ott.com:80/5D5610/76875C/77420
+#EXTINF:-1 tvg-ID="tv4fakta.se" tvg-name="[SE] TV4 FAKTA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV4FAKTA.png" group-title="SWEDEN",[SE] TV4 FAKTA HD
+http://line.uhd-ott.com:80/5D5610/76875C/77408
 #EXTINF:-1 tvg-ID="" tvg-name="[SE] BARNEKANALEN HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/BARNEKANALEN.png" group-title="SWEDEN",[SE] BARNEKANALEN HD
 http://line.uhd-ott.com:80/5D5610/76875C/77451
 #EXTINF:-1 tvg-ID="h2.se" tvg-name="[SE] H2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/H2.png" group-title="SWEDEN",[SE] H2 HD
@@ -277,36 +285,6 @@ http://line.uhd-ott.com:80/5D5610/76875C/77431
 http://line.uhd-ott.com:80/5D5610/76875C/77429
 #EXTINF:-1 tvg-ID="cartoonnetwork.se" tvg-name="[SE] CARTOON NETWORK" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CARTOONNETWORK.png" group-title="SWEDEN",[SE] CARTOON NETWORK
 http://line.uhd-ott.com:80/5D5610/76875C/77448
-#EXTINF:-1 tvg-ID="viasatfilmaction.se" tvg-name="[SE] VIASAT FILM ACTION HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATFILMFAMILLY.png" group-title="SWEDEN",[SE] VIASAT FILM ACTION HD
-http://line.uhd-ott.com:80/5D5610/76875C/77386
-#EXTINF:-1 tvg-ID="viasatfilmfamily.se" tvg-name="[SE] VIASAT FILM FAMILLY HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATFILMFAMILLY.png" group-title="SWEDEN",[SE] VIASAT FILM FAMILLY HD
-http://line.uhd-ott.com:80/5D5610/76875C/77385
-#EXTINF:-1 tvg-ID="viasatfilmhits.se" tvg-name="[SE] VIASAT FILM HITS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATFILMHITS.png" group-title="SWEDEN",[SE] VIASAT FILM HITS HD
-http://line.uhd-ott.com:80/5D5610/76875C/77384
-#EXTINF:-1 tvg-ID="viasatfilmpremiere.se" tvg-name="[SE] VIASAT PREMIERA HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATPREMIERAHD.png" group-title="SWEDEN",[SE] VIASAT PREMIERA HD
-http://line.uhd-ott.com:80/5D5610/76875C/77383
-#EXTINF:-1 tvg-ID="viasatseries.se" tvg-name="[SE]  VIASAT SERIES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/VIASATSERIES.png" group-title="SWEDEN",[SE]  VIASAT SERIES HD
-http://line.uhd-ott.com:80/5D5610/76875C/77382
-#EXTINF:-1 tvg-ID="" tvg-name="[SE] C MORE FIRST HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMOREFIRST.png" group-title="SWEDEN",[SE] C MORE FIRST HD
-http://line.uhd-ott.com:80/5D5610/76875C/103853
-#EXTINF:-1 tvg-ID="" tvg-name="[SE] C MORE HITS HD " tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMOREHITS.png" group-title="SWEDEN",[SE] C MORE HITS HD 
-http://line.uhd-ott.com:80/5D5610/76875C/103854
-#EXTINF:-1 tvg-ID="" tvg-name="[SE] C MORE SERIES HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMORESERIES.png" group-title="SWEDEN",[SE] C MORE SERIES HD
-http://line.uhd-ott.com:80/5D5610/76875C/103855
-#EXTINF:-1 tvg-ID="" tvg-name="[SE] C MORE STARS HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMORESTARS.png" group-title="SWEDEN",[SE] C MORE STARS HD
-http://line.uhd-ott.com:80/5D5610/76875C/103856
-#EXTINF:-1 tvg-ID="" tvg-name="[SE] TV 4 FILM HD " tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/TV4FILM.png" group-title="SWEDEN",[SE] TV 4 FILM HD 
-http://line.uhd-ott.com:80/5D5610/76875C/223864
-#EXTINF:-1 tvg-ID="" tvg-name="[SE] SNAP TIME 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/DENMARK/SNAPTIME.png" group-title="SWEDEN",[SE] SNAP TIME 1 HD
-http://line.uhd-ott.com:80/5D5610/76875C/500780
-#EXTINF:-1 tvg-ID="" tvg-name="[SE] SNAP TIME 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/DENMARK/SNAPTIME.png" group-title="SWEDEN",[SE] SNAP TIME 2 HD
-http://line.uhd-ott.com:80/5D5610/76875C/500781
-#EXTINF:-1 tvg-ID="" tvg-name="[SE] SNAP TIME 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/DENMARK/SNAPTIME.png" group-title="SWEDEN",[SE] SNAP TIME 3 HD
-http://line.uhd-ott.com:80/5D5610/76875C/500782
-#EXTINF:-1 tvg-ID="" tvg-name="[SE] SNAP TIME 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/DENMARK/SNAPTIME.png" group-title="SWEDEN",[SE] SNAP TIME 4 HD
-http://line.uhd-ott.com:80/5D5610/76875C/500783
-#EXTINF:-1 tvg-ID="" tvg-name="[SE] SNAP TIME 5 HD" tvg-logo="http://logourl.net/4KOTTLOGO/DENMARK/SNAPTIME.png" group-title="SWEDEN",[SE] SNAP TIME 5 HD
-http://line.uhd-ott.com:80/5D5610/76875C/500784
 #EXTINF:-1 tvg-ID="mtv.se" tvg-name="[SE] MTV HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/MTV.png" group-title="SWEDEN",[SE] MTV HD
 http://line.uhd-ott.com:80/5D5610/76875C/77433
 #EXTINF:-1 tvg-ID="" tvg-name="[SE] C MORE FOTBOLL HD" tvg-logo="http://logourl.net/4KOTTLOGO/SWEDEN/CMOREFOTBOLL.png" group-title="SWEDEN",[SE] C MORE FOTBOLL HD
@@ -354,59 +332,59 @@ http://line.uhd-ott.com:80/5D5610/76875C/223881
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name===== VIP SKY IT ======" tvg-logo="" group-title="Live: Iceland",===== Italy ======
 
-#EXTINF:-1 tvg-ID="raiuno.it" tvg-name="[IT] [HD] RAI 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAI1.png" group-title="[IT] GENERALE",[IT] [HD] RAI 1 HD
+#EXTINF:-1 tvg-ID="raiuno.it" tvg-name="[IT] [HD] RAI 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAI1.png" group-title="Italy",[IT] [HD] RAI 1 HD
 http://line.uhd-ott.com:80/5D5610/76875C/105934
-#EXTINF:-1 tvg-ID="raidue.it" tvg-name="[IT] [HD] RAI 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAI2.png" group-title="[IT] GENERALE",[IT] [HD] RAI 2 HD
+#EXTINF:-1 tvg-ID="raidue.it" tvg-name="[IT] [HD] RAI 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAI2.png" group-title="Italy",[IT] [HD] RAI 2 HD
 http://line.uhd-ott.com:80/5D5610/76875C/105935
-#EXTINF:-1 tvg-ID="raitre.it" tvg-name="[IT] [HD] RAI 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAI3.png" group-title="[IT] GENERALE",[IT] [HD] RAI 3 HD
+#EXTINF:-1 tvg-ID="raitre.it" tvg-name="[IT] [HD] RAI 3 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAI3.png" group-title="Italy",[IT] [HD] RAI 3 HD
 http://line.uhd-ott.com:80/5D5610/76875C/105936
-#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RAI 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAI4HD.png" group-title="[IT] GENERALE",[IT] [HD] RAI 4 HD
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RAI 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAI4HD.png" group-title="Italy",[IT] [HD] RAI 4 HD
 http://line.uhd-ott.com:80/5D5610/76875C/316154
-#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RAI 5 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAI5HD.png" group-title="[IT] GENERALE",[IT] [HD] RAI 5 HD
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RAI 5 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAI5HD.png" group-title="Italy",[IT] [HD] RAI 5 HD
 http://line.uhd-ott.com:80/5D5610/76875C/316155
-#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RAI MOVIE HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAIMOVIE.png" group-title="[IT] GENERALE",[IT] [HD] RAI MOVIE HD
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RAI MOVIE HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAIMOVIE.png" group-title="Italy",[IT] [HD] RAI MOVIE HD
 http://line.uhd-ott.com:80/5D5610/76875C/105942
-#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RAI SCUOLA HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAISCUOLAHD.png" group-title="[IT] GENERALE",[IT] [HD] RAI SCUOLA HD
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RAI SCUOLA HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAISCUOLAHD.png" group-title="Italy",[IT] [HD] RAI SCUOLA HD
 http://line.uhd-ott.com:80/5D5610/76875C/105981
-#EXTINF:-1 tvg-ID="italia1.it" tvg-name="[IT] [HD] ITALIA 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/ITALIA1.png" group-title="[IT] GENERALE",[IT] [HD] ITALIA 1 HD
+#EXTINF:-1 tvg-ID="italia1.it" tvg-name="[IT] [HD] ITALIA 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/ITALIA1.png" group-title="Italy",[IT] [HD] ITALIA 1 HD
 http://line.uhd-ott.com:80/5D5610/76875C/105939
-#EXTINF:-1 tvg-ID="tgcom.it" tvg-name="[IT] [SD] TGCOM24" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/TGCOM24.png" group-title="[IT] GENERALE",[IT] [SD] TGCOM24
+#EXTINF:-1 tvg-ID="tgcom.it" tvg-name="[IT] [SD] TGCOM24" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/TGCOM24.png" group-title="Italy",[IT] [SD] TGCOM24
 http://line.uhd-ott.com:80/5D5610/76875C/105925
-#EXTINF:-1 tvg-ID="tgnorba24.it" tvg-name="[IT] [SD] TG NORBA 24" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/TGNORBA24.png" group-title="[IT] GENERALE",[IT] [SD] TG NORBA 24
+#EXTINF:-1 tvg-ID="tgnorba24.it" tvg-name="[IT] [SD] TG NORBA 24" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/TGNORBA24.png" group-title="Italy",[IT] [SD] TG NORBA 24
 http://line.uhd-ott.com:80/5D5610/76875C/105927
-#EXTINF:-1 tvg-ID="skytg24.it" tvg-name="[IT] [HD] SKY TG 24" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/SKYTG24.png" group-title="[IT] GENERALE",[IT] [HD] SKY TG 24
+#EXTINF:-1 tvg-ID="skytg24.it" tvg-name="[IT] [HD] SKY TG 24" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/SKYTG24.png" group-title="Italy",[IT] [HD] SKY TG 24
 http://line.uhd-ott.com:80/5D5610/76875C/233588
-#EXTINF:-1 tvg-ID="retequattro.it" tvg-name="[IT] [HD] RETE 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RETE4.png" group-title="[IT] GENERALE",[IT] [HD] RETE 4 HD
+#EXTINF:-1 tvg-ID="retequattro.it" tvg-name="[IT] [HD] RETE 4 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RETE4.png" group-title="Italy",[IT] [HD] RETE 4 HD
 http://line.uhd-ott.com:80/5D5610/76875C/105937
-#EXTINF:-1 tvg-ID="canale5.it" tvg-name="[IT] [HD] CANALE 5 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/CANALE5.png" group-title="[IT] GENERALE",[IT] [HD] CANALE 5 HD
+#EXTINF:-1 tvg-ID="canale5.it" tvg-name="[IT] [HD] CANALE 5 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/CANALE5.png" group-title="Italy",[IT] [HD] CANALE 5 HD
 http://line.uhd-ott.com:80/5D5610/76875C/105938
-#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] 20 MEDIASET HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/20MEDIASETHD.png" group-title="[IT] GENERALE",[IT] [HD] 20 MEDIASET HD
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] 20 MEDIASET HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/20MEDIASETHD.png" group-title="Italy",[IT] [HD] 20 MEDIASET HD
 http://line.uhd-ott.com:80/5D5610/76875C/316156
-#EXTINF:-1 tvg-ID="mediasetextra.it" tvg-name="[IT] [SD] MEDIASET EXTRA" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/MEDIASETEXTRA.png" group-title="[IT] GENERALE",[IT] [SD] MEDIASET EXTRA
+#EXTINF:-1 tvg-ID="mediasetextra.it" tvg-name="[IT] [SD] MEDIASET EXTRA" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/MEDIASETEXTRA.png" group-title="Italy",[IT] [SD] MEDIASET EXTRA
 http://line.uhd-ott.com:80/5D5610/76875C/105792
-#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] REAL TIME HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/REALTIME1HD.png" group-title="[IT] GENERALE",[IT] [HD] REAL TIME HD
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] REAL TIME HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/REALTIME1HD.png" group-title="Italy",[IT] [HD] REAL TIME HD
 http://line.uhd-ott.com:80/5D5610/76875C/316157
-#EXTINF:-1 tvg-ID="la5.it" tvg-name="[IT] [SD] LA 5" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/LA5.png" group-title="[IT] GENERALE",[IT] [SD] LA 5
+#EXTINF:-1 tvg-ID="la5.it" tvg-name="[IT] [SD] LA 5" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/LA5.png" group-title="Italy",[IT] [SD] LA 5
 http://line.uhd-ott.com:80/5D5610/76875C/105790
-#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] LA 7 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/LA7.png" group-title="[IT] GENERALE",[IT] [HD] LA 7 HD
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] LA 7 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/LA7.png" group-title="Italy",[IT] [HD] LA 7 HD
 http://line.uhd-ott.com:80/5D5610/76875C/316146
-#EXTINF:-1 tvg-ID="la7d.it" tvg-name="[IT] [SD] LA 7D" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/LA7D.png" group-title="[IT] GENERALE",[IT] [SD] LA 7D
+#EXTINF:-1 tvg-ID="la7d.it" tvg-name="[IT] [SD] LA 7D" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/LA7D.png" group-title="Italy",[IT] [SD] LA 7D
 http://line.uhd-ott.com:80/5D5610/76875C/105799
-#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] TV 8 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/TV8.png" group-title="[IT] GENERALE",[IT] [HD] TV 8 HD
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] TV 8 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/TV8.png" group-title="Italy",[IT] [HD] TV 8 HD
 http://line.uhd-ott.com:80/5D5610/76875C/316147
-#EXTINF:-1 tvg-ID="iris.it" tvg-name="[IT] [SD] IRIS" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/IRIS.png" group-title="[IT] GENERALE",[IT] [SD] IRIS
+#EXTINF:-1 tvg-ID="iris.it" tvg-name="[IT] [SD] IRIS" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/IRIS.png" group-title="Italy",[IT] [SD] IRIS
 http://line.uhd-ott.com:80/5D5610/76875C/105769
-#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] CIELO HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/CIELO.png" group-title="[IT] GENERALE",[IT] [HD] CIELO HD
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] CIELO HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/CIELO.png" group-title="Italy",[IT] [HD] CIELO HD
 http://line.uhd-ott.com:80/5D5610/76875C/316149
-#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RSI LA 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RSILA1.png" group-title="[IT] GENERALE",[IT] [HD] RSI LA 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RSI LA 1 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RSILA1.png" group-title="Italy",[IT] [HD] RSI LA 1 HD
 http://line.uhd-ott.com:80/5D5610/76875C/105940
-#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RSI LA 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RSILA2.png" group-title="[IT] GENERALE",[IT] [HD] RSI LA 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [HD] RSI LA 2 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RSILA2.png" group-title="Italy",[IT] [HD] RSI LA 2 HD
 http://line.uhd-ott.com:80/5D5610/76875C/105941
-#EXTINF:-1 tvg-ID="tv2000.it" tvg-name="[IT] [HD] TV2000 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/TV2000HD.png" group-title="[IT] GENERALE",[IT] [HD] TV2000 HD
+#EXTINF:-1 tvg-ID="tv2000.it" tvg-name="[IT] [HD] TV2000 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/TV2000HD.png" group-title="Italy",[IT] [HD] TV2000 HD
 http://line.uhd-ott.com:80/5D5610/76875C/105800
-#EXTINF:-1 tvg-ID="alice.it" tvg-name="[IT] [HD] ALICE HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/ALICEHD.png" group-title="[IT] GENERALE",[IT] [HD] ALICE HD
+#EXTINF:-1 tvg-ID="alice.it" tvg-name="[IT] [HD] ALICE HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/ALICEHD.png" group-title="Italy",[IT] [HD] ALICE HD
 http://line.uhd-ott.com:80/5D5610/76875C/105871
-#EXTINF:-1 tvg-ID="" tvg-name="[IT] [SD] VIDEOLINA" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/VIDEOLINA.png" group-title="[IT] GENERALE",[IT] [SD] VIDEOLINA
+#EXTINF:-1 tvg-ID="" tvg-name="[IT] [SD] VIDEOLINA" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/VIDEOLINA.png" group-title="Italy",[IT] [SD] VIDEOLINA
 http://line.uhd-ott.com:80/5D5610/76875C/106096
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="===== BOX OFFICE =====" tvg-logo="" group-title="Live: Iceland",===== BOX OFFICE =====
@@ -612,3 +590,32 @@ http://line.uhd-ott.com:80/5D5610/76875C/523624
 #EXTINF:-1 tvg-ID="NULL"tvg-name="VIP AR: BOX OFFICE 100 HD" tvg-logo="" group-title="Live: BOX OFFICE",VIP AR: BOX OFFICE 100 HD
 http://line.uhd-ott.com:80/5D5610/76875C/523625
 
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [UK] [HD] --------" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/UKFLAG.png" group-title="[UK] MOVIES",-------- [UK] [HD] --------
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="[UK] [HD] SKY CINEMA ACTION HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/SKYCINEMAACTION.png" group-title="[UK] MOVIES",[UK] [HD] SKY CINEMA ACTION HD ◉
+http://line.uhd-ott.com:80/5D5610/76875C/100955
+#EXTINF:-1 tvg-ID="skycomedy.uk" tvg-name="[UK] [HD] SKY CINEMA COMEDY HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/SKYCINEMACOMEDY.png" group-title="[UK] MOVIES",[UK] [HD] SKY CINEMA COMEDY HD ◉
+http://line.uhd-ott.com:80/5D5610/76875C/100956
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="[UK] [HD] SKY CINEMA DRAMA HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/SKYCINEMADRAMA.png" group-title="[UK] MOVIES",[UK] [HD] SKY CINEMA DRAMA HD ◉
+http://line.uhd-ott.com:80/5D5610/76875C/100957
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="[UK] [HD] SKY CINEMA FAMILY HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/SKYCINEMAFAMILY.png" group-title="[UK] MOVIES",[UK] [HD] SKY CINEMA FAMILY HD ◉
+http://line.uhd-ott.com:80/5D5610/76875C/100959
+#EXTINF:-1 tvg-ID="skygreats.uk" tvg-name="[UK] [HD] SKY CINEMA GREATS HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/SKYCINEMAGREATS.png" group-title="[UK] MOVIES",[UK] [HD] SKY CINEMA GREATS HD ◉
+http://line.uhd-ott.com:80/5D5610/76875C/100960
+#EXTINF:-1 tvg-ID="skyhits.uk" tvg-name="[UK] [HD] SKY CINEMA HITS HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/SKYCINEMAHITS.png" group-title="[UK] MOVIES",[UK] [HD] SKY CINEMA HITS HD ◉
+http://line.uhd-ott.com:80/5D5610/76875C/100961
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="[UK] [HD] SKY CINEMA PREMIERE HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/SKYCINEMAPREMIERE.png" group-title="[UK] MOVIES",[UK] [HD] SKY CINEMA PREMIERE HD ◉
+http://line.uhd-ott.com:80/5D5610/76875C/213527
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="[UK] [HD] SKY CINEMA SCI-FI & HORROR HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/SKYCINEMASCIFIANDHORROR.png" group-title="[UK] MOVIES",[UK] [HD] SKY CINEMA SCI-FI & HORROR HD ◉
+http://line.uhd-ott.com:80/5D5610/76875C/100963
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] [HD] SKY CINEMA SUPERHEROES HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/SKYCINEMASUPERHEROES.png" group-title="[UK] MOVIES",[UK] [HD] SKY CINEMA SUPERHEROES HD ◉
+http://line.uhd-ott.com:80/5D5610/76875C/100964
+#EXTINF:-1 tvg-ID="skythriller.uk" tvg-name="[UK] [HD] SKY CINEMA THRILLER HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/SKYCINEMATHRILLER.png" group-title="[UK] MOVIES",[UK] [HD] SKY CINEMA THRILLER HD ◉
+http://line.uhd-ott.com:80/5D5610/76875C/100965
+#EXTINF:-1 tvg-ID="tcm.uk" tvg-name="[UK] [HD] TCM HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/TCM.png" group-title="[UK] MOVIES",[UK] [HD] TCM HD ◉
+http://line.uhd-ott.com:80/5D5610/76875C/100967
+#EXTINF:-1 tvg-ID="amc.uk" tvg-name="[UK] [HD] AMC HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/AMC.png" group-title="[UK] MOVIES",[UK] [HD] AMC HD ◉
+http://line.uhd-ott.com:80/5D5610/76875C/100968
+#EXTINF:-1 tvg-ID="film4.uk" tvg-name="[UK] [HD] FILM 4 HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/FILM4.png" group-title="[UK] MOVIES",[UK] [HD] FILM 4 HD ◉
+http://line.uhd-ott.com:80/5D5610/76875C/100969
+#EXTINF:-1 tvg-ID="horrorchannel.uk" tvg-name="[UK] [HD] HORROR CHANNEL HD ◉" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/HORRORCHANNEL.png" group-title="[UK] MOVIES",[UK] [HD] HORROR CHANNEL HD ◉
+http://line.uhd-ott.com:80/5D5610/76875C/100970
