@@ -1,31 +1,35 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="NULL" tvg-name===== VIP Somalia =====" tvg-logo="" group-title="Live: Iceland",===== Somalia =====
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: Universal TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Universal TV
+http://smarters.live:80/7552919291/1006975773/188529
 #EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: SNTV" tvg-logo="" group-title="Live: Somalia",VIP SO: SNTV
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: SN2TV" tvg-logo="" group-title="Live: Somalia",VIP SO: SN2TV
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: SN Daljir TV" tvg-logo="" group-title="Live: Somalia",VIP SO: SN Daljir TV
 https://ap02.iqplay.tv:8082/iqb8002/s2tve/chunks.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: Somali Cable TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Somali Cable TV
-https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: Kalsan TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Kalsan TV
+http://smarters.live:80/7552919291/1006975773/188524
 #EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: SAAB TV" tvg-logo="" group-title="Live: Somalia",VIP SO: SAAB TV
 https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: SBC TV" tvg-logo="" group-title="Live: Somalia",VIP SO: SBC TV
-http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: PL TV" tvg-logo="" group-title="Live: Somalia",VIP SO: PL TV
+http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/chunklist_w694476586.m3u8?v=1409264503
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: Alraadi TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Alraadi TV
+http://smarters.live:80/7552919291/1006975773/131569
 #EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: Dacwa TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Dacwa TV
 https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="===== ENTERTAINMENT =====" tvg-logo="" group-title="Live: Iceland",===== ENTERTAINMENT =====
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC1 FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC1 FHD
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC2 FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC2 FHD x
-https://2206.janjua.pw:8088/adfree/mbccc22222_Wwss/playlist.m3u8?vidictid=191749628512&id=106889&pk=95aa01334fb930cc635fc0c5ee961ccd0bc976f9e7cb281977ab73f12af18745
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC2 FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC2 FHD
+http://smarters.live:80/7552919291/1006975773/122061
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC3 HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC3 HD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC4 FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC4 FHD x
-https://2204lw.janjua.pw:8088/adfree/mbccc44444_Wwss/playlist.m3u8?vidictid=191747212216&id=106890&pk=95aa01334fb930cc635fc0c5ee961ccd0bc976f9e7cb281977ab73f12af18745
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC4 FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC4 FHD
+http://smarters.live:80/7552919291/1006975773/122063
 #EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC5 FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC5 FHD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Drama HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Drama HD
-http://tv365.me:80/3787356468/54A9ADBC/122064
+http://smarters.live:80/7552919291/1006975773/122064
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC+ Drama HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ Drama HD
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC Masr HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Masr HD
@@ -36,6 +40,31 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC IRAQ HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC IRAQ HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC Action FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Action FHD x
-https://2202lw.janjua.pw:8088/adfree/mbccaaccc_Wwss/playlist.m3u8?vidictid=191746413127&id=106893&pk=95aa01334fb930cc635fc0c5ee961ccd0bc976f9e7cb281977ab73f12af18745
-
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC Action FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Action FHD 
+http://smarters.live:80/7552919291/1006975773/122066
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ ANIME FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ ANIME FHD
+http://smarters.live:80/7552919291/1006975773/39650
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ ZOOM FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ ZOOM FHD
+http://smarters.live:80/7552919291/1006975773/39651
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ TEN FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ TEN FHD
+http://smarters.live:80/7552919291/1006975773/39652
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ SEVEN FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ SEVEN FHD
+http://smarters.live:80/7552919291/1006975773/39653
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ premium FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ premium FHD
+http://smarters.live:80/7552919291/1006975773/39654
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ PLUS FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ PLUS FHD
+http://smarters.live:80/7552919291/1006975773/39655
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ MOVIES FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ MOVIES FHD
+http://smarters.live:80/7552919291/1006975773/39656
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ EIGHT FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ EIGHT FHD
+http://smarters.live:80/7552919291/1006975773/39657
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ NINE FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ NINE FHD
+http://smarters.live:80/7552919291/1006975773/39658
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ TOW FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ TOW FHD
+http://smarters.live:80/7552919291/1006975773/39659
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ ONE FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ ONE FHD
+http://smarters.live:80/7552919291/1006975773/39660
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ ELIFE FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ ELIFE FHD
+http://smarters.live:80/7552919291/1006975773/39661
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ POWER SPORT FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ POWER SPORT FHD
+http://smarters.live:80/7552919291/1006975773/39662
