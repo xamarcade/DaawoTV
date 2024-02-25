@@ -33,7 +33,7 @@ http://smarters.live:80/7552919291/1006975773/122064
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC+ Drama HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ Drama HD
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC Masr HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Masr HD
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+http://smarters.live:80/7552919291/1006975773/15400
 #EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC Masr 2 HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Masr 2 HD
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Bollywood HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Bollywood HD
