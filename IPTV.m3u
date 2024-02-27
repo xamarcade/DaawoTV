@@ -17,55 +17,280 @@ http://smarters.live:80/7552919291/1006975773/131569
 #EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: Dacwa TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Dacwa TV
 https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="NULL" tvg-name="===== ENTERTAINMENT =====" tvg-logo="" group-title="Live: Iceland",===== ENTERTAINMENT =====
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC1 FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC1 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== MBC GROUP =====" tvg-logo="" group-title="Live: Iceland",===== MBC GROUP =====
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC1 FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC1 FHD
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC2 FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC2 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC2 FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC2 FHD
 http://smarters.live:80/7552919291/1006975773/122061
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC3 HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC3 HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC3 HD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC3 HD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC4 FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC4 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC4 FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC4 FHD
 http://smarters.live:80/7552919291/1006975773/122063
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC5 FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC5 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC5 FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC5 FHD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Drama HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Drama HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Drama HD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC Drama HD
 http://smarters.live:80/7552919291/1006975773/122064
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC+ Drama HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ Drama HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC+ Drama HD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ Drama HD
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC Masr HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Masr HD
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC Masr HD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC Masr HD
 http://smarters.live:80/7552919291/1006975773/15400
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC Masr 2 HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Masr 2 HD
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC Masr 2 HD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC Masr 2 HD
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Bollywood HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Bollywood HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Bollywood HD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC Bollywood HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC IRAQ HD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC IRAQ HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC IRAQ HD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC IRAQ HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC Action FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC Action FHD 
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: MBC Action FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC Action FHD 
 http://smarters.live:80/7552919291/1006975773/122066
-#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ ANIME FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ ANIME FHD
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ ANIME FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ ANIME FHD
 http://smarters.live:80/7552919291/1006975773/39650
-#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ ZOOM FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ ZOOM FHD
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ ZOOM FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ ZOOM FHD
 http://smarters.live:80/7552919291/1006975773/39651
-#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ TEN FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ TEN FHD
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ TEN FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ TEN FHD
 http://smarters.live:80/7552919291/1006975773/39652
-#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ SEVEN FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ SEVEN FHD
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ SEVEN FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ SEVEN FHD
 http://smarters.live:80/7552919291/1006975773/39653
-#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ premium FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ premium FHD
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ premium FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ premium FHD
 http://smarters.live:80/7552919291/1006975773/39654
-#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ PLUS FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ PLUS FHD
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ PLUS FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ PLUS FHD
 http://smarters.live:80/7552919291/1006975773/39655
-#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ MOVIES FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ MOVIES FHD
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ MOVIES FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ MOVIES FHD
 http://smarters.live:80/7552919291/1006975773/39656
-#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ EIGHT FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ EIGHT FHD
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ EIGHT FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ EIGHT FHD
 http://smarters.live:80/7552919291/1006975773/39657
-#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ NINE FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ NINE FHD
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ NINE FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ NINE FHD
 http://smarters.live:80/7552919291/1006975773/39658
-#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ TOW FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ TOW FHD
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ TOW FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ TOW FHD
 http://smarters.live:80/7552919291/1006975773/39659
-#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ ONE FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ ONE FHD
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ ONE FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ ONE FHD
 http://smarters.live:80/7552919291/1006975773/39660
-#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ ELIFE FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ ELIFE FHD
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ ELIFE FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ ELIFE FHD
 http://smarters.live:80/7552919291/1006975773/39661
-#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ POWER SPORT FHD" tvg-logo="" group-title="Live: Entertainment",VIP AR: MBC+ POWER SPORT FHD
+#EXTINF:-1 tvg-id="NULL" tvg-nameVIP AR: MBC+ POWER SPORT FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ POWER SPORT FHD
 http://smarters.live:80/7552919291/1006975773/39662
 
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== UAE =====" tvg-logo="" group-title="Live: Iceland",===== UAE=====
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Dubai HD" tvg-logo="" group-title="Live: UAE",VIP AR: Dubai HD
+https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sama dubai HD" tvg-logo="" group-title="Live: UAE",VIP AR: Sama dubai HD
+http://smarters.live:80/7552919291/1006975773/15147
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Dubai Zaman HD" tvg-logo="" group-title="Live: UAE",VIP AR: Dubai Zaman HD
+http://smarters.live:80/7552919291/1006975773/15146
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Dubai One HD" tvg-logo="" group-title="Live: UAE",VIP AR: Dubai One HD
+http://smarters.live:80/7552919291/1006975773/15145
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Abu dhabi HD" tvg-logo="" group-title="Live: UAE",VIP AR: Abu dhabi HD
+http://smarters.live:80/7552919291/1006975773/15143
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Emarat HD" tvg-logo="" group-title="Live: UAE",VIP AR: Emarat HD
+http://smarters.live:80/7552919291/1006975773/189758
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Al Dafrah Tv" tvg-logo="" group-title="Live: UAE",VIP AR: Al Dafrah Tv
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sharja TV" tvg-logo="" group-title="Live: UAE",VIP AR: Sharja TV
+http://smarters.live:80/7552919291/1006975773/15137
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sharja TV 2" tvg-logo="" group-title="Live: UAE",VIP AR: Sharja TV 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Sharqiyah TV" tvg-logo="" group-title="Live: UAE",VIP AR: Sharqiyah TV
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Alwusta Tv" tvg-logo="" group-title="Live: UAE",VIP AR: Alwusta Tv
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil//playlist.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Alwusta Tv" tvg-logo="" group-title="Live: UAE",VIP AR: Alwusta Tv
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil//playlist.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AJMAN TV" tvg-logo="" group-title="Live: UAE",VIP AR: AJMAN TV
+http://smarters.live:80/7552919291/1006975773/360901
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AL Fujerah TV" tvg-logo="" group-title="Live: UAE",VIP AR: AL Fujerah TV
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/chunks.m3u8
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== SAUDI =====" tvg-logo="" group-title="Live: Iceland",===== SAUDI=====
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Saudi 1 Tv" tvg-logo="" group-title="Live: Saudi",VIP AR: Saudi 1
+http://smarters.live:80/7552919291/1006975773/15315
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SBC TV" tvg-logo="" group-title="Live: Saudi",VIP AR: SBC TV
+http://smarters.live:80/7552919291/1006975773/15316
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP THIKRAYAT HD" tvg-logo="" group-title="Live: Saudi",VIP AR: THIKRAYAT HD
+http://smarters.live:80/7552919291/1006975773/360906
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana +HD" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana +HD
+http://smarters.live:80/7552919291/1006975773/360750
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Cinema" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Cinema
+https://daiconnect.com/live/hls/rotana/cinema-ksa/088fc425900dc92b37981c5043d969dd/.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Cinema 2" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Cinema 2
+https://daiconnect.com/live/hls/rotana/cinemamasr/c642f459e3073dc33d03786792ccbb43/.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Khalij" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Khalij
+https://daiconnect.com/live/hls/rotana/khaleejiya/bdd1ae456dc13265bac8bfc099af0dc8/.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Comedy" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Comedy
+https://daiconnect.com/live/hls/rotana/comedy/1e434d4d887ee3cc7d9c4bebbd03eb2d/.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Drama" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Drama
+https://daiconnect.com/live/hls/rotana/drama/9b0a53d1651976ae09b97c87fa463440/.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Rotana Classic" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Classic
+https://daiconnect.com/live/hls/rotana/classical/c2fa205c1b0e5ef0c769efeb1c32c797/.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: Rotana Aflam + HD" tvg-logo="" group-title="Live: Saudi",VIP AR: Rotana Aflam+ HD
+http://smarters.live:80/7552919291/1006975773/360749
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: ART Aflam 1" tvg-logo="" group-title="Live: Saudi",VIP AR: ART Aflam 1
+http://smarters.live:80/7552919291/1006975773/15422
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: ART Aflam 2" tvg-logo="[" group-title="Live: Saudi",VIP AR: ART Aflam 2
+http://smarters.live:80/7552919291/1006975773/15421
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: ART Cinema HD" tvg-logo="[" group-title="Live: Saudi",VIP AR: ART Cinema HD
+http://smarters.live:80/7552919291/1006975773/15420
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: ART Hekayat 1" tvg-logo="" group-title="Live: Saudi",VIP AR: ART Hekayat 1
+http://smarters.live:80/7552919291/1006975773/15418
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: ART Hekayat 2" tvg-logo="[""]" group-title="Live: Saudi",VIP AR: ART Hekayat 2
+http://smarters.live:80/7552919291/1006975773/15417
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== OSN =====" tvg-logo="" group-title="Live: Iceland",===== OSN =====
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: OSN Musalsalat" tvg-logo="" group-title="Live: OSN",VIP AR: OSN Musalsalat
+http://smarters.live:80/7552919291/1006975773/39678
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: OSN Musalsalat +2" tvg-logo="" group-title="Live: OSN",VIP AR: OSN Musalsalat +2
+http://smarters.live:80/7552919291/1006975773/39677
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: OSN Yahala HD" tvg-logo="" group-title="Live: OSN",VIP AR: OSN Yahala HD
+http://smarters.live:80/7552919291/1006975773/400406178
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP AR: OSN Yahala Aflam" tvg-logo="" group-title="Live: OSN",VIP AR: OSN Yahala Aflam
+http://smarters.live:80/7552919291/1006975773/122125
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Action HD" tvg-logo="" group-title="Live: OSN",VIP AR: OSN Action HD
+http://smarters.live:80/7552919291/1006975773/122118
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Movies Hollywod" tvg-logo="" group-title="Live: OSN",VIP AR: OSN Movies Hollywood
+http://smarters.live:80/7552919291/1006975773/122117
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Movies Premiere" tvg-logo="" group-title="Live: OSN",VIP AR: OSN Movies Premiere 
+http://smarters.live:80/7552919291/1006975773/122119
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Movies Comedy" tvg-logo="" group-title="Live: OSN",VIP AR: OSN Comedy 
+http://smarters.live:80/7552919291/1006975773/122136
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Movies OSN Alfa Cinema 1" tvg-logo="" group-title="Live: OSN",VIP AR: OSN Alfa Cinema 1
+http://smarters.live:80/7552919291/1006975773/122131
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Movies OSN Alfa Cinema 2" tvg-logo="" group-title="Live: OSN",VIP AR: OSN Alfa Cinema 2
+http://smarters.live:80/7552919291/1006975773/122132
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Movies OSN Movies Enigma HD" tvg-logo="" group-title="Live: OSN",VIP AR: OSN Movies Enigma HD
+http://smarters.live:80/7552919291/1006975773/122111
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: OSN Movies OSN Showcase" tvg-logo="" group-title="Live: OSN",VIP AR: OSN Showcase
+http://smarters.live:80/7552919291/1006975773/122124
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: FOX Movies" tvg-logo="" group-title="Live: OSN",VIP AR: FOX Movies
+http://smarters.live:80/7552919291/1006975773/39682
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: FOX Movies Action" tvg-logo="" group-title="Live: OSN",VIP AR: FOX Movies Action
+http://smarters.live:80/7552919291/1006975773/6378
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== NETFLIX =====" tvg-logo="" group-title="Live: Iceland",===== NETFLIX =====
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX ARABIC" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX ARABIC
+http://smarters.live:80/7552919291/1006975773/47258
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX CLASSICS" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX CLASSICS
+http://smarters.live:80/7552919291/1006975773/47257
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX Plays" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX Plays
+http://smarters.live:80/7552919291/1006975773/47256
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX ACTION" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX ACTION
+http://smarters.live:80/7552919291/1006975773/47254
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX HORROR" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX HORROR
+http://smarters.live:80/7552919291/1006975773/47253
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX COMEDY" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX COMEDY
+http://smarters.live:80/7552919291/1006975773/47252
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX BOX OFFICE" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX BOX OFFICE
+http://smarters.live:80/7552919291/1006975773/47251
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX THRILER" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX THRILER
+http://smarters.live:80/7552919291/1006975773/47250
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX KIDS" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX KIDS
+http://smarters.live:80/7552919291/1006975773/47249
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX BOLLYWOOD" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX BOLLYWOOD
+http://smarters.live:80/7552919291/1006975773/47248
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX DRAMA" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX DRAMA
+http://smarters.live:80/7552919291/1006975773/47247
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX SERIES 1" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX SERIES 1
+http://smarters.live:80/7552919291/1006975773/47246
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX SERIES 2" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX SERIES 2
+http://smarters.live:80/7552919291/1006975773/47245
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX SERIES 3" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX SERIES 3
+http://smarters.live:80/7552919291/1006975773/47244
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX SERIES 4" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX SERIES 4
+http://smarters.live:80/7552919291/1006975773/47243
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX MOVIES" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX MOVIES
+http://smarters.live:80/7552919291/1006975773/47242
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX FRENCH AR 1" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX FRENCH AR 1
+http://smarters.live:80/7552919291/1006975773/47241
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX FRENCH AR 2" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX FRENCH AR 2
+http://smarters.live:80/7552919291/1006975773/47240
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX FRENCH AR 3" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX FRENCH AR 3
+http://smarters.live:80/7552919291/1006975773/47239
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX FRENCH AR 4" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX FRENCH AR 4
+http://smarters.live:80/7552919291/1006975773/47238
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX GERMANY AR" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX GERMANY AR
+http://smarters.live:80/7552919291/1006975773/47237
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX SPAIN 1 AR" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX SPAIN 1 AR
+http://smarters.live:80/7552919291/1006975773/47236
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX SPAIN 2 AR" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX SPAIN 2 AR
+http://smarters.live:80/7552919291/1006975773/47235
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX SPAIN 3 AR" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX SPAIN 3 AR
+http://smarters.live:80/7552919291/1006975773/47234
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX SPAIN 4 AR" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX SPAIN 4 AR
+http://smarters.live:80/7552919291/1006975773/47233
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX TURKISH 1 AR" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX TURKISH 1 AR
+http://smarters.live:80/7552919291/1006975773/47232
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: NETFLIX TURKISH 2 AR" tvg-logo="" group-title="Live: NETFLIX",VIP AR: NETFLIX TURKISH 2 AR
+http://smarters.live:80/7552919291/1006975773/47231
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== Bein Movies =====" tvg-logo="" group-title="Live: Iceland",===== Bein Movies =====
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Movies 1" tvg-logo="" group-title="Live: Entertainment",VIP AR: BeIN Movies 1
+http://smarters.live:80/7552919291/1006975773/122037
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Movies 2" tvg-logo="" group-title="Live: Entertainment",VIP AR: BeIN Movies 2
+http://smarters.live:80/7552919291/1006975773/122038
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Movies 3" tvg-logo="" group-title="Live: Entertainment",VIP AR: BeIN Movies 3
+http://smarters.live:80/7552919291/1006975773/122039
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Movies 4" tvg-logo="" group-title="Live: Entertainment",VIP AR: BeIN Movies 4
+http://smarters.live:80/7552919291/1006975773/122040
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Drama" tvg-logo="[" group-title="Live: Entertainment",VIP AR: BeIN Drama
+http://smarters.live:80/7552919291/1006975773/378419
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Series 1" tvg-logo="[" group-title="Live: Entertainment",VIP AR: BeIN Series 1
+http://smarters.live:80/7552919291/1006975773/122042
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: BeIN Series 2" tvg-logo="[" group-title="Live: Entertainment",VIP AR: BeIN Series 2
+http://smarters.live:80/7552919291/1006975773/122043
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== Bein Sport =====" tvg-logo="" group-title="Live: Iceland",===== Bein Sport =====
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport News HD" tvg-logo="" group-title="Live: Bein Sport News HD 
+http://smarters.live:80/7552919291/1006975773/58
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport
+http://smarters.live:80/7552919291/1006975773/59
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport 1" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 1
+http://smarters.live:80/7552919291/1006975773/46394
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport 2" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 2
+http://smarters.live:80/7552919291/1006975773/76
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport 3" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 3
+http://smarters.live:80/7552919291/1006975773/77
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport 4" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 4
+http://smarters.live:80/7552919291/1006975773/61
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport 5" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 5
+http://smarters.live:80/7552919291/1006975773/62
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport 6" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 6
+http://smarters.live:80/7552919291/1006975773/63
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport 7" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 7
+http://smarters.live:80/7552919291/1006975773/64
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport 8" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 8
+http://smarters.live:80/7552919291/1006975773/65
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein Sport 9" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport 9
+http://smarters.live:80/7552919291/1006975773/66
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: Bein 4K" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein 4K
+http://smarters.live:80/7552919291/1006975773/39322
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== ISLAM =====" tvg-logo="" group-title="Live: Iceland",===== ISLAM =====
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Saudi Quran" tvg-logo="" group-title="Live: Islam",VIP AR: Saudi Quran
+http://smarters.live:80/7552919291/1006975773/15280
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Saudi Sunnah" tvg-logo="" group-title="Live: Islam",VIP AR: Saudi Sunnah
+http://smarters.live:80/7552919291/1006975773/15278
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Makkah" tvg-logo="" group-title="Live: Islam",VIP AR: Makkah
+http://smarters.live:80/7552919291/1006975773/15274
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Iqraa" tvg-logo="" group-title="Live: Islam",VIP AR: Iqraa
+http://smarters.live:80/7552919291/1006975773/15277
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Iqraa Europe/Africa" tvg-logo="" group-title="Live: Islam",VIP AR: Iqraa Europe/Africa
+http://smarters.live:80/7552919291/1006975773/14006
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Al Risala" tvg-logo="" group-title="Live: Islam",VIP AR: Al Risala
+http://smarters.live:80/7552919291/1006975773/6351
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== INDIA =====" tvg-logo="" group-title="Live: Iceland",===== INDIA =====
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE ACTION" tvg-logo="" group-title="Live: India",VIP IN: ZEE ACTION
+http://smarters.live:80/7552919291/1006975773/376259
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE ANMOL" tvg-logo="" group-title="Live: India",VIP IN: ZEE ANMOL
+http://smarters.live:80/7552919291/1006975773/378734
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE CINEMA" tvg-logo="" group-title="Live: India",VIP IN: ZEE CINEMA
+http://smarters.live:80/7552919291/1006975773/400159418
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE CLASSICS" tvg-logo="" group-title="Live: India",VIP IN: ZEE CLASSICS
+http://smarters.live:80/7552919291/1006975773/378730
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE ETC BOLLYWOOD" tvg-logo="" group-title="Live: India",VIP IN: ZEE ETC BOLLYWOOD
+http://smarters.live:80/7552919291/1006975773/21241
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IN: Zee TV-HD" tvg-logo="" group-title="Live: India",IN: Zee TV-HD
+http://smarters.live:80/7552919291/1006975773/187372
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP IN: ZEE TV" tvg-logo="" group-title="Live: India",VIP IN: ZEE TV
+http://smarters.live:80/7552919291/1006975773/400159419
+#EXTINF:-1 tvg-ID="NULL" tvg-nameIN: Zee Cafe" tvg-logo="" group-title="Live: India",IN: Zee Cafe
+http://smarters.live:80/7552919291/1006975773/400159470
