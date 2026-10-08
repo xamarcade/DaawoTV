@@ -1,6 +1,6 @@
 #EXTM3U
-<!--
-#EXTINF:-1 tvg-ID="NULL" tvg-name="===== VIP Somalia =====" tvg-logo="" group-title="Live: Iceland",===== Somalia =====
+<!---->
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== VIP Somalia =====" tvg-logo="" group-title="Live: Somalia",===== Somalia =====
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SO: Universal TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Universal TV
 https://cdn.mediavisionuk.com:9000/universaltvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SO: SNTV" tvg-logo="" group-title="Live: Somalia",VIP SO: SNTV
@@ -11,8 +11,7 @@ https://cd198.anystream.uk:9092/iqapp/s2tve/playlist.m3u8
 https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SO: Hirshabelle TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Hirshabelle TV
 https://cd198.anystream.uk:9092/iqapp/h1rshbe1iptv/playlist.m3u8
--->
-#EXTINF:-1 tvg-ID="NULL" tvg-name="===== MBC GROUP =====" tvg-logo="" group-title="Live: Iceland",===== MBC GROUP =====
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== MBC GROUP =====" tvg-logo="" group-title="Live: MBC GROUP",===== MBC GROUP =====
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC1 FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC1 FHD
 https://shd-gcp-live-orng.shahid.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/manifest/video/1080p2400kbps/video.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC2 FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC2 FHD
@@ -24,17 +23,17 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e9
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC5 FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC5 FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/manifest/video/1080p2400kbps/video.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Drama HD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC Drama HD
-
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC+ Drama HD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ Drama HD
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Masr HD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC Masr HD
-
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Masr 2 HD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC Masr 2 HD
-
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Bollywood HD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC Bollywood HD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/video/1080p2400kbps/video.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC IRAQ HD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC IRAQ HD
-
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC Action FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC Action FHD 
 http://smarters.live:80/7552919291/1006975773/122066
 #EXTINF:-1 tvg-id="NULL" tvg-name="VIP AR: MBC+ ANIME FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC+ ANIME FHD
