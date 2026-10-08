@@ -2,7 +2,7 @@
 <!--
 #EXTINF:-1 tvg-ID="NULL" tvg-name===== VIP Somalia =====" tvg-logo="" group-title="Live: Iceland",===== Somalia =====
 #EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: Universal TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Universal TV
-http://smarters.live:80/7552919291/1006975773/188529
+https://cdn.mediavisionuk.com:9000/universaltvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: SNTV" tvg-logo="" group-title="Live: Somalia",VIP SO: SNTV
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: SN Daljir TV" tvg-logo="" group-title="Live: Somalia",VIP SO: SN Daljir TV
