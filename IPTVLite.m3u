@@ -15,11 +15,5 @@ https://tgn.bozztv.com/trn03/gin-saudiquran/index.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 https://tgn.bozztv.com/trn03/gin-saudisunnah/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI2IDEwOjQ3OjM2IFBNJmhhc2hfdmFsdWU9Sk8xeW1rUnhqT3FrVnU5R0g5TlA1QT09JnZhbGlkbWludXRlcz0xNDQ1JnN0cm1fbGVuPTIx
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Alerth Alnabawi" tvg-logo="" group-title="Live: Islam",VIP AR: Alerth Alnabawi
 https://alerth.alerth-alnabwetv.workers.dev/live/hls/7407.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Alerth Alnabawi (Other)" tvg-logo="" group-title="Live: Islam",VIP AR: Alerth Alnabawi (Other)
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Alerth Alnabawi (Other)" tvg-logo="" group-title="Live: Islam",VIP AR: Alerth Alnabawi (Onother Source)
 http://82.212.74.2:8000/live/hls/7407.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Makkah" tvg-logo="" group-title="Live: Islam",VIP AR: Makkah
-https://media2.streambrothers.com:1936/8122/8122/chunklist_w1148927064.m3u8?v=53f9caaf
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Iqraa" tvg-logo="" group-title="Live: Islam",VIP AR: Iqraa
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-iqraa/71b9601f8a91d79a78a02f86ae378d88/index.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Iqraa Europe/Africa" tvg-logo="" group-title="Live: Islam",VIP AR: Iqraa Europe/Africa
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist/2.m3u8
