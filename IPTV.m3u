@@ -132,8 +132,6 @@ http://smarters.live:80/7552919291/1006975773/15417
 
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="===== ISLAM =====" tvg-logo="" group-title="Live: Iceland",===== ISLAM =====
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Saudi Quran" tvg-logo="" group-title="Live: Islam",VIP AR: Saudi Quran
-'https://tgn.bozztv.com/trn03/gin-saudiquran/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI2IDY6NTI6MTMgUE0maGFzaF92YWx1ZT1wM3piR0tLVjQ2VnREczB5NjVvN1dRPT0mdmFsaWRtaW51dGVzPTE0NDUmc3RybV9sZW49MjA='
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Saudi Sunnah" tvg-logo="" group-title="Live: Islam",VIP AR: Saudi Sunnah
 https://win.holol.com/live/sunnah/chunklist_w21128299.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Alerth Alnabawi" tvg-logo="" group-title="Live: Islam",VIP AR: Alerth Alnabawi
