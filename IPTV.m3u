@@ -4,19 +4,13 @@
 #EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: Universal TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Universal TV
 https://cdn.mediavisionuk.com:9000/universaltvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: SNTV" tvg-logo="" group-title="Live: Somalia",VIP SO: SNTV
-https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
+https://cd198.anystream.uk:9092/iqapp/s4ne/playlist.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: SN Daljir TV" tvg-logo="" group-title="Live: Somalia",VIP SO: SN Daljir TV
-https://ap02.iqplay.tv:8082/iqb8002/s2tve/chunks.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: Kalsan TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Kalsan TV
-http://smarters.live:80/7552919291/1006975773/188524
+https://cd198.anystream.uk:9092/iqapp/s2tve/playlist.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: SAAB TV" tvg-logo="" group-title="Live: Somalia",VIP SO: SAAB TV
-https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: PL TV" tvg-logo="" group-title="Live: Somalia",VIP SO: PL TV
-http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/chunklist_w694476586.m3u8?v=1409264503
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: Alraadi TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Alraadi TV
-http://smarters.live:80/7552919291/1006975773/131569
-#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: Dacwa TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Dacwa TV
-https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
+https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-nameVIP SO: Hirshabelle TV" tvg-logo="" group-title="Live: Somalia",VIP SO: Hirshabelle TV
+https://cd198.anystream.uk:9092/iqapp/h1rshbe1iptv/playlist.m3u8
 -->
 #EXTINF:-1 tvg-ID="NULL" tvg-name="===== MBC GROUP =====" tvg-logo="" group-title="Live: Iceland",===== MBC GROUP =====
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: MBC1 FHD" tvg-logo="" group-title="Live: MBC GROUP",VIP AR: MBC1 FHD
@@ -139,9 +133,13 @@ http://smarters.live:80/7552919291/1006975773/15417
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="===== ISLAM =====" tvg-logo="" group-title="Live: Iceland",===== ISLAM =====
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Saudi Quran" tvg-logo="" group-title="Live: Islam",VIP AR: Saudi Quran
-https://win.holol.com/live/quran/chunklist_w1141215808.m3u8
+https://tgn.bozztv.com/trn03/gin-saudiquran/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI2IDY6NTI6MTMgUE0maGFzaF92YWx1ZT1wM3piR0tLVjQ2VnREczB5NjVvN1dRPT0mdmFsaWRtaW51dGVzPTE0NDUmc3RybV9sZW49MjA=
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Saudi Sunnah" tvg-logo="" group-title="Live: Islam",VIP AR: Saudi Sunnah
 https://win.holol.com/live/sunnah/chunklist_w21128299.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Alerth Alnabawi" tvg-logo="" group-title="Live: Islam",VIP AR: Alerth Alnabawi
+https://alerth.alerth-alnabwetv.workers.dev/live/hls/7407.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Alerth Alnabawi (Other)" tvg-logo="" group-title="Live: Islam",VIP AR: Alerth Alnabawi (Other)
+http://82.212.74.2:8000/live/hls/7407.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Makkah" tvg-logo="" group-title="Live: Islam",VIP AR: Makkah
 http://smarters.live:80/7552919291/1006975773/15274
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP Iqraa" tvg-logo="" group-title="Live: Islam",VIP AR: Iqraa
